@@ -23,7 +23,7 @@ import requests
 # CONFIG — these can be overridden with environment variables, no code edits needed
 # ---------------------------------------------------------------------------
 NUM_TRADERS = int(os.environ.get("NUM_TRADERS", "500"))
-MIN_NOTIFY_VALUE = float(os.environ.get("MIN_NOTIFY_VALUE", "1000"))  # in USD
+MIN_NOTIFY_VALUE = float(os.environ.get("MIN_NOTIFY_VALUE", "5000"))  # in USD
 MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "8"))
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
@@ -194,12 +194,9 @@ def main():
             label, priority, tags = classify_value(value)
             click_url = f"https://polymarket.com/event/{slug}" if slug else None
 
-            notif_title = f"{username} (#{rank}) {side} {outcome}"
-            notif_body = (
-                f"{title_text}\n"
-                f"${value:,.0f} put down ({size:,.0f} shares @ ${price:.3f})\n"
-                f"{label}"
-            )
+            action_word = "Buying" if side == "BUY" else "Selling"
+            notif_title = title_text
+            notif_body = f"{action_word} {outcome}\n{label}"
             send_ntfy(notif_title, notif_body, priority=priority, tags=tags, click_url=click_url)
             notify_count += 1
             time.sleep(0.3)
