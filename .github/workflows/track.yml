@@ -1,0 +1,42 @@
+name: Polymarket Whale Tracker
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # runs every 10 minutes, all day every day
+  workflow_dispatch:          # lets you click "Run workflow" manually to test it
+
+permissions:
+  contents: write             # needed so the robot can save its memory back to the repo
+
+concurrency:
+  group: polymarket-tracker
+  cancel-in-progress: false   # if a run is still going, wait instead of overlapping
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tracker
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          MIN_NOTIFY_VALUE: '100'
+        run: python track.py
+
+      - name: Save tracker's memory
+        run: |
+          git config user.name "polymarket-tracker-bot"
+          git config user.email "actions@github.com"
+          git add state/
+          git commit -m "Update tracker state [skip ci]" || echo "Nothing new to save"
+          git push
