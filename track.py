@@ -22,7 +22,7 @@ import requests
 # ---------------------------------------------------------------------------
 # CONFIG — these can be overridden with environment variables, no code edits needed
 # ---------------------------------------------------------------------------
-NUM_TRADERS = int(os.environ.get("NUM_TRADERS", "43"))
+NUM_TRADERS = int(os.environ.get("NUM_TRADERS", "75"))
 MIN_NOTIFY_VALUE = float(os.environ.get("MIN_NOTIFY_VALUE", "5000"))  # in USD
 MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "8"))
 
