@@ -23,7 +23,7 @@ import requests
 # CONFIG — these can be overridden with environment variables, no code edits needed
 # ---------------------------------------------------------------------------
 NUM_TRADERS = int(os.environ.get("NUM_TRADERS", "500"))
-MIN_NOTIFY_VALUE = float(os.environ.get("MIN_NOTIFY_VALUE", "100"))  # in USD
+MIN_NOTIFY_VALUE = float(os.environ.get("MIN_NOTIFY_VALUE", "1000"))  # in USD
 MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "8"))
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
@@ -88,13 +88,13 @@ def fetch_recent_trades(wallet):
 
 def classify_value(value):
     """Rough 'how big a deal is this trade' label based on dollars put down."""
-    if value >= 100_000:
+    if value >= 500_000:
         return "🐳 HUGE WHALE TRADE", 5, "whale"
-    if value >= 25_000:
+    if value >= 100_000:
         return "🔥 Very large trade", 4, "fire"
-    if value >= 5_000:
+    if value >= 50_000:
         return "📈 Large trade", 4, "chart_with_upwards_trend"
-    if value >= 1_000:
+    if value >= 25_000:
         return "📊 Medium trade", 3, "bar_chart"
     return "Small trade", 2, "small_blue_diamond"
 
