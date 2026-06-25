@@ -244,7 +244,7 @@ def main():
                     f"{action_word} {outcome}\n{label} (${value:,.0f})",
                     priority=priority,
                     tags=tags,
-                    click_url=click_url,
+                    #click_url=click_url,
                 )
                 mega_alerts += 1
                 time.sleep(0.3)
@@ -280,7 +280,7 @@ def main():
             f"(last {CONSENSUS_WINDOW_HOURS:.0f}h)",
             priority=4,
             tags="eyes",
-            click_url=click_url,
+            #click_url=click_url,
         )
         consensus_notified[key_str] = time.time()
         consensus_alerts += 1
