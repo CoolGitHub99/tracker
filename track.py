@@ -46,7 +46,6 @@ CONSENSUS_WINDOW_HOURS = float(os.environ.get("CONSENSUS_WINDOW_HOURS", "6"))
 CONSENSUS_COOLDOWN_HOURS = float(os.environ.get("CONSENSUS_COOLDOWN_HOURS", "12"))
 
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
-NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}"
 
 LEADERBOARD_URL = "https://data-api.polymarket.com/v1/leaderboard"
 TRADES_URL = "https://data-api.polymarket.com/trades"
@@ -120,13 +119,21 @@ def send_ntfy(title, message, priority=3, tags="", click_url=None):
     if not NTFY_TOPIC:
         print(f"[info] NTFY_TOPIC not set, would have sent: {title}")
         return
-    headers = {"Title": title, "Priority": str(priority)}
+    # Using ntfy's JSON publish format (instead of plain HTTP headers) because
+    # headers can't reliably carry emoji/unicode characters (titles with 🐳,
+    # 👀, etc. would silently fail to send if put in a header).
+    payload = {
+        "topic": NTFY_TOPIC,
+        "title": title,
+        "message": message,
+        "priority": priority,
+    }
     if tags:
-        headers["Tags"] = tags
+        payload["tags"] = [t.strip() for t in tags.split(",") if t.strip()]
     if click_url:
-        headers["Click"] = click_url
+        payload["click"] = click_url
     try:
-        requests.post(NTFY_URL, data=message.encode("utf-8"), headers=headers, timeout=10)
+        requests.post("https://ntfy.sh/", json=payload, headers=HEADERS, timeout=10)
     except Exception as e:
         print(f"[warn] failed to send ntfy notification: {e}")
 
