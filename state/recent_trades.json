@@ -1,32 +1,5 @@
 [
   {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x09488269d0dfd06db23683fecb02317bfd8ab69d2f5d175e1627560fd7ca4ea5",
-    "outcome": "Gustavo Almeida",
-    "title": "Piracicaba: Gustavo Almeida vs Paulo Dos Santos",
-    "slug": "atp-almeid-santos-2026-06-23",
-    "value": 30.4655,
-    "timestamp": 1782367805
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x09488269d0dfd06db23683fecb02317bfd8ab69d2f5d175e1627560fd7ca4ea5",
-    "outcome": "Gustavo Almeida",
-    "title": "Piracicaba: Gustavo Almeida vs Paulo Dos Santos",
-    "slug": "atp-almeid-santos-2026-06-23",
-    "value": 0.8450000000000001,
-    "timestamp": 1782367810
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x3c42d3289588d5d1798324d9a9b9e544eed4d6e558d88ca59b978fc887d2ce46",
-    "outcome": "Enzo Kohlmann de Freitas",
-    "title": "Piracicaba: Enzo Kohlmann de Freitas vs Juan Manuel La Serna",
-    "slug": "atp-freitas-serna-2026-06-22",
-    "value": 172.8,
-    "timestamp": 1782378040
-  },
-  {
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "conditionId": "0x312ddbeb027ce50331d74e7c635501fd27dce5649b04976c9a02e25a84250486",
     "outcome": "Over",
@@ -217,192 +190,12 @@
   },
   {
     "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0x7806f3a191784bfedb4bb3d99db890d05a834e413a50ecbf6893f7926089e45b",
-    "outcome": "No",
-    "title": "Will Algeria win on 2026-06-27?",
-    "slug": "fifwc-alg-aut-2026-06-27",
-    "value": 2786.6692000000003,
-    "timestamp": 1782368342
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0xb465c0d920be7fa9413909befc3989247de10a1d4feca2621bb36f9a62191a12",
-    "outcome": "Yes",
-    "title": "Will Argentina win on 2026-06-27?",
-    "slug": "fifwc-jor-arg-2026-06-27",
-    "value": 5718.002799999999,
-    "timestamp": 1782368591
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0xb465c0d920be7fa9413909befc3989247de10a1d4feca2621bb36f9a62191a12",
-    "outcome": "Yes",
-    "title": "Will Argentina win on 2026-06-27?",
-    "slug": "fifwc-jor-arg-2026-06-27",
-    "value": 6260.9971,
-    "timestamp": 1782368591
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0x73cdf481e0d213e3ad3b2c096ad9dfea604b6587900419d0a214aac966c68988",
-    "outcome": "No",
-    "title": "Will Paraguay vs. Australia end in a draw?",
-    "slug": "fifwc-par-aus-2026-06-25",
-    "value": 8574.3314,
-    "timestamp": 1782371732
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0x73cdf481e0d213e3ad3b2c096ad9dfea604b6587900419d0a214aac966c68988",
-    "outcome": "No",
-    "title": "Will Paraguay vs. Australia end in a draw?",
-    "slug": "fifwc-par-aus-2026-06-25",
-    "value": 8575.7118,
-    "timestamp": 1782374047
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0x924a3a13ca4fe1cee99486476d8d4eb7243f2849482f5194c6a2174eb64399f7",
-    "outcome": "Paraguay",
-    "title": "Spread: Paraguay (-2.5)",
-    "slug": "fifwc-par-aus-2026-06-25-more-markets",
-    "value": 8.6136,
-    "timestamp": 1782374062
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0x75d91cd268cec8d688b8a7e543b149700bf45d9f62e9fffa479b18f19a60a63e",
-    "outcome": "Yes",
-    "title": "Will Paraguay win on 2026-06-25?",
-    "slug": "fifwc-par-aus-2026-06-25",
-    "value": 5121.0005,
-    "timestamp": 1782374561
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0xb7dd583abff48e738900a1da4edf31e31d7d7834afe6f460345c597d50ad2497",
-    "outcome": "Netherlands",
-    "title": "Spread: Netherlands (-2.5)",
-    "slug": "fifwc-tun-nld-2026-06-25-more-markets",
-    "value": 3100.0018000000005,
-    "timestamp": 1782375043
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0x0ffb0853b21fd943fa0d591e86c9e8ce7bc779c2c32e7236c4cadfb91c38b2d8",
-    "outcome": "Under",
-    "title": "Cabo Verde vs. Saudi Arabia: O/U 3.5",
-    "slug": "fifwc-cvi-ksa-2026-06-26-more-markets",
-    "value": 706.4025,
-    "timestamp": 1782376424
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0x4fd4b948111cb579dc770bee9f379e4d5a3dc75971bde84a6e9863ee23191d69",
-    "outcome": "T\u00fcrkiye",
-    "title": "Spread: United States (-3.5)",
-    "slug": "fifwc-tur-usa-2026-06-25-more-markets",
-    "value": 47.5,
-    "timestamp": 1782377326
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
-    "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
-    "outcome": "Yes",
-    "title": "Will Japan win on 2026-06-25?",
-    "slug": "fifwc-jpn-swe-2026-06-25",
-    "value": 7549.0012,
-    "timestamp": 1782378670
-  },
-  {
-    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
     "conditionId": "0x9e9014ddc6e6386e9bbd6bb8e6bd0049094ebaa3fa2eabf51055b2439c08a075",
     "outcome": "No",
     "title": "Will Japan vs. Sweden end in a draw?",
     "slug": "fifwc-jpn-swe-2026-06-25",
     "value": 10160.5196,
     "timestamp": 1782379667
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0xb0b9aaf2b242fa0a9b5e2f9617f1e8a5f8c3e1ea8d84948fd3c87e76d570e8ed",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $64,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 59.83800000000001,
-    "timestamp": 1782369691
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0xe8fff31ec4fe1b6347d4780bcc917a68f81ea870f9071147717f75152512b5f5",
-    "outcome": "Yes",
-    "title": "Will the price of Ethereum be above $1,800 on June 26?",
-    "slug": "ethereum-above-on-june-26-2026",
-    "value": 23.055,
-    "timestamp": 1782369719
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x807ca4b6b7c7f9cd75a6ee1adc24886cc95b2c137987d64ca2f81dae4ac2b95c",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,600 on June 26?",
-    "slug": "ethereum-above-on-june-26-2026",
-    "value": 131.52,
-    "timestamp": 1782369785
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x807ca4b6b7c7f9cd75a6ee1adc24886cc95b2c137987d64ca2f81dae4ac2b95c",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,600 on June 26?",
-    "slug": "ethereum-above-on-june-26-2026",
-    "value": 35.04,
-    "timestamp": 1782369823
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x807ca4b6b7c7f9cd75a6ee1adc24886cc95b2c137987d64ca2f81dae4ac2b95c",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,600 on June 26?",
-    "slug": "ethereum-above-on-june-26-2026",
-    "value": 32.0688,
-    "timestamp": 1782369823
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x807ca4b6b7c7f9cd75a6ee1adc24886cc95b2c137987d64ca2f81dae4ac2b95c",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,600 on June 26?",
-    "slug": "ethereum-above-on-june-26-2026",
-    "value": 39.84,
-    "timestamp": 1782369833
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x807ca4b6b7c7f9cd75a6ee1adc24886cc95b2c137987d64ca2f81dae4ac2b95c",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,600 on June 26?",
-    "slug": "ethereum-above-on-june-26-2026",
-    "value": 57.46,
-    "timestamp": 1782369881
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x807ca4b6b7c7f9cd75a6ee1adc24886cc95b2c137987d64ca2f81dae4ac2b95c",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,600 on June 26?",
-    "slug": "ethereum-above-on-june-26-2026",
-    "value": 37.6,
-    "timestamp": 1782369908
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0xb0b9aaf2b242fa0a9b5e2f9617f1e8a5f8c3e1ea8d84948fd3c87e76d570e8ed",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $64,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 30.414550000000002,
-    "timestamp": 1782373120
   },
   {
     "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
@@ -421,69 +214,6 @@
     "slug": "bitcoin-above-on-june-26-2026",
     "value": 44.8256,
     "timestamp": 1782380227
-  },
-  {
-    "wallet": "0x97cb27132b9dd66a2ef49390893cbeb26c3fe4d0",
-    "conditionId": "0x32552863fe8014da2613037970661f0d49f415c86a88cb3d65af7a43395bc4ad",
-    "outcome": "No",
-    "title": "Will United States win on 2026-06-25?",
-    "slug": "fifwc-tur-usa-2026-06-25",
-    "value": 62031.126399999994,
-    "timestamp": 1782371860
-  },
-  {
-    "wallet": "0x97cb27132b9dd66a2ef49390893cbeb26c3fe4d0",
-    "conditionId": "0x7122b57616861c549463d47ea07d747118450bcff2c3aa4deaeaf7703c8f01e9",
-    "outcome": "Athletics",
-    "title": "Athletics vs. San Francisco Giants",
-    "slug": "mlb-oak-sf-2026-06-25",
-    "value": 7409.074500000001,
-    "timestamp": 1782374329
-  },
-  {
-    "wallet": "0x97cb27132b9dd66a2ef49390893cbeb26c3fe4d0",
-    "conditionId": "0xf0b5ae5fb18ce33b4f3e0b975027836b777c9d49cc234f69a01fb36bcae91c69",
-    "outcome": "Under",
-    "title": "Houston Astros vs. Detroit Tigers: O/U 8.5",
-    "slug": "mlb-hou-det-2026-06-25",
-    "value": 2378.0308,
-    "timestamp": 1782374566
-  },
-  {
-    "wallet": "0x97cb27132b9dd66a2ef49390893cbeb26c3fe4d0",
-    "conditionId": "0xf0b5ae5fb18ce33b4f3e0b975027836b777c9d49cc234f69a01fb36bcae91c69",
-    "outcome": "Under",
-    "title": "Houston Astros vs. Detroit Tigers: O/U 8.5",
-    "slug": "mlb-hou-det-2026-06-25",
-    "value": 3465.1632,
-    "timestamp": 1782374579
-  },
-  {
-    "wallet": "0x97cb27132b9dd66a2ef49390893cbeb26c3fe4d0",
-    "conditionId": "0xf0b5ae5fb18ce33b4f3e0b975027836b777c9d49cc234f69a01fb36bcae91c69",
-    "outcome": "Under",
-    "title": "Houston Astros vs. Detroit Tigers: O/U 8.5",
-    "slug": "mlb-hou-det-2026-06-25",
-    "value": 3314.5208000000002,
-    "timestamp": 1782374867
-  },
-  {
-    "wallet": "0x97cb27132b9dd66a2ef49390893cbeb26c3fe4d0",
-    "conditionId": "0xb735d67ec0d26547a913e3d29e3336c32b750d21808aa4d9179f3ba1c0e7034b",
-    "outcome": "Washington Nationals",
-    "title": "Philadelphia Phillies vs. Washington Nationals",
-    "slug": "mlb-phi-wsh-2026-06-25",
-    "value": 5720.406,
-    "timestamp": 1782374954
-  },
-  {
-    "wallet": "0x97cb27132b9dd66a2ef49390893cbeb26c3fe4d0",
-    "conditionId": "0xb735d67ec0d26547a913e3d29e3336c32b750d21808aa4d9179f3ba1c0e7034b",
-    "outcome": "Washington Nationals",
-    "title": "Philadelphia Phillies vs. Washington Nationals",
-    "slug": "mlb-phi-wsh-2026-06-25",
-    "value": 1322.6622,
-    "timestamp": 1782375016
   },
   {
     "wallet": "0x97cb27132b9dd66a2ef49390893cbeb26c3fe4d0",
@@ -518,69 +248,6 @@
     "outcome": "No",
     "title": "Will Cura\u00e7ao win on 2026-06-25?",
     "slug": "fifwc-kor-civ-2026-06-25",
-    "value": 2527.874,
-    "timestamp": 1782371137
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x5f4340be34f9f45e76f28390111c349b343b6072a0953101fb78ec98e1ad3e90",
-    "outcome": "No",
-    "title": "Will Cura\u00e7ao win on 2026-06-25?",
-    "slug": "fifwc-kor-civ-2026-06-25",
-    "value": 2413.1899999999996,
-    "timestamp": 1782371137
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
-    "outcome": "No",
-    "title": "Will Japan win on 2026-06-25?",
-    "slug": "fifwc-jpn-swe-2026-06-25",
-    "value": 903.1049999999999,
-    "timestamp": 1782371446
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x77f669d89e0b30007a3900e7fe895136076259554ee80249fd89050d2a5e9bc8",
-    "outcome": "Yes",
-    "title": "Will UnionTouargaSports win on 2026-06-25?",
-    "slug": "mar1-uts-dhe-2026-06-25",
-    "value": 5.1,
-    "timestamp": 1782372506
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x2db1b357fcf14f56bc2fe6f3015f40cdabf2841a43562437cecca0de0d896f3e",
-    "outcome": "Yes",
-    "title": "Will RS Berkane vs. AS FAR end in a draw?",
-    "slug": "mar1-rsb-asf-2026-06-25",
-    "value": 3.7414999999999994,
-    "timestamp": 1782374683
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x5f4340be34f9f45e76f28390111c349b343b6072a0953101fb78ec98e1ad3e90",
-    "outcome": "No",
-    "title": "Will Cura\u00e7ao win on 2026-06-25?",
-    "slug": "fifwc-kor-civ-2026-06-25",
-    "value": 380.0,
-    "timestamp": 1782378419
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x5f4340be34f9f45e76f28390111c349b343b6072a0953101fb78ec98e1ad3e90",
-    "outcome": "No",
-    "title": "Will Cura\u00e7ao win on 2026-06-25?",
-    "slug": "fifwc-kor-civ-2026-06-25",
-    "value": 19.0,
-    "timestamp": 1782378640
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x5f4340be34f9f45e76f28390111c349b343b6072a0953101fb78ec98e1ad3e90",
-    "outcome": "No",
-    "title": "Will Cura\u00e7ao win on 2026-06-25?",
-    "slug": "fifwc-kor-civ-2026-06-25",
     "value": 47.5,
     "timestamp": 1782378817
   },
@@ -601,168 +268,6 @@
     "slug": "mar1-uye-rca-2026-06-25",
     "value": 2.45,
     "timestamp": 1782379876
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x8b824ad40b212fc72f44341ff857d490f3201d738a08a447f8e8ac218f6b31d3",
-    "outcome": "Yes",
-    "title": "Will the price of Ethereum be above $1,600 on June 27?",
-    "slug": "ethereum-above-on-june-27-2026",
-    "value": 17.775000000000002,
-    "timestamp": 1782370603
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 13.2,
-    "timestamp": 1782370613
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x1227a4dd0d0da7092bed88bd57cc8598e64955ac9ad13e2ac09c30d26df6d898",
-    "outcome": "Yes",
-    "title": "Will the price of Ethereum be above $1,600 on July 1?",
-    "slug": "ethereum-above-on-july-1-2026",
-    "value": 12.088999999999999,
-    "timestamp": 1782370618
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0xe5f71c46d7c0975e61c1e12b35c6c7262545919463e265c21bf95877bb545c9f",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 28?",
-    "slug": "bitcoin-above-on-june-28-2026",
-    "value": 23.5,
-    "timestamp": 1782370619
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x1d7c857ebb5fe4238e11425fd6c936b99450abdd4321dbe38ced8622eac1e501",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 30?",
-    "slug": "bitcoin-above-on-june-30-2026",
-    "value": 135.4656,
-    "timestamp": 1782370619
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0xc422b24fb7256b3d4a93da468db4a3e613f674f990f993d9078a02a5a422fa6a",
-    "outcome": "No",
-    "title": "Will the price of Bitcoin be above $62,000 on June 25?",
-    "slug": "bitcoin-above-on-june-25-2026",
-    "value": 489.10409999999996,
-    "timestamp": 1782370963
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x8aceabb48cb838361ad540b26bc47b93ccd8752a4f60943d73ec8094a9bd0bf1",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,600 on June 25?",
-    "slug": "ethereum-above-on-june-25-2026",
-    "value": 12.42885,
-    "timestamp": 1782371009
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x233fdc9fa140ab2fc1e948ea8059ad80f5fcb7f5f98cfa4840d28fa67422670d",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 27?",
-    "slug": "bitcoin-above-on-june-27-2026",
-    "value": 4.4,
-    "timestamp": 1782371137
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 52.8,
-    "timestamp": 1782371659
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 64.494,
-    "timestamp": 1782371800
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x807ca4b6b7c7f9cd75a6ee1adc24886cc95b2c137987d64ca2f81dae4ac2b95c",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,600 on June 26?",
-    "slug": "ethereum-above-on-june-26-2026",
-    "value": 0.8,
-    "timestamp": 1782371941
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 73.60000000000001,
-    "timestamp": 1782373118
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x233fdc9fa140ab2fc1e948ea8059ad80f5fcb7f5f98cfa4840d28fa67422670d",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 27?",
-    "slug": "bitcoin-above-on-june-27-2026",
-    "value": 4.8,
-    "timestamp": 1782373186
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 84.6,
-    "timestamp": 1782373252
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 56.4,
-    "timestamp": 1782374264
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0xc422b24fb7256b3d4a93da468db4a3e613f674f990f993d9078a02a5a422fa6a",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 25?",
-    "slug": "bitcoin-above-on-june-25-2026",
-    "value": 7.4,
-    "timestamp": 1782377225
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0xe5f71c46d7c0975e61c1e12b35c6c7262545919463e265c21bf95877bb545c9f",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 28?",
-    "slug": "bitcoin-above-on-june-28-2026",
-    "value": 9.200000000000001,
-    "timestamp": 1782377231
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0xe5f71c46d7c0975e61c1e12b35c6c7262545919463e265c21bf95877bb545c9f",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on June 28?",
-    "slug": "bitcoin-above-on-june-28-2026",
-    "value": 9.200000000000001,
-    "timestamp": 1782377233
   },
   {
     "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
@@ -963,60 +468,6 @@
     "timestamp": 1782380477
   },
   {
-    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
-    "conditionId": "0x8a982a3a01f7d4eed0dd9e1770f863dc95b7cf53b8fe064519d52b8087bf6c39",
-    "outcome": "Yes",
-    "title": "Will Paraguay finish second in Group D in the 2026 FIFA World Cup Group Stage?",
-    "slug": "world-cup-group-d-second-place-20260605150925317",
-    "value": 137.266,
-    "timestamp": 1782375485
-  },
-  {
-    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
-    "conditionId": "0x2deac4e9149d7933e977be2a572b46d427b5b52308553e385a42c8e9855ba536",
-    "outcome": "Yes",
-    "title": "Will Netherlands advance to the knockout stages at the 2026 FIFA World Cup?",
-    "slug": "world-cup-team-to-advance-to-knockout-stages",
-    "value": 958.5405,
-    "timestamp": 1782378257
-  },
-  {
-    "wallet": "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227",
-    "conditionId": "0xe28714396c63822d0c1293f2aad16aaca02a143a32f20b71fd7fb58f078d6602",
-    "outcome": "Yes",
-    "title": "Will Saudi Arabia advance to the knockout stages at the 2026 FIFA World Cup?",
-    "slug": "world-cup-team-to-advance-to-knockout-stages",
-    "value": 1036.283,
-    "timestamp": 1782378496
-  },
-  {
-    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
-    "conditionId": "0xf4e116f20352cfaec3a2e295b1b14d832581f869a6d65939d9a8224f59ecc88e",
-    "outcome": "Dane Sweeny",
-    "title": "Wimbledon, Qualification ATP: Dane Sweeny vs Tomas Barrios",
-    "slug": "atp-sweeny-barrios-2026-06-25",
-    "value": 12.0,
-    "timestamp": 1782373741
-  },
-  {
-    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
-    "conditionId": "0x061049fc440b1656fdc5c463459faf7130f2201fff620c9d7dd08be06b994db4",
-    "outcome": "Teodora Kostovic",
-    "title": "Wimbledon, Qualification WTA: Teodora Kostovic vs Lin Zhu",
-    "slug": "wta-kostovi-zhu-2026-06-25",
-    "value": 107.0014,
-    "timestamp": 1782376933
-  },
-  {
-    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
-    "conditionId": "0x061049fc440b1656fdc5c463459faf7130f2201fff620c9d7dd08be06b994db4",
-    "outcome": "Teodora Kostovic",
-    "title": "Wimbledon, Qualification WTA: Teodora Kostovic vs Lin Zhu",
-    "slug": "wta-kostovi-zhu-2026-06-25",
-    "value": 107.0014,
-    "timestamp": 1782376933
-  },
-  {
     "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
     "conditionId": "0xb590d5b7e8d78f9dc88747045926b984d6f12d0004c6536a7752396e51dea9ae",
     "outcome": "Anastasia Gasanova",
@@ -1054,24 +505,6 @@
   },
   {
     "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x4702055d781d3c078208e3126e0405d300a8efdada77f37bbe291b83dd7b81c3",
-    "outcome": "Ognjen Milic",
-    "title": "Plovdiv: Andres Santamarta vs Ognjen Milic",
-    "slug": "atp-santama-milic-2026-06-25",
-    "value": 0.35000000000000003,
-    "timestamp": 1782377044
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x4702055d781d3c078208e3126e0405d300a8efdada77f37bbe291b83dd7b81c3",
-    "outcome": "Ognjen Milic",
-    "title": "Plovdiv: Andres Santamarta vs Ognjen Milic",
-    "slug": "atp-santama-milic-2026-06-25",
-    "value": 0.25,
-    "timestamp": 1782377296
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
     "conditionId": "0x0df4079ffca6948103cc831a7fefaa724a4f5e0e2ad5eb85bb1015aeaabfaed8",
     "outcome": "Ethan Quinn",
     "title": "Mallorca Championships: Ethan Quinn vs Vit Kopriva",
@@ -1096,87 +529,6 @@
     "slug": "atp-quinn-kopriva-2026-06-25",
     "value": 90.0,
     "timestamp": 1782380164
-  },
-  {
-    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
-    "conditionId": "0x12cb9d302beb254d86631f555006f4a31b6c221d40dc08b7f6b5df969df975e0",
-    "outcome": "No",
-    "title": "Will the price of Bitcoin be above $60,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 1.2,
-    "timestamp": 1782370679
-  },
-  {
-    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
-    "conditionId": "0x6ccec94fc51664f47c2ce8c8a0dda74e504c67cc15c235fed732153c6a1287af",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,500 on June 30?",
-    "slug": "ethereum-above-on-june-30-2026",
-    "value": 0.903,
-    "timestamp": 1782370963
-  },
-  {
-    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
-    "conditionId": "0x692a5c57f98a3936f54d5b040bc13b446405c3b3efd9f59b7fa6624c92bd9f79",
-    "outcome": "No",
-    "title": "Will the price of Bitcoin be above $60,000 on June 29?",
-    "slug": "bitcoin-above-on-june-29-2026",
-    "value": 3.15,
-    "timestamp": 1782370973
-  },
-  {
-    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
-    "conditionId": "0x6311801404db718df312f89e6c1b7e07dbae4e0a193b0030e8380939a26ba9d3",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down on June 25?",
-    "slug": "bitcoin-up-or-down-on-june-25-2026",
-    "value": 576.8976000000001,
-    "timestamp": 1782373252
-  },
-  {
-    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
-    "conditionId": "0x692a5c57f98a3936f54d5b040bc13b446405c3b3efd9f59b7fa6624c92bd9f79",
-    "outcome": "No",
-    "title": "Will the price of Bitcoin be above $60,000 on June 29?",
-    "slug": "bitcoin-above-on-june-29-2026",
-    "value": 1202.1623,
-    "timestamp": 1782373532
-  },
-  {
-    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
-    "conditionId": "0x692a5c57f98a3936f54d5b040bc13b446405c3b3efd9f59b7fa6624c92bd9f79",
-    "outcome": "No",
-    "title": "Will the price of Bitcoin be above $60,000 on June 29?",
-    "slug": "bitcoin-above-on-june-29-2026",
-    "value": 11.7268,
-    "timestamp": 1782373535
-  },
-  {
-    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
-    "conditionId": "0x12cb9d302beb254d86631f555006f4a31b6c221d40dc08b7f6b5df969df975e0",
-    "outcome": "No",
-    "title": "Will the price of Bitcoin be above $60,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 58.8,
-    "timestamp": 1782374861
-  },
-  {
-    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
-    "conditionId": "0x12cb9d302beb254d86631f555006f4a31b6c221d40dc08b7f6b5df969df975e0",
-    "outcome": "No",
-    "title": "Will the price of Bitcoin be above $60,000 on June 26?",
-    "slug": "bitcoin-above-on-june-26-2026",
-    "value": 55.8,
-    "timestamp": 1782375326
-  },
-  {
-    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
-    "conditionId": "0x7d9f3adcdf3145f451f654098dea044c5284dea2b4a75acb4b2a49e4529d1fec",
-    "outcome": "No",
-    "title": "Will the price of Ethereum be above $1,500 on June 29?",
-    "slug": "ethereum-above-on-june-29-2026",
-    "value": 0.84271,
-    "timestamp": 1782375458
   },
   {
     "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
@@ -1378,33 +730,6 @@
   },
   {
     "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x4702055d781d3c078208e3126e0405d300a8efdada77f37bbe291b83dd7b81c3",
-    "outcome": "Ognjen Milic",
-    "title": "Plovdiv: Andres Santamarta vs Ognjen Milic",
-    "slug": "atp-santama-milic-2026-06-25",
-    "value": 6.46,
-    "timestamp": 1782374891
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x4702055d781d3c078208e3126e0405d300a8efdada77f37bbe291b83dd7b81c3",
-    "outcome": "Andres Santamarta",
-    "title": "Plovdiv: Andres Santamarta vs Ognjen Milic",
-    "slug": "atp-santama-milic-2026-06-25",
-    "value": 70.84,
-    "timestamp": 1782375013
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x4702055d781d3c078208e3126e0405d300a8efdada77f37bbe291b83dd7b81c3",
-    "outcome": "Ognjen Milic",
-    "title": "Plovdiv: Andres Santamarta vs Ognjen Milic",
-    "slug": "atp-santama-milic-2026-06-25",
-    "value": 9.31,
-    "timestamp": 1782375677
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
     "conditionId": "0x0df4079ffca6948103cc831a7fefaa724a4f5e0e2ad5eb85bb1015aeaabfaed8",
     "outcome": "Ethan Quinn",
     "title": "Mallorca Championships: Ethan Quinn vs Vit Kopriva",
@@ -1420,24 +745,6 @@
     "slug": "atp-quinn-kopriva-2026-06-25",
     "value": 15.912199999999999,
     "timestamp": 1782379394
-  },
-  {
-    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
-    "conditionId": "0x437897fca4fc47ebf980cabdbdbb27f9ce845375549dad958a2ddb106d9cb06d",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $64,000 on June 29?",
-    "slug": "bitcoin-above-on-june-29-2026",
-    "value": 0.8,
-    "timestamp": 1782373118
-  },
-  {
-    "wallet": "0xe734e7bf7cfb9e464681f71822f6c2f6be514f0c",
-    "conditionId": "0x468ada0750c0e44bd4cc51955466dc9f7bdaee7a293e50421f80fb3b6a23feed",
-    "outcome": "No",
-    "title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in June?",
-    "slug": "what-price-will-wti-hit-in-june-2026",
-    "value": 1264.7844,
-    "timestamp": 1782368738
   },
   {
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
@@ -3526,5 +2833,2822 @@
     "slug": "bitcoin-above-on-june-29-2026",
     "value": 3.71969,
     "timestamp": 1782386611
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xe3ec589fc73b7a3f749530dfedc4bcf20b9d01e39cf6c92b24a4693dd80b6499",
+    "outcome": "Thiago Cigarran",
+    "title": "Piracicaba: Thiago Cigarran vs Santiago Rodriguez Taverna",
+    "slug": "atp-cigarra-taverna-2026-06-24",
+    "value": 41.25,
+    "timestamp": 1782399736
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x1f9269229cbf3215c56c3697c1392a6806197d0f0a6c730cc94af6ce3531e508",
+    "outcome": "Ecuador",
+    "title": "Spread: Germany (-2.5)",
+    "slug": "fifwc-ecu-ger-2026-06-25-more-markets",
+    "value": 741.96,
+    "timestamp": 1782399743
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x9f7636089cd193f1ebfb5e09c735093c75bc1a0f8af5d195d896623745d57ea9",
+    "outcome": "No",
+    "title": "Exact Score: Cura\u00e7ao 2 - 2 C\u00f4te d'Ivoire?",
+    "slug": "fifwc-kor-civ-2026-06-25-exact-score",
+    "value": 594.989974,
+    "timestamp": 1782399746
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x417a3af0d489f0f86f2dc141bcabe1aa3c5709534e9d37023a75fdc1bc35c589",
+    "outcome": "Alicia Herrero Linana",
+    "title": "ITF Rome: Savannah Broadus vs Alicia Herrero Linana",
+    "slug": "itf-broadus-linana-2026-06-25",
+    "value": 21.8,
+    "timestamp": 1782399751
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3c42d3289588d5d1798324d9a9b9e544eed4d6e558d88ca59b978fc887d2ce46",
+    "outcome": "Enzo Kohlmann de Freitas",
+    "title": "Piracicaba: Enzo Kohlmann de Freitas vs Juan Manuel La Serna",
+    "slug": "atp-freitas-serna-2026-06-22",
+    "value": 2.55,
+    "timestamp": 1782399761
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x1f9269229cbf3215c56c3697c1392a6806197d0f0a6c730cc94af6ce3531e508",
+    "outcome": "Ecuador",
+    "title": "Spread: Germany (-2.5)",
+    "slug": "fifwc-ecu-ger-2026-06-25-more-markets",
+    "value": 2807.46,
+    "timestamp": 1782399763
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x1f9269229cbf3215c56c3697c1392a6806197d0f0a6c730cc94af6ce3531e508",
+    "outcome": "Ecuador",
+    "title": "Spread: Germany (-2.5)",
+    "slug": "fifwc-ecu-ger-2026-06-25-more-markets",
+    "value": 2751.57,
+    "timestamp": 1782399772
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3c42d3289588d5d1798324d9a9b9e544eed4d6e558d88ca59b978fc887d2ce46",
+    "outcome": "Enzo Kohlmann de Freitas",
+    "title": "Piracicaba: Enzo Kohlmann de Freitas vs Juan Manuel La Serna",
+    "slug": "atp-freitas-serna-2026-06-22",
+    "value": 4.25,
+    "timestamp": 1782399788
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 4.41,
+    "timestamp": 1782399802
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 7.5600000000000005,
+    "timestamp": 1782399803
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 27.28,
+    "timestamp": 1782399805
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x31640d00416d8d734e05bda30ed512e6ebb43e98ece5c9fdb72f4462a637ef59",
+    "outcome": "Ugo Humbert",
+    "title": "Lexus Eastbourne Open: Ugo Humbert vs Quentin Halys",
+    "slug": "atp-humbert-halys-2026-06-25",
+    "value": 89.00999999999999,
+    "timestamp": 1782399809
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x31640d00416d8d734e05bda30ed512e6ebb43e98ece5c9fdb72f4462a637ef59",
+    "outcome": "Ugo Humbert",
+    "title": "Lexus Eastbourne Open: Ugo Humbert vs Quentin Halys",
+    "slug": "atp-humbert-halys-2026-06-25",
+    "value": 849.39,
+    "timestamp": 1782399811
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xfe9d0037d1f2bd80d1202c1f75eb5660418fd8e7626394e3035c1df343eb8775",
+    "outcome": "Katie Volynets",
+    "title": "Wimbledon, Qualification WTA: Katie Volynets vs Leolia Jeanjean",
+    "slug": "wta-volynet-jeanjea-2026-06-25",
+    "value": 54.88,
+    "timestamp": 1782399814
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x01f8aaf45e6f587e984e054a7079af0914db16b65276ed70df6a6e3992c94245",
+    "outcome": "Maria Timofeeva",
+    "title": "Wimbledon, Qualification WTA: Maria Timofeeva vs Heather Watson",
+    "slug": "wta-timofee-watson-2026-06-25",
+    "value": 582.505,
+    "timestamp": 1782399860
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x01f8aaf45e6f587e984e054a7079af0914db16b65276ed70df6a6e3992c94245",
+    "outcome": "Maria Timofeeva",
+    "title": "Wimbledon, Qualification WTA: Maria Timofeeva vs Heather Watson",
+    "slug": "wta-timofee-watson-2026-06-25",
+    "value": 55.999999,
+    "timestamp": 1782399860
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x95f2d439636a847ab2cd518fd63af7b890497bb0bde5b1bbad5192fb48309592",
+    "outcome": "Moez Echargui",
+    "title": "Wimbledon, Qualification ATP: Hugo Gaston vs Moez Echargui",
+    "slug": "atp-gaston-echargu-2026-06-25",
+    "value": 1.6500000000000001,
+    "timestamp": 1782399884
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x4a6d3944c6997151c01706c26a58e454b6f08d43ab6640c3d2fb26b1ac844a1c",
+    "outcome": "Tereza Valentova",
+    "title": "Lexus Eastbourne Open: Tatjana Maria vs Tereza Valentova",
+    "slug": "wta-maria-valento-2026-06-25",
+    "value": 1.4000000000000001,
+    "timestamp": 1782399892
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 37.17,
+    "timestamp": 1782399892
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xfe9d0037d1f2bd80d1202c1f75eb5660418fd8e7626394e3035c1df343eb8775",
+    "outcome": "Katie Volynets",
+    "title": "Wimbledon, Qualification WTA: Katie Volynets vs Leolia Jeanjean",
+    "slug": "wta-volynet-jeanjea-2026-06-25",
+    "value": 45.409,
+    "timestamp": 1782399898
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xf6d0130a700ac3ae2dacdf4fcd4c851089ed6db2e7b92e0124167f6a39066177",
+    "outcome": "Over",
+    "title": "Games Total: O/U 2.5",
+    "slug": "cs2-ice-9ine-2026-06-25",
+    "value": 1300.0,
+    "timestamp": 1782398221
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xc538481bb1de30c682fa874c14259acf9290eaff4205176111d292c5cdc0cffd",
+    "outcome": "9INE",
+    "title": "Map Handicap: ICE (-1.5) vs 9INE (+1.5)",
+    "slug": "cs2-ice-9ine-2026-06-25",
+    "value": 1950.0,
+    "timestamp": 1782398221
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 1.75,
+    "timestamp": 1782398318
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 2.3000000000000003,
+    "timestamp": 1782398480
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x4a6d3944c6997151c01706c26a58e454b6f08d43ab6640c3d2fb26b1ac844a1c",
+    "outcome": "Tereza Valentova",
+    "title": "Lexus Eastbourne Open: Tatjana Maria vs Tereza Valentova",
+    "slug": "wta-maria-valento-2026-06-25",
+    "value": 1.4000000000000001,
+    "timestamp": 1782398510
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 2.3499999999999996,
+    "timestamp": 1782398519
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x6277e617df23024174c6f9bc00693e488f5c60a4f56283c5e8e397b2dc09385e",
+    "outcome": "Gabriela Ruse",
+    "title": "Bad Homburg Open: Emma Navarro vs Gabriela Ruse",
+    "slug": "wta-navarro-ruse-2026-06-25",
+    "value": 127.065,
+    "timestamp": 1782398797
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Dusan Lajovic",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 72.0,
+    "timestamp": 1782398825
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Dusan Lajovic",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 7.14,
+    "timestamp": 1782398981
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xee324c038a2206dc7d841c882b744adeb2a70f96518cdda416f2bf7e902af640",
+    "outcome": "Aliaksandra Sasnovich",
+    "title": "Wimbledon, Qualification WTA: Aliaksandra Sasnovich vs Bianca Andreescu",
+    "slug": "wta-sasnovi-andrees-2026-06-25",
+    "value": 14.402,
+    "timestamp": 1782399194
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x4a6d3944c6997151c01706c26a58e454b6f08d43ab6640c3d2fb26b1ac844a1c",
+    "outcome": "Tatjana Maria",
+    "title": "Lexus Eastbourne Open: Tatjana Maria vs Tereza Valentova",
+    "slug": "wta-maria-valento-2026-06-25",
+    "value": 12.768600000000001,
+    "timestamp": 1782399221
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Vilius Gaubas",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 6.800000000000001,
+    "timestamp": 1782399286
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x8b088f71130d1d26f3b4e142ce32bce2ec4a31bab9e2bfab0678885d24125a89",
+    "outcome": "Inner Circle Esports",
+    "title": "Counter-Strike: Inner Circle Esports vs 9INE (BO3) - Super DraculaN Group A",
+    "slug": "cs2-ice-9ine-2026-06-25",
+    "value": 19.95,
+    "timestamp": 1782399385
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x4a6d3944c6997151c01706c26a58e454b6f08d43ab6640c3d2fb26b1ac844a1c",
+    "outcome": "Tereza Valentova",
+    "title": "Lexus Eastbourne Open: Tatjana Maria vs Tereza Valentova",
+    "slug": "wta-maria-valento-2026-06-25",
+    "value": 140.3204,
+    "timestamp": 1782399473
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x8b088f71130d1d26f3b4e142ce32bce2ec4a31bab9e2bfab0678885d24125a89",
+    "outcome": "Inner Circle Esports",
+    "title": "Counter-Strike: Inner Circle Esports vs 9INE (BO3) - Super DraculaN Group A",
+    "slug": "cs2-ice-9ine-2026-06-25",
+    "value": 1279.7,
+    "timestamp": 1782399493
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x8b088f71130d1d26f3b4e142ce32bce2ec4a31bab9e2bfab0678885d24125a89",
+    "outcome": "Inner Circle Esports",
+    "title": "Counter-Strike: Inner Circle Esports vs 9INE (BO3) - Super DraculaN Group A",
+    "slug": "cs2-ice-9ine-2026-06-25",
+    "value": 179.799999,
+    "timestamp": 1782399707
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x4c9c0903975e8b96ccef737b1c2b597d87b33d1f33dd2828e363424c36289731",
+    "outcome": "Robin Montgomery",
+    "title": "Wimbledon, Qualification WTA: Marina Bassols Ribera vs Robin Montgomery",
+    "slug": "wta-ribera-montgom-2026-06-25",
+    "value": 11.920000000000002,
+    "timestamp": 1782399743
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x4a6d3944c6997151c01706c26a58e454b6f08d43ab6640c3d2fb26b1ac844a1c",
+    "outcome": "Tatjana Maria",
+    "title": "Lexus Eastbourne Open: Tatjana Maria vs Tereza Valentova",
+    "slug": "wta-maria-valento-2026-06-25",
+    "value": 25.3099,
+    "timestamp": 1782399746
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xee324c038a2206dc7d841c882b744adeb2a70f96518cdda416f2bf7e902af640",
+    "outcome": "Bianca Andreescu",
+    "title": "Wimbledon, Qualification WTA: Aliaksandra Sasnovich vs Bianca Andreescu",
+    "slug": "wta-sasnovi-andrees-2026-06-25",
+    "value": 7349.2,
+    "timestamp": 1782399773
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xee324c038a2206dc7d841c882b744adeb2a70f96518cdda416f2bf7e902af640",
+    "outcome": "Bianca Andreescu",
+    "title": "Wimbledon, Qualification WTA: Aliaksandra Sasnovich vs Bianca Andreescu",
+    "slug": "wta-sasnovi-andrees-2026-06-25",
+    "value": 1957.8,
+    "timestamp": 1782399776
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x540a87fca1dac2e63473ba79382219a412b35d01f9c580e620e3a809672891fe",
+    "outcome": "Fabian Marozsan",
+    "title": "Mallorca Championships: Miomir Kecmanovic vs Fabian Marozsan",
+    "slug": "atp-kecmano-marozsa-2026-06-25",
+    "value": 109.3834,
+    "timestamp": 1782393004
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xb590d5b7e8d78f9dc88747045926b984d6f12d0004c6536a7752396e51dea9ae",
+    "outcome": "Darja Semenistaja",
+    "title": "Wimbledon, Qualification WTA: Darja Semenistaja vs Anastasia Gasanova",
+    "slug": "wta-semenis-gasanov-2026-06-25",
+    "value": 54.0,
+    "timestamp": 1782393295
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xb0bc5988c50b61bbba40a21b76457e2885c94616e7602fc5a674f3d9c8fd19c9",
+    "outcome": "Soon-Woo Kwon",
+    "title": "Wimbledon, Qualification ATP: Alejandro Moro Canas vs Soon-Woo Kwon",
+    "slug": "atp-canas-kwon-2026-06-25",
+    "value": 77000.0,
+    "timestamp": 1782393761
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xb0bc5988c50b61bbba40a21b76457e2885c94616e7602fc5a674f3d9c8fd19c9",
+    "outcome": "Soon-Woo Kwon",
+    "title": "Wimbledon, Qualification ATP: Alejandro Moro Canas vs Soon-Woo Kwon",
+    "slug": "atp-canas-kwon-2026-06-25",
+    "value": 77999.999997,
+    "timestamp": 1782393772
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xb9cee2a269573216b17117bd86703d3eddb29d70779b30e1cea6a96eb23ceb1d",
+    "outcome": "Jack Draper",
+    "title": "Lexus Eastbourne Open: Jack Draper vs Gabriel Diallo",
+    "slug": "atp-draper-diallo-2026-06-25",
+    "value": 229.9284,
+    "timestamp": 1782393877
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xb9cee2a269573216b17117bd86703d3eddb29d70779b30e1cea6a96eb23ceb1d",
+    "outcome": "Jack Draper",
+    "title": "Lexus Eastbourne Open: Jack Draper vs Gabriel Diallo",
+    "slug": "atp-draper-diallo-2026-06-25",
+    "value": 705.8217,
+    "timestamp": 1782393950
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0x32552863fe8014da2613037970661f0d49f415c86a88cb3d65af7a43395bc4ad",
+    "outcome": "Yes",
+    "title": "Will United States win on 2026-06-25?",
+    "slug": "fifwc-tur-usa-2026-06-25",
+    "value": 7748.9975,
+    "timestamp": 1782392623
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0x32552863fe8014da2613037970661f0d49f415c86a88cb3d65af7a43395bc4ad",
+    "outcome": "Yes",
+    "title": "Will United States win on 2026-06-25?",
+    "slug": "fifwc-tur-usa-2026-06-25",
+    "value": 7278.9988,
+    "timestamp": 1782392894
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0x81cef42df3d25aecf0bf7e96c344202e86f447f2f3ba2e4b8eb59f4680efeb22",
+    "outcome": "No",
+    "title": "Will T\u00fcrkiye win on 2026-06-25?",
+    "slug": "fifwc-tur-usa-2026-06-25",
+    "value": 10329.0,
+    "timestamp": 1782392896
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xe9108c73c82e021e27e809740b354075402a90d37ed080e84022937602e99563",
+    "outcome": "Under",
+    "title": "Cura\u00e7ao vs. C\u00f4te d'Ivoire: O/U 5.5",
+    "slug": "fifwc-kor-civ-2026-06-25-more-markets",
+    "value": 1211.5793999999999,
+    "timestamp": 1782393841
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0x73cdf481e0d213e3ad3b2c096ad9dfea604b6587900419d0a214aac966c68988",
+    "outcome": "No",
+    "title": "Will Paraguay vs. Australia end in a draw?",
+    "slug": "fifwc-par-aus-2026-06-25",
+    "value": 7997.098,
+    "timestamp": 1782394822
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
+    "outcome": "Yes",
+    "title": "Will Germany win on 2026-06-25?",
+    "slug": "fifwc-ecu-ger-2026-06-25",
+    "value": 8307.13693,
+    "timestamp": 1782395002
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
+    "outcome": "Yes",
+    "title": "Will Germany win on 2026-06-25?",
+    "slug": "fifwc-ecu-ger-2026-06-25",
+    "value": 8704.6,
+    "timestamp": 1782395362
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0x4926e7231ede8671513186a31c8b2a3e3fe9b6e98c7e61ad62325fdf617631bf",
+    "outcome": "Over",
+    "title": "Paraguay vs. Australia: O/U 0.5",
+    "slug": "fifwc-par-aus-2026-06-25-more-markets",
+    "value": 881.5040000000001,
+    "timestamp": 1782395452
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
+    "outcome": "Yes",
+    "title": "Will Japan win on 2026-06-25?",
+    "slug": "fifwc-jpn-swe-2026-06-25",
+    "value": 7380.0009,
+    "timestamp": 1782396334
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
+    "outcome": "Yes",
+    "title": "Will Japan win on 2026-06-25?",
+    "slug": "fifwc-jpn-swe-2026-06-25",
+    "value": 7441.002,
+    "timestamp": 1782396403
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
+    "outcome": "Yes",
+    "title": "Will Japan win on 2026-06-25?",
+    "slug": "fifwc-jpn-swe-2026-06-25",
+    "value": 7099.0011,
+    "timestamp": 1782396479
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0x9ef39163c9da9d594e6a8fe09619846c77b9e573793ae9a0885dba5747f46304",
+    "outcome": "Netherlands",
+    "title": "Spread: Netherlands (-1.5)",
+    "slug": "fifwc-tun-nld-2026-06-25-more-markets",
+    "value": 1167.0948,
+    "timestamp": 1782396917
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xe1bd581c13be7103749ca1a64d21230ed6693a162fc057d81e3d1e9237fc81f8",
+    "outcome": "Yes",
+    "title": "Will Japan win on 2026-06-25?",
+    "slug": "fifwc-jpn-swe-2026-06-25",
+    "value": 7467.0018,
+    "timestamp": 1782397031
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0x12cdb1469635ba755865d6f58a783e0b78a121458b2e15027e1a2e0fb570ce03",
+    "outcome": "No",
+    "title": "Ecuador leading at halftime?",
+    "slug": "fifwc-ecu-ger-2026-06-25-halftime-result",
+    "value": 388.5,
+    "timestamp": 1782397039
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xb465c0d920be7fa9413909befc3989247de10a1d4feca2621bb36f9a62191a12",
+    "outcome": "Yes",
+    "title": "Will Argentina win on 2026-06-27?",
+    "slug": "fifwc-jor-arg-2026-06-27",
+    "value": 5770.0023,
+    "timestamp": 1782397141
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0x964314cfa3bbe2b74e99f1973135a7678ba86ad048116b1a9846a9fa8cde646f",
+    "outcome": "No",
+    "title": "Will Tunisia vs. Netherlands end in a draw?",
+    "slug": "fifwc-tun-nld-2026-06-25",
+    "value": 12949.0,
+    "timestamp": 1782397604
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0x12cdb1469635ba755865d6f58a783e0b78a121458b2e15027e1a2e0fb570ce03",
+    "outcome": "No",
+    "title": "Ecuador leading at halftime?",
+    "slug": "fifwc-ecu-ger-2026-06-25-halftime-result",
+    "value": 378.0,
+    "timestamp": 1782397658
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
+    "outcome": "Yes",
+    "title": "Will Germany win on 2026-06-25?",
+    "slug": "fifwc-ecu-ger-2026-06-25",
+    "value": 9329.70522,
+    "timestamp": 1782397658
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xa3150402afe114c762bcd2e5581dc4d0fe93560718640d8d490e0497350de5ad",
+    "outcome": "No",
+    "title": "Will Netherlands win on 2026-06-25?",
+    "slug": "fifwc-tun-nld-2026-06-25",
+    "value": 1510.3374000000001,
+    "timestamp": 1782399050
+  },
+  {
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "conditionId": "0xdb811e47814afe7e851371c4cbb53fce0e2e94b048e5ba5b7e76905511eabbde",
+    "outcome": "Over",
+    "title": "Ecuador vs. Germany: O/U 1.5",
+    "slug": "fifwc-ecu-ger-2026-06-25-more-markets",
+    "value": 494.88800000000003,
+    "timestamp": 1782399131
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0xb0b9aaf2b242fa0a9b5e2f9617f1e8a5f8c3e1ea8d84948fd3c87e76d570e8ed",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $64,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 23.4212,
+    "timestamp": 1782397994
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0xb0b9aaf2b242fa0a9b5e2f9617f1e8a5f8c3e1ea8d84948fd3c87e76d570e8ed",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $64,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 151.05408,
+    "timestamp": 1782398000
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x0131b7bba35629ad69af519c55379346a47fa84a67df2b446a8df452e3f1a1af",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $58,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 93.16773,
+    "timestamp": 1782398009
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x0131b7bba35629ad69af519c55379346a47fa84a67df2b446a8df452e3f1a1af",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $58,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 838.033,
+    "timestamp": 1782398011
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x9ba9491d9fd8cad98ae75075133f5fb4a8ad95955bc36e1807dee02c974ccbb3",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be above $1,500 on June 26?",
+    "slug": "ethereum-above-on-june-26-2026",
+    "value": 842.149,
+    "timestamp": 1782398162
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x756af0f06ee1642065affb6134ab7f7a87c7c21102899d5b83f9f4565b430ecf",
+    "outcome": "No",
+    "title": "Will the price of XRP be above $1.10 on June 26?",
+    "slug": "xrp-above-on-june-26-2026",
+    "value": 2850.542,
+    "timestamp": 1782398164
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x756af0f06ee1642065affb6134ab7f7a87c7c21102899d5b83f9f4565b430ecf",
+    "outcome": "No",
+    "title": "Will the price of XRP be above $1.10 on June 26?",
+    "slug": "xrp-above-on-june-26-2026",
+    "value": 2946.3457,
+    "timestamp": 1782398167
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0xf550655ec013b447744b6d5f16e93853c9c59f534b0b3302c3f2a8d701849bc2",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 27.513119999999997,
+    "timestamp": 1782398638
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x74ebe9967dbd4ab97bd813b7edbd26f3d9ceb337f3a71bf77c764bbd5b6cd40b",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be above $1,300 on June 26?",
+    "slug": "ethereum-above-on-june-26-2026",
+    "value": 7.074000000000001,
+    "timestamp": 1782398855
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x79fec7404503d8032cadcda5b716201b7808dfdfebf645f5a67ec5ea324ff41b",
+    "outcome": "Yes",
+    "title": "Will the price of Ethereum be above $1,700 on June 26?",
+    "slug": "ethereum-above-on-june-26-2026",
+    "value": 39.474999999999994,
+    "timestamp": 1782399022
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 40.63901,
+    "timestamp": 1782399110
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x9ba9491d9fd8cad98ae75075133f5fb4a8ad95955bc36e1807dee02c974ccbb3",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be above $1,500 on June 26?",
+    "slug": "ethereum-above-on-june-26-2026",
+    "value": 672.0,
+    "timestamp": 1782399602
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 4.5,
+    "timestamp": 1782397819
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 3.05,
+    "timestamp": 1782397826
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 32.4,
+    "timestamp": 1782397957
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xdf3c0c1f088bf654fcef79d97c38f3e7c6f2af103b8749f8a167a5c345811a98",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $58,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 278.81,
+    "timestamp": 1782397957
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 42.0,
+    "timestamp": 1782397981
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xadebd6bbf401c9509dd2e78b65a16b567f1f386dccd8cac86cd389bb53ec3a58",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $55,000 in June?",
+    "slug": "what-price-will-bitcoin-hit-in-june-2026",
+    "value": 3.84,
+    "timestamp": 1782397985
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xadebd6bbf401c9509dd2e78b65a16b567f1f386dccd8cac86cd389bb53ec3a58",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $55,000 in June?",
+    "slug": "what-price-will-bitcoin-hit-in-june-2026",
+    "value": 3.895,
+    "timestamp": 1782397990
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x634c571711abae3f93b5267b4f0a5fbe5dfdfc92c25107b148715bb81ab20983",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $57,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 29.4,
+    "timestamp": 1782397991
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $57,500 in June?",
+    "slug": "what-price-will-bitcoin-hit-in-june-2026",
+    "value": 75.0,
+    "timestamp": 1782398006
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x752fa61c93f16c4b15e85b0bd438d9c684176b0ea7b319a84c8aca34616e8a8c",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "value": 323.1404,
+    "timestamp": 1782398006
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xd965281398b7fc3e0226ba01883bd68bde3c999a8d0e99f877428bc067c6f683",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $56,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 0.675,
+    "timestamp": 1782398174
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 2.7,
+    "timestamp": 1782398524
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $57,500 in June?",
+    "slug": "what-price-will-bitcoin-hit-in-june-2026",
+    "value": 24.9152,
+    "timestamp": 1782398558
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 210.7,
+    "timestamp": 1782399028
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 225.4,
+    "timestamp": 1782399113
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 225.4,
+    "timestamp": 1782399116
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 235.0,
+    "timestamp": 1782399118
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x90d9a5a38a8f04d85cffc79003a57070e0c6d848d349e0978457735fdc01b1cb",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $58,000 June 22-28?",
+    "slug": "what-price-will-bitcoin-hit-june-22-28-2026",
+    "value": 2.6,
+    "timestamp": 1782399406
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $57,500 in June?",
+    "slug": "what-price-will-bitcoin-hit-in-june-2026",
+    "value": 6.5286,
+    "timestamp": 1782399679
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x6992fdf39435fb8aa0b765e24f98cb621fd1f7b6458865387c0ea303da2f0003",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $57,500 in June?",
+    "slug": "what-price-will-bitcoin-hit-in-june-2026",
+    "value": 63.800000000000004,
+    "timestamp": 1782399803
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0xe1d73bf4bf2c65cebe790ab149c85511f8cdd3e8e17925747c2d5fc8b320ee95",
+    "outcome": "Yes",
+    "title": "Exact Score: Tunisia 1 - 3 Netherlands?",
+    "slug": "fifwc-tun-nld-2026-06-25-exact-score",
+    "value": 3.501,
+    "timestamp": 1782393692
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0xc80ae8f1fbf06486878de42da5b68317c8953ca0f262d334036a688e633f039d",
+    "outcome": "AlQadsiah Esports",
+    "title": "Valorant: Be\u015fikta\u015f Esports vs AlQadsiah Esports (BO3) - VCL EMEA: Stage 3 Group A",
+    "slug": "val-bjk-qe-2026-06-25",
+    "value": 101.91,
+    "timestamp": 1782393769
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x550d74a2fe47a7ce066e04e647da4010a2ac26e8aa1f0edcb9403ce90d0c9016",
+    "outcome": "No",
+    "title": "Will South Korea advance to the knockout stages at the 2026 FIFA World Cup?",
+    "slug": "world-cup-team-to-advance-to-knockout-stages",
+    "value": 15.4116,
+    "timestamp": 1782394052
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x550d74a2fe47a7ce066e04e647da4010a2ac26e8aa1f0edcb9403ce90d0c9016",
+    "outcome": "No",
+    "title": "Will South Korea advance to the knockout stages at the 2026 FIFA World Cup?",
+    "slug": "world-cup-team-to-advance-to-knockout-stages",
+    "value": 40.4232,
+    "timestamp": 1782394085
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0xd060f58cf91ecc60218366940f0a65999b7af8df444fc1810a0fef064aa1d5c7",
+    "outcome": "Over",
+    "title": "Japan vs. Sweden: Sweden O/U 3.5 Corners",
+    "slug": "fifwc-jpn-swe-2026-06-25-total-corners",
+    "value": 186.48000000000002,
+    "timestamp": 1782395362
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x0cb2ec02d56d1dfdac788428b40a0e6ffcc0476c02602b21db91688cf74516e6",
+    "outcome": "Yes",
+    "title": "Will Mexico reach the 2026 FIFA World Cup final?",
+    "slug": "world-cup-nation-to-reach-final",
+    "value": 13.387799999999999,
+    "timestamp": 1782395656
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0xb9e8ddaaeefedafd9cd577e68772203b21659df1f103b4dc1125e35dccf37775",
+    "outcome": "Yes",
+    "title": "Paraguay vs. Australia: Both Teams to Score in First Half",
+    "slug": "fifwc-par-aus-2026-06-25-more-markets",
+    "value": 1.3962,
+    "timestamp": 1782396425
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x550d74a2fe47a7ce066e04e647da4010a2ac26e8aa1f0edcb9403ce90d0c9016",
+    "outcome": "No",
+    "title": "Will South Korea advance to the knockout stages at the 2026 FIFA World Cup?",
+    "slug": "world-cup-team-to-advance-to-knockout-stages",
+    "value": 78.4464,
+    "timestamp": 1782396608
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x46f4a10818ec2c779f1d9863f3c7d76de66ac9f30b7b9f65465f3e66b43d624f",
+    "outcome": "Over",
+    "title": "Ecuador vs. Germany: O/U 7.5 Total Corners",
+    "slug": "fifwc-ecu-ger-2026-06-25-total-corners",
+    "value": 48.8078,
+    "timestamp": 1782396917
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x46f4a10818ec2c779f1d9863f3c7d76de66ac9f30b7b9f65465f3e66b43d624f",
+    "outcome": "Over",
+    "title": "Ecuador vs. Germany: O/U 7.5 Total Corners",
+    "slug": "fifwc-ecu-ger-2026-06-25-total-corners",
+    "value": 292.9888,
+    "timestamp": 1782396917
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x46f4a10818ec2c779f1d9863f3c7d76de66ac9f30b7b9f65465f3e66b43d624f",
+    "outcome": "Over",
+    "title": "Ecuador vs. Germany: O/U 7.5 Total Corners",
+    "slug": "fifwc-ecu-ger-2026-06-25-total-corners",
+    "value": 73.0,
+    "timestamp": 1782396919
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x0cbb73759bb6ad83040cc6edb908a7dbd51855618082d2f5dd3b58937a79b306",
+    "outcome": "No",
+    "title": "Will Paraguay advance to the knockout stages at the 2026 FIFA World Cup?",
+    "slug": "world-cup-team-to-advance-to-knockout-stages",
+    "value": 21.0,
+    "timestamp": 1782397034
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0xc80ae8f1fbf06486878de42da5b68317c8953ca0f262d334036a688e633f039d",
+    "outcome": "AlQadsiah Esports",
+    "title": "Valorant: Be\u015fikta\u015f Esports vs AlQadsiah Esports (BO3) - VCL EMEA: Stage 3 Group A",
+    "slug": "val-bjk-qe-2026-06-25",
+    "value": 23.000700000000002,
+    "timestamp": 1782397117
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x617ba4bb8a680525c30373ea70dcde727e1ac35832b09de126a42c1556f9dd5b",
+    "outcome": "Yes",
+    "title": "Will Ivory Coast reach the Round of 16 at the 2026 FIFA World Cup?",
+    "slug": "world-cup-nation-to-reach-round-of-16",
+    "value": 14.000000000000002,
+    "timestamp": 1782397507
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x0cb2ec02d56d1dfdac788428b40a0e6ffcc0476c02602b21db91688cf74516e6",
+    "outcome": "Yes",
+    "title": "Will Mexico reach the 2026 FIFA World Cup final?",
+    "slug": "world-cup-nation-to-reach-final",
+    "value": 4.3404,
+    "timestamp": 1782397925
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0xc80ae8f1fbf06486878de42da5b68317c8953ca0f262d334036a688e633f039d",
+    "outcome": "AlQadsiah Esports",
+    "title": "Valorant: Be\u015fikta\u015f Esports vs AlQadsiah Esports (BO3) - VCL EMEA: Stage 3 Group A",
+    "slug": "val-bjk-qe-2026-06-25",
+    "value": 20.5,
+    "timestamp": 1782398021
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x0cb2ec02d56d1dfdac788428b40a0e6ffcc0476c02602b21db91688cf74516e6",
+    "outcome": "Yes",
+    "title": "Will Mexico reach the 2026 FIFA World Cup final?",
+    "slug": "world-cup-nation-to-reach-final",
+    "value": 20.68242,
+    "timestamp": 1782399082
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x0cb2ec02d56d1dfdac788428b40a0e6ffcc0476c02602b21db91688cf74516e6",
+    "outcome": "Yes",
+    "title": "Will Mexico reach the 2026 FIFA World Cup final?",
+    "slug": "world-cup-nation-to-reach-final",
+    "value": 11.625900000000001,
+    "timestamp": 1782399217
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x550d74a2fe47a7ce066e04e647da4010a2ac26e8aa1f0edcb9403ce90d0c9016",
+    "outcome": "No",
+    "title": "Will South Korea advance to the knockout stages at the 2026 FIFA World Cup?",
+    "slug": "world-cup-team-to-advance-to-knockout-stages",
+    "value": 11.4972,
+    "timestamp": 1782399589
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "conditionId": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
+    "outcome": "Yes",
+    "title": "Will Argentina reach the 2026 FIFA World Cup final?",
+    "slug": "world-cup-nation-to-reach-final",
+    "value": 4.446400000000001,
+    "timestamp": 1782399598
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0xc38b96e6fb12fc68d003ff326f2a11eb3c8f04c2fce7fcfc9d62f5e18131817c",
+    "outcome": "No",
+    "title": "Will 60 ships transit the Strait of Hormuz on any day by June 30, 2026?",
+    "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-june-30",
+    "value": 625.8592,
+    "timestamp": 1782389423
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0x2fa5c43ea405f4d86f6ece2414e1dd7ed00508b576ba2cdc8e095419877056a8",
+    "outcome": "No",
+    "title": "Will Wydad Athletic Club win on 2026-06-25?",
+    "slug": "mar1-wac-mad-2026-06-25",
+    "value": 4.2299999999999995,
+    "timestamp": 1782393850
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0x09736de43a09191400c25861f599a6c3e8044e0123822d8e30e74e105d9b5e60",
+    "outcome": "No",
+    "title": "Will Iraq win on 2026-06-26?",
+    "slug": "fifwc-sen-irq-2026-06-26",
+    "value": 991.1661,
+    "timestamp": 1782394645
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0x09736de43a09191400c25861f599a6c3e8044e0123822d8e30e74e105d9b5e60",
+    "outcome": "No",
+    "title": "Will Iraq win on 2026-06-26?",
+    "slug": "fifwc-sen-irq-2026-06-26",
+    "value": 376.5849,
+    "timestamp": 1782394645
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0x2fa5c43ea405f4d86f6ece2414e1dd7ed00508b576ba2cdc8e095419877056a8",
+    "outcome": "No",
+    "title": "Will Wydad Athletic Club win on 2026-06-25?",
+    "slug": "mar1-wac-mad-2026-06-25",
+    "value": 2.4,
+    "timestamp": 1782397261
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xc37826fac5cfc2852d91e8a78d03c970c006481f0f699cbbe7cdb4a5223830a9",
+    "outcome": "IR Tanger",
+    "title": "Spread: Olympic Dcheira (-1.5)",
+    "slug": "mar1-old-irt-2026-06-25-more-markets",
+    "value": 11.347199999999999,
+    "timestamp": 1782399080
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xc37826fac5cfc2852d91e8a78d03c970c006481f0f699cbbe7cdb4a5223830a9",
+    "outcome": "IR Tanger",
+    "title": "Spread: Olympic Dcheira (-1.5)",
+    "slug": "mar1-old-irt-2026-06-25-more-markets",
+    "value": 7.739999999999999,
+    "timestamp": 1782399145
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xff3744285965810d599d4ac7037760134c349eab25c289c14ba2523320debda7",
+    "outcome": "Yes",
+    "title": "Will Saudi Arabia win on 2026-06-26?",
+    "slug": "fifwc-cvi-ksa-2026-06-26",
+    "value": 227.42600000000002,
+    "timestamp": 1782399169
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xff3744285965810d599d4ac7037760134c349eab25c289c14ba2523320debda7",
+    "outcome": "Yes",
+    "title": "Will Saudi Arabia win on 2026-06-26?",
+    "slug": "fifwc-cvi-ksa-2026-06-26",
+    "value": 227.42600000000002,
+    "timestamp": 1782399169
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xff3744285965810d599d4ac7037760134c349eab25c289c14ba2523320debda7",
+    "outcome": "Yes",
+    "title": "Will Saudi Arabia win on 2026-06-26?",
+    "slug": "fifwc-cvi-ksa-2026-06-26",
+    "value": 227.42600000000002,
+    "timestamp": 1782399169
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xff3744285965810d599d4ac7037760134c349eab25c289c14ba2523320debda7",
+    "outcome": "Yes",
+    "title": "Will Saudi Arabia win on 2026-06-26?",
+    "slug": "fifwc-cvi-ksa-2026-06-26",
+    "value": 227.42600000000002,
+    "timestamp": 1782399169
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xe949e3949780dfce68fc24136bb3f79e5e1ad94d0001079ee26f6b474d77d355",
+    "outcome": "Yes",
+    "title": "Will Cabo Verde win on 2026-06-26?",
+    "slug": "fifwc-cvi-ksa-2026-06-26",
+    "value": 0.0072,
+    "timestamp": 1782399211
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xe949e3949780dfce68fc24136bb3f79e5e1ad94d0001079ee26f6b474d77d355",
+    "outcome": "Yes",
+    "title": "Will Cabo Verde win on 2026-06-26?",
+    "slug": "fifwc-cvi-ksa-2026-06-26",
+    "value": 152.3952,
+    "timestamp": 1782399292
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xd1c3b0cb17e682fe9637f144d818d4d02911276591ef34aca817a7fa10277541",
+    "outcome": "Ecuador",
+    "title": "Spread: Germany (-1.5)",
+    "slug": "fifwc-ecu-ger-2026-06-25-more-markets",
+    "value": 15.8912,
+    "timestamp": 1782399704
+  },
+  {
+    "wallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
+    "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
+    "outcome": "No",
+    "title": "Will Germany win on 2026-06-25?",
+    "slug": "fifwc-ecu-ger-2026-06-25",
+    "value": 1806.144,
+    "timestamp": 1782390130
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x8db332887449f4a3472e50e2072da8e0bd3dd20b0e72beb1f6281f71baf5c78e",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 1.2,
+    "timestamp": 1782398006
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x8db332887449f4a3472e50e2072da8e0bd3dd20b0e72beb1f6281f71baf5c78e",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 1.25,
+    "timestamp": 1782398018
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 17.2,
+    "timestamp": 1782398134
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 738.74,
+    "timestamp": 1782398153
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x8db332887449f4a3472e50e2072da8e0bd3dd20b0e72beb1f6281f71baf5c78e",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 3.75,
+    "timestamp": 1782398162
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 507.9808300000001,
+    "timestamp": 1782398173
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x8db332887449f4a3472e50e2072da8e0bd3dd20b0e72beb1f6281f71baf5c78e",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 3.8,
+    "timestamp": 1782398174
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x233fdc9fa140ab2fc1e948ea8059ad80f5fcb7f5f98cfa4840d28fa67422670d",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 27?",
+    "slug": "bitcoin-above-on-june-27-2026",
+    "value": 16.8,
+    "timestamp": 1782398221
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 492.02348000000006,
+    "timestamp": 1782398251
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x1d7c857ebb5fe4238e11425fd6c936b99450abdd4321dbe38ced8622eac1e501",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 30?",
+    "slug": "bitcoin-above-on-june-30-2026",
+    "value": 3.75,
+    "timestamp": 1782398254
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 42.84942,
+    "timestamp": 1782398264
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 449.45,
+    "timestamp": 1782398410
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x8db332887449f4a3472e50e2072da8e0bd3dd20b0e72beb1f6281f71baf5c78e",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 5.208,
+    "timestamp": 1782398795
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 28.21,
+    "timestamp": 1782398876
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0xcd7c4329ac166545dfd189f9528b4b18ecd322d2e138e01ae07986755be9688f",
+    "outcome": "Yes",
+    "title": "Will the price of Ethereum be above $1,600 on June 28?",
+    "slug": "ethereum-above-on-june-28-2026",
+    "value": 5.6166,
+    "timestamp": 1782399095
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 227.06616000000002,
+    "timestamp": 1782399226
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 40.833,
+    "timestamp": 1782399409
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9307ab5dd302fef8484dcdd6f4a72d4b31bb39a7ef64ee2663564c68a8cf23b1",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 601.4845,
+    "timestamp": 1782399476
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x1a64910584dbbfd3fce0b02579dcab0093bf82f776717fd7306cc2502c0368b6",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $54,000 on June 30?",
+    "slug": "bitcoin-above-on-june-30-2026",
+    "value": 1.25,
+    "timestamp": 1782399650
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x8db332887449f4a3472e50e2072da8e0bd3dd20b0e72beb1f6281f71baf5c78e",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $62,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 1.2636,
+    "timestamp": 1782399698
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 20.0997,
+    "timestamp": 1782399955
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 14.26,
+    "timestamp": 1782399959
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x0cdf5fbb2ccaa60bec551858765bd45ede84fcde8ffc923d3885d2f08c17c73e",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - June 25, 11:00AM-11:15AM ET",
+    "slug": "btc-updown-15m-1782399600",
+    "value": 1.47,
+    "timestamp": 1782399964
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 15.3,
+    "timestamp": 1782399964
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x0cdf5fbb2ccaa60bec551858765bd45ede84fcde8ffc923d3885d2f08c17c73e",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - June 25, 11:00AM-11:15AM ET",
+    "slug": "btc-updown-15m-1782399600",
+    "value": 1.68,
+    "timestamp": 1782399964
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 14.541699999999999,
+    "timestamp": 1782399964
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 4.2702,
+    "timestamp": 1782399968
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 31.490000000000002,
+    "timestamp": 1782399970
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 11.5374,
+    "timestamp": 1782399970
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 31.05,
+    "timestamp": 1782399970
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 14.96,
+    "timestamp": 1782399970
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 19.8,
+    "timestamp": 1782399971
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 31.2246,
+    "timestamp": 1782399973
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 32.3566,
+    "timestamp": 1782399973
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 14.000000000000002,
+    "timestamp": 1782399979
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 13.72,
+    "timestamp": 1782399980
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 28.151000000000003,
+    "timestamp": 1782399982
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 39.22,
+    "timestamp": 1782399988
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x0cdf5fbb2ccaa60bec551858765bd45ede84fcde8ffc923d3885d2f08c17c73e",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:00AM-11:15AM ET",
+    "slug": "btc-updown-15m-1782399600",
+    "value": 10.2,
+    "timestamp": 1782399989
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x84492e355628f8b35045cd35616fe9184e6955c71d7c5084f9eb664240d6f8d3",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - June 25, 11:05AM-11:10AM ET",
+    "slug": "btc-updown-5m-1782399900",
+    "value": 49.14,
+    "timestamp": 1782399989
+  },
+  {
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "conditionId": "0xb3c5cf5b0957cec764a2c9991cc586efe4e367230e8de4b0a6d93f62a80cab7b",
+    "outcome": "Yes",
+    "title": "Will Deep Cross Gaming Qualify to the MSI 2026 Knockout Stage",
+    "slug": "last-qualifier-for-knockout-stage-at-msi-2026-20260616225625103",
+    "value": 0.42,
+    "timestamp": 1782397420
+  },
+  {
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "conditionId": "0x0812fa7fe87c14231d764115669d5d07ce163cdea98aef8ae907f7f9d1ad3683",
+    "outcome": "Yes",
+    "title": "Will Team Liquid Qualify to the MSI 2026 Knockout Stage",
+    "slug": "last-qualifier-for-knockout-stage-at-msi-2026-20260616225625103",
+    "value": 0.075,
+    "timestamp": 1782397424
+  },
+  {
+    "wallet": "0x629bc4a1e53e1d475beb7ea3d388791e96dd995a",
+    "conditionId": "0x44891f73ae7e1a86478ff48e1a060fb60252a419eb2326d8f5ebb66d62896c5f",
+    "outcome": "Under",
+    "title": "Tunisia vs. Netherlands: O/U 2.5",
+    "slug": "fifwc-tun-nld-2026-06-25-more-markets",
+    "value": 300.0,
+    "timestamp": 1782392561
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 2.15,
+    "timestamp": 1782398455
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xc170de7076eafe2aac6afc5bbd54e885c2090f89c575b5315a57b676affd52be",
+    "outcome": "Duje Ajdukovic",
+    "title": "Targu Mures: Sumit Nagal vs Duje Ajdukovic",
+    "slug": "atp-nagal-ajdukov-2026-06-25",
+    "value": 57.290000000000006,
+    "timestamp": 1782398563
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x2ecd27e4e3bab6a0c2e440a90098b2d2bc68f950448d656e1039cba3794e2a16",
+    "outcome": "Lucia Bronzetti",
+    "title": "Wimbledon, Qualification WTA: Lina Gjorcheska vs Lucia Bronzetti",
+    "slug": "wta-gjorche-bronzet-2026-06-25",
+    "value": 27.740000000000002,
+    "timestamp": 1782398581
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xb9cee2a269573216b17117bd86703d3eddb29d70779b30e1cea6a96eb23ceb1d",
+    "outcome": "Jack Draper",
+    "title": "Lexus Eastbourne Open: Jack Draper vs Gabriel Diallo",
+    "slug": "atp-draper-diallo-2026-06-25",
+    "value": 186.0,
+    "timestamp": 1782398600
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xbd841a90e801046952f33c9e84faace35b91e6974a7b216bb7bf7c96e7767d1c",
+    "outcome": "Nick Hardt",
+    "title": "Piracicaba: Nick Hardt vs Nicolas Oliveira",
+    "slug": "atp-hardt-oliveir-2026-06-23",
+    "value": 31.402099999999997,
+    "timestamp": 1782398614
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x2ecd27e4e3bab6a0c2e440a90098b2d2bc68f950448d656e1039cba3794e2a16",
+    "outcome": "Lucia Bronzetti",
+    "title": "Wimbledon, Qualification WTA: Lina Gjorcheska vs Lucia Bronzetti",
+    "slug": "wta-gjorche-bronzet-2026-06-25",
+    "value": 31.589,
+    "timestamp": 1782398654
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x6277e617df23024174c6f9bc00693e488f5c60a4f56283c5e8e397b2dc09385e",
+    "outcome": "Gabriela Ruse",
+    "title": "Bad Homburg Open: Emma Navarro vs Gabriela Ruse",
+    "slug": "wta-navarro-ruse-2026-06-25",
+    "value": 77.448,
+    "timestamp": 1782398663
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x540a87fca1dac2e63473ba79382219a412b35d01f9c580e620e3a809672891fe",
+    "outcome": "Fabian Marozsan",
+    "title": "Mallorca Championships: Miomir Kecmanovic vs Fabian Marozsan",
+    "slug": "atp-kecmano-marozsa-2026-06-25",
+    "value": 141.1,
+    "timestamp": 1782398720
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xbd841a90e801046952f33c9e84faace35b91e6974a7b216bb7bf7c96e7767d1c",
+    "outcome": "Nick Hardt",
+    "title": "Piracicaba: Nick Hardt vs Nicolas Oliveira",
+    "slug": "atp-hardt-oliveir-2026-06-23",
+    "value": 4.4624999999999995,
+    "timestamp": 1782398920
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x6277e617df23024174c6f9bc00693e488f5c60a4f56283c5e8e397b2dc09385e",
+    "outcome": "Gabriela Ruse",
+    "title": "Bad Homburg Open: Emma Navarro vs Gabriela Ruse",
+    "slug": "wta-navarro-ruse-2026-06-25",
+    "value": 0.522,
+    "timestamp": 1782398990
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x6277e617df23024174c6f9bc00693e488f5c60a4f56283c5e8e397b2dc09385e",
+    "outcome": "Gabriela Ruse",
+    "title": "Bad Homburg Open: Emma Navarro vs Gabriela Ruse",
+    "slug": "wta-navarro-ruse-2026-06-25",
+    "value": 10193.002,
+    "timestamp": 1782399004
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x4a6d3944c6997151c01706c26a58e454b6f08d43ab6640c3d2fb26b1ac844a1c",
+    "outcome": "Tatjana Maria",
+    "title": "Lexus Eastbourne Open: Tatjana Maria vs Tereza Valentova",
+    "slug": "wta-maria-valento-2026-06-25",
+    "value": 8431.098,
+    "timestamp": 1782399134
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x27d7de0cee8ca1066e0330de262da4dd59986b279f3dba6496e38cb01bbc0aad",
+    "outcome": "Roman Safiullin",
+    "title": "Wimbledon, Qualification ATP: Roman Safiullin vs Jerome Kym",
+    "slug": "atp-safiull-kym-2026-06-25",
+    "value": 4.6450000000000005,
+    "timestamp": 1782399143
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x4a6d3944c6997151c01706c26a58e454b6f08d43ab6640c3d2fb26b1ac844a1c",
+    "outcome": "Tereza Valentova",
+    "title": "Lexus Eastbourne Open: Tatjana Maria vs Tereza Valentova",
+    "slug": "wta-maria-valento-2026-06-25",
+    "value": 27.181400000000004,
+    "timestamp": 1782399419
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x95f2d439636a847ab2cd518fd63af7b890497bb0bde5b1bbad5192fb48309592",
+    "outcome": "Moez Echargui",
+    "title": "Wimbledon, Qualification ATP: Hugo Gaston vs Moez Echargui",
+    "slug": "atp-gaston-echargu-2026-06-25",
+    "value": 7.68,
+    "timestamp": 1782399457
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Dusan Lajovic",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 1.7000000000000002,
+    "timestamp": 1782399491
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Dusan Lajovic",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 0.8,
+    "timestamp": 1782399610
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xbd841a90e801046952f33c9e84faace35b91e6974a7b216bb7bf7c96e7767d1c",
+    "outcome": "Nicolas Oliveira",
+    "title": "Piracicaba: Nick Hardt vs Nicolas Oliveira",
+    "slug": "atp-hardt-oliveir-2026-06-23",
+    "value": 0.7126,
+    "timestamp": 1782399827
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xbd841a90e801046952f33c9e84faace35b91e6974a7b216bb7bf7c96e7767d1c",
+    "outcome": "Nicolas Oliveira",
+    "title": "Piracicaba: Nick Hardt vs Nicolas Oliveira",
+    "slug": "atp-hardt-oliveir-2026-06-23",
+    "value": 1.0689,
+    "timestamp": 1782399886
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xbd841a90e801046952f33c9e84faace35b91e6974a7b216bb7bf7c96e7767d1c",
+    "outcome": "Nicolas Oliveira",
+    "title": "Piracicaba: Nick Hardt vs Nicolas Oliveira",
+    "slug": "atp-hardt-oliveir-2026-06-23",
+    "value": 4.199999999999999,
+    "timestamp": 1782400006
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x8386c89e2591300b7f41113276df04cf1e206b631d25cbc9d5b854aeda74a4ff",
+    "outcome": "Oceane Dodin",
+    "title": "Wimbledon, Qualification WTA: Oceane Dodin vs Mananchaya Sawangkaew",
+    "slug": "wta-dodin-sawangk-2026-06-25",
+    "value": 36.974399999999996,
+    "timestamp": 1782389374
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xa4b9dc77c2d59bf4a3944b2e6db769f79adf2682c1c6bbe915bb96c5625d1b77",
+    "outcome": "Katherine Sebov",
+    "title": "Wimbledon, Qualification WTA: Iryna Shymanovich vs Katherine Sebov",
+    "slug": "wta-shymano-sebov-2026-06-25",
+    "value": 4.14,
+    "timestamp": 1782391597
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xa4b9dc77c2d59bf4a3944b2e6db769f79adf2682c1c6bbe915bb96c5625d1b77",
+    "outcome": "Iryna Shymanovich",
+    "title": "Wimbledon, Qualification WTA: Iryna Shymanovich vs Katherine Sebov",
+    "slug": "wta-shymano-sebov-2026-06-25",
+    "value": 0.8999999999999999,
+    "timestamp": 1782391787
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x27d7de0cee8ca1066e0330de262da4dd59986b279f3dba6496e38cb01bbc0aad",
+    "outcome": "Roman Safiullin",
+    "title": "Wimbledon, Qualification ATP: Roman Safiullin vs Jerome Kym",
+    "slug": "atp-safiull-kym-2026-06-25",
+    "value": 8.498999999999999,
+    "timestamp": 1782393212
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xb0bc5988c50b61bbba40a21b76457e2885c94616e7602fc5a674f3d9c8fd19c9",
+    "outcome": "Soon-Woo Kwon",
+    "title": "Wimbledon, Qualification ATP: Alejandro Moro Canas vs Soon-Woo Kwon",
+    "slug": "atp-canas-kwon-2026-06-25",
+    "value": 127.97399999999999,
+    "timestamp": 1782393767
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x27d7de0cee8ca1066e0330de262da4dd59986b279f3dba6496e38cb01bbc0aad",
+    "outcome": "Roman Safiullin",
+    "title": "Wimbledon, Qualification ATP: Roman Safiullin vs Jerome Kym",
+    "slug": "atp-safiull-kym-2026-06-25",
+    "value": 4.233,
+    "timestamp": 1782393964
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xbad45211fb99a91201b720ea347789f59091fde059dcf04de885eaa1dd14cb6a",
+    "outcome": "Remy Bertola",
+    "title": "Wimbledon, Qualification ATP: Max Basing vs Remy Bertola",
+    "slug": "atp-basing-bertola-2026-06-25",
+    "value": 62.037,
+    "timestamp": 1782394207
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x3a3d9e9eeddb7f89ceb61f9cc9af204bba8963264e5cb646ce7985e09aeebe3e",
+    "outcome": "Nicolai Budkov Kjaer",
+    "title": "Wimbledon, Qualification ATP: Nicolai Budkov Kjaer vs Otto Virtanen",
+    "slug": "atp-kjaer-virtane-2026-06-25",
+    "value": 29.299500000000002,
+    "timestamp": 1782394382
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x27d7de0cee8ca1066e0330de262da4dd59986b279f3dba6496e38cb01bbc0aad",
+    "outcome": "Roman Safiullin",
+    "title": "Wimbledon, Qualification ATP: Roman Safiullin vs Jerome Kym",
+    "slug": "atp-safiull-kym-2026-06-25",
+    "value": 2.305,
+    "timestamp": 1782394652
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x6ef8553293162e182ae41632c0549d46d646e8fecbe55983da41a2e8b254ffc0",
+    "outcome": "Ashlyn Krueger",
+    "title": "Wimbledon, Qualification WTA: Ashlyn Krueger vs Polina Iatcenko",
+    "slug": "wta-krueger-iatcenk-2026-06-25",
+    "value": 25.003999999999998,
+    "timestamp": 1782395650
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x6ef8553293162e182ae41632c0549d46d646e8fecbe55983da41a2e8b254ffc0",
+    "outcome": "Polina Iatcenko",
+    "title": "Wimbledon, Qualification WTA: Ashlyn Krueger vs Polina Iatcenko",
+    "slug": "wta-krueger-iatcenk-2026-06-25",
+    "value": 15.500600000000002,
+    "timestamp": 1782396115
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x6ef8553293162e182ae41632c0549d46d646e8fecbe55983da41a2e8b254ffc0",
+    "outcome": "Ashlyn Krueger",
+    "title": "Wimbledon, Qualification WTA: Ashlyn Krueger vs Polina Iatcenko",
+    "slug": "wta-krueger-iatcenk-2026-06-25",
+    "value": 82.306,
+    "timestamp": 1782396263
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x01f8aaf45e6f587e984e054a7079af0914db16b65276ed70df6a6e3992c94245",
+    "outcome": "Heather Watson",
+    "title": "Wimbledon, Qualification WTA: Maria Timofeeva vs Heather Watson",
+    "slug": "wta-timofee-watson-2026-06-25",
+    "value": 20.48,
+    "timestamp": 1782396659
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x27d7de0cee8ca1066e0330de262da4dd59986b279f3dba6496e38cb01bbc0aad",
+    "outcome": "Roman Safiullin",
+    "title": "Wimbledon, Qualification ATP: Roman Safiullin vs Jerome Kym",
+    "slug": "atp-safiull-kym-2026-06-25",
+    "value": 11.0109,
+    "timestamp": 1782398129
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 30.6,
+    "timestamp": 1782398975
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Jeline Vandromme",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 23.997400000000003,
+    "timestamp": 1782399023
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Dusan Lajovic",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 132.2055,
+    "timestamp": 1782399437
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Vilius Gaubas",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 60.41459999999999,
+    "timestamp": 1782399491
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0850b7fc06c240f8da7bda8d03b6bc3c1e2b6e4eea957e73d9694b81af45571b",
+    "outcome": "Yes",
+    "title": "Will Ethereum dip to $1,600 on June 25?",
+    "slug": "what-price-will-ethereum-hit-on-june-25",
+    "value": 6544.3850999999995,
+    "timestamp": 1782394936
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0xff4a319d3876f9c90d91a98f141deea79801f2793a488c8d76b617d9fcf9e3ca",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $63,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 18.2,
+    "timestamp": 1782398057
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0cbb03bec79888a5d3a20440fe35bf79a4c3614ab73c9fe122edf8c71ef11bec",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $62,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 15.600000000000001,
+    "timestamp": 1782398192
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0cbb03bec79888a5d3a20440fe35bf79a4c3614ab73c9fe122edf8c71ef11bec",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $62,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 722.7,
+    "timestamp": 1782398222
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0cbb03bec79888a5d3a20440fe35bf79a4c3614ab73c9fe122edf8c71ef11bec",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $62,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 754.1999999999999,
+    "timestamp": 1782398267
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0cbb03bec79888a5d3a20440fe35bf79a4c3614ab73c9fe122edf8c71ef11bec",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $62,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 746.0999999999999,
+    "timestamp": 1782398312
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0cbb03bec79888a5d3a20440fe35bf79a4c3614ab73c9fe122edf8c71ef11bec",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $62,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 16.599999999999998,
+    "timestamp": 1782398329
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0cbb03bec79888a5d3a20440fe35bf79a4c3614ab73c9fe122edf8c71ef11bec",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $62,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 17.0,
+    "timestamp": 1782398522
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0cbb03bec79888a5d3a20440fe35bf79a4c3614ab73c9fe122edf8c71ef11bec",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $62,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 17.2,
+    "timestamp": 1782398734
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0cbb03bec79888a5d3a20440fe35bf79a4c3614ab73c9fe122edf8c71ef11bec",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $62,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 17.28,
+    "timestamp": 1782399424
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x0cbb03bec79888a5d3a20440fe35bf79a4c3614ab73c9fe122edf8c71ef11bec",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $62,000 on June 25?",
+    "slug": "what-price-will-bitcoin-hit-on-june-25",
+    "value": 17.72,
+    "timestamp": 1782399679
+  },
+  {
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
+    "outcome": "No",
+    "title": "Will Germany win on 2026-06-25?",
+    "slug": "fifwc-ecu-ger-2026-06-25",
+    "value": 5348.5112,
+    "timestamp": 1782389413
+  },
+  {
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
+    "outcome": "No",
+    "title": "Will Germany win on 2026-06-25?",
+    "slug": "fifwc-ecu-ger-2026-06-25",
+    "value": 412.44944000000004,
+    "timestamp": 1782393842
+  },
+  {
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
+    "outcome": "No",
+    "title": "Will Germany win on 2026-06-25?",
+    "slug": "fifwc-ecu-ger-2026-06-25",
+    "value": 9121.597660000001,
+    "timestamp": 1782394484
+  },
+  {
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "conditionId": "0xe690620297dfea974d20df84b4cf90460e46a26ec864353482717b90509a3c0b",
+    "outcome": "No",
+    "title": "Will Germany win on 2026-06-25?",
+    "slug": "fifwc-ecu-ger-2026-06-25",
+    "value": 1719.7754599999998,
+    "timestamp": 1782394720
+  },
+  {
+    "wallet": "0x63d43bbb87f85af03b8f2f9e2fad7b54334fa2f1",
+    "conditionId": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+    "outcome": "Yes",
+    "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+    "slug": "fed-decision-in-july-181",
+    "value": 12337.7562,
+    "timestamp": 1782394670
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xc5b3c252f6017d7edc0a09a692510a804da1756c6ee84b63fb3bc0caa8825747",
+    "outcome": "Camilla Zanolini",
+    "title": "ITF Alkmaar: Camilla Zanolini vs Charlotte Narti",
+    "slug": "itf-zanolin-narti-2026-06-25",
+    "value": 0.475,
+    "timestamp": 1782398479
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xf1285a55abba67e9c8943e09aa0ed2b62c4f50b2289901ffea795ba0e834ab1e",
+    "outcome": "Amelia Honer",
+    "title": "ITF Rome: Ava Hrastar vs Amelia Honer",
+    "slug": "itf-hrastar-honer-2026-06-25",
+    "value": 15.0,
+    "timestamp": 1782398516
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xf1285a55abba67e9c8943e09aa0ed2b62c4f50b2289901ffea795ba0e834ab1e",
+    "outcome": "Amelia Honer",
+    "title": "ITF Rome: Ava Hrastar vs Amelia Honer",
+    "slug": "itf-hrastar-honer-2026-06-25",
+    "value": 5.16,
+    "timestamp": 1782398707
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x3382cbabb0a748d85f2dca2b994e0f4471d2d89fe106a34021dc9081193521f9",
+    "outcome": "Marc Majdandzic",
+    "title": "ITF Alkmaar: Marc Majdandzic vs Noah Schlagenhauf",
+    "slug": "itf-majdand-schlage-2026-06-25",
+    "value": 0.198,
+    "timestamp": 1782398714
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x3382cbabb0a748d85f2dca2b994e0f4471d2d89fe106a34021dc9081193521f9",
+    "outcome": "Marc Majdandzic",
+    "title": "ITF Alkmaar: Marc Majdandzic vs Noah Schlagenhauf",
+    "slug": "itf-majdand-schlage-2026-06-25",
+    "value": 10.1475,
+    "timestamp": 1782398720
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x4753175d18c497c5ea0d59661b2b97a2b3fb9480c3e1ef9006ff205766de2589",
+    "outcome": "Under 2.5",
+    "title": "Miomir Kecmanovic vs. Fabian Marozsan: Total Sets O/U 2.5",
+    "slug": "atp-kecmano-marozsa-2026-06-25",
+    "value": 786.7,
+    "timestamp": 1782398722
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x59760ff8148a1bda5a19a4196443d5bfe3508d0f9c1df589f42fcf9e31253e11",
+    "outcome": "MIBR Academy",
+    "title": "Counter-Strike: largadosypelados vs MIBR Academy - Map 2 Winner",
+    "slug": "cs2-ldp-mibra-2026-06-25",
+    "value": 420.00000000000006,
+    "timestamp": 1782398728
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x9313db362eecf3299524ab6a8138b8e54c96d24fe98833f198421023cae923c8",
+    "outcome": "Ruse",
+    "title": "Set 2 Winner: Navarro vs Ruse",
+    "slug": "wta-navarro-ruse-2026-06-25",
+    "value": 19.75,
+    "timestamp": 1782398834
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x9313db362eecf3299524ab6a8138b8e54c96d24fe98833f198421023cae923c8",
+    "outcome": "Navarro",
+    "title": "Set 2 Winner: Navarro vs Ruse",
+    "slug": "wta-navarro-ruse-2026-06-25",
+    "value": 1.05,
+    "timestamp": 1782398885
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x9313db362eecf3299524ab6a8138b8e54c96d24fe98833f198421023cae923c8",
+    "outcome": "Ruse",
+    "title": "Set 2 Winner: Navarro vs Ruse",
+    "slug": "wta-navarro-ruse-2026-06-25",
+    "value": 7.9,
+    "timestamp": 1782398945
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xb1e2e0d76a98cc890f7ffbe29954f23313c2aa93761f0c4f72380fa352feaea5",
+    "outcome": "Raluca Georgiana Serban",
+    "title": "ITF Gdansk: Raluca Georgiana Serban vs Gina Feistel",
+    "slug": "itf-serban-feistel-2026-06-25",
+    "value": 0.685,
+    "timestamp": 1782398954
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xaa96576e73f8419c411688e320bcd0625b9c7c6e6010ebf4d3b5d918456f435a",
+    "outcome": "Louis Larue",
+    "title": "ITF Bergamo: Louis Larue vs Marcello Serafini",
+    "slug": "itf-larue-serafin-2026-06-25",
+    "value": 8.6643,
+    "timestamp": 1782399034
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xaa96576e73f8419c411688e320bcd0625b9c7c6e6010ebf4d3b5d918456f435a",
+    "outcome": "Louis Larue",
+    "title": "ITF Bergamo: Louis Larue vs Marcello Serafini",
+    "slug": "itf-larue-serafin-2026-06-25",
+    "value": 16.765400000000003,
+    "timestamp": 1782399341
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xaa96576e73f8419c411688e320bcd0625b9c7c6e6010ebf4d3b5d918456f435a",
+    "outcome": "Louis Larue",
+    "title": "ITF Bergamo: Louis Larue vs Marcello Serafini",
+    "slug": "itf-larue-serafin-2026-06-25",
+    "value": 499.40000000000003,
+    "timestamp": 1782399346
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xaa96576e73f8419c411688e320bcd0625b9c7c6e6010ebf4d3b5d918456f435a",
+    "outcome": "Marcello Serafini",
+    "title": "ITF Bergamo: Louis Larue vs Marcello Serafini",
+    "slug": "itf-larue-serafin-2026-06-25",
+    "value": 3.25,
+    "timestamp": 1782399380
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xaa96576e73f8419c411688e320bcd0625b9c7c6e6010ebf4d3b5d918456f435a",
+    "outcome": "Marcello Serafini",
+    "title": "ITF Bergamo: Louis Larue vs Marcello Serafini",
+    "slug": "itf-larue-serafin-2026-06-25",
+    "value": 1.7402,
+    "timestamp": 1782399880
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xb1e2e0d76a98cc890f7ffbe29954f23313c2aa93761f0c4f72380fa352feaea5",
+    "outcome": "Raluca Georgiana Serban",
+    "title": "ITF Gdansk: Raluca Georgiana Serban vs Gina Feistel",
+    "slug": "itf-serban-feistel-2026-06-25",
+    "value": 0.019000000000000003,
+    "timestamp": 1782399970
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x8a82b6edb2ff9c702d0c97cbfb5b56eade73a1050a0ade257de5ed832dac4ac5",
+    "outcome": "Vincent Dullinger",
+    "title": "ITF Slovenska Bistrica: Vincent Dullinger vs Jeremy Gschwendtner",
+    "slug": "itf-dulling-gschwen-2026-06-25",
+    "value": 3.3000000000000003,
+    "timestamp": 1782400058
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xc0dcb5493ff560027fc4127276aa0d93957115eb5d5681c83b2c76cf519da983",
+    "outcome": "Over",
+    "title": "Sasnovich vs. Andreescu: Match O/U 23.5",
+    "slug": "wta-sasnovi-andrees-2026-06-25",
+    "value": 1.7671999999999999,
+    "timestamp": 1782400063
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xf1285a55abba67e9c8943e09aa0ed2b62c4f50b2289901ffea795ba0e834ab1e",
+    "outcome": "Amelia Honer",
+    "title": "ITF Rome: Ava Hrastar vs Amelia Honer",
+    "slug": "itf-hrastar-honer-2026-06-25",
+    "value": 15.3,
+    "timestamp": 1782400078
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xf550655ec013b447744b6d5f16e93853c9c59f534b0b3302c3f2a8d701849bc2",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 5.687919999999999,
+    "timestamp": 1782395501
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xf550655ec013b447744b6d5f16e93853c9c59f534b0b3302c3f2a8d701849bc2",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 2.442,
+    "timestamp": 1782395612
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xf550655ec013b447744b6d5f16e93853c9c59f534b0b3302c3f2a8d701849bc2",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 23.607200000000002,
+    "timestamp": 1782395737
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa0461eb98267f8c2fdb23926fbfb5ea1d6bb2997213caad84f81cf79f6b1fc90",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $56,000 on June 28?",
+    "slug": "bitcoin-above-on-june-28-2026",
+    "value": 217.2236,
+    "timestamp": 1782395777
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa0461eb98267f8c2fdb23926fbfb5ea1d6bb2997213caad84f81cf79f6b1fc90",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $56,000 on June 28?",
+    "slug": "bitcoin-above-on-june-28-2026",
+    "value": 208.94458,
+    "timestamp": 1782396001
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa0461eb98267f8c2fdb23926fbfb5ea1d6bb2997213caad84f81cf79f6b1fc90",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $56,000 on June 28?",
+    "slug": "bitcoin-above-on-june-28-2026",
+    "value": 15.8,
+    "timestamp": 1782396002
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa0461eb98267f8c2fdb23926fbfb5ea1d6bb2997213caad84f81cf79f6b1fc90",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $56,000 on June 28?",
+    "slug": "bitcoin-above-on-june-28-2026",
+    "value": 272.9182,
+    "timestamp": 1782396007
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa1732e030cd7fc3c29568f35343fe0f96f85e64adc6f7ed860a33eefe6275841",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $56,000 on June 27?",
+    "slug": "bitcoin-above-on-june-27-2026",
+    "value": 344.89554,
+    "timestamp": 1782396016
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa0461eb98267f8c2fdb23926fbfb5ea1d6bb2997213caad84f81cf79f6b1fc90",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $56,000 on June 28?",
+    "slug": "bitcoin-above-on-june-28-2026",
+    "value": 5.29086,
+    "timestamp": 1782396065
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa0461eb98267f8c2fdb23926fbfb5ea1d6bb2997213caad84f81cf79f6b1fc90",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $56,000 on June 28?",
+    "slug": "bitcoin-above-on-june-28-2026",
+    "value": 275.07573,
+    "timestamp": 1782396136
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0x7e1bf23b7d584ecb123dbe4696a77c5b58b710467e6df8a7caa23241e59cff58",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $56,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 7.199399999999999,
+    "timestamp": 1782396509
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xb0b9aaf2b242fa0a9b5e2f9617f1e8a5f8c3e1ea8d84948fd3c87e76d570e8ed",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $64,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 2.7517,
+    "timestamp": 1782396620
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa1732e030cd7fc3c29568f35343fe0f96f85e64adc6f7ed860a33eefe6275841",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 27?",
+    "slug": "bitcoin-above-on-june-27-2026",
+    "value": 0.365,
+    "timestamp": 1782396901
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0x437897fca4fc47ebf980cabdbdbb27f9ce845375549dad958a2ddb106d9cb06d",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $64,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 29.139999999999997,
+    "timestamp": 1782396968
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa1732e030cd7fc3c29568f35343fe0f96f85e64adc6f7ed860a33eefe6275841",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 27?",
+    "slug": "bitcoin-above-on-june-27-2026",
+    "value": 0.41500000000000004,
+    "timestamp": 1782396974
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0x437897fca4fc47ebf980cabdbdbb27f9ce845375549dad958a2ddb106d9cb06d",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $64,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 9.290000000000001,
+    "timestamp": 1782398251
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xf550655ec013b447744b6d5f16e93853c9c59f534b0b3302c3f2a8d701849bc2",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 181.96486000000002,
+    "timestamp": 1782398567
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xf550655ec013b447744b6d5f16e93853c9c59f534b0b3302c3f2a8d701849bc2",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 0.44999999999999996,
+    "timestamp": 1782399650
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0x4a2bd29cd9379a3774e362e127d14eb48415cd6f44bfc02a24a8511361ff388c",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 30?",
+    "slug": "bitcoin-above-on-june-30-2026",
+    "value": 0.58882,
+    "timestamp": 1782399698
+  },
+  {
+    "wallet": "0xe9c6312464b52aa3eff13d822b003282075995c9",
+    "conditionId": "0xa1732e030cd7fc3c29568f35343fe0f96f85e64adc6f7ed860a33eefe6275841",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $56,000 on June 27?",
+    "slug": "bitcoin-above-on-june-27-2026",
+    "value": 1.025,
+    "timestamp": 1782399724
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x2ab1da3b7d83aa94f8f838d8287e3aacb14e05c5b2b9426972c81922b7dec316",
+    "outcome": "No",
+    "title": "Will the price of Solana be above $60 on June 26?",
+    "slug": "solana-above-on-june-26-2026",
+    "value": 0.1126,
+    "timestamp": 1782398159
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x12cb9d302beb254d86631f555006f4a31b6c221d40dc08b7f6b5df969df975e0",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 230.0,
+    "timestamp": 1782398236
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x692a5c57f98a3936f54d5b040bc13b446405c3b3efd9f59b7fa6624c92bd9f79",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 2.3000000000000003,
+    "timestamp": 1782398282
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x12cb9d302beb254d86631f555006f4a31b6c221d40dc08b7f6b5df969df975e0",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 4.3,
+    "timestamp": 1782398284
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0xa1dff21769905b07b589a1d0e838ac8ba046767f713add3aebd7c2a2184827e5",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 30?",
+    "slug": "bitcoin-above-on-june-30-2026",
+    "value": 2.3499999999999996,
+    "timestamp": 1782398285
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x12cb9d302beb254d86631f555006f4a31b6c221d40dc08b7f6b5df969df975e0",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 4.3,
+    "timestamp": 1782398345
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x12cb9d302beb254d86631f555006f4a31b6c221d40dc08b7f6b5df969df975e0",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 213.4,
+    "timestamp": 1782398350
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x692a5c57f98a3936f54d5b040bc13b446405c3b3efd9f59b7fa6624c92bd9f79",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 2.3000000000000003,
+    "timestamp": 1782398425
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x692a5c57f98a3936f54d5b040bc13b446405c3b3efd9f59b7fa6624c92bd9f79",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 29?",
+    "slug": "bitcoin-above-on-june-29-2026",
+    "value": 2.3000000000000003,
+    "timestamp": 1782398473
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0xa1dff21769905b07b589a1d0e838ac8ba046767f713add3aebd7c2a2184827e5",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 30?",
+    "slug": "bitcoin-above-on-june-30-2026",
+    "value": 2.25,
+    "timestamp": 1782398522
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0xa1dff21769905b07b589a1d0e838ac8ba046767f713add3aebd7c2a2184827e5",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 30?",
+    "slug": "bitcoin-above-on-june-30-2026",
+    "value": 2.25,
+    "timestamp": 1782398531
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x8e9e7288a949d25931b509d85f6403e4839a86061469b43b878ce8d12d1f010f",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $52,000 on July 1?",
+    "slug": "bitcoin-above-on-july-1-2026",
+    "value": 0.525,
+    "timestamp": 1782398558
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0xa1dff21769905b07b589a1d0e838ac8ba046767f713add3aebd7c2a2184827e5",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 30?",
+    "slug": "bitcoin-above-on-june-30-2026",
+    "value": 2.2,
+    "timestamp": 1782398570
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x7d9f3adcdf3145f451f654098dea044c5284dea2b4a75acb4b2a49e4529d1fec",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be above $1,500 on June 29?",
+    "slug": "ethereum-above-on-june-29-2026",
+    "value": 0.58108,
+    "timestamp": 1782398572
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0xa1dff21769905b07b589a1d0e838ac8ba046767f713add3aebd7c2a2184827e5",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 30?",
+    "slug": "bitcoin-above-on-june-30-2026",
+    "value": 2.2,
+    "timestamp": 1782398576
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0xa1dff21769905b07b589a1d0e838ac8ba046767f713add3aebd7c2a2184827e5",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 30?",
+    "slug": "bitcoin-above-on-june-30-2026",
+    "value": 2.2,
+    "timestamp": 1782398578
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x12cb9d302beb254d86631f555006f4a31b6c221d40dc08b7f6b5df969df975e0",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 3.8,
+    "timestamp": 1782398608
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x96c46c88de2906b1585164929c75dc1e74920c6cbb903742be2f154eecdc1788",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be above $1,500 on July 1?",
+    "slug": "ethereum-above-on-july-1-2026",
+    "value": 1.25,
+    "timestamp": 1782398671
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x12cb9d302beb254d86631f555006f4a31b6c221d40dc08b7f6b5df969df975e0",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $60,000 on June 26?",
+    "slug": "bitcoin-above-on-june-26-2026",
+    "value": 46.800000000000004,
+    "timestamp": 1782398686
+  },
+  {
+    "wallet": "0x71a70f24538d885d1b45f9cea158a2cdf2e56fcf",
+    "conditionId": "0x4ca2f4f8e57e41cafbbe3d7175821d50dbb11b6f3cc05254a5fef616a87bacb8",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be above $1,500 on June 28?",
+    "slug": "ethereum-above-on-june-28-2026",
+    "value": 0.51208,
+    "timestamp": 1782398792
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x95f2d439636a847ab2cd518fd63af7b890497bb0bde5b1bbad5192fb48309592",
+    "outcome": "Hugo Gaston",
+    "title": "Wimbledon, Qualification ATP: Hugo Gaston vs Moez Echargui",
+    "slug": "atp-gaston-echargu-2026-06-25",
+    "value": 36.5,
+    "timestamp": 1782399100
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xbd841a90e801046952f33c9e84faace35b91e6974a7b216bb7bf7c96e7767d1c",
+    "outcome": "Nicolas Oliveira",
+    "title": "Piracicaba: Nick Hardt vs Nicolas Oliveira",
+    "slug": "atp-hardt-oliveir-2026-06-23",
+    "value": 1.4196000000000002,
+    "timestamp": 1782399107
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Dusan Lajovic",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 146.21,
+    "timestamp": 1782399143
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xbd841a90e801046952f33c9e84faace35b91e6974a7b216bb7bf7c96e7767d1c",
+    "outcome": "Nicolas Oliveira",
+    "title": "Piracicaba: Nick Hardt vs Nicolas Oliveira",
+    "slug": "atp-hardt-oliveir-2026-06-23",
+    "value": 8.5844,
+    "timestamp": 1782399160
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xfe9d0037d1f2bd80d1202c1f75eb5660418fd8e7626394e3035c1df343eb8775",
+    "outcome": "Leolia Jeanjean",
+    "title": "Wimbledon, Qualification WTA: Katie Volynets vs Leolia Jeanjean",
+    "slug": "wta-volynet-jeanjea-2026-06-25",
+    "value": 3.9000000000000004,
+    "timestamp": 1782399346
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xc170de7076eafe2aac6afc5bbd54e885c2090f89c575b5315a57b676affd52be",
+    "outcome": "Sumit Nagal",
+    "title": "Targu Mures: Sumit Nagal vs Duje Ajdukovic",
+    "slug": "atp-nagal-ajdukov-2026-06-25",
+    "value": 105.04939999999999,
+    "timestamp": 1782399404
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x4a6d3944c6997151c01706c26a58e454b6f08d43ab6640c3d2fb26b1ac844a1c",
+    "outcome": "Tatjana Maria",
+    "title": "Lexus Eastbourne Open: Tatjana Maria vs Tereza Valentova",
+    "slug": "wta-maria-valento-2026-06-25",
+    "value": 11.55,
+    "timestamp": 1782399445
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Vilius Gaubas",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 1.8615,
+    "timestamp": 1782399650
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x4a6d3944c6997151c01706c26a58e454b6f08d43ab6640c3d2fb26b1ac844a1c",
+    "outcome": "Tatjana Maria",
+    "title": "Lexus Eastbourne Open: Tatjana Maria vs Tereza Valentova",
+    "slug": "wta-maria-valento-2026-06-25",
+    "value": 18.2928,
+    "timestamp": 1782399718
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe3ec589fc73b7a3f749530dfedc4bcf20b9d01e39cf6c92b24a4693dd80b6499",
+    "outcome": "Thiago Cigarran",
+    "title": "Piracicaba: Thiago Cigarran vs Santiago Rodriguez Taverna",
+    "slug": "atp-cigarra-taverna-2026-06-24",
+    "value": 0.5184,
+    "timestamp": 1782399734
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Dusan Lajovic",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 189.8,
+    "timestamp": 1782399757
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x1d97578a34640303c35f18e7370469a35b16399eb456b4adcf23a3e1be2bba46",
+    "outcome": "Vilius Gaubas",
+    "title": "Wimbledon, Qualification ATP: Vilius Gaubas vs Dusan Lajovic",
+    "slug": "atp-gaubas-lajovic-2026-06-25",
+    "value": 14.45,
+    "timestamp": 1782399784
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x3c42d3289588d5d1798324d9a9b9e544eed4d6e558d88ca59b978fc887d2ce46",
+    "outcome": "Enzo Kohlmann de Freitas",
+    "title": "Piracicaba: Enzo Kohlmann de Freitas vs Juan Manuel La Serna",
+    "slug": "atp-freitas-serna-2026-06-22",
+    "value": 5.44,
+    "timestamp": 1782399788
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x2ecd27e4e3bab6a0c2e440a90098b2d2bc68f950448d656e1039cba3794e2a16",
+    "outcome": "Lucia Bronzetti",
+    "title": "Wimbledon, Qualification WTA: Lina Gjorcheska vs Lucia Bronzetti",
+    "slug": "wta-gjorche-bronzet-2026-06-25",
+    "value": 115.122,
+    "timestamp": 1782399799
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe3ec589fc73b7a3f749530dfedc4bcf20b9d01e39cf6c92b24a4693dd80b6499",
+    "outcome": "Santiago Rodriguez Taverna",
+    "title": "Piracicaba: Thiago Cigarran vs Santiago Rodriguez Taverna",
+    "slug": "atp-cigarra-taverna-2026-06-24",
+    "value": 12.25,
+    "timestamp": 1782399878
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x3c42d3289588d5d1798324d9a9b9e544eed4d6e558d88ca59b978fc887d2ce46",
+    "outcome": "Juan Manuel La Serna",
+    "title": "Piracicaba: Enzo Kohlmann de Freitas vs Juan Manuel La Serna",
+    "slug": "atp-freitas-serna-2026-06-22",
+    "value": 26.1,
+    "timestamp": 1782399899
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Mariam Bolkvadze",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 13.7202,
+    "timestamp": 1782399923
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xd55ea1a023280bd014f56f88a4d384eb511da63c47dbf4f17abe76b7774cea16",
+    "outcome": "Mariam Bolkvadze",
+    "title": "Wimbledon, Qualification WTA: Mariam Bolkvadze vs Jeline Vandromme",
+    "slug": "wta-bolkvad-vandrom-2026-06-25",
+    "value": 54.6712,
+    "timestamp": 1782399979
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x95f2d439636a847ab2cd518fd63af7b890497bb0bde5b1bbad5192fb48309592",
+    "outcome": "Hugo Gaston",
+    "title": "Wimbledon, Qualification ATP: Hugo Gaston vs Moez Echargui",
+    "slug": "atp-gaston-echargu-2026-06-25",
+    "value": 3.4000000000000004,
+    "timestamp": 1782400021
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x95f2d439636a847ab2cd518fd63af7b890497bb0bde5b1bbad5192fb48309592",
+    "outcome": "Hugo Gaston",
+    "title": "Wimbledon, Qualification ATP: Hugo Gaston vs Moez Echargui",
+    "slug": "atp-gaston-echargu-2026-06-25",
+    "value": 11.1,
+    "timestamp": 1782400060
+  },
+  {
+    "wallet": "0xe734e7bf7cfb9e464681f71822f6c2f6be514f0c",
+    "conditionId": "0x05b00b6740784aeb0628e9a3cde308a9b70fa3616a55508c569ec9717dee1a91",
+    "outcome": "Yes",
+    "title": "Will WTI Crude Oil (WTI) hit (LOW) $65 in June?",
+    "slug": "what-price-will-wti-hit-in-june-2026",
+    "value": 274.76216,
+    "timestamp": 1782394358
+  },
+  {
+    "wallet": "0xe734e7bf7cfb9e464681f71822f6c2f6be514f0c",
+    "conditionId": "0x05b00b6740784aeb0628e9a3cde308a9b70fa3616a55508c569ec9717dee1a91",
+    "outcome": "Yes",
+    "title": "Will WTI Crude Oil (WTI) hit (LOW) $65 in June?",
+    "slug": "what-price-will-wti-hit-in-june-2026",
+    "value": 203.05465,
+    "timestamp": 1782394411
+  },
+  {
+    "wallet": "0x92672c80d36dcd08172aa1e51dface0f20b70f9a",
+    "conditionId": "0x3de4b1af9c03ab7dbe9e884e29683425c16fa96e7c40a7254f84cabcc0a70e9f",
+    "outcome": "Under",
+    "title": "New York Yankees vs. Boston Red Sox: O/U 7.5",
+    "slug": "mlb-nyy-bos-2026-06-25",
+    "value": 162.85920000000002,
+    "timestamp": 1782397934
   }
 ]
