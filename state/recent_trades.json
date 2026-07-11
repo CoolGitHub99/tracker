@@ -1,735 +1,6 @@
 [
   {
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xd6865e14d2b6c86a14e4a06724281e8ea60651412a3075d8814cabc108849cad",
-    "outcome": "Baltimore Orioles",
-    "title": "Kansas City Royals vs. Baltimore Orioles",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 15.567999999999998,
-    "timestamp": 1783728287
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xfd019860212fef75b10b5435d0ab91257e5ec67eab298bc75842055299e08277",
-    "outcome": "Philadelphia Phillies",
-    "title": "Spread: Detroit Tigers (-1.5)",
-    "slug": "mlb-phi-det-2026-07-10",
-    "value": 17.4714,
-    "timestamp": 1783728409
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x66af3906643acee485f9b2976ee13a4be9fb648ee84249f5ebd7165ece3b8a5c",
-    "outcome": "Under",
-    "title": "Athletics vs. Chicago White Sox: O/U 8.5",
-    "slug": "mlb-oak-cws-2026-07-10",
-    "value": 3.4000000000000004,
-    "timestamp": 1783728542
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xc0424b87221824be7cb80ae73d788eb1f50214cf324c893088ca23753194da03",
-    "outcome": "Texas Rangers",
-    "title": "Spread: Houston Astros (-1.5)",
-    "slug": "mlb-hou-tex-2026-07-10",
-    "value": 0.9018,
-    "timestamp": 1783728590
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x86ee1561c8e7d730dde03c52290927e651e91cfae4b45b37881fc25882251179",
-    "outcome": "Over",
-    "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 1121.3602000122398,
-    "timestamp": 1783728668
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xc0424b87221824be7cb80ae73d788eb1f50214cf324c893088ca23753194da03",
-    "outcome": "Houston Astros",
-    "title": "Spread: Houston Astros (-1.5)",
-    "slug": "mlb-hou-tex-2026-07-10",
-    "value": 2.15,
-    "timestamp": 1783728671
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x1cc7391c03c661fa97c6085336466816c9451cfa84b97d6323dfb5da9090e239",
-    "outcome": "Kansas City Royals",
-    "title": "Spread: Baltimore Orioles (-1.5)",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 5.1401,
-    "timestamp": 1783728698
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x93817da1c87165b6182687f35edbf2b79e3d7b76a2904b5eb8aef6363d62074a",
-    "outcome": "Over",
-    "title": "SC Recife vs. Botafogo FC: O/U 2.5",
-    "slug": "bra2-rec-bot-2026-07-10-more-markets",
-    "value": 31.433999999999997,
-    "timestamp": 1783728311
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
-    "outcome": "No",
-    "title": "Exact Score: Norway 3 - 2 England?",
-    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
-    "value": 19.48,
-    "timestamp": 1783728358
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x20f32e9daf45af5142db1adfe40e11c8de19a9d807ff0d26dc85344e74bea2d5",
-    "outcome": "Switzerland",
-    "title": "Spread: Argentina (-1.5)",
-    "slug": "fifwc-arg-che-2026-07-11-more-markets",
-    "value": 3779.399998255,
-    "timestamp": 1783728383
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x36aea1bafd5d339aa1af200d8108c48d88bcbaa0a180dc8721e7c7cec4a2a31f",
-    "outcome": "Connecticut Sun",
-    "title": "Golden State Valkyries vs. Connecticut Sun",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 12.48,
-    "timestamp": 1783728410
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x6d1ac4815a4642a1ad97b1cf384207b06d66cae075824ec978fe7fbee9924740",
-    "outcome": "Seattle Mariners",
-    "title": "Seattle Mariners vs. Tampa Bay Rays",
-    "slug": "mlb-sea-tb-2026-07-10",
-    "value": 1.5,
-    "timestamp": 1783728445
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xd7e1ce214b1e769381ae906594e0fc1196387706146d66181d49b3e37a460a1e",
-    "outcome": "Golden State Valkyries",
-    "title": "Spread: Golden State Valkyries (-6.5)",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 2.4,
-    "timestamp": 1783728460
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
-    "outcome": "No",
-    "title": "Exact Score: Norway 3 - 2 England?",
-    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
-    "value": 102.27,
-    "timestamp": 1783728464
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xc970e78ba02242038e391f8b396a2a74d3668cad3e089b75aea8552f1ea9eb1b",
-    "outcome": "No",
-    "title": "Exact Score: SC Recife 2 - 1 Botafogo FC?",
-    "slug": "bra2-rec-bot-2026-07-10-exact-score",
-    "value": 19.98,
-    "timestamp": 1783728487
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xae5cb04ead7e17b8c0332015360a81523173dceac47d469cd386e90bba32dce0",
-    "outcome": "New York Mets",
-    "title": "Boston Red Sox vs. New York Mets",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 3.708,
-    "timestamp": 1783728488
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x87bb95f96d8b7619ad2734cb40ff867b7589cff69328158372f6101d98e3277b",
-    "outcome": "New York Mets",
-    "title": "Spread: Boston Red Sox (-1.5)",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 7.869998999291695,
-    "timestamp": 1783728488
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x87bb95f96d8b7619ad2734cb40ff867b7589cff69328158372f6101d98e3277b",
-    "outcome": "New York Mets",
-    "title": "Spread: Boston Red Sox (-1.5)",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 49.80999899680209,
-    "timestamp": 1783728490
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x745674e418c19ff306072d3ec9e93a3d5d6d4bbe4abb7f0a09a3cbc224374b71",
-    "outcome": "No",
-    "title": "Exact Score: SC Recife 0 - 1 Botafogo FC?",
-    "slug": "bra2-rec-bot-2026-07-10-exact-score",
-    "value": 19.98,
-    "timestamp": 1783728517
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xdbc297c0c00bd6387539bcd63b926391aeab7f80c3b43252ddb905ebd95b40a3",
-    "outcome": "No",
-    "title": "Exact Score: SC Recife 1 - 1 Botafogo FC?",
-    "slug": "bra2-rec-bot-2026-07-10-exact-score",
-    "value": 19.98,
-    "timestamp": 1783728518
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x1d9fac2eaf0483e97d6ad670612435b8b91fb0883046df8a6c926ae0f89f30dc",
-    "outcome": "Over",
-    "title": "SC Recife vs. Botafogo FC: Botafogo FC O/U 1.5",
-    "slug": "bra2-rec-bot-2026-07-10-more-markets",
-    "value": 19.969011000000002,
-    "timestamp": 1783728518
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Denver Nuggets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 1.8399989997678747,
-    "timestamp": 1783728536
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xf83dcd877179ed5eea33338d5483630f4eb3b62d0a738179bdef88c40b2bab1e",
-    "outcome": "Houston Astros",
-    "title": "Houston Astros vs. Texas Rangers",
-    "slug": "mlb-hou-tex-2026-07-10",
-    "value": 9.520000000000001,
-    "timestamp": 1783728538
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Denver Nuggets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 3.339998999606526,
-    "timestamp": 1783728538
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xf83dcd877179ed5eea33338d5483630f4eb3b62d0a738179bdef88c40b2bab1e",
-    "outcome": "Houston Astros",
-    "title": "Houston Astros vs. Texas Rangers",
-    "slug": "mlb-hou-tex-2026-07-10",
-    "value": 1088.0800000000002,
-    "timestamp": 1783728539
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xf83dcd877179ed5eea33338d5483630f4eb3b62d0a738179bdef88c40b2bab1e",
-    "outcome": "Houston Astros",
-    "title": "Houston Astros vs. Texas Rangers",
-    "slug": "mlb-hou-tex-2026-07-10",
-    "value": 458.1699990345518,
-    "timestamp": 1783728541
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xf83dcd877179ed5eea33338d5483630f4eb3b62d0a738179bdef88c40b2bab1e",
-    "outcome": "Houston Astros",
-    "title": "Houston Astros vs. Texas Rangers",
-    "slug": "mlb-hou-tex-2026-07-10",
-    "value": 803.7099989764805,
-    "timestamp": 1783728542
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x36aea1bafd5d339aa1af200d8108c48d88bcbaa0a180dc8721e7c7cec4a2a31f",
-    "outcome": "Connecticut Sun",
-    "title": "Golden State Valkyries vs. Connecticut Sun",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 66.76999900546787,
-    "timestamp": 1783728346
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x36aea1bafd5d339aa1af200d8108c48d88bcbaa0a180dc8721e7c7cec4a2a31f",
-    "outcome": "Connecticut Sun",
-    "title": "Golden State Valkyries vs. Connecticut Sun",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 11.22,
-    "timestamp": 1783728349
-  },
-  {
-    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Denver Nuggets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 2.8000000000000003,
-    "timestamp": 1783728197
-  },
-  {
-    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Denver Nuggets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 1.6,
-    "timestamp": 1783728215
-  },
-  {
-    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Houston Rockets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 6.45,
-    "timestamp": 1783728382
-  },
-  {
-    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Denver Nuggets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 2.05,
-    "timestamp": 1783728430
-  },
-  {
-    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Houston Rockets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 7.8,
-    "timestamp": 1783728478
-  },
-  {
-    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Denver Nuggets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 2.8000000000000003,
-    "timestamp": 1783728577
-  },
-  {
-    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Houston Rockets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 6.56,
-    "timestamp": 1783728625
-  },
-  {
-    "wallet": "0x6db568e61e5e3de7d87f831431b673f38ce2e279",
-    "conditionId": "0xfeb1a4d8a4e06fe7250437d403cc373a5d343a88e4f4ed9ed5c7d3d6e92f425e",
-    "outcome": "Houston Rockets",
-    "title": "NBA Summer League: Denver Nuggets vs. Houston Rockets",
-    "slug": "nbasl-den-hou-2026-07-10",
-    "value": 255.0,
-    "timestamp": 1783728680
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x890f60e652f352f5de21a61f222339dbbe31954c3c1822dfc083211afb173d49",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - July 10, 8:00PM-8:05PM ET",
-    "slug": "btc-updown-5m-1783728000",
-    "value": 30.226300000257,
-    "timestamp": 1783728214
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x890f60e652f352f5de21a61f222339dbbe31954c3c1822dfc083211afb173d49",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - July 10, 8:00PM-8:05PM ET",
-    "slug": "btc-updown-5m-1783728000",
-    "value": 26.57,
-    "timestamp": 1783728236
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x831ec6ecc96b339f2170a5b81acd957d36712f4ffc254460829f382ac0677881",
-    "outcome": "Down",
-    "title": "Ethereum Up or Down - July 10, 8:00PM-8:05PM ET",
-    "slug": "eth-updown-5m-1783728000",
-    "value": 115.9587,
-    "timestamp": 1783728265
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x48ae110d8e71718db44310bba5109703d7c00c6c8ee8c537fa9e747459b7ccf1",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - July 10, 8:05PM-8:10PM ET",
-    "slug": "btc-updown-5m-1783728300",
-    "value": 2.55,
-    "timestamp": 1783728304
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x48ae110d8e71718db44310bba5109703d7c00c6c8ee8c537fa9e747459b7ccf1",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - July 10, 8:05PM-8:10PM ET",
-    "slug": "btc-updown-5m-1783728300",
-    "value": 2.1454999996949997,
-    "timestamp": 1783728319
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x48ae110d8e71718db44310bba5109703d7c00c6c8ee8c537fa9e747459b7ccf1",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - July 10, 8:05PM-8:10PM ET",
-    "slug": "btc-updown-5m-1783728300",
-    "value": 8.411200000000001,
-    "timestamp": 1783728337
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x48ae110d8e71718db44310bba5109703d7c00c6c8ee8c537fa9e747459b7ccf1",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - July 10, 8:05PM-8:10PM ET",
-    "slug": "btc-updown-5m-1783728300",
-    "value": 20.499299999185002,
-    "timestamp": 1783728394
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x41a87263ccfcf6d592738ab78a3f65fc24b1b269750bad0b91d37dbff0c95e6a",
-    "outcome": "Tampa Bay Rays",
-    "title": "Spread: Seattle Mariners (-1.5)",
-    "slug": "mlb-sea-tb-2026-07-10",
-    "value": 10.126999999999999,
-    "timestamp": 1783728592
-  },
-  {
-    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-    "conditionId": "0xd6865e14d2b6c86a14e4a06724281e8ea60651412a3075d8814cabc108849cad",
-    "outcome": "Kansas City Royals",
-    "title": "Kansas City Royals vs. Baltimore Orioles",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 1.75,
-    "timestamp": 1783728349
-  },
-  {
-    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
-    "conditionId": "0xbf5a708324f35e02904bd96477f33e5fd3db06ce86cb081bafd28854b40075e8",
-    "outcome": "Over",
-    "title": "Cleveland Guardians vs. Miami Marlins: O/U 7.5",
-    "slug": "mlb-cle-mia-2026-07-10",
-    "value": 62.4,
-    "timestamp": 1783728350
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x87bb95f96d8b7619ad2734cb40ff867b7589cff69328158372f6101d98e3277b",
-    "outcome": "Boston Red Sox",
-    "title": "Spread: Boston Red Sox (-1.5)",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 10.768600000000001,
-    "timestamp": 1783728253
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xd9fc6ff7044b300a284708e9a4917d6eee072c6d2f6ffc8bc005c32d10e925e5",
-    "outcome": "Toronto Tempo",
-    "title": "Dallas Wings vs. Toronto Tempo",
-    "slug": "wnba-dal-tor-2026-07-10",
-    "value": 15.9,
-    "timestamp": 1783728254
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x3df01d128467c9f6908236bf4fe16b50435f3bb0db4310f25f554e4abc7e1c09",
-    "outcome": "Miami Marlins",
-    "title": "Cleveland Guardians vs. Miami Marlins",
-    "slug": "mlb-cle-mia-2026-07-10",
-    "value": 8.25,
-    "timestamp": 1783728268
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xae5cb04ead7e17b8c0332015360a81523173dceac47d469cd386e90bba32dce0",
-    "outcome": "Boston Red Sox",
-    "title": "Boston Red Sox vs. New York Mets",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 74.016,
-    "timestamp": 1783728392
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xae5cb04ead7e17b8c0332015360a81523173dceac47d469cd386e90bba32dce0",
-    "outcome": "Boston Red Sox",
-    "title": "Boston Red Sox vs. New York Mets",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 6.3,
-    "timestamp": 1783728394
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x6d1ac4815a4642a1ad97b1cf384207b06d66cae075824ec978fe7fbee9924740",
-    "outcome": "Tampa Bay Rays",
-    "title": "Seattle Mariners vs. Tampa Bay Rays",
-    "slug": "mlb-sea-tb-2026-07-10",
-    "value": 19.5891,
-    "timestamp": 1783728403
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x36aea1bafd5d339aa1af200d8108c48d88bcbaa0a180dc8721e7c7cec4a2a31f",
-    "outcome": "Golden State Valkyries",
-    "title": "Golden State Valkyries vs. Connecticut Sun",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 4.8528,
-    "timestamp": 1783728458
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xae5cb04ead7e17b8c0332015360a81523173dceac47d469cd386e90bba32dce0",
-    "outcome": "Boston Red Sox",
-    "title": "Boston Red Sox vs. New York Mets",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 1185.6636,
-    "timestamp": 1783728499
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x87bb95f96d8b7619ad2734cb40ff867b7589cff69328158372f6101d98e3277b",
-    "outcome": "Boston Red Sox",
-    "title": "Spread: Boston Red Sox (-1.5)",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 10.768600000000001,
-    "timestamp": 1783728253
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xd9fc6ff7044b300a284708e9a4917d6eee072c6d2f6ffc8bc005c32d10e925e5",
-    "outcome": "Toronto Tempo",
-    "title": "Dallas Wings vs. Toronto Tempo",
-    "slug": "wnba-dal-tor-2026-07-10",
-    "value": 15.9,
-    "timestamp": 1783728254
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x3df01d128467c9f6908236bf4fe16b50435f3bb0db4310f25f554e4abc7e1c09",
-    "outcome": "Miami Marlins",
-    "title": "Cleveland Guardians vs. Miami Marlins",
-    "slug": "mlb-cle-mia-2026-07-10",
-    "value": 8.25,
-    "timestamp": 1783728268
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xae5cb04ead7e17b8c0332015360a81523173dceac47d469cd386e90bba32dce0",
-    "outcome": "Boston Red Sox",
-    "title": "Boston Red Sox vs. New York Mets",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 74.016,
-    "timestamp": 1783728392
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xae5cb04ead7e17b8c0332015360a81523173dceac47d469cd386e90bba32dce0",
-    "outcome": "Boston Red Sox",
-    "title": "Boston Red Sox vs. New York Mets",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 6.3,
-    "timestamp": 1783728394
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x6d1ac4815a4642a1ad97b1cf384207b06d66cae075824ec978fe7fbee9924740",
-    "outcome": "Tampa Bay Rays",
-    "title": "Seattle Mariners vs. Tampa Bay Rays",
-    "slug": "mlb-sea-tb-2026-07-10",
-    "value": 19.5891,
-    "timestamp": 1783728403
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x36aea1bafd5d339aa1af200d8108c48d88bcbaa0a180dc8721e7c7cec4a2a31f",
-    "outcome": "Golden State Valkyries",
-    "title": "Golden State Valkyries vs. Connecticut Sun",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 4.8528,
-    "timestamp": 1783728458
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xae5cb04ead7e17b8c0332015360a81523173dceac47d469cd386e90bba32dce0",
-    "outcome": "Boston Red Sox",
-    "title": "Boston Red Sox vs. New York Mets",
-    "slug": "mlb-bos-nym-2026-07-10",
-    "value": 1185.6636,
-    "timestamp": 1783728499
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x36aea1bafd5d339aa1af200d8108c48d88bcbaa0a180dc8721e7c7cec4a2a31f",
-    "outcome": "Golden State Valkyries",
-    "title": "Golden State Valkyries vs. Connecticut Sun",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 130.5328,
-    "timestamp": 1783728409
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x36aea1bafd5d339aa1af200d8108c48d88bcbaa0a180dc8721e7c7cec4a2a31f",
-    "outcome": "Golden State Valkyries",
-    "title": "Golden State Valkyries vs. Connecticut Sun",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 57.959999999999994,
-    "timestamp": 1783728437
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x0917ff21c3a551e9cb5050ec71701ae6d88e80d5eb4e8df08dd39c12752a6597",
-    "outcome": "Golden State Valkyries",
-    "title": "Spread: Golden State Valkyries (-5.5)",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 5.0,
-    "timestamp": 1783728449
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x36aea1bafd5d339aa1af200d8108c48d88bcbaa0a180dc8721e7c7cec4a2a31f",
-    "outcome": "Golden State Valkyries",
-    "title": "Golden State Valkyries vs. Connecticut Sun",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 50.32,
-    "timestamp": 1783728463
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0xd9fc6ff7044b300a284708e9a4917d6eee072c6d2f6ffc8bc005c32d10e925e5",
-    "outcome": "Toronto Tempo",
-    "title": "Dallas Wings vs. Toronto Tempo",
-    "slug": "wnba-dal-tor-2026-07-10",
-    "value": 17.16,
-    "timestamp": 1783728253
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0xd6865e14d2b6c86a14e4a06724281e8ea60651412a3075d8814cabc108849cad",
-    "outcome": "Kansas City Royals",
-    "title": "Kansas City Royals vs. Baltimore Orioles",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 855.959998933427,
-    "timestamp": 1783728254
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x3df01d128467c9f6908236bf4fe16b50435f3bb0db4310f25f554e4abc7e1c09",
-    "outcome": "Miami Marlins",
-    "title": "Cleveland Guardians vs. Miami Marlins",
-    "slug": "mlb-cle-mia-2026-07-10",
-    "value": 2.97,
-    "timestamp": 1783728268
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x015d10eb21a8606a3fe753b80a4524b9d32df4c72c79686bbf77013ce3f4522b",
-    "outcome": "Under",
-    "title": "Kansas City Royals vs. Baltimore Orioles: O/U 8.5",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 3.7299999996,
-    "timestamp": 1783728287
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x86ee1561c8e7d730dde03c52290927e651e91cfae4b45b37881fc25882251179",
-    "outcome": "Under",
-    "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 4.899999999599999,
-    "timestamp": 1783728287
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x3df01d128467c9f6908236bf4fe16b50435f3bb0db4310f25f554e4abc7e1c09",
-    "outcome": "Cleveland Guardians",
-    "title": "Cleveland Guardians vs. Miami Marlins",
-    "slug": "mlb-cle-mia-2026-07-10",
-    "value": 15.41,
-    "timestamp": 1783728335
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0xa96ac98b87cc094a2c9337760f595dfbfa7533af223bc4ef151c4ed4972f52ec",
-    "outcome": "Under",
-    "title": "Seattle Mariners vs. Tampa Bay Rays: O/U 6.5",
-    "slug": "mlb-sea-tb-2026-07-10",
-    "value": 480.0,
-    "timestamp": 1783728337
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x9c44e40a763fdc058dbdf268b8630f32adfb0216b641ac4d4a957ee8a5605179",
-    "outcome": "Tampa Bay Rays",
-    "title": "Spread: Tampa Bay Rays (-1.5)",
-    "slug": "mlb-sea-tb-2026-07-10",
-    "value": 2.0,
-    "timestamp": 1783728337
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x6d1ac4815a4642a1ad97b1cf384207b06d66cae075824ec978fe7fbee9924740",
-    "outcome": "Tampa Bay Rays",
-    "title": "Seattle Mariners vs. Tampa Bay Rays",
-    "slug": "mlb-sea-tb-2026-07-10",
-    "value": 9.0000000006,
-    "timestamp": 1783728337
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0xbf5a708324f35e02904bd96477f33e5fd3db06ce86cb081bafd28854b40075e8",
-    "outcome": "Under",
-    "title": "Cleveland Guardians vs. Miami Marlins: O/U 7.5",
-    "slug": "mlb-cle-mia-2026-07-10",
-    "value": 2.56,
-    "timestamp": 1783728344
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x3df01d128467c9f6908236bf4fe16b50435f3bb0db4310f25f554e4abc7e1c09",
-    "outcome": "Cleveland Guardians",
-    "title": "Cleveland Guardians vs. Miami Marlins",
-    "slug": "mlb-cle-mia-2026-07-10",
-    "value": 23.950000000499998,
-    "timestamp": 1783728344
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x86ee1561c8e7d730dde03c52290927e651e91cfae4b45b37881fc25882251179",
-    "outcome": "Over",
-    "title": "Kansas City Royals vs. Baltimore Orioles: O/U 9.5",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 4.21000000035516,
-    "timestamp": 1783728353
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0xd6865e14d2b6c86a14e4a06724281e8ea60651412a3075d8814cabc108849cad",
-    "outcome": "Kansas City Royals",
-    "title": "Kansas City Royals vs. Baltimore Orioles",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 12.0,
-    "timestamp": 1783728359
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x015d10eb21a8606a3fe753b80a4524b9d32df4c72c79686bbf77013ce3f4522b",
-    "outcome": "Under",
-    "title": "Kansas City Royals vs. Baltimore Orioles: O/U 8.5",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 4.16,
-    "timestamp": 1783728436
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
     "conditionId": "0xc97296d8fa618846b9dfe57fe52984bad659340b5ac24e125e00a06d5b767515",
     "outcome": "Under",
     "title": "Toronto Blue Jays vs. San Diego Padres: O/U 7.5",
@@ -1090,60 +361,6 @@
   },
   {
     "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0xf6f03b8ce10a367f03e0afe928949fade94187aea5d3ed3fe4d60b6a5945f222",
-    "outcome": "Cincinnati Reds",
-    "title": "Chicago Cubs vs. Cincinnati Reds",
-    "slug": "mlb-chc-cin-2026-07-10",
-    "value": 284.6226,
-    "timestamp": 1783732711
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x53488dada2f70267524c9cbd7b7ccfda9db11a47e109d896c4954e29faf632a3",
-    "outcome": "New York Yankees",
-    "title": "New York Yankees vs. Washington Nationals",
-    "slug": "mlb-nyy-wsh-2026-07-10",
-    "value": 106.8228,
-    "timestamp": 1783732784
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x53488dada2f70267524c9cbd7b7ccfda9db11a47e109d896c4954e29faf632a3",
-    "outcome": "Washington Nationals",
-    "title": "New York Yankees vs. Washington Nationals",
-    "slug": "mlb-nyy-wsh-2026-07-10",
-    "value": 419.15890002349704,
-    "timestamp": 1783734061
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x53488dada2f70267524c9cbd7b7ccfda9db11a47e109d896c4954e29faf632a3",
-    "outcome": "New York Yankees",
-    "title": "New York Yankees vs. Washington Nationals",
-    "slug": "mlb-nyy-wsh-2026-07-10",
-    "value": 23.450000000000003,
-    "timestamp": 1783734085
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x716350a3eb51c90cb63179037a214443b6f76fa5622859baa13b814bdcec8860",
-    "outcome": "Under",
-    "title": "Arizona Diamondbacks vs. Los Angeles Dodgers: O/U 8.5",
-    "slug": "mlb-ari-lad-2026-07-10",
-    "value": 5402.1408,
-    "timestamp": 1783735354
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0xb9fc7613ed8d108291492eef3996617b5ffed24ab2b2ef8cafed5ef4ce08f652",
-    "outcome": "Los Angeles Sparks",
-    "title": "Chicago Sky vs. Los Angeles Sparks",
-    "slug": "wnba-chi-la-2026-07-10",
-    "value": 1083.691,
-    "timestamp": 1783735606
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
     "conditionId": "0xc97296d8fa618846b9dfe57fe52984bad659340b5ac24e125e00a06d5b767515",
     "outcome": "Over",
     "title": "Toronto Blue Jays vs. San Diego Padres: O/U 7.5",
@@ -1270,114 +487,6 @@
   },
   {
     "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xd9fc6ff7044b300a284708e9a4917d6eee072c6d2f6ffc8bc005c32d10e925e5",
-    "outcome": "Dallas Wings",
-    "title": "Dallas Wings vs. Toronto Tempo",
-    "slug": "wnba-dal-tor-2026-07-10",
-    "value": 1750.56999,
-    "timestamp": 1783732774
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xd9fc6ff7044b300a284708e9a4917d6eee072c6d2f6ffc8bc005c32d10e925e5",
-    "outcome": "Dallas Wings",
-    "title": "Dallas Wings vs. Toronto Tempo",
-    "slug": "wnba-dal-tor-2026-07-10",
-    "value": 2271.289982,
-    "timestamp": 1783732930
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xaa9c701ff83c3df15c65739a2d9e8731685f376c47666c892fceeaa5f44a1a0f",
-    "outcome": "Over",
-    "title": "Ulsan HD FC vs. Jeonbuk Hyundai Motors FC: O/U 3.5",
-    "slug": "kor-uls-jeo-2026-07-11-more-markets",
-    "value": 1.4399990000001603,
-    "timestamp": 1783733008
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x3964ed7d0063c3337afa411cd7911fafd1b0ce8ab0569bc2bf70f705f9d03046",
-    "outcome": "Piros",
-    "title": "Set Handicap: Kym (-1.5) vs Piros (+1.5)",
-    "slug": "atp-piros-kym-2026-07-11",
-    "value": 10.829998000145846,
-    "timestamp": 1783733360
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x64ecced11d4594c15abcd8f8b18a6d0ecd18a3138752ed4c03bc1d9542c63953",
-    "outcome": "No",
-    "title": "Racing Louisville FC vs. Bay FC: Both Teams to Score",
-    "slug": "nwsl-rac-bay-2026-07-10-more-markets",
-    "value": 120.0,
-    "timestamp": 1783733629
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x79fcfa6112c4876a58366d8587eae04aeeffabd21195199b7a8ce8f7957d14f5",
-    "outcome": "Yes",
-    "title": "Will Bay FC win on 2026-07-10?",
-    "slug": "nwsl-rac-bay-2026-07-10",
-    "value": 27.189984999504276,
-    "timestamp": 1783733690
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x79fcfa6112c4876a58366d8587eae04aeeffabd21195199b7a8ce8f7957d14f5",
-    "outcome": "Yes",
-    "title": "Will Bay FC win on 2026-07-10?",
-    "slug": "nwsl-rac-bay-2026-07-10",
-    "value": 28.2,
-    "timestamp": 1783733699
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xd58ac06933e3a4c74c5014a99e74ad7e9b73b4a0afcd74319de8bf109343ee8a",
-    "outcome": "PlayTime",
-    "title": "Dota 2: PlayTime vs Nigma Galaxy - Game 1 Winner",
-    "slug": "dota2-playti-ngx-2026-07-11-more-markets",
-    "value": 69.69,
-    "timestamp": 1783734217
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x88d9ae0c8078d2490d4f5a09c4dd4595aa5662d6941dd047f8939c245e88cab5",
-    "outcome": "Atleticos de San German",
-    "title": "Atleticos de San German vs. Leones de Ponce",
-    "slug": "bkbsn-atl-leo-2026-07-10",
-    "value": 115.46999500033549,
-    "timestamp": 1783734553
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x88d9ae0c8078d2490d4f5a09c4dd4595aa5662d6941dd047f8939c245e88cab5",
-    "outcome": "Atleticos de San German",
-    "title": "Atleticos de San German vs. Leones de Ponce",
-    "slug": "bkbsn-atl-leo-2026-07-10",
-    "value": 93.70999799793873,
-    "timestamp": 1783734809
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x88d9ae0c8078d2490d4f5a09c4dd4595aa5662d6941dd047f8939c245e88cab5",
-    "outcome": "Atleticos de San German",
-    "title": "Atleticos de San German vs. Leones de Ponce",
-    "slug": "bkbsn-atl-leo-2026-07-10",
-    "value": 56.49999799833335,
-    "timestamp": 1783734898
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x713d53b88b6f117591a3ce0db6b11537b6e6e85920d7ecd90c8dbe899e5e178c",
-    "outcome": "BBL Esports",
-    "title": "Map Handicap: NRG (-1.5) vs BBL Esports (+1.5)",
-    "slug": "val-bbl1-nrg-2026-07-11",
-    "value": 15.209999999999999,
-    "timestamp": 1783735655
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
     "conditionId": "0xc7dc6ae5127adcbcb074141ac56579cab3bb4f45a9f19522d76ff2f2f882103c",
     "outcome": "Filippo Mazzola",
     "title": "ITF Bucharest: Ilya Snitari vs Filippo Mazzola",
@@ -1447,33 +556,6 @@
     "slug": "chi-ron-ton-2026-07-11",
     "value": 14.649998000402498,
     "timestamp": 1783741361
-  },
-  {
-    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-    "conditionId": "0xac5f2fea81a3672c7f761ff4284613a05fa7004788b6aab2d4e9b0d5494575eb",
-    "outcome": "No",
-    "title": "Will the next GPT model released by OpenAI debut at a score of at least 1520 by December 31, 2026?",
-    "slug": "next-gpt-model-text-arena-debut-20260623205143356",
-    "value": 37905.057,
-    "timestamp": 1783729190
-  },
-  {
-    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-    "conditionId": "0x4dc5c13eb9646b10da7d5f079f77ef2480ec5466861ce1cfbc910fabed3d7d0d",
-    "outcome": "Yes",
-    "title": "Kash Patel out by December 31?",
-    "slug": "kash-patel-out-by",
-    "value": 677.5218999329539,
-    "timestamp": 1783734322
-  },
-  {
-    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-    "conditionId": "0x73fbb1f065379a37490829dc4068b68b708d2c415b483bffa1e4a26262471885",
-    "outcome": "Yes",
-    "title": "Kash Patel out by July 31?",
-    "slug": "kash-patel-out-by",
-    "value": 6.281399996775,
-    "timestamp": 1783734371
   },
   {
     "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
@@ -1576,33 +658,6 @@
   },
   {
     "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0xa87c859bcdd0efa187f9dfb8b813acd7eda161a3637fa4c073973f4fef3306f6",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - July 10, 9:45PM-10:00PM ET",
-    "slug": "btc-updown-15m-1783734300",
-    "value": 85.62199999484,
-    "timestamp": 1783735066
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0xbe2f6d28c74ceef2c01d5a7d333dc3e21728a525c5b60701d707eeb1ad51b011",
-    "outcome": "Down",
-    "title": "Solana Up or Down - July 10, 9:45PM-10:00PM ET",
-    "slug": "sol-updown-15m-1783734300",
-    "value": 2.56,
-    "timestamp": 1783735109
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0x1a70a9637b74dcc63929961a0a5d07076d9c47be664431343f096c4901864078",
-    "outcome": "Down",
-    "title": "Ethereum Up or Down - July 10, 9:45PM-10:00PM ET",
-    "slug": "eth-updown-15m-1783734300",
-    "value": 32.315000000000005,
-    "timestamp": 1783735111
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
     "conditionId": "0x62254a9f71d54ba5f9196f34dbc9060abc7386d324a1f9cf92209d3446540d27",
     "outcome": "Up",
     "title": "Bitcoin Up or Down - July 10, 10:45PM-11:00PM ET",
@@ -1618,15 +673,6 @@
     "slug": "sol-updown-15m-1783739700",
     "value": 13.76999999964,
     "timestamp": 1783740203
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0xadb00c64a88e8df8303f640eb865d4b73f24a23cc4c3220682ed52f0b6e3be92",
-    "outcome": "Yes",
-    "title": "Will Ethereum reach $1,800 in July?",
-    "slug": "what-price-will-ethereum-hit-in-july-2026",
-    "value": 81.16559999679,
-    "timestamp": 1783731935
   },
   {
     "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
@@ -1827,51 +873,6 @@
     "timestamp": 1783738078
   },
   {
-    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
-    "conditionId": "0xe747d9f9734f79e939daf9a683560e5576c2daee20c33a5588c680c6f400fbb6",
-    "outcome": "No",
-    "title": "Will Bilibili Gaming win MSI 2026?",
-    "slug": "msi-2026-winner-20260615160657983",
-    "value": 509.3704,
-    "timestamp": 1783730735
-  },
-  {
-    "wallet": "0x24c8cf69a0e0a17eee21f69d29752bfa32e823e1",
-    "conditionId": "0xac550c316d635e7f2dc810de6d6afd531e254b3c9c7d56d32d14337e7c3979e4",
-    "outcome": "Yes",
-    "title": "Fed Rate Hike by July 2026 Meeting?",
-    "slug": "fed-rate-hike-by",
-    "value": 15.411310000000002,
-    "timestamp": 1783735874
-  },
-  {
-    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
-    "conditionId": "0x030c3a80b8b4b40db2cf44d746f83ddb280000000000000000000000000000",
-    "outcome": "",
-    "title": "Norway vs. England: Both Teams to Score AND Argentina vs. Switzerland: Both Teams to Score AND Argentina vs. Switzerland: O/U 2.5 AND Norway vs. England: O/U 2.5",
-    "slug": "",
-    "value": 0.9599989998010492,
-    "timestamp": 1783735867
-  },
-  {
-    "wallet": "0x39d3c773be30fcc73161fc6768f46d563a779ef0",
-    "conditionId": "0x0f5e01cf1cabb6c49e424f230ca77a2ccd3e1ac63b31ae03ef749ac2bde7fa0e",
-    "outcome": "No",
-    "title": "Will England win on 2026-07-11?",
-    "slug": "fifwc-nor-eng-2026-07-11",
-    "value": 90.695,
-    "timestamp": 1783735624
-  },
-  {
-    "wallet": "0x9f2fe025f84839ca81dd8e0338892605702d2ca8",
-    "conditionId": "0x58fb28277f01ff73ccf08a758225ed51a00267d06e6369701cfbb931f527bf92",
-    "outcome": "San Francisco Giants",
-    "title": "Colorado Rockies vs. San Francisco Giants",
-    "slug": "mlb-col-sf-2026-07-10",
-    "value": 1566.7247999999997,
-    "timestamp": 1783730377
-  },
-  {
     "wallet": "0x32ed517a571c01b6e9adecf61ba81ca48ff2f960",
     "conditionId": "0xf83dcd877179ed5eea33338d5483630f4eb3b62d0a738179bdef88c40b2bab1e",
     "outcome": "Texas Rangers",
@@ -2050,33 +1051,6 @@
     "slug": "mlb-nyy-wsh-2026-07-10",
     "value": 493.22399999999993,
     "timestamp": 1783740992
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x462a940650a7d229081fa9d073ec2fbc93383cce43c099d00faad1ea79649e9f",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on July 16?",
-    "slug": "bitcoin-above-on-july-16-2026",
-    "value": 8.0,
-    "timestamp": 1783732697
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x462a940650a7d229081fa9d073ec2fbc93383cce43c099d00faad1ea79649e9f",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on July 16?",
-    "slug": "bitcoin-above-on-july-16-2026",
-    "value": 8.100000000000001,
-    "timestamp": 1783732984
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0x199292e239ae8c1ff32d1dedc0262a1ef0252b6ba93c1d6f88580046b49c40d8",
-    "outcome": "No",
-    "title": "Will the price of Bitcoin be above $62,000 on July 14?",
-    "slug": "bitcoin-above-on-july-14-2026",
-    "value": 2.0,
-    "timestamp": 1783734307
   },
   {
     "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
@@ -2628,69 +1602,6 @@
     "timestamp": 1783741396
   },
   {
-    "wallet": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
-    "conditionId": "0x92934161d139762306dabfd449d5b710ba54c3a6cf1f04bef1663a59fea5023e",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be between $62,000 and $64,000 on July 11?",
-    "slug": "bitcoin-price-on-july-11-2026",
-    "value": 477.2915,
-    "timestamp": 1783732427
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0xd6865e14d2b6c86a14e4a06724281e8ea60651412a3075d8814cabc108849cad",
-    "outcome": "Kansas City Royals",
-    "title": "Kansas City Royals vs. Baltimore Orioles",
-    "slug": "mlb-kc-bal-2026-07-10",
-    "value": 81.5136,
-    "timestamp": 1783731146
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0xc0d131a2a9a450d40b15de85a8be71eca153ae8afaef8e4953d545e941252f3d",
-    "outcome": "Golden State Valkyries",
-    "title": "Spread: Golden State Valkyries (-8.5)",
-    "slug": "wnba-gsv-conn-2026-07-10",
-    "value": 13.860000000000001,
-    "timestamp": 1783731355
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0xd9fc6ff7044b300a284708e9a4917d6eee072c6d2f6ffc8bc005c32d10e925e5",
-    "outcome": "Toronto Tempo",
-    "title": "Dallas Wings vs. Toronto Tempo",
-    "slug": "wnba-dal-tor-2026-07-10",
-    "value": 24.75,
-    "timestamp": 1783731476
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0xd9fc6ff7044b300a284708e9a4917d6eee072c6d2f6ffc8bc005c32d10e925e5",
-    "outcome": "Toronto Tempo",
-    "title": "Dallas Wings vs. Toronto Tempo",
-    "slug": "wnba-dal-tor-2026-07-10",
-    "value": 27.269998998288646,
-    "timestamp": 1783731481
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0x3df01d128467c9f6908236bf4fe16b50435f3bb0db4310f25f554e4abc7e1c09",
-    "outcome": "Miami Marlins",
-    "title": "Cleveland Guardians vs. Miami Marlins",
-    "slug": "mlb-cle-mia-2026-07-10",
-    "value": 16.95,
-    "timestamp": 1783733585
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0x716350a3eb51c90cb63179037a214443b6f76fa5622859baa13b814bdcec8860",
-    "outcome": "Under",
-    "title": "Arizona Diamondbacks vs. Los Angeles Dodgers: O/U 8.5",
-    "slug": "mlb-ari-lad-2026-07-10",
-    "value": 2135.9604,
-    "timestamp": 1783735100
-  },
-  {
     "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
     "conditionId": "0xdae2fd2aaeeb832e13fc564457a1ca2ba7da317d89337f8b55daf16a72befdcb",
     "outcome": "Arizona Diamondbacks",
@@ -2887,60 +1798,6 @@
     "slug": "mlb-nyy-wsh-2026-07-10",
     "value": 10.854600000000001,
     "timestamp": 1783741513
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x13b6109354482642549db51c3bd05bf411f86850b28b72383e920f4a65861f8f",
-    "outcome": "Under",
-    "title": "Chicago Sky vs. Los Angeles Sparks: O/U 180.5",
-    "slug": "wnba-chi-la-2026-07-10",
-    "value": 106.0,
-    "timestamp": 1783735739
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x874e5d55a907ae5a8ad16b41f64ca70be3ff4691904f05402c0f54988bc1a8b4",
-    "outcome": "Under",
-    "title": "Chicago Sky vs. Los Angeles Sparks: O/U 179.5",
-    "slug": "wnba-chi-la-2026-07-10",
-    "value": 1.0352999999999999,
-    "timestamp": 1783735768
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x82eba31d9dec445c656bdae1edda95a007c9636f630acd5430c3e9f3bef7e493",
-    "outcome": "regain",
-    "title": "Counter-Strike: Voca vs regain - Map 1 Winner",
-    "slug": "cs2-voc-regain-2026-07-10",
-    "value": 2.21,
-    "timestamp": 1783735808
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x82eba31d9dec445c656bdae1edda95a007c9636f630acd5430c3e9f3bef7e493",
-    "outcome": "regain",
-    "title": "Counter-Strike: Voca vs regain - Map 1 Winner",
-    "slug": "cs2-voc-regain-2026-07-10",
-    "value": 8.9586,
-    "timestamp": 1783735814
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x82eba31d9dec445c656bdae1edda95a007c9636f630acd5430c3e9f3bef7e493",
-    "outcome": "regain",
-    "title": "Counter-Strike: Voca vs regain - Map 1 Winner",
-    "slug": "cs2-voc-regain-2026-07-10",
-    "value": 3.3150000000000004,
-    "timestamp": 1783735858
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x82eba31d9dec445c656bdae1edda95a007c9636f630acd5430c3e9f3bef7e493",
-    "outcome": "regain",
-    "title": "Counter-Strike: Voca vs regain - Map 1 Winner",
-    "slug": "cs2-voc-regain-2026-07-10",
-    "value": 18.0,
-    "timestamp": 1783735864
   },
   {
     "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
@@ -5524,5 +4381,1220 @@
     "slug": "fifwc-nor-eng-2026-07-11",
     "value": 2327.86035,
     "timestamp": 1783747073
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x92aab0716cb65cfdd2f13f80c9f2bcc920b8d500ca3994318c77f5af27877925",
+    "outcome": "No",
+    "title": "Exact Score: Norway 2 - 3 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 854.3899919999999,
+    "timestamp": 1783756705
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 19.4099980003605,
+    "timestamp": 1783756732
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 9.69999799972203,
+    "timestamp": 1783756733
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 19.4099980003605,
+    "timestamp": 1783756744
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 486.0,
+    "timestamp": 1783756771
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 24.3,
+    "timestamp": 1783756774
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 2760.48,
+    "timestamp": 1783756775
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x1358bc2ca6839f886b9a49343ac71005a9772b6fb362cba55de897348c591230",
+    "outcome": "Over",
+    "title": "Mjallby AIF vs. AIK: AIK 1st Half O/U 0.5",
+    "slug": "swe-mja-aik-2026-07-11-more-markets",
+    "value": 6.0,
+    "timestamp": 1783756819
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xde516a0958b189eb55d9776cc1fd7f6c171f4f3092da400cdb0704a3d7ec7c0b",
+    "outcome": "Yes",
+    "title": "AIK leading at halftime?",
+    "slug": "swe-mja-aik-2026-07-11-halftime-result",
+    "value": 4.389998999550049,
+    "timestamp": 1783756819
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 972.0,
+    "timestamp": 1783756820
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 500.58,
+    "timestamp": 1783756984
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x506b8453d971a7bf5ea7f885b8c49f33c9520a636a27f13558b92274a312bfa0",
+    "outcome": "No",
+    "title": "Exact Score: Argentina 3 - 3 Switzerland?",
+    "slug": "fifwc-arg-che-2026-07-11-exact-score",
+    "value": 19.86,
+    "timestamp": 1783757051
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xbfb749fb2564f65b868486c6a4a45491fcd76a09bf7b4eca0af8de3e9487d936",
+    "outcome": "Arizona Diamondbacks",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "slug": "mlb-ari-lad-2026-07-11",
+    "value": 2.3000000000000003,
+    "timestamp": 1783757060
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x506b8453d971a7bf5ea7f885b8c49f33c9520a636a27f13558b92274a312bfa0",
+    "outcome": "No",
+    "title": "Exact Score: Argentina 3 - 3 Switzerland?",
+    "slug": "fifwc-arg-che-2026-07-11-exact-score",
+    "value": 19.86,
+    "timestamp": 1783757063
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x506b8453d971a7bf5ea7f885b8c49f33c9520a636a27f13558b92274a312bfa0",
+    "outcome": "No",
+    "title": "Exact Score: Argentina 3 - 3 Switzerland?",
+    "slug": "fifwc-arg-che-2026-07-11-exact-score",
+    "value": 19.86,
+    "timestamp": 1783757089
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x05ec6874762eab8b8fb5456bbc784b8e93ace110970b299ab520bdf9fd1d5c0e",
+    "outcome": "No",
+    "title": "Exact Score: Argentina 3 - 2 Switzerland?",
+    "slug": "fifwc-arg-che-2026-07-11-exact-score",
+    "value": 136.76997500299998,
+    "timestamp": 1783757198
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x05ec6874762eab8b8fb5456bbc784b8e93ace110970b299ab520bdf9fd1d5c0e",
+    "outcome": "No",
+    "title": "Exact Score: Argentina 3 - 2 Switzerland?",
+    "slug": "fifwc-arg-che-2026-07-11-exact-score",
+    "value": 3116.619975003,
+    "timestamp": 1783757233
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 505.44,
+    "timestamp": 1783757252
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xeabfb854b199d3ed9f3ca691ade13fa83c9b09ab275a92e55f283921b8906012",
+    "outcome": "No",
+    "title": "Exact Score: Norway 3 - 2 England?",
+    "slug": "fifwc-nor-eng-2026-07-11-exact-score",
+    "value": 1851.6599999999999,
+    "timestamp": 1783757276
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3e5eefeb7bcf5ef4ae818074eae0e1958bf3fcedcf3aaff9a2076520e52d58b7",
+    "outcome": "Viktoria Hruncakova",
+    "title": "ITF Don Benito: Melisa Ercan vs Viktoria Hruncakova",
+    "slug": "itf-ercan-hruncak-2026-07-11",
+    "value": 34.93999799882583,
+    "timestamp": 1783757348
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3ed1dcee32645d18abedcd266e7aab13fb55bea56977dfc9abd571bb0afe9356",
+    "outcome": "Titouan Droguet",
+    "title": "Iasi: Valentin Royer vs Titouan Droguet",
+    "slug": "atp-royer-droguet-2026-07-11",
+    "value": 356.65999897714033,
+    "timestamp": 1783754354
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xbb5243e8e12a186025c0f27597a8c4808a206379f1f9762d4072718644dc9fa3",
+    "outcome": "Hanwha Life Esports",
+    "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+    "slug": "lol-hle1-ly-2026-07-11",
+    "value": 27.139998,
+    "timestamp": 1783754363
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3ed1dcee32645d18abedcd266e7aab13fb55bea56977dfc9abd571bb0afe9356",
+    "outcome": "Titouan Droguet",
+    "title": "Iasi: Valentin Royer vs Titouan Droguet",
+    "slug": "atp-royer-droguet-2026-07-11",
+    "value": 227.36999798110529,
+    "timestamp": 1783754522
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xb96585ac41b808bac0bcfa00f39a92990c64dc413804368c7191ad4e1cd299a5",
+    "outcome": "Alexander Zverev",
+    "title": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
+    "slug": "atp-sinner-zverev-2026-07-12",
+    "value": 1.1400000000000001,
+    "timestamp": 1783754545
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x943e12dbb784009f4b1a1ec72a243a84fc7f239a6bb389481b1ffa8a0e645f34",
+    "outcome": "Ikumi Yamazaki",
+    "title": "ITF Luan: Cheuk Ying Shek vs Ikumi Yamazaki",
+    "slug": "itf-shek-yamazak-2026-07-11",
+    "value": 4.889998999716695,
+    "timestamp": 1783755274
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x76d475a73274258053d7555b3521c114cb083bbc051d2e1c212c4a309419fdb2",
+    "outcome": "Tatjana Maria",
+    "title": "Newport: Mananchaya Sawangkaew vs Tatjana Maria",
+    "slug": "wta-sawangk-maria-2026-07-11",
+    "value": 190.67999999999998,
+    "timestamp": 1783755296
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3e5eefeb7bcf5ef4ae818074eae0e1958bf3fcedcf3aaff9a2076520e52d58b7",
+    "outcome": "Viktoria Hruncakova",
+    "title": "ITF Don Benito: Melisa Ercan vs Viktoria Hruncakova",
+    "slug": "itf-ercan-hruncak-2026-07-11",
+    "value": 11.279997000214655,
+    "timestamp": 1783755491
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3918ce5d22487a3d93a343bf872fbf84b2afb32f097804cfaf14d459581fbd51",
+    "outcome": "Aurora",
+    "title": "Dota 2: Aurora vs Team Liquid - Game 1 Winner",
+    "slug": "dota2-aur1-liquid-2026-07-11-more-markets",
+    "value": 19.899999000016138,
+    "timestamp": 1783755769
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xbb5243e8e12a186025c0f27597a8c4808a206379f1f9762d4072718644dc9fa3",
+    "outcome": "LYON",
+    "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+    "slug": "lol-hle1-ly-2026-07-11",
+    "value": 1.739998999600092,
+    "timestamp": 1783755806
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x2d6fb7ae79a1dd9a05c9f6f789de3abfbcdeb58b99c7df274f3d3b9f5b9db0dc",
+    "outcome": "Under",
+    "title": "Games Total: O/U 3.5",
+    "slug": "lol-hle1-ly-2026-07-11",
+    "value": 4.439999000070636,
+    "timestamp": 1783756079
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x019b14a010b7e57ef034c2d03ce37403304357207c3470f9e2a35a2fe7a58a4a",
+    "outcome": "No",
+    "title": "Will BK Hacken win on 2026-07-11?",
+    "slug": "swe-org-hac-2026-07-11",
+    "value": 17.859998999027038,
+    "timestamp": 1783756150
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x8b10bf2ecb04c704ef0ade790087c530a85254d9fbdb70012310c828129cbd96",
+    "outcome": "No",
+    "title": "Will Switzerland win on 2026-07-11?",
+    "slug": "fifwc-arg-che-2026-07-11",
+    "value": 190.87999800638096,
+    "timestamp": 1783756268
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x056ff2d7e1fd6e3f8e11f21ee7e17358bb07e0c361cfb4224560a12689472b09",
+    "outcome": "Astrid Cirotte",
+    "title": "ITF Hillcrest: Jana Hossam Salah vs Astrid Cirotte",
+    "slug": "itf-salah-cirotte-2026-07-11",
+    "value": 220.11000002010002,
+    "timestamp": 1783756343
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x54cd4e4a1b9547f21c18e75eeb9ac3c35ccf0cb8154b4ae7c64ed9878dd4deee",
+    "outcome": "Broska",
+    "title": "Set Handicap: Coppejans (-1.5) vs Broska (+1.5)",
+    "slug": "atp-broska-coppeja-2026-07-11",
+    "value": 32.259998002510734,
+    "timestamp": 1783756549
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x54cd4e4a1b9547f21c18e75eeb9ac3c35ccf0cb8154b4ae7c64ed9878dd4deee",
+    "outcome": "Broska",
+    "title": "Set Handicap: Coppejans (-1.5) vs Broska (+1.5)",
+    "slug": "atp-broska-coppeja-2026-07-11",
+    "value": 34.580000000000005,
+    "timestamp": 1783756594
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x8b10bf2ecb04c704ef0ade790087c530a85254d9fbdb70012310c828129cbd96",
+    "outcome": "No",
+    "title": "Will Switzerland win on 2026-07-11?",
+    "slug": "fifwc-arg-che-2026-07-11",
+    "value": 46.299995998738105,
+    "timestamp": 1783756658
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3e627c710cfdb59ccf27c5252b43dab7f84aef4d7e3823e0c2c9521a44bbb835",
+    "outcome": "Hanwha Life Esports",
+    "title": "Game Handicap: HLE (-2.5) vs LYON (+2.5)",
+    "slug": "lol-hle1-ly-2026-07-11",
+    "value": 618.7699990486894,
+    "timestamp": 1783756822
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3e627c710cfdb59ccf27c5252b43dab7f84aef4d7e3823e0c2c9521a44bbb835",
+    "outcome": "Hanwha Life Esports",
+    "title": "Game Handicap: HLE (-2.5) vs LYON (+2.5)",
+    "slug": "lol-hle1-ly-2026-07-11",
+    "value": 24.949999002479174,
+    "timestamp": 1783756877
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3e627c710cfdb59ccf27c5252b43dab7f84aef4d7e3823e0c2c9521a44bbb835",
+    "outcome": "Hanwha Life Esports",
+    "title": "Game Handicap: HLE (-2.5) vs LYON (+2.5)",
+    "slug": "lol-hle1-ly-2026-07-11",
+    "value": 227.91999898013333,
+    "timestamp": 1783757066
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3e5eefeb7bcf5ef4ae818074eae0e1958bf3fcedcf3aaff9a2076520e52d58b7",
+    "outcome": "Viktoria Hruncakova",
+    "title": "ITF Don Benito: Melisa Ercan vs Viktoria Hruncakova",
+    "slug": "itf-ercan-hruncak-2026-07-11",
+    "value": 56.65999699886814,
+    "timestamp": 1783757162
+  },
+  {
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "conditionId": "0x38b1f9f80a0ca11d8bf25f98ca1ea41243825151320fdadb49eda6dc9d56f4c3",
+    "outcome": "FaZe",
+    "title": "Counter-Strike: PARIVISION vs FaZe (BO3) - XSE Pro League Playoffs",
+    "slug": "cs2-prv-faze-2026-07-11",
+    "value": 4080.0,
+    "timestamp": 1783753919
+  },
+  {
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "conditionId": "0x38b1f9f80a0ca11d8bf25f98ca1ea41243825151320fdadb49eda6dc9d56f4c3",
+    "outcome": "FaZe",
+    "title": "Counter-Strike: PARIVISION vs FaZe (BO3) - XSE Pro League Playoffs",
+    "slug": "cs2-prv-faze-2026-07-11",
+    "value": 5200.0,
+    "timestamp": 1783754921
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xf449bd748e015ec982e83c9a52d75d18dc4c8ffe9dbce0198ade2d4ea7e6f3e9",
+    "outcome": "Under",
+    "title": "Argentina vs. Switzerland: O/U 3.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 17120.159998326442,
+    "timestamp": 1783749974
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0x1db0a673e54d03be88c155835d1b08286a469fe9ae8cfffe73777d18431533e4",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 1.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 476.15999897934597,
+    "timestamp": 1783749974
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0x2f204628fdab76ab18a96c8b05ae7a13a3ff74b0047e63c22668c3ed28e7822b",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 2.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 59.4499989982515,
+    "timestamp": 1783749974
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0x1db0a673e54d03be88c155835d1b08286a469fe9ae8cfffe73777d18431533e4",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 1.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 5791.489997783122,
+    "timestamp": 1783749974
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0x1db0a673e54d03be88c155835d1b08286a469fe9ae8cfffe73777d18431533e4",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 1.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 476.1599989894633,
+    "timestamp": 1783749974
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xf993e4cec8b08c0b76e52e16b4d26327f1aacd87c37e7189d5acac8e0b97d7b6",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 0.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 4942.53999603,
+    "timestamp": 1783749974
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xf993e4cec8b08c0b76e52e16b4d26327f1aacd87c37e7189d5acac8e0b97d7b6",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 0.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 406.4299930153374,
+    "timestamp": 1783749974
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0x1db0a673e54d03be88c155835d1b08286a469fe9ae8cfffe73777d18431533e4",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 1.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 11033.579997765166,
+    "timestamp": 1783749976
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0x1db0a673e54d03be88c155835d1b08286a469fe9ae8cfffe73777d18431533e4",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 1.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 3321.1199992072175,
+    "timestamp": 1783749976
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xf993e4cec8b08c0b76e52e16b4d26327f1aacd87c37e7189d5acac8e0b97d7b6",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 0.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 2834.07999602,
+    "timestamp": 1783749976
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xf449bd748e015ec982e83c9a52d75d18dc4c8ffe9dbce0198ade2d4ea7e6f3e9",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 3.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 529.7900000740594,
+    "timestamp": 1783749976
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xf993e4cec8b08c0b76e52e16b4d26327f1aacd87c37e7189d5acac8e0b97d7b6",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 0.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 9413.089992942123,
+    "timestamp": 1783749976
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0x2f204628fdab76ab18a96c8b05ae7a13a3ff74b0047e63c22668c3ed28e7822b",
+    "outcome": "Over",
+    "title": "Argentina vs. Switzerland: O/U 2.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 2132.969998804109,
+    "timestamp": 1783749976
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xf993e4cec8b08c0b76e52e16b4d26327f1aacd87c37e7189d5acac8e0b97d7b6",
+    "outcome": "Under",
+    "title": "Argentina vs. Switzerland: O/U 0.5",
+    "slug": "fifwc-arg-che-2026-07-11-more-markets",
+    "value": 26.19999900694595,
+    "timestamp": 1783749976
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xfd7bc8c2b08924ce8e14222d839b913c2883254c824ea0512dd9646afbf64ae4",
+    "outcome": "Over",
+    "title": "Norway vs. England: O/U 4.5",
+    "slug": "fifwc-nor-eng-2026-07-11-more-markets",
+    "value": 12.20999899937716,
+    "timestamp": 1783756436
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xa8d64ff826067a88d125173890b470ce99f1328da7b33bb038627ef67661fa10",
+    "outcome": "England",
+    "title": "Spread: England (-1.5)",
+    "slug": "fifwc-nor-eng-2026-07-11-more-markets",
+    "value": 15015.3219995625,
+    "timestamp": 1783756645
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xa8d64ff826067a88d125173890b470ce99f1328da7b33bb038627ef67661fa10",
+    "outcome": "England",
+    "title": "Spread: England (-1.5)",
+    "slug": "fifwc-nor-eng-2026-07-11-more-markets",
+    "value": 6649.188000000001,
+    "timestamp": 1783756645
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xa8d64ff826067a88d125173890b470ce99f1328da7b33bb038627ef67661fa10",
+    "outcome": "England",
+    "title": "Spread: England (-1.5)",
+    "slug": "fifwc-nor-eng-2026-07-11-more-markets",
+    "value": 116.2699989856,
+    "timestamp": 1783756667
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xa8d64ff826067a88d125173890b470ce99f1328da7b33bb038627ef67661fa10",
+    "outcome": "England",
+    "title": "Spread: England (-1.5)",
+    "slug": "fifwc-nor-eng-2026-07-11-more-markets",
+    "value": 16.609998998720965,
+    "timestamp": 1783756678
+  },
+  {
+    "wallet": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
+    "conditionId": "0xa8d64ff826067a88d125173890b470ce99f1328da7b33bb038627ef67661fa10",
+    "outcome": "England",
+    "title": "Spread: England (-1.5)",
+    "slug": "fifwc-nor-eng-2026-07-11-more-markets",
+    "value": 1854.5499988251697,
+    "timestamp": 1783756742
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xb9ecc6ca0f5c80a68a36b3043100f02a607bce3e1e223fd6db6e58adf61c406b",
+    "outcome": "Up",
+    "title": "Solana Up or Down - July 11, 2:45AM-3:00AM ET",
+    "slug": "sol-updown-15m-1783752300",
+    "value": 21.671200001312002,
+    "timestamp": 1783752893
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xec9cd4dc86eba4c1c83c7835e36e87777197d42553c2587fe022730fa510f084",
+    "outcome": "Up",
+    "title": "Ethereum Up or Down - July 11, 12:00AM-4:00AM ET",
+    "slug": "eth-updown-4h-1783742400",
+    "value": 4.0,
+    "timestamp": 1783754036
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xea04b03385781e7bc3bfa7c4e09f7ad2cbe3c696ecde29db405bcf0916581869",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 3:15AM-3:30AM ET",
+    "slug": "btc-updown-15m-1783754100",
+    "value": 1249.9999989686557,
+    "timestamp": 1783754929
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xea04b03385781e7bc3bfa7c4e09f7ad2cbe3c696ecde29db405bcf0916581869",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 3:15AM-3:30AM ET",
+    "slug": "btc-updown-15m-1783754100",
+    "value": 168.099499994454,
+    "timestamp": 1783754932
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xed19aabecd27292555078942e328a2f65cfa6b65c0843c27daf2c10d0f05890d",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 12:00AM-4:00AM ET",
+    "slug": "btc-updown-4h-1783742400",
+    "value": 16.8,
+    "timestamp": 1783755181
+  },
+  {
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "conditionId": "0x1e5179e2ad483beb64cb089393817b4f4ba77c285a389d8ccdea4cc0b498fa33",
+    "outcome": "Yes",
+    "title": "Will a team from LCS (North America) win MSI 2026?",
+    "slug": "lol-msi-2026-winning-region",
+    "value": 45.422749986789,
+    "timestamp": 1783750823
+  },
+  {
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "conditionId": "0xc944b0677a883c8dc0bbeb4eab57c573d19335012968bb0f38dad40bc2a058d8",
+    "outcome": "LYON",
+    "title": "LoL: Hanwha Life Esports vs LYON - Game 1 Winner",
+    "slug": "lol-hle1-ly-2026-07-11",
+    "value": 91.54,
+    "timestamp": 1783751693
+  },
+  {
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "conditionId": "0xbb5243e8e12a186025c0f27597a8c4808a206379f1f9762d4072718644dc9fa3",
+    "outcome": "LYON",
+    "title": "LoL: Hanwha Life Esports vs LYON (BO5) - Mid-Season Invitational Playoffs",
+    "slug": "lol-hle1-ly-2026-07-11",
+    "value": 498.40000000000003,
+    "timestamp": 1783751723
+  },
+  {
+    "wallet": "0x709e8dcb133555794decc598e07f2c923b8366f5",
+    "conditionId": "0xc944b0677a883c8dc0bbeb4eab57c573d19335012968bb0f38dad40bc2a058d8",
+    "outcome": "LYON",
+    "title": "LoL: Hanwha Life Esports vs LYON - Game 1 Winner",
+    "slug": "lol-hle1-ly-2026-07-11",
+    "value": 389.18,
+    "timestamp": 1783754609
+  },
+  {
+    "wallet": "0x1cc16713196d456f86fa9c7387dd326a7f73b8df",
+    "conditionId": "0xc851fc5ae688d3d67bccb7c8f0ca475f61ebda796cfcddca7230042de6b48cfd",
+    "outcome": "Max Holloway",
+    "title": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
+    "slug": "ufc-max1-con-2026-07-11",
+    "value": 14000.0,
+    "timestamp": 1783750064
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa7f4aea07b1b7e3a644dbfaa55b2a68743562dea91d8e4f016c57ada85ca963a",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:05AM ET",
+    "slug": "btc-updown-5m-1783756800",
+    "value": 15.58,
+    "timestamp": 1783757075
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa7f4aea07b1b7e3a644dbfaa55b2a68743562dea91d8e4f016c57ada85ca963a",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:05AM ET",
+    "slug": "btc-updown-5m-1783756800",
+    "value": 1.7399999999999998,
+    "timestamp": 1783757078
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa7f4aea07b1b7e3a644dbfaa55b2a68743562dea91d8e4f016c57ada85ca963a",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:05AM ET",
+    "slug": "btc-updown-5m-1783756800",
+    "value": 13.8171,
+    "timestamp": 1783757078
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xc423145f8ec086f2e8a96d6d9ec060675e54ce5bf0a376c1104829f71bffed62",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:15AM ET",
+    "slug": "btc-updown-15m-1783756800",
+    "value": 2.55,
+    "timestamp": 1783757086
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 2.5,
+    "timestamp": 1783757141
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 20.0,
+    "timestamp": 1783757141
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 2.55,
+    "timestamp": 1783757143
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 20.4,
+    "timestamp": 1783757143
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xc423145f8ec086f2e8a96d6d9ec060675e54ce5bf0a376c1104829f71bffed62",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:15AM ET",
+    "slug": "btc-updown-15m-1783756800",
+    "value": 2.8499999999999996,
+    "timestamp": 1783757143
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 2.25,
+    "timestamp": 1783757183
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 18.093999999999998,
+    "timestamp": 1783757183
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xc423145f8ec086f2e8a96d6d9ec060675e54ce5bf0a376c1104829f71bffed62",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:15AM ET",
+    "slug": "btc-updown-15m-1783756800",
+    "value": 2.1,
+    "timestamp": 1783757183
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xc423145f8ec086f2e8a96d6d9ec060675e54ce5bf0a376c1104829f71bffed62",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:15AM ET",
+    "slug": "btc-updown-15m-1783756800",
+    "value": 2.15,
+    "timestamp": 1783757209
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xc423145f8ec086f2e8a96d6d9ec060675e54ce5bf0a376c1104829f71bffed62",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:15AM ET",
+    "slug": "btc-updown-15m-1783756800",
+    "value": 2.55,
+    "timestamp": 1783757219
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 11.5276,
+    "timestamp": 1783757219
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xc423145f8ec086f2e8a96d6d9ec060675e54ce5bf0a376c1104829f71bffed62",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:15AM ET",
+    "slug": "btc-updown-15m-1783756800",
+    "value": 2.7,
+    "timestamp": 1783757224
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 15.504,
+    "timestamp": 1783757224
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xc423145f8ec086f2e8a96d6d9ec060675e54ce5bf0a376c1104829f71bffed62",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:00AM-4:15AM ET",
+    "slug": "btc-updown-15m-1783756800",
+    "value": 2.7,
+    "timestamp": 1783757225
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 21.107599999999998,
+    "timestamp": 1783757225
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8d4a2ae287baa62c97848d04a37aa86fed0892bec2aa59873ad5f0ff6a9fb493",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - July 11, 4:05AM-4:10AM ET",
+    "slug": "btc-updown-5m-1783757100",
+    "value": 2.6500000000000004,
+    "timestamp": 1783757227
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x939693c8859f2684a8be14724282117fbf438701de890f47bc85ce8b42c11076",
+    "outcome": "New York Yankees",
+    "title": "New York Yankees vs. Washington Nationals",
+    "slug": "mlb-nyy-wsh-2026-07-11",
+    "value": 1416.9771,
+    "timestamp": 1783750588
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xe15b4fe6c40ac79463951165cac1302ff8e0f0b0e4f117a4abf142948bfccb7c",
+    "outcome": "Under",
+    "title": "Phoenix Mercury vs. Las Vegas Aces: O/U 171.5",
+    "slug": "wnba-phx-las-2026-07-11",
+    "value": 15.453000000000001,
+    "timestamp": 1783750768
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x30fc9b3bb49011a6bd575a875c835fa5557bd128f787d073cd981d599b20c4a2",
+    "outcome": "Under",
+    "title": "New York Liberty vs. Minnesota Lynx: O/U 175.5",
+    "slug": "wnba-nyl-min-2026-07-11",
+    "value": 132.5,
+    "timestamp": 1783752382
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xf6ec610908b5585a06e0ae8921a4fdb4ba22b7e8d8b4dce4e988364b672afb8d",
+    "outcome": "Under",
+    "title": "New York Liberty vs. Minnesota Lynx: O/U 172.5",
+    "slug": "wnba-nyl-min-2026-07-11",
+    "value": 19.3875,
+    "timestamp": 1783752382
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xddc3b9a816c06570764843af8f7dc28473e28e4aaf934e1bc0483f0b9fed1efe",
+    "outcome": "Under",
+    "title": "New York Liberty vs. Minnesota Lynx: O/U 173.5",
+    "slug": "wnba-nyl-min-2026-07-11",
+    "value": 143.9963,
+    "timestamp": 1783752382
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x60c7791529761ff345703e8a28c1c8ab5a0e725e055043c4df79f90510dc3bad",
+    "outcome": "Under",
+    "title": "Atlanta Braves vs. St. Louis Cardinals: O/U 8.5",
+    "slug": "mlb-atl-stl-2026-07-11",
+    "value": 73.355,
+    "timestamp": 1783754780
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x96ae79681f517e4c047c14e304dddc2daeb20fe781d0b36c64f2bddacce3a3d2",
+    "outcome": "Minnesota Lynx",
+    "title": "New York Liberty vs. Minnesota Lynx",
+    "slug": "wnba-nyl-min-2026-07-11",
+    "value": 476.9982,
+    "timestamp": 1783757207
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x20662a8fba364600068ca619822442fe033261b9cb21baf204770389080b7d96",
+    "outcome": "No",
+    "title": "Will July 2026 be the 3rd hottest on record?",
+    "slug": "2026-july-1st-2nd-3rd-hottest-on-record-20260706144334512",
+    "value": 61.79999900051613,
+    "timestamp": 1783756787
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xe504ef8baf7de34c2e8019540dbabf82a84680de5fec14ac4011abc4359179d7",
+    "outcome": "No",
+    "title": "Will July 2026 be the 2nd hottest on record?",
+    "slug": "2026-july-1st-2nd-3rd-hottest-on-record-20260706144334512",
+    "value": 94.0,
+    "timestamp": 1783756787
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x88fd3d0fb536e2a593c1eb75ec13c838ffb4193cf77b0d68f820f803b1d09bfd",
+    "outcome": "Yes",
+    "title": "Will the highest temperature in Beijing be 29\u00b0C on July 11?",
+    "slug": "highest-temperature-in-beijing-on-july-11-2026",
+    "value": 12.069998999275876,
+    "timestamp": 1783756864
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x30b8cddbf20925c12bc82f0216294bb409f7845f51a6d7d0a62861154c526c4e",
+    "outcome": "Yes",
+    "title": "Will the highest temperature in Karachi be 34\u00b0C on July 11?",
+    "slug": "highest-temperature-in-karachi-on-july-11-2026",
+    "value": 60.8899980033728,
+    "timestamp": 1783756889
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xe73d04e34f8469773685b56672e9c4e8f07c66cd1cea16a1e2ea72bc8f55ba12",
+    "outcome": "No",
+    "title": "Will the highest temperature in Miami be between 88-89\u00b0F on July 11?",
+    "slug": "highest-temperature-in-miami-on-july-11-2026",
+    "value": 29.57999799986698,
+    "timestamp": 1783757101
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xb888a65e18fd9ade5c2e3f1f98bfccc00ef99c717ac6300d3209a95e46165385",
+    "outcome": "No",
+    "title": "Will the highest temperature in Miami be between 96-97\u00b0F on July 11?",
+    "slug": "highest-temperature-in-miami-on-july-11-2026",
+    "value": 29.81999799876586,
+    "timestamp": 1783757101
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xeda3144a582cd086c0645ff353fb2c3de1505268becb563f0ec7459667ba1c45",
+    "outcome": "No",
+    "title": "Will the highest temperature in Miami be between 86-87\u00b0F on July 11?",
+    "slug": "highest-temperature-in-miami-on-july-11-2026",
+    "value": 29.909561999709,
+    "timestamp": 1783757101
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x5d05fef99c9a2b9f71da17d41d9729cd8e34dbb56b3a863978d6825935666658",
+    "outcome": "No",
+    "title": "Will the highest temperature in Miami be between 92-93\u00b0F on July 11?",
+    "slug": "highest-temperature-in-miami-on-july-11-2026",
+    "value": 13.5,
+    "timestamp": 1783757101
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x4c9dbfd7f4298f514faa79b2134823c734b934ed7a5391c3f879ae560e8b0082",
+    "outcome": "No",
+    "title": "Will the highest temperature in Miami be between 94-95\u00b0F on July 11?",
+    "slug": "highest-temperature-in-miami-on-july-11-2026",
+    "value": 27.639991998841335,
+    "timestamp": 1783757101
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x2955f9f0b076bfb8f1cd3d5d433b050bdd12effd3241f855a1f8aedb3507b233",
+    "outcome": "No",
+    "title": "Will the highest temperature in Helsinki be 22\u00b0C on July 13?",
+    "slug": "highest-temperature-in-helsinki-on-july-13-2026",
+    "value": 6.059978,
+    "timestamp": 1783757273
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x02c0c4690092783bffd5b07502dde3434cafd1eb6c7d8e7ca8cdaea6ca98a6e7",
+    "outcome": "No",
+    "title": "Will the highest temperature in Helsinki be 23\u00b0C on July 13?",
+    "slug": "highest-temperature-in-helsinki-on-july-13-2026",
+    "value": 6.0,
+    "timestamp": 1783757273
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xbff4cf5da01629c492352d970820b3a2d72bc609b3207e91bee77dd70f4c7419",
+    "outcome": "No",
+    "title": "Will the highest temperature in Helsinki be 26\u00b0C or higher on July 13?",
+    "slug": "highest-temperature-in-helsinki-on-july-13-2026",
+    "value": 3.5000000000000004,
+    "timestamp": 1783757273
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x887cef7ac3e7f1e16dd870c57f44879e3e95686b635dcd74555df23aa1f27494",
+    "outcome": "No",
+    "title": "Will the highest temperature in Helsinki be 24\u00b0C on July 13?",
+    "slug": "highest-temperature-in-helsinki-on-july-13-2026",
+    "value": 5.0,
+    "timestamp": 1783757273
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xe26f7b8d9c87c790f452c08b1669251f9ec2510048e4cb916363f6505928efe8",
+    "outcome": "Clement Tabur",
+    "title": "Swiss Open, Qualification: Clement Tabur vs Hendrik Jebens",
+    "slug": "atp-tabur-jebens-2026-07-11",
+    "value": 119.52999900102283,
+    "timestamp": 1783749706
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xe26f7b8d9c87c790f452c08b1669251f9ec2510048e4cb916363f6505928efe8",
+    "outcome": "Clement Tabur",
+    "title": "Swiss Open, Qualification: Clement Tabur vs Hendrik Jebens",
+    "slug": "atp-tabur-jebens-2026-07-11",
+    "value": 423.829993,
+    "timestamp": 1783749706
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x95f29022c29585047e79d4cae1c9edb4032034fed1f7dbd7fca356b1ed483c00",
+    "outcome": "TYLOO",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO (BO3) - BLAST Open Asian Qualifier Playoffs",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 15.4628,
+    "timestamp": 1783752112
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x95f29022c29585047e79d4cae1c9edb4032034fed1f7dbd7fca356b1ed483c00",
+    "outcome": "TYLOO",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO (BO3) - BLAST Open Asian Qualifier Playoffs",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 6.64,
+    "timestamp": 1783752166
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x95f29022c29585047e79d4cae1c9edb4032034fed1f7dbd7fca356b1ed483c00",
+    "outcome": "TYLOO",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO (BO3) - BLAST Open Asian Qualifier Playoffs",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 18.7,
+    "timestamp": 1783752182
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x95f29022c29585047e79d4cae1c9edb4032034fed1f7dbd7fca356b1ed483c00",
+    "outcome": "TYLOO",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO (BO3) - BLAST Open Asian Qualifier Playoffs",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 10.92,
+    "timestamp": 1783752199
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x95f29022c29585047e79d4cae1c9edb4032034fed1f7dbd7fca356b1ed483c00",
+    "outcome": "TYLOO",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO (BO3) - BLAST Open Asian Qualifier Playoffs",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 19.152,
+    "timestamp": 1783752215
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x95f29022c29585047e79d4cae1c9edb4032034fed1f7dbd7fca356b1ed483c00",
+    "outcome": "TYLOO",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO (BO3) - BLAST Open Asian Qualifier Playoffs",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 17.9829,
+    "timestamp": 1783752245
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x95f29022c29585047e79d4cae1c9edb4032034fed1f7dbd7fca356b1ed483c00",
+    "outcome": "TYLOO",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO (BO3) - BLAST Open Asian Qualifier Playoffs",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 4.25,
+    "timestamp": 1783752580
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x95f29022c29585047e79d4cae1c9edb4032034fed1f7dbd7fca356b1ed483c00",
+    "outcome": "TYLOO",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO (BO3) - BLAST Open Asian Qualifier Playoffs",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 4.35,
+    "timestamp": 1783752634
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x48d9df11a5c84e438f630310919bd31b7266d67753c7a1391a43a4820365b27c",
+    "outcome": "Ekaterina Maklakova",
+    "title": "ITF Astana: Ekaterina Maklakova vs Maria Sholokhova",
+    "slug": "itf-maklako-sholokh-2026-07-11",
+    "value": 11.399999999999999,
+    "timestamp": 1783753658
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xba5da29515be36b47b52ea813872eced001b19a5fbf3bbc06edf90a9a37d4e2c",
+    "outcome": "The Huns Esports",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO - Map 1 Winner",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 180.0,
+    "timestamp": 1783753744
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xe348b4863ac879a122b85af289ed7ec5959c2bb0dd7578663d33653a4b1394bb",
+    "outcome": "Speen Ghar Tigers",
+    "title": "Shpageeza Cricket League: Speen Ghar Tigers vs Amo Sharks",
+    "slug": "cricshpageeza-spe-amo-2026-07-11",
+    "value": 48.4428,
+    "timestamp": 1783753801
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x8304367ef95a71dde296d1af24aba8da27261d120991df699890caae0bd26b91",
+    "outcome": "Under",
+    "title": "Games Total: O/U 2.5",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 1.807,
+    "timestamp": 1783754218
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x8304367ef95a71dde296d1af24aba8da27261d120991df699890caae0bd26b91",
+    "outcome": "Under",
+    "title": "Games Total: O/U 2.5",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 79.2,
+    "timestamp": 1783754290
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xe348b4863ac879a122b85af289ed7ec5959c2bb0dd7578663d33653a4b1394bb",
+    "outcome": "Amo Sharks",
+    "title": "Shpageeza Cricket League: Speen Ghar Tigers vs Amo Sharks",
+    "slug": "cricshpageeza-spe-amo-2026-07-11",
+    "value": 47.168000000000006,
+    "timestamp": 1783754290
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x8304367ef95a71dde296d1af24aba8da27261d120991df699890caae0bd26b91",
+    "outcome": "Under",
+    "title": "Games Total: O/U 2.5",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 28.1886,
+    "timestamp": 1783754327
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x8304367ef95a71dde296d1af24aba8da27261d120991df699890caae0bd26b91",
+    "outcome": "Under",
+    "title": "Games Total: O/U 2.5",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 11.497200000000001,
+    "timestamp": 1783754362
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x056ff2d7e1fd6e3f8e11f21ee7e17358bb07e0c361cfb4224560a12689472b09",
+    "outcome": "Jana Hossam Salah",
+    "title": "ITF Hillcrest: Jana Hossam Salah vs Astrid Cirotte",
+    "slug": "itf-salah-cirotte-2026-07-11",
+    "value": 9.999999000350883,
+    "timestamp": 1783755743
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x763a66b4ea58aae35f4f4ad704ca49f4398ab8b66781d48c349f50d75863ba57",
+    "outcome": "The Huns Esports",
+    "title": "Counter-Strike: The Huns Esports vs TYLOO - Map 2 Winner",
+    "slug": "cs2-the9-tyloo-2026-07-10",
+    "value": 180.0,
+    "timestamp": 1783756447
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x0d69215e5fba237351e39e19e86f47ac0dcbea91b557ea86af1d4fdd4dc66522",
+    "outcome": "Under 2.5",
+    "title": "Marc-Andrea Huesler vs. Edas Butvilas: Total Sets O/U 2.5",
+    "slug": "atp-huesler-butvila-2026-07-11",
+    "value": 18.14,
+    "timestamp": 1783757192
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x53d7c5da3db9618287be4652bd211d4562f763205133352026d7375382d90b75",
+    "outcome": "Alina Tikhonova",
+    "title": "ITF Luan: Maria Kalyakina vs Alina Tikhonova",
+    "slug": "itf-kalyaki-tikhono-2026-07-11",
+    "value": 3.35,
+    "timestamp": 1783757408
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xf812cd60daad3492c2bbf7a0f1e8ca5574c2d72a5602f6ed8e65547508cd86e2",
+    "outcome": "Yes",
+    "title": "Will Switzerland reach the 2026 FIFA World Cup final?",
+    "slug": "world-cup-nation-to-reach-final",
+    "value": 7.104259999999999,
+    "timestamp": 1783755865
   }
 ]
