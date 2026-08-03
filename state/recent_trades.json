@@ -1,753 +1,6 @@
 [
   {
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x5b1bca4fb9dda15315436eed871782b2b7aeb37b1f602c3594fdbfe89733a906",
-    "outcome": "Under",
-    "title": "CA V\u00e9lez Sarsfield vs. CA Independiente: CA Independiente O/U 2.5",
-    "slug": "arg-vel-ind-2026-08-03-more-markets",
-    "value": 4.489991,
-    "timestamp": 1785733746
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xe70c83af8e7be48fb919ef895f4d62059bb7aa14e9ffc38ba81da934aa2e48e2",
-    "outcome": "Houston Astros",
-    "title": "Spread: Houston Astros (-1.5)",
-    "slug": "mlb-tor-hou-2026-08-03",
-    "value": 9.869998999747395,
-    "timestamp": 1785734744
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x63b007f75f26406a1ce8fdedf87d79d95ea61a473bf987d8b0bac33b22bbe649",
-    "outcome": "No",
-    "title": "Exact Score: CA Platense 0 - 3 CA Talleres?",
-    "slug": "arg-pla-tal-2026-08-03-exact-score",
-    "value": 122.489955,
-    "timestamp": 1785735590
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x63b007f75f26406a1ce8fdedf87d79d95ea61a473bf987d8b0bac33b22bbe649",
-    "outcome": "No",
-    "title": "Exact Score: CA Platense 0 - 3 CA Talleres?",
-    "slug": "arg-pla-tal-2026-08-03-exact-score",
-    "value": 24.489955000000002,
-    "timestamp": 1785735596
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x39b45aa91f167faa5c96c8be70a911bfacf6ef1ad7ef4ae423c4e7b62f7e3635",
-    "outcome": "Yes",
-    "title": "Exact Score: Seinajoen JK 3 - 2 HJK Helsinki?",
-    "slug": "fin1-sei-hjk-2026-08-03-exact-score",
-    "value": 2.0,
-    "timestamp": 1785736890
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x07502c9f2b12b130d1995d00679a8857852fc78dde0b70bfc4ae04e95f512db8",
-    "outcome": "Yes",
-    "title": "Will CA Central C\u00f3rdoba win on 2026-08-03?",
-    "slug": "arg-cac-slo-2026-08-03",
-    "value": 5.409999000496596,
-    "timestamp": 1785737544
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xb6b095f1de39b1779df91bf6d696132408356c301206db55bd5addf01ec53aca",
-    "outcome": "Under",
-    "title": "AC Sparta Praha vs. Olympique Lyonnais: AC Sparta Praha O/U 1.5",
-    "slug": "ucl-spp-lyo-2026-08-04-more-markets",
-    "value": 247.20999898038224,
-    "timestamp": 1785738026
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xb6b095f1de39b1779df91bf6d696132408356c301206db55bd5addf01ec53aca",
-    "outcome": "Under",
-    "title": "AC Sparta Praha vs. Olympique Lyonnais: AC Sparta Praha O/U 1.5",
-    "slug": "ucl-spp-lyo-2026-08-04-more-markets",
-    "value": 63.50999800488549,
-    "timestamp": 1785738026
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x023483cb38969faae200b217021f147439d521ab2f81792088f5d0dd1bf0e295",
-    "outcome": "Over",
-    "title": "Djurgardens IF vs. Vasteraas SK: O/U 3.5",
-    "slug": "swe-dju-vas-2026-08-03-more-markets",
-    "value": 15.47999900152729,
-    "timestamp": 1785741887
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x67a9f35c7fb014b8b71777314aec039260eca15069220e2f04047b5fd088dfd8",
-    "outcome": "No",
-    "title": "Exact Score: Celtic FC 0 - 3 Dundee FC?",
-    "slug": "scop-cel-dfc-2026-08-03-exact-score",
-    "value": 99.0,
-    "timestamp": 1785735629
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xe950219ff8ef04c301f01ceaf48fede519adce9ea63a25df9fa3d868c0ef5791",
-    "outcome": "Yes",
-    "title": "Exact Score: Celtic FC 1 - 0 Dundee FC?",
-    "slug": "scop-cel-dfc-2026-08-03-exact-score",
-    "value": 18.900000000000002,
-    "timestamp": 1785740169
-  },
-  {
-    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-    "conditionId": "0xbdee951d870b2e24184240d9ab6eb4471277ffb763219cd949da56ba60f0714b",
-    "outcome": "Yes",
-    "title": "Will Trump speak to Emmanuel Macron in July?",
-    "slug": "who-will-trump-speak-to-in-july-20260626154217421",
-    "value": 36.715700000000005,
-    "timestamp": 1785740433
-  },
-  {
-    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-    "conditionId": "0xbdee951d870b2e24184240d9ab6eb4471277ffb763219cd949da56ba60f0714b",
-    "outcome": "Yes",
-    "title": "Will Trump speak to Emmanuel Macron in July?",
-    "slug": "who-will-trump-speak-to-in-july-20260626154217421",
-    "value": 11.027460000000001,
-    "timestamp": 1785740462
-  },
-  {
-    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-    "conditionId": "0xbdee951d870b2e24184240d9ab6eb4471277ffb763219cd949da56ba60f0714b",
-    "outcome": "Yes",
-    "title": "Will Trump speak to Emmanuel Macron in July?",
-    "slug": "who-will-trump-speak-to-in-july-20260626154217421",
-    "value": 14.422799971247999,
-    "timestamp": 1785740468
-  },
-  {
-    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-    "conditionId": "0xbdee951d870b2e24184240d9ab6eb4471277ffb763219cd949da56ba60f0714b",
-    "outcome": "Yes",
-    "title": "Will Trump speak to Emmanuel Macron in July?",
-    "slug": "who-will-trump-speak-to-in-july-20260626154217421",
-    "value": 22.798780202781003,
-    "timestamp": 1785740472
-  },
-  {
-    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
-    "conditionId": "0xbdee951d870b2e24184240d9ab6eb4471277ffb763219cd949da56ba60f0714b",
-    "outcome": "Yes",
-    "title": "Will Trump speak to Emmanuel Macron in July?",
-    "slug": "who-will-trump-speak-to-in-july-20260626154217421",
-    "value": 13.266930000000002,
-    "timestamp": 1785740555
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0xd2c89792784f10ad617988322dd7e33211778e03311ea8a38609398e2d022c13",
-    "outcome": "No",
-    "title": "Will XRP dip to $0.80 in August?",
-    "slug": "what-price-will-xrp-hit-in-august-2026",
-    "value": 2968.0876,
-    "timestamp": 1785736565
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x5cbbb6467ffed01866c81364f870b002be410478b3d53614c95ac6ff077a06be",
-    "outcome": "Yes",
-    "title": "Will XRP reach $1.40 in August?",
-    "slug": "what-price-will-xrp-hit-in-august-2026",
-    "value": 165.5999998965,
-    "timestamp": 1785737711
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x2f72a1db2b30fc752dd36429a331afdc9e97d2a75b93fb3f22d34f19fbacd9ba",
-    "outcome": "Yes",
-    "title": "Will Solana dip to $50 in August?",
-    "slug": "what-price-will-solana-hit-in-august-2026",
-    "value": 107.739500221496,
-    "timestamp": 1785739995
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x4eb74fe35a288d003806e62c2997c90ce51f4d028820e95261eb92be21f563dc",
-    "outcome": "Yes",
-    "title": "Will Ethereum dip to $1,200 in August?",
-    "slug": "what-price-will-ethereum-hit-in-august-2026",
-    "value": 11.52996000309,
-    "timestamp": 1785740607
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0xbfd1ca094689fb0df8a84a43a794d8d93b9f79136b393ac499f016afeeda70b5",
-    "outcome": "Yes",
-    "title": "Will Solana dip to $60 in August?",
-    "slug": "what-price-will-solana-hit-in-august-2026",
-    "value": 595.8,
-    "timestamp": 1785741341
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x803747e5dd127a6fc249348349e5a46580a53664b0d939d5a8107962bb494f2c",
-    "outcome": "No",
-    "title": "Will XRP dip to $1.00 in August?",
-    "slug": "what-price-will-xrp-hit-in-august-2026",
-    "value": 209.99999899360466,
-    "timestamp": 1785741549
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x803747e5dd127a6fc249348349e5a46580a53664b0d939d5a8107962bb494f2c",
-    "outcome": "No",
-    "title": "Will XRP dip to $1.00 in August?",
-    "slug": "what-price-will-xrp-hit-in-august-2026",
-    "value": 1380.9978,
-    "timestamp": 1785741818
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0x8d4a7ff516a59242b702fafe77a848c6f6848e7f546afa8783ed12d928c96e17",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 3, 12:00AM-4:00AM ET",
-    "slug": "btc-updown-4h-1785729600",
-    "value": 14.102000000000002,
-    "timestamp": 1785733152
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0x5f0fa13098cc35a91254951b34415bcbf11e1823970b01bbff13424d71e21c05",
-    "outcome": "Up",
-    "title": "Ethereum Up or Down - August 3, 12:00AM-4:00AM ET",
-    "slug": "eth-updown-4h-1785729600",
-    "value": 14.399999999999999,
-    "timestamp": 1785733566
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0x9ee8ce4836e1842132aced8ff4cde4b1e63211de8dbac18870f4abb51423eff8",
-    "outcome": "Up",
-    "title": "Solana Up or Down - August 3, 1:30AM-1:45AM ET",
-    "slug": "sol-updown-15m-1785735000",
-    "value": 14.22,
-    "timestamp": 1785735678
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0xfb00beee2e7d9b5ec972349cbd1b8b2960e9095e240a4225cf68664e628ec441",
-    "outcome": "Up",
-    "title": "XRP Up or Down - August 3, 2:00AM-2:15AM ET",
-    "slug": "xrp-updown-15m-1785736800",
-    "value": 3.66,
-    "timestamp": 1785737010
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0x7a9bedd70bf1b1075f655029066e2811d739da43f90eacfd0f723916bb8df864",
-    "outcome": "Down",
-    "title": "Ethereum Up or Down - August 3, 2:00AM-2:15AM ET",
-    "slug": "eth-updown-15m-1785736800",
-    "value": 23.98,
-    "timestamp": 1785737412
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0xfb00beee2e7d9b5ec972349cbd1b8b2960e9095e240a4225cf68664e628ec441",
-    "outcome": "Up",
-    "title": "XRP Up or Down - August 3, 2:00AM-2:15AM ET",
-    "slug": "xrp-updown-15m-1785736800",
-    "value": 12.979200000239999,
-    "timestamp": 1785737472
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0xc4b7c43934d27a6b2dfd784ea1a793e541d6a1f82a5eca6d74f184a1c4c30fc9",
-    "outcome": "Yes",
-    "title": "Will Bitcoin dip to $57,500 in August?",
-    "slug": "what-price-will-bitcoin-hit-in-august-2026",
-    "value": 2100.0,
-    "timestamp": 1785737975
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0xc4b7c43934d27a6b2dfd784ea1a793e541d6a1f82a5eca6d74f184a1c4c30fc9",
-    "outcome": "Yes",
-    "title": "Will Bitcoin dip to $57,500 in August?",
-    "slug": "what-price-will-bitcoin-hit-in-august-2026",
-    "value": 1050.0,
-    "timestamp": 1785737978
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0x5f0fa13098cc35a91254951b34415bcbf11e1823970b01bbff13424d71e21c05",
-    "outcome": "Down",
-    "title": "Ethereum Up or Down - August 3, 12:00AM-4:00AM ET",
-    "slug": "eth-updown-4h-1785729600",
-    "value": 1.9,
-    "timestamp": 1785738011
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0x5f0fa13098cc35a91254951b34415bcbf11e1823970b01bbff13424d71e21c05",
-    "outcome": "Up",
-    "title": "Ethereum Up or Down - August 3, 12:00AM-4:00AM ET",
-    "slug": "eth-updown-4h-1785729600",
-    "value": 140.0592,
-    "timestamp": 1785738189
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0x026faa1a446a879f126dcac51908dd596543e9fb68a9520784731fbc808da43f",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 3, 2:45AM-3:00AM ET",
-    "slug": "btc-updown-15m-1785739500",
-    "value": 91.984200006118,
-    "timestamp": 1785740307
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x07c3ddc28862f527b219e446ebd48b58d67bb0cbd9624fecf6118494e557db07",
-    "outcome": "New York Yankees",
-    "title": "Spread: St. Louis Cardinals (-1.5)",
-    "slug": "mlb-stl-nyy-2026-08-03",
-    "value": 298.3014,
-    "timestamp": 1785734841
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x26e299109cb997feef3da28fd118c190dd146375dc25559d2a4809e63cc90412",
-    "outcome": "Under",
-    "title": "San Diego Padres vs. Arizona Diamondbacks: O/U 8.5",
-    "slug": "mlb-sd-ari-2026-08-03",
-    "value": 231.37159999999997,
-    "timestamp": 1785742040
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x54aa01a062b543262f12d0ba49a366dcfc011909b5dd57770d383ce465700676",
-    "outcome": "No",
-    "title": "Will FK Kauno \u017dalgiris win on 2026-08-04?",
-    "slug": "ucl-din-kau-2026-08-04",
-    "value": 1053.2399869778847,
-    "timestamp": 1785734682
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x54aa01a062b543262f12d0ba49a366dcfc011909b5dd57770d383ce465700676",
-    "outcome": "No",
-    "title": "Will FK Kauno \u017dalgiris win on 2026-08-04?",
-    "slug": "ucl-din-kau-2026-08-04",
-    "value": 227.69998999999999,
-    "timestamp": 1785740714
-  },
-  {
-    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
-    "conditionId": "0xc4204c7f805ca8f0d3a1eb0214b35feac2a829558cf811b6a6d67861a39fd473",
-    "outcome": "Yes",
-    "title": "Will the price of Bitcoin be above $62,000 on August 9?",
-    "slug": "bitcoin-above-on-august-9-2026",
-    "value": 8.54,
-    "timestamp": 1785742496
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xea09f7c5b99f4791e0edd8bada0efa58e12ca5435589406d158c1d66830e5f2f",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 3, 3:30AM-3:35AM ET",
-    "slug": "btc-updown-5m-1785742200",
-    "value": 10.2164000016,
-    "timestamp": 1785742410
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xe1b44def247ca325b93b00c7b3dcef956f8749947510f873a452b9627f670bdc",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3AM ET",
-    "slug": "bitcoin-up-or-down-august-3-2026-3am-et",
-    "value": 0.875,
-    "timestamp": 1785742419
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xe1b44def247ca325b93b00c7b3dcef956f8749947510f873a452b9627f670bdc",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3AM ET",
-    "slug": "bitcoin-up-or-down-august-3-2026-3am-et",
-    "value": 4.26,
-    "timestamp": 1785742422
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xe1b44def247ca325b93b00c7b3dcef956f8749947510f873a452b9627f670bdc",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3AM ET",
-    "slug": "bitcoin-up-or-down-august-3-2026-3am-et",
-    "value": 4.32,
-    "timestamp": 1785742425
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xe1b44def247ca325b93b00c7b3dcef956f8749947510f873a452b9627f670bdc",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3AM ET",
-    "slug": "bitcoin-up-or-down-august-3-2026-3am-et",
-    "value": 5.25,
-    "timestamp": 1785742430
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xf59022491d0991c97ccbaad177a2b36c831205ca668bc0fcd03cebb2130bf8b1",
-    "outcome": "Down",
-    "title": "Ethereum Up or Down - August 3, 3:30AM-3:45AM ET",
-    "slug": "eth-updown-15m-1785742200",
-    "value": 1.56,
-    "timestamp": 1785742431
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xe1b44def247ca325b93b00c7b3dcef956f8749947510f873a452b9627f670bdc",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3AM ET",
-    "slug": "bitcoin-up-or-down-august-3-2026-3am-et",
-    "value": 5.25,
-    "timestamp": 1785742436
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xf59022491d0991c97ccbaad177a2b36c831205ca668bc0fcd03cebb2130bf8b1",
-    "outcome": "Down",
-    "title": "Ethereum Up or Down - August 3, 3:30AM-3:45AM ET",
-    "slug": "eth-updown-15m-1785742200",
-    "value": 1.47,
-    "timestamp": 1785742451
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xe1b44def247ca325b93b00c7b3dcef956f8749947510f873a452b9627f670bdc",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3AM ET",
-    "slug": "bitcoin-up-or-down-august-3-2026-3am-et",
-    "value": 6.32,
-    "timestamp": 1785742458
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xea09f7c5b99f4791e0edd8bada0efa58e12ca5435589406d158c1d66830e5f2f",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3:30AM-3:35AM ET",
-    "slug": "btc-updown-5m-1785742200",
-    "value": 1257.7158000000002,
-    "timestamp": 1785742463
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xf59022491d0991c97ccbaad177a2b36c831205ca668bc0fcd03cebb2130bf8b1",
-    "outcome": "Up",
-    "title": "Ethereum Up or Down - August 3, 3:30AM-3:45AM ET",
-    "slug": "eth-updown-15m-1785742200",
-    "value": 0.7426,
-    "timestamp": 1785742472
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xe1b44def247ca325b93b00c7b3dcef956f8749947510f873a452b9627f670bdc",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3AM ET",
-    "slug": "bitcoin-up-or-down-august-3-2026-3am-et",
-    "value": 6.48,
-    "timestamp": 1785742472
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xe1b44def247ca325b93b00c7b3dcef956f8749947510f873a452b9627f670bdc",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3AM ET",
-    "slug": "bitcoin-up-or-down-august-3-2026-3am-et",
-    "value": 6.4,
-    "timestamp": 1785742472
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xd64b6fdf30b42097a92e2aa34c72660b6eed5d68fac8480559a28ce1fdbd1ba8",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 3, 3:30AM-3:45AM ET",
-    "slug": "btc-updown-15m-1785742200",
-    "value": 1.4000000000000001,
-    "timestamp": 1785742473
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xd64b6fdf30b42097a92e2aa34c72660b6eed5d68fac8480559a28ce1fdbd1ba8",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 3, 3:30AM-3:45AM ET",
-    "slug": "btc-updown-15m-1785742200",
-    "value": 3.0,
-    "timestamp": 1785742475
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xd64b6fdf30b42097a92e2aa34c72660b6eed5d68fac8480559a28ce1fdbd1ba8",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 3, 3:30AM-3:45AM ET",
-    "slug": "btc-updown-15m-1785742200",
-    "value": 1.5,
-    "timestamp": 1785742478
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xd64b6fdf30b42097a92e2aa34c72660b6eed5d68fac8480559a28ce1fdbd1ba8",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 3, 3:30AM-3:45AM ET",
-    "slug": "btc-updown-15m-1785742200",
-    "value": 3.0,
-    "timestamp": 1785742478
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xf59022491d0991c97ccbaad177a2b36c831205ca668bc0fcd03cebb2130bf8b1",
-    "outcome": "Down",
-    "title": "Ethereum Up or Down - August 3, 3:30AM-3:45AM ET",
-    "slug": "eth-updown-15m-1785742200",
-    "value": 1.68,
-    "timestamp": 1785742478
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xf59022491d0991c97ccbaad177a2b36c831205ca668bc0fcd03cebb2130bf8b1",
-    "outcome": "Up",
-    "title": "Ethereum Up or Down - August 3, 3:30AM-3:45AM ET",
-    "slug": "eth-updown-15m-1785742200",
-    "value": 6.4,
-    "timestamp": 1785742482
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xe1b44def247ca325b93b00c7b3dcef956f8749947510f873a452b9627f670bdc",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 3, 3AM ET",
-    "slug": "bitcoin-up-or-down-august-3-2026-3am-et",
-    "value": 6.56,
-    "timestamp": 1785742484
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x95ace16dd4874bf70edf0f081e02555c8fd2f626757139f459fc862bb3dbac8e",
-    "outcome": "No",
-    "title": "Will the lowest temperature in London be 20\u00b0C on August 4?",
-    "slug": "lowest-temperature-in-london-on-august-4-2026",
-    "value": 12.289998999853507,
-    "timestamp": 1785741374
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x15b8b9686e40b2077108241de42a9ba1e3ab100a79a288de2a740a7f7e53010f",
-    "outcome": "No",
-    "title": "Will the lowest temperature in London be 19\u00b0C on August 4?",
-    "slug": "lowest-temperature-in-london-on-august-4-2026",
-    "value": 21.2899979994008,
-    "timestamp": 1785741374
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xd7bd8b1c75bb4a1a721789b5ec47034455961a47bd44514c7643e8f96047e5bc",
-    "outcome": "No",
-    "title": "Will the highest temperature in Manila be 33\u00b0C or higher on August 4?",
-    "slug": "highest-temperature-in-manila-on-august-4-2026",
-    "value": 7.569887999722201,
-    "timestamp": 1785741440
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x5bc5a6ec4f60af9984686a029ad2d7f92e24021812b781fb38728aca54a82bac",
-    "outcome": "No",
-    "title": "Will the highest temperature in Manila be 27\u00b0C on August 4?",
-    "slug": "highest-temperature-in-manila-on-august-4-2026",
-    "value": 7.059987999896858,
-    "timestamp": 1785741440
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xbfb21e769c49035e30e527f4d88fb01cd623b5149addc591bc6110b7b05f75cb",
-    "outcome": "No",
-    "title": "Will the highest temperature in Manila be 26\u00b0C on August 4?",
-    "slug": "highest-temperature-in-manila-on-august-4-2026",
-    "value": 7.439964,
-    "timestamp": 1785741440
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x3af87213f017e63dbaf92695682cf514917fac1726901602c1d56f8af4bc7ea2",
-    "outcome": "No",
-    "title": "Will the highest temperature in Manila be 31\u00b0C on August 4?",
-    "slug": "highest-temperature-in-manila-on-august-4-2026",
-    "value": 7.519941,
-    "timestamp": 1785741440
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x5709b52bd93cd688d442cbfceb0d58cd9e08c683ca3ffa4fbc8dd8dd18bb9456",
-    "outcome": "No",
-    "title": "Will the highest temperature in Manila be 30\u00b0C on August 4?",
-    "slug": "highest-temperature-in-manila-on-august-4-2026",
-    "value": 5.619998000256784,
-    "timestamp": 1785741440
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x5c31036f4dfd3b1e2515d02de65f132232541383efd8162fe2bf759e39eec4bd",
-    "outcome": "No",
-    "title": "Will the highest temperature in Manila be 29\u00b0C on August 4?",
-    "slug": "highest-temperature-in-manila-on-august-4-2026",
-    "value": 2.84,
-    "timestamp": 1785741440
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x3d0db8dec68894d4c21cc1a99bead8caa07a58405a169f59945467c8ac9dedf4",
-    "outcome": "Yes",
-    "title": "Will the highest temperature in Austin be between 94-95\u00b0F on August 3?",
-    "slug": "highest-temperature-in-austin-on-august-3-2026",
-    "value": 0.1112,
-    "timestamp": 1785741932
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xf0160cc32c146b4fdc955e43c54a7af750d3d8a7298db1e97155b06b4094f5a2",
-    "outcome": "Yes",
-    "title": "Will the highest temperature in Austin be between 96-97\u00b0F on August 3?",
-    "slug": "highest-temperature-in-austin-on-august-3-2026",
-    "value": 0.5978,
-    "timestamp": 1785741932
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x06362bfae934d329c5cd6b2c20aad208e1f0808ca00cf7f8eded765f00e6128e",
-    "outcome": "Yes",
-    "title": "Will the highest temperature in Austin be between 98-99\u00b0F on August 3?",
-    "slug": "highest-temperature-in-austin-on-august-3-2026",
-    "value": 8.100000000000001,
-    "timestamp": 1785741932
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x1c49c59fbd851ddd6c9bdf5daf272dc0eea0d0c1ee4c663f591163b25697f3f6",
-    "outcome": "Yes",
-    "title": "Will the highest temperature in Austin be between 100-101\u00b0F on August 3?",
-    "slug": "highest-temperature-in-austin-on-august-3-2026",
-    "value": 16.16999900091276,
-    "timestamp": 1785741932
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x8b82ce16da8401271abfd4ae4fbc9341372dfd6c015fa9efd1866595fbac7975",
-    "outcome": "Yes",
-    "title": "Will the highest temperature in Beijing be 38\u00b0C on August 3?",
-    "slug": "highest-temperature-in-beijing-on-august-3-2026",
-    "value": 0.1035,
-    "timestamp": 1785742326
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x2805b7368be0ad9bec03edd2675b4b6fed9ca4a6eae4f36308e763ec61eda588",
-    "outcome": "Yes",
-    "title": "Will the highest temperature in Beijing be 36\u00b0C on August 3?",
-    "slug": "highest-temperature-in-beijing-on-august-3-2026",
-    "value": 9.709998000153824,
-    "timestamp": 1785742326
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x8b82ce16da8401271abfd4ae4fbc9341372dfd6c015fa9efd1866595fbac7975",
-    "outcome": "Yes",
-    "title": "Will the highest temperature in Beijing be 38\u00b0C on August 3?",
-    "slug": "highest-temperature-in-beijing-on-august-3-2026",
-    "value": 0.742959999747,
-    "timestamp": 1785742395
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x2805b7368be0ad9bec03edd2675b4b6fed9ca4a6eae4f36308e763ec61eda588",
-    "outcome": "Yes",
-    "title": "Will the highest temperature in Beijing be 36\u00b0C on August 3?",
-    "slug": "highest-temperature-in-beijing-on-august-3-2026",
-    "value": 17.7899890001518,
-    "timestamp": 1785742395
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xe81a84806d08e12f0f19f9bd96e49e03c1c83ee41cf445069c9bed4ee12a8bdb",
-    "outcome": "PlayTime",
-    "title": "Dota 2: GLYPH vs PlayTime - Game 2 Winner",
-    "slug": "dota2-glyph-playti-2026-08-03",
-    "value": 32.5,
-    "timestamp": 1785740855
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x44d388edc19afb054ba25eef2c40fe9928e1ac0c470c679b6d353de9d2604b04",
-    "outcome": "GLYPH",
-    "title": "Dota 2: GLYPH vs PlayTime (BO3) - Games of the Future Playoffs",
-    "slug": "dota2-glyph-playti-2026-08-03",
-    "value": 2.6,
-    "timestamp": 1785741248
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x44d388edc19afb054ba25eef2c40fe9928e1ac0c470c679b6d353de9d2604b04",
-    "outcome": "GLYPH",
-    "title": "Dota 2: GLYPH vs PlayTime (BO3) - Games of the Future Playoffs",
-    "slug": "dota2-glyph-playti-2026-08-03",
-    "value": 65.91760000000001,
-    "timestamp": 1785741344
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xe81a84806d08e12f0f19f9bd96e49e03c1c83ee41cf445069c9bed4ee12a8bdb",
-    "outcome": "GLYPH",
-    "title": "Dota 2: GLYPH vs PlayTime - Game 2 Winner",
-    "slug": "dota2-glyph-playti-2026-08-03",
-    "value": 5.699999999999999,
-    "timestamp": 1785741702
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xe81a84806d08e12f0f19f9bd96e49e03c1c83ee41cf445069c9bed4ee12a8bdb",
-    "outcome": "PlayTime",
-    "title": "Dota 2: GLYPH vs PlayTime - Game 2 Winner",
-    "slug": "dota2-glyph-playti-2026-08-03",
-    "value": 2.2800000000000002,
-    "timestamp": 1785742256
-  },
-  {
-    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
-    "conditionId": "0xd48d5b14bf421570ec34621bdfb051b1c125024e021ea81dc45da8f2d6449340",
-    "outcome": "Urszula Radwanska",
-    "title": "Warsaw: Aliona Falei vs Urszula Radwanska",
-    "slug": "wta-falei-radwans-2026-08-03",
-    "value": 5.2398,
-    "timestamp": 1785738822
-  },
-  {
-    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
-    "conditionId": "0xd48d5b14bf421570ec34621bdfb051b1c125024e021ea81dc45da8f2d6449340",
-    "outcome": "Urszula Radwanska",
-    "title": "Warsaw: Aliona Falei vs Urszula Radwanska",
-    "slug": "wta-falei-radwans-2026-08-03",
-    "value": 1.8499990007778429,
-    "timestamp": 1785738926
-  },
-  {
-    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
-    "conditionId": "0x2277c925f0d962066c8b97b132356cb816ed59d9c3e2ae87ebbc9178d3eefe56",
-    "outcome": "Yanaki Milev",
-    "title": "Plovdiv 2: Yanaki Milev vs Oriol Roca Batalla",
-    "slug": "atp-milev-batalla-2026-08-03",
-    "value": 0.554,
-    "timestamp": 1785742046
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "conditionId": "0x05792814150f95211b04774757545d3588975263597074171f9d7eb674a4dc82",
     "outcome": "Julia Avdeeva",
     "title": "Warsaw: Julia Avdeeva vs Noma Noha Akugue",
@@ -2842,5 +2095,2120 @@
     "slug": "rou1-fcs-ffc-2026-08-03",
     "value": 10.29,
     "timestamp": 1785754170
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 351.6299960119595,
+    "timestamp": 1785763427
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x28f7381960c3761a61c0919d3fce5a6e2262205b4d85c5183f3b09cc5df762f7",
+    "outcome": "No",
+    "title": "Will CA Talleres win on 2026-08-03?",
+    "slug": "arg-pla-tal-2026-08-03",
+    "value": 10.579998000245732,
+    "timestamp": 1785763467
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x28f7381960c3761a61c0919d3fce5a6e2262205b4d85c5183f3b09cc5df762f7",
+    "outcome": "No",
+    "title": "Will CA Talleres win on 2026-08-03?",
+    "slug": "arg-pla-tal-2026-08-03",
+    "value": 3.0699990000057436,
+    "timestamp": 1785763467
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 15.540000000000001,
+    "timestamp": 1785763536
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xdf1ae477d16d8eef4889dde3bcc0fb6f4dcf7e3b4dd9954067f2e7622ce78c3f",
+    "outcome": "Toronto Blue Jays",
+    "title": "Spread: Toronto Blue Jays (-2.5)",
+    "slug": "mlb-tor-hou-2026-08-03",
+    "value": 36.13999900237501,
+    "timestamp": 1785763556
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x94f2cbb2f9b8010bfd8693a72244abcc795510b1f9d6f55336c355d94ddafe29",
+    "outcome": "Lanlana Tararudee",
+    "title": "National Bank Open: Emerson Jones vs Lanlana Tararudee",
+    "slug": "wta-jone-tararud-2026-08-02",
+    "value": 2.6199990000324136,
+    "timestamp": 1785763707
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x62a4ed98ca71d9052f7e200cd49ba16cb5f622509e5c1cf77e10e270a6a05100",
+    "outcome": "Yes",
+    "title": "Will HJK Helsinki win on 2026-08-03?",
+    "slug": "fin1-sei-hjk-2026-08-03",
+    "value": 8.949999000135442,
+    "timestamp": 1785763739
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x62a4ed98ca71d9052f7e200cd49ba16cb5f622509e5c1cf77e10e270a6a05100",
+    "outcome": "Yes",
+    "title": "Will HJK Helsinki win on 2026-08-03?",
+    "slug": "fin1-sei-hjk-2026-08-03",
+    "value": 2.4912,
+    "timestamp": 1785763740
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 4.523899999999999,
+    "timestamp": 1785763811
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 23.39999900443231,
+    "timestamp": 1785763811
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x28f7381960c3761a61c0919d3fce5a6e2262205b4d85c5183f3b09cc5df762f7",
+    "outcome": "No",
+    "title": "Will CA Talleres win on 2026-08-03?",
+    "slug": "arg-pla-tal-2026-08-03",
+    "value": 2.4199979999999996,
+    "timestamp": 1785763821
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x5d726dcca42172162b852556b2e34d1f7404748b9032a830c3eafdc5003ba868",
+    "outcome": "No",
+    "title": "Exact Score: Halmstads BK 3 - 0 IK Sirius?",
+    "slug": "swe-hal-sir-2026-08-03-exact-score",
+    "value": 595.2,
+    "timestamp": 1785763907
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x5d726dcca42172162b852556b2e34d1f7404748b9032a830c3eafdc5003ba868",
+    "outcome": "No",
+    "title": "Exact Score: Halmstads BK 3 - 0 IK Sirius?",
+    "slug": "swe-hal-sir-2026-08-03-exact-score",
+    "value": 298.18989400199996,
+    "timestamp": 1785763922
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x94f2cbb2f9b8010bfd8693a72244abcc795510b1f9d6f55336c355d94ddafe29",
+    "outcome": "Lanlana Tararudee",
+    "title": "National Bank Open: Emerson Jones vs Lanlana Tararudee",
+    "slug": "wta-jone-tararud-2026-08-02",
+    "value": 2.5500000000000003,
+    "timestamp": 1785764037
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xd0dffbde420fe304f0fe3a9abbb1008db500d81cf369a84f4d6fea8c69feef2e",
+    "outcome": "Over",
+    "title": "KS Cracovia Krakow vs. Pogon Szczecin: O/U 1.5",
+    "slug": "pol-cra-psz-2026-08-03-more-markets",
+    "value": 3.5999999999999996,
+    "timestamp": 1785764154
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Yue Yuan",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 130.34,
+    "timestamp": 1785764189
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 8.4,
+    "timestamp": 1785764276
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x28f7381960c3761a61c0919d3fce5a6e2262205b4d85c5183f3b09cc5df762f7",
+    "outcome": "No",
+    "title": "Will CA Talleres win on 2026-08-03?",
+    "slug": "arg-pla-tal-2026-08-03",
+    "value": 9.289997999601468,
+    "timestamp": 1785764346
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x28f7381960c3761a61c0919d3fce5a6e2262205b4d85c5183f3b09cc5df762f7",
+    "outcome": "No",
+    "title": "Will CA Talleres win on 2026-08-03?",
+    "slug": "arg-pla-tal-2026-08-03",
+    "value": 4.169998,
+    "timestamp": 1785764348
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 1.8899989998632623,
+    "timestamp": 1785764606
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x7ed492c90bc550923aac48413bd5f77eec1ec457681af50304aabf58f0c305f1",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY - Map 2 Winner",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 661.55,
+    "timestamp": 1785761361
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x7ed492c90bc550923aac48413bd5f77eec1ec457681af50304aabf58f0c305f1",
+    "outcome": "1WIN",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY - Map 2 Winner",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 14.320799998895,
+    "timestamp": 1785761418
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x21c9bcab1b6537910c7f6a01198dbe7f6c597b4bcac49ac84789e024ac693b01",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 3.9000000000000004,
+    "timestamp": 1785761430
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x21c9bcab1b6537910c7f6a01198dbe7f6c597b4bcac49ac84789e024ac693b01",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 162.8424,
+    "timestamp": 1785761433
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x7ed492c90bc550923aac48413bd5f77eec1ec457681af50304aabf58f0c305f1",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY - Map 2 Winner",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 149.99999899841288,
+    "timestamp": 1785761436
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x7ed492c90bc550923aac48413bd5f77eec1ec457681af50304aabf58f0c305f1",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY - Map 2 Winner",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 64.957,
+    "timestamp": 1785761511
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x7ed492c90bc550923aac48413bd5f77eec1ec457681af50304aabf58f0c305f1",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY - Map 2 Winner",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 275.2,
+    "timestamp": 1785761564
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x21c9bcab1b6537910c7f6a01198dbe7f6c597b4bcac49ac84789e024ac693b01",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 44.2,
+    "timestamp": 1785761672
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x21c9bcab1b6537910c7f6a01198dbe7f6c597b4bcac49ac84789e024ac693b01",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 52.5,
+    "timestamp": 1785761672
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x7ed492c90bc550923aac48413bd5f77eec1ec457681af50304aabf58f0c305f1",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY - Map 2 Winner",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 412.8,
+    "timestamp": 1785761672
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 3.2034,
+    "timestamp": 1785761903
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 943.3887,
+    "timestamp": 1785762014
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 0.6157,
+    "timestamp": 1785762014
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xbb57200ecc3277d77ab18ae0734966050600cb0760014f01de71a4ba34cbee58",
+    "outcome": "Fares Zakaria",
+    "title": "Grodzisk Mazowiecki: Fares Zakaria vs Daniil Glinka",
+    "slug": "atp-zakaria-glinka-2026-08-03",
+    "value": 103.5,
+    "timestamp": 1785762143
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 18.0,
+    "timestamp": 1785762515
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x5319b299241c9c43a07b756e9b32b9a9c50edbab07c3292645f7e4e959df994e",
+    "outcome": "Michele Ribecai",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Iliyan Radulov",
+    "slug": "atp-ribecai-radulov-2026-08-03",
+    "value": 1575.0,
+    "timestamp": 1785763311
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x21c9bcab1b6537910c7f6a01198dbe7f6c597b4bcac49ac84789e024ac693b01",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 6.2,
+    "timestamp": 1785763604
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x21c9bcab1b6537910c7f6a01198dbe7f6c597b4bcac49ac84789e024ac693b01",
+    "outcome": "1WIN",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 262.2456,
+    "timestamp": 1785763626
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x21c9bcab1b6537910c7f6a01198dbe7f6c597b4bcac49ac84789e024ac693b01",
+    "outcome": "ex-RUBY",
+    "title": "Counter-Strike: 1WIN vs ex-RUBY (BO3) - NODWIN Clutch Series Playoffs",
+    "slug": "cs2-1win-ruby1-2026-08-03",
+    "value": 2.2319999999999998,
+    "timestamp": 1785764090
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 38.588,
+    "timestamp": 1785764519
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xdd7a0c7db904be7f55b6087ce2f21740efd628061ae1d7bf8acec8f9b2588458",
+    "outcome": "T1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "slug": "lol-ns-t1-2026-08-03",
+    "value": 89.2696,
+    "timestamp": 1785754599
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xdd7a0c7db904be7f55b6087ce2f21740efd628061ae1d7bf8acec8f9b2588458",
+    "outcome": "T1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "slug": "lol-ns-t1-2026-08-03",
+    "value": 3449.9999996,
+    "timestamp": 1785754668
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xdd7a0c7db904be7f55b6087ce2f21740efd628061ae1d7bf8acec8f9b2588458",
+    "outcome": "T1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "slug": "lol-ns-t1-2026-08-03",
+    "value": 1785.2626,
+    "timestamp": 1785754671
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xbdd2dba2370c3678739b12bc33ebdfe9ece40a0fec15273c79042b1f86227247",
+    "outcome": "Weronika Falkowska",
+    "title": "Warsaw: Amelia Paszun vs Weronika Falkowska",
+    "slug": "wta-paszun-falkows-2026-08-03",
+    "value": 152.29680000000002,
+    "timestamp": 1785755423
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xf15677ed6f03722f6c506e4464711718973f418e681566492da7def4a6be3ceb",
+    "outcome": "T1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 2 Winner",
+    "slug": "lol-ns-t1-2026-08-03",
+    "value": 2472.579,
+    "timestamp": 1785756464
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xf15677ed6f03722f6c506e4464711718973f418e681566492da7def4a6be3ceb",
+    "outcome": "T1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 2 Winner",
+    "slug": "lol-ns-t1-2026-08-03",
+    "value": 1406.6429000000003,
+    "timestamp": 1785757766
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xf15677ed6f03722f6c506e4464711718973f418e681566492da7def4a6be3ceb",
+    "outcome": "T1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 2 Winner",
+    "slug": "lol-ns-t1-2026-08-03",
+    "value": 831.9888,
+    "timestamp": 1785757770
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xb268ed0bfd517c17a0a36c1adf242997471d33556de136723834191f33cedc29",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Pumas de la UNAM: O/U 3.5",
+    "slug": "lec-clt-pum-2026-08-04-more-markets",
+    "value": 5.7899989997901935,
+    "timestamp": 1785763302
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x5d2d79e8b59e49254779b4b41fbee1836e4c625b8c04bca6e7b88645b01ebe15",
+    "outcome": "No",
+    "title": "Will FC Cincinnati win on 2026-08-04?",
+    "slug": "lec-fcc-pac-2026-08-04",
+    "value": 388.4599989758884,
+    "timestamp": 1785763325
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x5d55b04961af2b73d1f83966f4eb01b57d594e5c3d9dd56408c226bef611b8e4",
+    "outcome": "Yes",
+    "title": "Will AS Monaco win on 2026-08-06?",
+    "slug": "clf-asm-get-2026-08-06",
+    "value": 4.3999990003265514,
+    "timestamp": 1785763481
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x5d55b04961af2b73d1f83966f4eb01b57d594e5c3d9dd56408c226bef611b8e4",
+    "outcome": "Yes",
+    "title": "Will AS Monaco win on 2026-08-06?",
+    "slug": "clf-asm-get-2026-08-06",
+    "value": 0.0098,
+    "timestamp": 1785763482
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x5d55b04961af2b73d1f83966f4eb01b57d594e5c3d9dd56408c226bef611b8e4",
+    "outcome": "Yes",
+    "title": "Will AS Monaco win on 2026-08-06?",
+    "slug": "clf-asm-get-2026-08-06",
+    "value": 336.42,
+    "timestamp": 1785763487
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x1f10f554f1d0c72e55c33dd0c2943fb1613db37e78510ebd2ae8ef14e14519fa",
+    "outcome": "Over",
+    "title": "Djurgardens IF vs. Vasteraas SK: Djurgardens IF O/U 1.5",
+    "slug": "swe-dju-vas-2026-08-03-more-markets",
+    "value": 10.149997999915515,
+    "timestamp": 1785763641
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xef6f599a2e6136760e296591f56ba3a158fa9741dfa09b11d9fb598d7b2b7947",
+    "outcome": "No",
+    "title": "CA Paranaense leading at halftime?",
+    "slug": "brco-cap-vit-2026-08-03-halftime-result",
+    "value": 5.819997999624248,
+    "timestamp": 1785763725
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x733787c5f91c8c3ce3155cd98d7a2917450ec8aaf16dd90d67ef97ab7015ddc8",
+    "outcome": "Over",
+    "title": "FCSB vs. FCV Farul Constan\u0163a: FCSB O/U 1.5",
+    "slug": "rou1-fcs-ffc-2026-08-03-more-markets",
+    "value": 1171.81,
+    "timestamp": 1785763728
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x733787c5f91c8c3ce3155cd98d7a2917450ec8aaf16dd90d67ef97ab7015ddc8",
+    "outcome": "Over",
+    "title": "FCSB vs. FCV Farul Constan\u0163a: FCSB O/U 1.5",
+    "slug": "rou1-fcs-ffc-2026-08-03-more-markets",
+    "value": 308.64999899940165,
+    "timestamp": 1785763790
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x8e30f4879f8a1f2c02c318c530cfa372425c93b25f751dbf08193c05dfe49066",
+    "outcome": "Tomasz Berkieta",
+    "title": "Grodzisk Mazowiecki: Tomasz Berkieta vs Facundo Mena",
+    "slug": "atp-berkiet-mena-2026-08-03",
+    "value": 21.56999899996843,
+    "timestamp": 1785763880
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xa9bf49014c7e58ee0030217e54fffd7caad5dd9916973093fbba6aa335a6a920",
+    "outcome": "Lloyd Harris",
+    "title": "Lexington: Henry Searle vs Lloyd Harris",
+    "slug": "atp-searle-harri-2026-08-03",
+    "value": 185.30999899962336,
+    "timestamp": 1785763884
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x2277c925f0d962066c8b97b132356cb816ed59d9c3e2ae87ebbc9178d3eefe56",
+    "outcome": "Yanaki Milev",
+    "title": "Plovdiv 2: Yanaki Milev vs Oriol Roca Batalla",
+    "slug": "atp-milev-batalla-2026-08-03",
+    "value": 4.369999000829217,
+    "timestamp": 1785763886
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xa9bf49014c7e58ee0030217e54fffd7caad5dd9916973093fbba6aa335a6a920",
+    "outcome": "Lloyd Harris",
+    "title": "Lexington: Henry Searle vs Lloyd Harris",
+    "slug": "atp-searle-harri-2026-08-03",
+    "value": 20.259998999575444,
+    "timestamp": 1785763890
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x246d9fd0381eaf76f954bf538713f64e130386035f6c5055c7664fa4bc64558b",
+    "outcome": "Yes",
+    "title": "Will Chicago Fire FC win on 2026-08-06?",
+    "slug": "lec-chi-nec-2026-08-06",
+    "value": 9.639998999270597,
+    "timestamp": 1785763913
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x733787c5f91c8c3ce3155cd98d7a2917450ec8aaf16dd90d67ef97ab7015ddc8",
+    "outcome": "Over",
+    "title": "FCSB vs. FCV Farul Constan\u0163a: FCSB O/U 1.5",
+    "slug": "rou1-fcs-ffc-2026-08-03-more-markets",
+    "value": 231.79999999999998,
+    "timestamp": 1785764238
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x733787c5f91c8c3ce3155cd98d7a2917450ec8aaf16dd90d67ef97ab7015ddc8",
+    "outcome": "Over",
+    "title": "FCSB vs. FCV Farul Constan\u0163a: FCSB O/U 1.5",
+    "slug": "rou1-fcs-ffc-2026-08-03-more-markets",
+    "value": 89.1799989953246,
+    "timestamp": 1785764244
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Alana Smith",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 1.8599990006000682,
+    "timestamp": 1785764250
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x2c54f802e45035b0e2e01511f8b29a0d44ab061895cd7e39b5d986986231ea5d",
+    "outcome": "Yes",
+    "title": "Will FSK Bukovyna Chernivtsi win on 2026-08-03?",
+    "slug": "ukr1-buk-che-2026-08-03",
+    "value": 4.75,
+    "timestamp": 1785764370
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x84e1d22f70fae8e5301b315e9e7065ac48971f4af44bf6e73ef16003c6686c60",
+    "outcome": "FC Twente",
+    "title": "Spread: FC Twente (-1.5)",
+    "slug": "col-twe-dac-2026-08-06-more-markets",
+    "value": 898.5199989354423,
+    "timestamp": 1785764435
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 13.679998999008713,
+    "timestamp": 1785764570
+  },
+  {
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "conditionId": "0x5380fd8ced6cd8bc915aa9c7c673a2e68e5e940b2ce1fb3821c210883047e213",
+    "outcome": "Xtreme Gaming",
+    "title": "Dota 2: Xtreme Gaming vs Team Resilience (BO3) - Games of the Future Playoffs",
+    "slug": "dota2-xtreme-tr7-2026-08-03",
+    "value": 979.7136999805891,
+    "timestamp": 1785761270
+  },
+  {
+    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
+    "conditionId": "0x5380fd8ced6cd8bc915aa9c7c673a2e68e5e940b2ce1fb3821c210883047e213",
+    "outcome": "Xtreme Gaming",
+    "title": "Dota 2: Xtreme Gaming vs Team Resilience (BO3) - Games of the Future Playoffs",
+    "slug": "dota2-xtreme-tr7-2026-08-03",
+    "value": 83.55999998328001,
+    "timestamp": 1785761442
+  },
+  {
+    "wallet": "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+    "conditionId": "0xf4aff06686ee874668335fe94999e249fdf4de02a031afc9ee791a911b0e8717",
+    "outcome": "Yes",
+    "title": "Will a Chinese company have one of the top 3 AI models by December 31?",
+    "slug": "will-a-chinese-company-have-the-best-ai-model-by-december-31",
+    "value": 14.966700000968,
+    "timestamp": 1785755682
+  },
+  {
+    "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+    "conditionId": "0x49479ffa88e2897569b1d413e3bc558003e21912edee09d080ca6bac6eb20805",
+    "outcome": "No",
+    "title": "Strait of Hormuz traffic returns to normal by August 15?",
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+    "value": 723.6908,
+    "timestamp": 1785763964
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0xcd784bf821fa988b19c63ae9937824d89bcf2b826d2477593d7e47f74d3b1fa9",
+    "outcome": "Elena Micic",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "value": 52.0,
+    "timestamp": 1785755150
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0xcd784bf821fa988b19c63ae9937824d89bcf2b826d2477593d7e47f74d3b1fa9",
+    "outcome": "Elena Micic",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "value": 0.06440000000000001,
+    "timestamp": 1785757110
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 332.784,
+    "timestamp": 1785760188
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 998.6285999999999,
+    "timestamp": 1785760281
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x79a1dfdd3f9fdc9e201043e0b27bd481a4cb8aa14d9f874421fb600865b55900",
+    "outcome": "Mattia Bellucci",
+    "title": "Canadian Open: Sebastian Baez vs Mattia Bellucci",
+    "slug": "atp-baez-bellucc-2026-08-03",
+    "value": 182.80999900957292,
+    "timestamp": 1785760634
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x19dc5dcea97c9d6db76be745c0612194f761a9fbd9629fceee73a551b3b623d1",
+    "outcome": "Chicago Cubs",
+    "title": "Los Angeles Dodgers vs. Chicago Cubs",
+    "slug": "mlb-lad-chc-2026-08-03",
+    "value": 3004.4999991997392,
+    "timestamp": 1785761007
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 193.3818,
+    "timestamp": 1785762101
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0xbfb2e2d49b25892dcfeb090b0e9e2f4130856f455f971a42d261579c9fcb27ea",
+    "outcome": "Yes",
+    "title": "Will XRP reach $1.20 in August?",
+    "slug": "what-price-will-xrp-hit-in-august-2026",
+    "value": 30.0,
+    "timestamp": 1785757641
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x4d250b591dd7b7ffec3a518c1c83fc757f91d801762e868252c482d1f4d18896",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $55,000 in August?",
+    "slug": "what-price-will-bitcoin-hit-in-august-2026",
+    "value": 1360.0,
+    "timestamp": 1785758906
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x4d001b9b3315c5b13e30ceadbde79e828cc732363f1b2c71b96e8d0ac4687609",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "btc-updown-4h-1785758400",
+    "value": 0.3813,
+    "timestamp": 1785759057
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x4d001b9b3315c5b13e30ceadbde79e828cc732363f1b2c71b96e8d0ac4687609",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "btc-updown-4h-1785758400",
+    "value": 10.4,
+    "timestamp": 1785759545
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x81c3250b87498aede230235d3aed33d2faa8cb925b266d1b2d693735dcc9db99",
+    "outcome": "Yes",
+    "title": "Will Bitcoin reach $64,000 on August 3?",
+    "slug": "what-price-will-bitcoin-hit-on-august-3",
+    "value": 0.44999999999999996,
+    "timestamp": 1785759552
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x4d001b9b3315c5b13e30ceadbde79e828cc732363f1b2c71b96e8d0ac4687609",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "btc-updown-4h-1785758400",
+    "value": 2.75,
+    "timestamp": 1785759554
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x81c3250b87498aede230235d3aed33d2faa8cb925b266d1b2d693735dcc9db99",
+    "outcome": "Yes",
+    "title": "Will Bitcoin reach $64,000 on August 3?",
+    "slug": "what-price-will-bitcoin-hit-on-august-3",
+    "value": 1.1,
+    "timestamp": 1785759584
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x1af833e44ee64259c942ddfde358bd8d0e1e4afc6a71529a93f238eec0aeff0f",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "eth-updown-4h-1785758400",
+    "value": 66.099999998,
+    "timestamp": 1785760008
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x4d001b9b3315c5b13e30ceadbde79e828cc732363f1b2c71b96e8d0ac4687609",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "btc-updown-4h-1785758400",
+    "value": 176.049,
+    "timestamp": 1785761339
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xa92e0d0ca4944b4b1a67c3f3c3066454491cf5c62c8a45bc650a8705cffe9595",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $61,000 on August 3?",
+    "slug": "what-price-will-bitcoin-hit-on-august-3",
+    "value": 10.101,
+    "timestamp": 1785761738
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x1af833e44ee64259c942ddfde358bd8d0e1e4afc6a71529a93f238eec0aeff0f",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "eth-updown-4h-1785758400",
+    "value": 51.00000000000001,
+    "timestamp": 1785761811
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xa92e0d0ca4944b4b1a67c3f3c3066454491cf5c62c8a45bc650a8705cffe9595",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $61,000 on August 3?",
+    "slug": "what-price-will-bitcoin-hit-on-august-3",
+    "value": 184.0,
+    "timestamp": 1785762126
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x1af833e44ee64259c942ddfde358bd8d0e1e4afc6a71529a93f238eec0aeff0f",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "eth-updown-4h-1785758400",
+    "value": 33.0,
+    "timestamp": 1785762668
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x1af833e44ee64259c942ddfde358bd8d0e1e4afc6a71529a93f238eec0aeff0f",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "eth-updown-4h-1785758400",
+    "value": 17.0,
+    "timestamp": 1785762711
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xa92e0d0ca4944b4b1a67c3f3c3066454491cf5c62c8a45bc650a8705cffe9595",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $61,000 on August 3?",
+    "slug": "what-price-will-bitcoin-hit-on-august-3",
+    "value": 18.400000000000002,
+    "timestamp": 1785762761
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x4d001b9b3315c5b13e30ceadbde79e828cc732363f1b2c71b96e8d0ac4687609",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "btc-updown-4h-1785758400",
+    "value": 80.2,
+    "timestamp": 1785763094
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x1af833e44ee64259c942ddfde358bd8d0e1e4afc6a71529a93f238eec0aeff0f",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "eth-updown-4h-1785758400",
+    "value": 80.5,
+    "timestamp": 1785763113
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0xa92e0d0ca4944b4b1a67c3f3c3066454491cf5c62c8a45bc650a8705cffe9595",
+    "outcome": "No",
+    "title": "Will Bitcoin dip to $61,000 on August 3?",
+    "slug": "what-price-will-bitcoin-hit-on-august-3",
+    "value": 94.0,
+    "timestamp": 1785763181
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x1af833e44ee64259c942ddfde358bd8d0e1e4afc6a71529a93f238eec0aeff0f",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "eth-updown-4h-1785758400",
+    "value": 13.5,
+    "timestamp": 1785763655
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x4d001b9b3315c5b13e30ceadbde79e828cc732363f1b2c71b96e8d0ac4687609",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "btc-updown-4h-1785758400",
+    "value": 82.928,
+    "timestamp": 1785763667
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x4d001b9b3315c5b13e30ceadbde79e828cc732363f1b2c71b96e8d0ac4687609",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "btc-updown-4h-1785758400",
+    "value": 84.0,
+    "timestamp": 1785763689
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x1af833e44ee64259c942ddfde358bd8d0e1e4afc6a71529a93f238eec0aeff0f",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 3, 8:00AM-12:00PM ET",
+    "slug": "eth-updown-4h-1785758400",
+    "value": 6.800000000000001,
+    "timestamp": 1785763712
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 5.4,
+    "timestamp": 1785763166
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 27.221600000000002,
+    "timestamp": 1785763185
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xbb57200ecc3277d77ab18ae0734966050600cb0760014f01de71a4ba34cbee58",
+    "outcome": "Fares Zakaria",
+    "title": "Grodzisk Mazowiecki: Fares Zakaria vs Daniil Glinka",
+    "slug": "atp-zakaria-glinka-2026-08-03",
+    "value": 0.5700000000000001,
+    "timestamp": 1785763374
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xb8e2ff3a264b91306a218ef530cfb56d66005ad9b59969ecbdc68bf2ab99faa2",
+    "outcome": "Under",
+    "title": "Washington Nationals vs. Philadelphia Phillies: O/U 9.5",
+    "slug": "mlb-wsh-phi-2026-08-03",
+    "value": 0.5356000000000001,
+    "timestamp": 1785763377
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xbb57200ecc3277d77ab18ae0734966050600cb0760014f01de71a4ba34cbee58",
+    "outcome": "Fares Zakaria",
+    "title": "Grodzisk Mazowiecki: Fares Zakaria vs Daniil Glinka",
+    "slug": "atp-zakaria-glinka-2026-08-03",
+    "value": 11.91159999936,
+    "timestamp": 1785763502
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xb8e2ff3a264b91306a218ef530cfb56d66005ad9b59969ecbdc68bf2ab99faa2",
+    "outcome": "Under",
+    "title": "Washington Nationals vs. Philadelphia Phillies: O/U 9.5",
+    "slug": "mlb-wsh-phi-2026-08-03",
+    "value": 1071.0452,
+    "timestamp": 1785763506
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x8e7ff1caa55d86fef58cfe987ff1ea4093a41e7c36e3d4dd7154f09d84ee25e7",
+    "outcome": "Philadelphia Phillies",
+    "title": "Spread: Washington Nationals (-1.5)",
+    "slug": "mlb-wsh-phi-2026-08-03",
+    "value": 48.3,
+    "timestamp": 1785763506
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x176c14f527703cb3d8c88e2e45662162fe8b04a1a8c7cd53ad057276855bb263",
+    "outcome": "Under",
+    "title": "Washington Nationals vs. Philadelphia Phillies: O/U 10.5",
+    "slug": "mlb-wsh-phi-2026-08-03",
+    "value": 45.0,
+    "timestamp": 1785763506
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Alana Smith",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 2.2272,
+    "timestamp": 1785763521
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x5319b299241c9c43a07b756e9b32b9a9c50edbab07c3292645f7e4e959df994e",
+    "outcome": "Michele Ribecai",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Iliyan Radulov",
+    "slug": "atp-ribecai-radulov-2026-08-03",
+    "value": 4.41,
+    "timestamp": 1785763620
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x5319b299241c9c43a07b756e9b32b9a9c50edbab07c3292645f7e4e959df994e",
+    "outcome": "Michele Ribecai",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Iliyan Radulov",
+    "slug": "atp-ribecai-radulov-2026-08-03",
+    "value": 99.28910000668401,
+    "timestamp": 1785763758
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x703e0675848d22837965de777e69dc914d16badffebc2df1b5461d34eacefe23",
+    "outcome": "Under",
+    "title": "Zakaria vs. Glinka: Match O/U 23.5",
+    "slug": "atp-zakaria-glinka-2026-08-03",
+    "value": 2.9499999999999997,
+    "timestamp": 1785763784
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x703e0675848d22837965de777e69dc914d16badffebc2df1b5461d34eacefe23",
+    "outcome": "Over",
+    "title": "Zakaria vs. Glinka: Match O/U 23.5",
+    "slug": "atp-zakaria-glinka-2026-08-03",
+    "value": 1.7000000000000002,
+    "timestamp": 1785763817
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x5319b299241c9c43a07b756e9b32b9a9c50edbab07c3292645f7e4e959df994e",
+    "outcome": "Michele Ribecai",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Iliyan Radulov",
+    "slug": "atp-ribecai-radulov-2026-08-03",
+    "value": 55.125,
+    "timestamp": 1785763830
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Alana Smith",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 2.1843,
+    "timestamp": 1785763946
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 117.0,
+    "timestamp": 1785764079
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 1.0527,
+    "timestamp": 1785764144
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Alana Smith",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 1.5517000007699997,
+    "timestamp": 1785764198
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Alana Smith",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 83.40119999999999,
+    "timestamp": 1785764300
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xd9cd3ac2bc9623afa3db13d3baaa5474d28bcdb138e04a75d982f5567918c67a",
+    "outcome": "Under",
+    "title": "Pittsburgh Pirates vs. Milwaukee Brewers: O/U 8.5",
+    "slug": "mlb-pit-mil-2026-08-03",
+    "value": 80.2724,
+    "timestamp": 1785764366
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0x54aa01a062b543262f12d0ba49a366dcfc011909b5dd57770d383ce465700676",
+    "outcome": "No",
+    "title": "Will FK Kauno \u017dalgiris win on 2026-08-04?",
+    "slug": "ucl-din-kau-2026-08-04",
+    "value": 149.679986,
+    "timestamp": 1785759593
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x9bedf93343909c762a295fe3968147d3241de7255ddb9be13cfb1c89900739f1",
+    "outcome": "Yes",
+    "title": "Will Donald Trump visit California in 2026?",
+    "slug": "which-states-will-donald-trump-visit-in-2026",
+    "value": 805.1902200093439,
+    "timestamp": 1785763424
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9337ad1b85908439cfdaf9bf584a3550ea48ff43a80a62f23163a1226ba909fa",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 18.9736,
+    "timestamp": 1785754649
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0xc4204c7f805ca8f0d3a1eb0214b35feac2a829558cf811b6a6d67861a39fd473",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 9?",
+    "slug": "bitcoin-above-on-august-9-2026",
+    "value": 5.5552,
+    "timestamp": 1785754649
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x5a7c9f92d6fe2f30f5d8bde33fc7971726a9e90e15b6b232b713ba87368eb6c8",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 7?",
+    "slug": "bitcoin-above-on-august-7-2026",
+    "value": 31.0,
+    "timestamp": 1785755652
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x5a7c9f92d6fe2f30f5d8bde33fc7971726a9e90e15b6b232b713ba87368eb6c8",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 7?",
+    "slug": "bitcoin-above-on-august-7-2026",
+    "value": 32.0,
+    "timestamp": 1785756845
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9337ad1b85908439cfdaf9bf584a3550ea48ff43a80a62f23163a1226ba909fa",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 15.553999999999998,
+    "timestamp": 1785758492
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0xf10b8e2e73b41d7564ae45a015209a820c156afd8d2686578800aae3fe0052e4",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 5?",
+    "slug": "bitcoin-above-on-august-5-2026",
+    "value": 64.0,
+    "timestamp": 1785759158
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0xf10b8e2e73b41d7564ae45a015209a820c156afd8d2686578800aae3fe0052e4",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 5?",
+    "slug": "bitcoin-above-on-august-5-2026",
+    "value": 32.0,
+    "timestamp": 1785759159
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9337ad1b85908439cfdaf9bf584a3550ea48ff43a80a62f23163a1226ba909fa",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 144.89999999999998,
+    "timestamp": 1785759545
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x838135237295521f7c501b48d9e457d0f616777815955933a5791528a31736f5",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 6?",
+    "slug": "bitcoin-above-on-august-6-2026",
+    "value": 224.0,
+    "timestamp": 1785759551
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9337ad1b85908439cfdaf9bf584a3550ea48ff43a80a62f23163a1226ba909fa",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 139.16719999999998,
+    "timestamp": 1785761066
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9337ad1b85908439cfdaf9bf584a3550ea48ff43a80a62f23163a1226ba909fa",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 264.2688,
+    "timestamp": 1785762761
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x838135237295521f7c501b48d9e457d0f616777815955933a5791528a31736f5",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 6?",
+    "slug": "bitcoin-above-on-august-6-2026",
+    "value": 33.0,
+    "timestamp": 1785762761
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0xaee6c331835e66f70e9b3c2d0a30f7366848f0dac176ee0dc7a43f3aab5ac344",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 8?",
+    "slug": "bitcoin-above-on-august-8-2026",
+    "value": 35.2,
+    "timestamp": 1785762974
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x4997b4d5a9fd3eb44467559fd464ce44f5b46853ba75c8e5c9cdc6fc884147d0",
+    "outcome": "Yes",
+    "title": "Will Solana dip to $70 on August 3?",
+    "slug": "what-price-will-solana-hit-on-august-3",
+    "value": 117.315,
+    "timestamp": 1785763653
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9337ad1b85908439cfdaf9bf584a3550ea48ff43a80a62f23163a1226ba909fa",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 14.399999999999999,
+    "timestamp": 1785764030
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9337ad1b85908439cfdaf9bf584a3550ea48ff43a80a62f23163a1226ba909fa",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 7.6,
+    "timestamp": 1785764172
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0xf10b8e2e73b41d7564ae45a015209a820c156afd8d2686578800aae3fe0052e4",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 5?",
+    "slug": "bitcoin-above-on-august-5-2026",
+    "value": 7.1,
+    "timestamp": 1785764177
+  },
+  {
+    "wallet": "0x55be7aa03ecfbe37aa5460db791205f7ac9ddca3",
+    "conditionId": "0x9337ad1b85908439cfdaf9bf584a3550ea48ff43a80a62f23163a1226ba909fa",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be above $62,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 3.9312,
+    "timestamp": 1785764408
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x26e299109cb997feef3da28fd118c190dd146375dc25559d2a4809e63cc90412",
+    "outcome": "Over",
+    "title": "San Diego Padres vs. Arizona Diamondbacks: O/U 8.5",
+    "slug": "mlb-sd-ari-2026-08-03",
+    "value": 181.98000000000002,
+    "timestamp": 1785761478
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xe8424026ae2e4e63f1fac59eb24437461c666ec5e41e391ef8961730300d2307",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 3, 9:30AM-9:45AM ET",
+    "slug": "btc-updown-15m-1785763800",
+    "value": 1.92,
+    "timestamp": 1785764346
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x85448da005c604078d996865badbf416e29c8c22011d361b5d40314b7c91bb5a",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 3, 9AM ET",
+    "slug": "bitcoin-up-or-down-august-3-2026-9am-et",
+    "value": 1.7399999999999998,
+    "timestamp": 1785764348
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x85448da005c604078d996865badbf416e29c8c22011d361b5d40314b7c91bb5a",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 3, 9AM ET",
+    "slug": "bitcoin-up-or-down-august-3-2026-9am-et",
+    "value": 1.56,
+    "timestamp": 1785764361
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x85448da005c604078d996865badbf416e29c8c22011d361b5d40314b7c91bb5a",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 3, 9AM ET",
+    "slug": "bitcoin-up-or-down-august-3-2026-9am-et",
+    "value": 1.6800000000000002,
+    "timestamp": 1785764364
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x85448da005c604078d996865badbf416e29c8c22011d361b5d40314b7c91bb5a",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 3, 9AM ET",
+    "slug": "bitcoin-up-or-down-august-3-2026-9am-et",
+    "value": 1.68,
+    "timestamp": 1785764402
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 2.9,
+    "timestamp": 1785764405
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 24.779999999999998,
+    "timestamp": 1785764405
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 28.35,
+    "timestamp": 1785764406
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 3.15,
+    "timestamp": 1785764406
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 27.09,
+    "timestamp": 1785764406
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 3.0,
+    "timestamp": 1785764406
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 24.36,
+    "timestamp": 1785764406
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 2.9,
+    "timestamp": 1785764406
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 3.7800000000000002,
+    "timestamp": 1785764408
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 30.82,
+    "timestamp": 1785764409
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 3.7800000000000002,
+    "timestamp": 1785764409
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x9cc535cec0951114ca5a900dc2eeaf15c123b437a994fcc39db38c381e5118d3",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "eth-updown-5m-1785764400",
+    "value": 4.29,
+    "timestamp": 1785764411
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 3.2,
+    "timestamp": 1785764417
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x1c25c73093592af75740f89231f0d72ed55f9556b6086ca74e44389c1e7b0384",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "btc-updown-5m-1785764400",
+    "value": 13.44,
+    "timestamp": 1785764417
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x9cc535cec0951114ca5a900dc2eeaf15c123b437a994fcc39db38c381e5118d3",
+    "outcome": "Up",
+    "title": "Ethereum Up or Down - August 3, 9:40AM-9:45AM ET",
+    "slug": "eth-updown-5m-1785764400",
+    "value": 5.85,
+    "timestamp": 1785764417
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xbdd2dba2370c3678739b12bc33ebdfe9ece40a0fec15273c79042b1f86227247",
+    "outcome": "Weronika Falkowska",
+    "title": "Warsaw: Amelia Paszun vs Weronika Falkowska",
+    "slug": "wta-paszun-falkows-2026-08-03",
+    "value": 927.5991999999999,
+    "timestamp": 1785754823
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xbb57200ecc3277d77ab18ae0734966050600cb0760014f01de71a4ba34cbee58",
+    "outcome": "Daniil Glinka",
+    "title": "Grodzisk Mazowiecki: Fares Zakaria vs Daniil Glinka",
+    "slug": "atp-zakaria-glinka-2026-08-03",
+    "value": 118.3,
+    "timestamp": 1785759836
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xbb57200ecc3277d77ab18ae0734966050600cb0760014f01de71a4ba34cbee58",
+    "outcome": "Daniil Glinka",
+    "title": "Grodzisk Mazowiecki: Fares Zakaria vs Daniil Glinka",
+    "slug": "atp-zakaria-glinka-2026-08-03",
+    "value": 154.8,
+    "timestamp": 1785759836
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x5319b299241c9c43a07b756e9b32b9a9c50edbab07c3292645f7e4e959df994e",
+    "outcome": "Michele Ribecai",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Iliyan Radulov",
+    "slug": "atp-ribecai-radulov-2026-08-03",
+    "value": 250.9251,
+    "timestamp": 1785763136
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x045faf5206ebc557e2cebd01aef83fbd917a1dc0a0fa9bac84e7cf0e5d00697a",
+    "outcome": "No",
+    "title": "Will the highest temperature in Karachi be 33\u00b0C on August 5?",
+    "slug": "highest-temperature-in-karachi-on-august-5-2026",
+    "value": 16.200000000000003,
+    "timestamp": 1785764133
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xf3715cf434acd2f9add50a056cf9591b74240239f85f149f5d31fb7b12ade6fc",
+    "outcome": "No",
+    "title": "Will the highest temperature in Karachi be 32\u00b0C on August 5?",
+    "slug": "highest-temperature-in-karachi-on-august-5-2026",
+    "value": 23.700000000000003,
+    "timestamp": 1785764135
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xc79e3c422e4f95c06bc31f0888ebb40b86efaf8ea7d32be6aad423f12f525f90",
+    "outcome": "No",
+    "title": "Will the highest temperature in Karachi be 37\u00b0C or higher on August 5?",
+    "slug": "highest-temperature-in-karachi-on-august-5-2026",
+    "value": 29.85,
+    "timestamp": 1785764135
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xa8a90c2a6dac2e41dac3e1468e1d957a1d4afde2a4d74a33518c9072600770c3",
+    "outcome": "No",
+    "title": "Will the highest temperature in Karachi be 30\u00b0C on August 5?",
+    "slug": "highest-temperature-in-karachi-on-august-5-2026",
+    "value": 29.7,
+    "timestamp": 1785764135
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x3dd936f2bebdaf7fd2ef3459a01a1f74bc587a6f38a06949ee399c10d0d0da17",
+    "outcome": "No",
+    "title": "Will the highest temperature in Karachi be 31\u00b0C on August 5?",
+    "slug": "highest-temperature-in-karachi-on-august-5-2026",
+    "value": 29.089975999007233,
+    "timestamp": 1785764135
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xbf37a7e82fcdea3ac47fa3455e26fd7fc58a9717607d4dd633057b9620e4205e",
+    "outcome": "No",
+    "title": "Will the highest temperature in Karachi be 34\u00b0C on August 5?",
+    "slug": "highest-temperature-in-karachi-on-august-5-2026",
+    "value": 22.16999799913744,
+    "timestamp": 1785764135
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x8081ba9ed48a3ef7d70c46b0620f846b86ad2c60a9f404546562150f3211d196",
+    "outcome": "Yes",
+    "title": "Will the price of Bitcoin be between $58,000 and $60,000 on August 4?",
+    "slug": "bitcoin-price-on-august-4-2026",
+    "value": 2.6799989976363783,
+    "timestamp": 1785764325
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x87eaedb80c4e5aa934eb12a0bf31438c9e0606e899deab9d4d4e2be350b23494",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $60,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 1.159999001814858,
+    "timestamp": 1785764325
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x3a3099c899dcc8e9f596ba53fa0870b6c99ef3c5e4f2d229be30059190b59191",
+    "outcome": "No",
+    "title": "Will the price of Bitcoin be above $58,000 on August 4?",
+    "slug": "bitcoin-above-on-august-4-2026",
+    "value": 0.60975,
+    "timestamp": 1785764325
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x863a7269957929781bfea4aae1e568da392427ba09348effdd887256f55f2a27",
+    "outcome": "Leo Team",
+    "title": "Counter-Strike: Leo Team vs Inner Circle Academy (BO3) - ESL Challenger League Europe Cup #2 Group B",
+    "slug": "cs2-leo2-innerc-2026-08-03",
+    "value": 4.2,
+    "timestamp": 1785762918
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xb668c25113597d5fe8e825d3618a9a41c0c7afb51126273057e64866b4c2cbc7",
+    "outcome": "BASEMENT BOYS",
+    "title": "Counter-Strike: BASEMENT BOYS vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #2 Group A",
+    "slug": "cs2-bmb-ff-2026-08-03",
+    "value": 2.05,
+    "timestamp": 1785763046
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xd4a88968faddd406f9209c447702b8e81a6ebefe6c3a040a0ccd1bb3bbcebd6c",
+    "outcome": "BASEMENT BOYS",
+    "title": "Counter-Strike: BASEMENT BOYS vs Fire Flux Esports - Map 1 Winner",
+    "slug": "cs2-bmb-ff-2026-08-03",
+    "value": 27.469999998955,
+    "timestamp": 1785763070
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xd146e70e35580347fbf8685525a69513d96282a951009c0ee55fe91fede62e11",
+    "outcome": "Scotland",
+    "title": "ICC Cricket World Cup League Two: Scotland vs United Arab Emirates",
+    "slug": "crint-sco2-are2-2026-08-03",
+    "value": 245.8565,
+    "timestamp": 1785763082
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x507ef283c3255d7e5173481341e1b9e5c1172cec9943eff19d68070c3e1a03a4",
+    "outcome": "Christian Wedel",
+    "title": "ITF M15 Frankfurt Men: Tim Hohmann vs Christian Wedel",
+    "slug": "itf-hohman-wedel-2026-08-03",
+    "value": 4.5,
+    "timestamp": 1785763448
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xbd08c002dee7884ac0284a55d8eb3261c73df6d369171d1d2821dde447dedd7a",
+    "outcome": "Over",
+    "title": "Total Kills Over/Under 50.5 in Game 2?",
+    "slug": "dota2-og-gl-2026-08-03",
+    "value": 4.0,
+    "timestamp": 1785763538
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xb668c25113597d5fe8e825d3618a9a41c0c7afb51126273057e64866b4c2cbc7",
+    "outcome": "BASEMENT BOYS",
+    "title": "Counter-Strike: BASEMENT BOYS vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #2 Group A",
+    "slug": "cs2-bmb-ff-2026-08-03",
+    "value": 10.25,
+    "timestamp": 1785763553
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xb668c25113597d5fe8e825d3618a9a41c0c7afb51126273057e64866b4c2cbc7",
+    "outcome": "BASEMENT BOYS",
+    "title": "Counter-Strike: BASEMENT BOYS vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #2 Group A",
+    "slug": "cs2-bmb-ff-2026-08-03",
+    "value": 9.11999899945119,
+    "timestamp": 1785763727
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xb668c25113597d5fe8e825d3618a9a41c0c7afb51126273057e64866b4c2cbc7",
+    "outcome": "BASEMENT BOYS",
+    "title": "Counter-Strike: BASEMENT BOYS vs Fire Flux Esports (BO3) - ESL Challenger League Europe Cup #2 Group A",
+    "slug": "cs2-bmb-ff-2026-08-03",
+    "value": 2.3000000000000003,
+    "timestamp": 1785763736
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xd4a88968faddd406f9209c447702b8e81a6ebefe6c3a040a0ccd1bb3bbcebd6c",
+    "outcome": "BASEMENT BOYS",
+    "title": "Counter-Strike: BASEMENT BOYS vs Fire Flux Esports - Map 1 Winner",
+    "slug": "cs2-bmb-ff-2026-08-03",
+    "value": 31.8,
+    "timestamp": 1785763847
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x199099a5b3771b60d16863625e3fffbf80ede5eaf41a949e2f3dc54f0153fe3c",
+    "outcome": "MOUZ NXT",
+    "title": "Counter-Strike: MOUZ NXT vs Misa Esports - Map 1 Winner",
+    "slug": "cs2-mouzn-mis-2026-08-03",
+    "value": 26.350000001999998,
+    "timestamp": 1785763853
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xd4a88968faddd406f9209c447702b8e81a6ebefe6c3a040a0ccd1bb3bbcebd6c",
+    "outcome": "BASEMENT BOYS",
+    "title": "Counter-Strike: BASEMENT BOYS vs Fire Flux Esports - Map 1 Winner",
+    "slug": "cs2-bmb-ff-2026-08-03",
+    "value": 4.699999999999999,
+    "timestamp": 1785763890
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x863a7269957929781bfea4aae1e568da392427ba09348effdd887256f55f2a27",
+    "outcome": "Leo Team",
+    "title": "Counter-Strike: Leo Team vs Inner Circle Academy (BO3) - ESL Challenger League Europe Cup #2 Group B",
+    "slug": "cs2-leo2-innerc-2026-08-03",
+    "value": 37.999997999153344,
+    "timestamp": 1785763893
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x199099a5b3771b60d16863625e3fffbf80ede5eaf41a949e2f3dc54f0153fe3c",
+    "outcome": "MOUZ NXT",
+    "title": "Counter-Strike: MOUZ NXT vs Misa Esports - Map 1 Winner",
+    "slug": "cs2-mouzn-mis-2026-08-03",
+    "value": 9.200000000000001,
+    "timestamp": 1785763931
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x47db8f6eadc1bebadd313440a2aea65828a1182264eb74cd50782fd6bfc19c6a",
+    "outcome": "Fortress",
+    "title": "Counter-Strike: Noir Verse vs Fortress (BO3) - ESL Challenger League Europe Cup #2 Group C",
+    "slug": "cs2-noirve-for10-2026-08-03",
+    "value": 1.47,
+    "timestamp": 1785764054
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xb9e2173d179ba9a190ba2695f164be794afa217c4edb97c7e6d8c30a783a3e5d",
+    "outcome": "Fortress",
+    "title": "Counter-Strike: Noir Verse vs Fortress - Map 1 Winner",
+    "slug": "cs2-noirve-for10-2026-08-03",
+    "value": 18.150000000000002,
+    "timestamp": 1785764061
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x18bae5c798d7a6859c133681af2a698d7368d5caee618f60cc34068edcbbc54c",
+    "outcome": "Gabriel Schenekenberg",
+    "title": "ITF M25 Londrina Men: Gabriel Schenekenberg vs Kaue Noatto",
+    "slug": "itf-schenek-noatto-2026-08-03",
+    "value": 3.4000000000000004,
+    "timestamp": 1785764069
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x47db8f6eadc1bebadd313440a2aea65828a1182264eb74cd50782fd6bfc19c6a",
+    "outcome": "Fortress",
+    "title": "Counter-Strike: Noir Verse vs Fortress (BO3) - ESL Challenger League Europe Cup #2 Group C",
+    "slug": "cs2-noirve-for10-2026-08-03",
+    "value": 1.9999990000000913,
+    "timestamp": 1785764082
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xb9e2173d179ba9a190ba2695f164be794afa217c4edb97c7e6d8c30a783a3e5d",
+    "outcome": "Fortress",
+    "title": "Counter-Strike: Noir Verse vs Fortress - Map 1 Winner",
+    "slug": "cs2-noirve-for10-2026-08-03",
+    "value": 0.0068000000000000005,
+    "timestamp": 1785764118
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x47db8f6eadc1bebadd313440a2aea65828a1182264eb74cd50782fd6bfc19c6a",
+    "outcome": "Fortress",
+    "title": "Counter-Strike: Noir Verse vs Fortress (BO3) - ESL Challenger League Europe Cup #2 Group C",
+    "slug": "cs2-noirve-for10-2026-08-03",
+    "value": 6.9,
+    "timestamp": 1785764123
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xcd784bf821fa988b19c63ae9937824d89bcf2b826d2477593d7e47f74d3b1fa9",
+    "outcome": "Elena Micic",
+    "title": "Warsaw: Elena Micic vs Veronika Podrez",
+    "slug": "wta-micic-podrez-2026-08-03",
+    "value": 1.1964000000000001,
+    "timestamp": 1785757106
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xd38d1bf3572799abecdf0e7e7cb6c859ba594ff51eea4069607cd06948be115e",
+    "outcome": "Orix Buffaloes",
+    "title": "Orix Buffaloes vs. Tohoku Rakuten Golden Eagles",
+    "slug": "npb-ori-toh-2026-08-03",
+    "value": 4.012,
+    "timestamp": 1785758505
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xbdd2dba2370c3678739b12bc33ebdfe9ece40a0fec15273c79042b1f86227247",
+    "outcome": "Amelia Paszun",
+    "title": "Warsaw: Amelia Paszun vs Weronika Falkowska",
+    "slug": "wta-paszun-falkows-2026-08-03",
+    "value": 0.5675,
+    "timestamp": 1785758735
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 197.9037,
+    "timestamp": 1785760182
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 112.96319999999999,
+    "timestamp": 1785760238
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 6.3,
+    "timestamp": 1785760310
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 4.2822,
+    "timestamp": 1785760695
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 12.9648,
+    "timestamp": 1785761828
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 62.7399999954,
+    "timestamp": 1785762107
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 22.0,
+    "timestamp": 1785762372
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 2.9499999999999997,
+    "timestamp": 1785762515
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 3.25,
+    "timestamp": 1785762587
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 7.9,
+    "timestamp": 1785763043
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x5319b299241c9c43a07b756e9b32b9a9c50edbab07c3292645f7e4e959df994e",
+    "outcome": "Iliyan Radulov",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Iliyan Radulov",
+    "slug": "atp-ribecai-radulov-2026-08-03",
+    "value": 93.56600000000002,
+    "timestamp": 1785763200
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Linda Fruhvirtova",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 7.199999999999999,
+    "timestamp": 1785763259
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x5319b299241c9c43a07b756e9b32b9a9c50edbab07c3292645f7e4e959df994e",
+    "outcome": "Michele Ribecai",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Iliyan Radulov",
+    "slug": "atp-ribecai-radulov-2026-08-03",
+    "value": 504.85999997399995,
+    "timestamp": 1785763445
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0x5319b299241c9c43a07b756e9b32b9a9c50edbab07c3292645f7e4e959df994e",
+    "outcome": "Iliyan Radulov",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Iliyan Radulov",
+    "slug": "atp-ribecai-radulov-2026-08-03",
+    "value": 505.1299999815,
+    "timestamp": 1785763488
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 0.6,
+    "timestamp": 1785764166
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 4.760000000000001,
+    "timestamp": 1785764273
+  },
+  {
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "conditionId": "0xdd7a0c7db904be7f55b6087ce2f21740efd628061ae1d7bf8acec8f9b2588458",
+    "outcome": "T1",
+    "title": "LoL: Nongshim Red Force vs T1 - Game 1 Winner",
+    "slug": "lol-ns-t1-2026-08-03",
+    "value": 238.42469998416297,
+    "timestamp": 1785755267
+  },
+  {
+    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
+    "conditionId": "0x7f91ccc5343245cc6b2e99e121409ad2ee733a1ea9cb3c01b912edb57e89813a",
+    "outcome": "Up",
+    "title": "HYPE Up or Down - August 3, 6AM ET",
+    "slug": "hype-up-or-down-august-3-2026-6am-et",
+    "value": 39.55,
+    "timestamp": 1785754803
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x8bc343f190bae2060e3118d5cc874a952b739e3ffafa868ca86403a96962196b",
+    "outcome": "No",
+    "title": "Djurgardens IF vs. Vasteraas SK: Neither team to score first?",
+    "slug": "swe-dju-vas-2026-08-03-first-to-score",
+    "value": 96.2999790002697,
+    "timestamp": 1785763829
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x8bc343f190bae2060e3118d5cc874a952b739e3ffafa868ca86403a96962196b",
+    "outcome": "No",
+    "title": "Djurgardens IF vs. Vasteraas SK: Neither team to score first?",
+    "slug": "swe-dju-vas-2026-08-03-first-to-score",
+    "value": 57.78,
+    "timestamp": 1785763829
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x032db080bb17ef4edfe6ba85b9c174748699f31fe835e30750efc8cdc2a449ec",
+    "outcome": "No",
+    "title": "Zalaegerszeg TE vs. Paksi FC: Neither team to score first?",
+    "slug": "hun-zal-pak-2026-08-03-first-to-score",
+    "value": 28.439999999999998,
+    "timestamp": 1785763851
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xc6a0bd21077d657a2ff289e8f68bb791b322145b232c9c02ca6c7736717a5681",
+    "outcome": "Over",
+    "title": "Las Vegas Aces vs. Atlanta Dream: O/U 182.5",
+    "slug": "wnba-las-atl-2026-08-03",
+    "value": 21.14,
+    "timestamp": 1785763869
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x5319b299241c9c43a07b756e9b32b9a9c50edbab07c3292645f7e4e959df994e",
+    "outcome": "Iliyan Radulov",
+    "title": "Grodzisk Mazowiecki: Michele Ribecai vs Iliyan Radulov",
+    "slug": "atp-ribecai-radulov-2026-08-03",
+    "value": 7.9,
+    "timestamp": 1785763874
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x2c54f802e45035b0e2e01511f8b29a0d44ab061895cd7e39b5d986986231ea5d",
+    "outcome": "Yes",
+    "title": "Will FSK Bukovyna Chernivtsi win on 2026-08-03?",
+    "slug": "ukr1-buk-che-2026-08-03",
+    "value": 5.9399999999999995,
+    "timestamp": 1785763908
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x5d726dcca42172162b852556b2e34d1f7404748b9032a830c3eafdc5003ba868",
+    "outcome": "No",
+    "title": "Exact Score: Halmstads BK 3 - 0 IK Sirius?",
+    "slug": "swe-hal-sir-2026-08-03-exact-score",
+    "value": 561.61,
+    "timestamp": 1785763922
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Alana Smith",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 49.40999900068069,
+    "timestamp": 1785763946
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xd4c75ea06a1c89fa009dc4d50c39ddb778314a5fce984cbf05a3f290943cb8d1",
+    "outcome": "No",
+    "title": "Exact Score: Halmstads BK 2 - 3 IK Sirius?",
+    "slug": "swe-hal-sir-2026-08-03-exact-score",
+    "value": 86.49,
+    "timestamp": 1785763959
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x69c46ba9ab2c70e2a742a260c9c89eb901788f2fef3303ead65df997ba86c52b",
+    "outcome": "Under",
+    "title": "FSK Bukovyna Chernivtsi vs. FK LNZ Cherkasy: O/U 0.5",
+    "slug": "ukr1-buk-che-2026-08-03-more-markets",
+    "value": 47.36,
+    "timestamp": 1785763989
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Alana Smith",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 63.79999999406385,
+    "timestamp": 1785764000
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xe1acc59c7c6da624dc4bf7b9f525270dc3b3fc741a0f254c6b6f231a272351a7",
+    "outcome": "Katarzyna Kawa",
+    "title": "Warsaw: Katarzyna Kawa vs Linda Fruhvirtova",
+    "slug": "wta-kawa-fruhvir-2026-08-03",
+    "value": 5.5,
+    "timestamp": 1785764129
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Alana Smith",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 38.36000000000001,
+    "timestamp": 1785764198
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xe773f75da1c6e9eb5790172ef47769d8538a02dd75c51e6246b9d9f2234ddf28",
+    "outcome": "No",
+    "title": "Will FK LNZ Cherkasy win on 2026-08-03?",
+    "slug": "ukr1-buk-che-2026-08-03",
+    "value": 52.160000000000004,
+    "timestamp": 1785764246
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xd62ec500d14dd10134842e7922cff2394ebe7fc70186018e9e2735125a61d3ac",
+    "outcome": "Yes",
+    "title": "Will EC Vit\u00f3ria win on 2026-08-03?",
+    "slug": "brco-cap-vit-2026-08-03",
+    "value": 22.12,
+    "timestamp": 1785764306
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x8c40d66bc919c5eee25476b86d0acd1436bc32dc01029c368bd44d2777fed302",
+    "outcome": "No",
+    "title": "Will Dundee FC win on 2026-08-03?",
+    "slug": "scop-cel-dfc-2026-08-03",
+    "value": 109.97999999999999,
+    "timestamp": 1785764348
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x0eebc03e51caea48f4a14a2954ee34626ce134f06c00514a111dbdfd131f04d9",
+    "outcome": "Alana Smith",
+    "title": "Warsaw: Alana Smith vs Yue Yuan",
+    "slug": "wta-smit-yuan-2026-08-03",
+    "value": 49.41,
+    "timestamp": 1785764369
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x1be695bb06aedbee7d71ffa0c5ee6b1f1433f6fe9f27c44831c75cccbdec818a",
+    "outcome": "No",
+    "title": "Exact Score: Odense BK 1 - 3 S\u00f8nderjyske Fodbold?",
+    "slug": "den-ode-sjs-2026-08-03-exact-score",
+    "value": 24.15,
+    "timestamp": 1785764382
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xd43eb910005586d67133ea18cf25ae937f164816fbf239f54ee45d86e568459c",
+    "outcome": "No",
+    "title": "Defensor Sporting vs. CA Cerro: Neither team to score first?",
+    "slug": "uru1-def-cer-2026-08-03-first-to-score",
+    "value": 26.7,
+    "timestamp": 1785764433
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xd9ef96e56449178155c26eb339c7efe5a09132b73f7a117746e3a24434cf2c2f",
+    "outcome": "FK Haugesund",
+    "title": "Spread: FK Haugesund (-1.5)",
+    "slug": "nor2-ran-hau-2026-08-03-more-markets",
+    "value": 7.260000000000001,
+    "timestamp": 1785764583
   }
 ]
