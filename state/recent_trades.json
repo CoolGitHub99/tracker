@@ -1,1590 +1,6 @@
 [
   {
     "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x143c7209f9936500e6d6e67eb6c11523285e33b2e55236c764b8111d582aa0d9",
-    "outcome": "No",
-    "title": "Will PFC Lokomotiv Plovdiv win on 2026-08-07?",
-    "slug": "bul-lev-lok-2026-08-07",
-    "value": 12.059977000107255,
-    "timestamp": 1786126870
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x2a9fbb9b0c9e26ce4aa8cff0fbb04cee1472e2fd472f097cbd8b2ec8bef56853",
-    "outcome": "Under",
-    "title": "Vitesse Arnhem vs. RKC Waalwijk: O/U 1.5",
-    "slug": "ned2-vit-waa-2026-08-07-more-markets",
-    "value": 62.32,
-    "timestamp": 1786126876
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x8325d7c35d5065034e4871bd31dc5117491a6a11cf6faf7dd85b5f07cdb5035e",
-    "outcome": "Under",
-    "title": "FC Dordrecht vs. Jong Ajax Amsterdam: O/U 4.5",
-    "slug": "ned2-dor-aja-2026-08-07-more-markets",
-    "value": 22.5,
-    "timestamp": 1786126876
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x814ee35c6a6d4b11d9057e1fe1fbbf20dc9430f6d5ffe57d06b98ed903466865",
-    "outcome": "Yes",
-    "title": "Will PFC Levski Sofia vs. PFC Lokomotiv Plovdiv end in a draw?",
-    "slug": "bul-lev-lok-2026-08-07",
-    "value": 8.0,
-    "timestamp": 1786126881
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x814ee35c6a6d4b11d9057e1fe1fbbf20dc9430f6d5ffe57d06b98ed903466865",
-    "outcome": "Yes",
-    "title": "Will PFC Levski Sofia vs. PFC Lokomotiv Plovdiv end in a draw?",
-    "slug": "bul-lev-lok-2026-08-07",
-    "value": 4.0,
-    "timestamp": 1786126882
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xf56ca3dfa12a464f7bc08cd98573818a0e8ce9c0d447c3abe9514e0431287281",
-    "outcome": "Yes",
-    "title": "Will Vitesse Arnhem vs. RKC Waalwijk end in a draw?",
-    "slug": "ned2-vit-waa-2026-08-07",
-    "value": 1.6500000000000001,
-    "timestamp": 1786126890
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x814ee35c6a6d4b11d9057e1fe1fbbf20dc9430f6d5ffe57d06b98ed903466865",
-    "outcome": "Yes",
-    "title": "Will PFC Levski Sofia vs. PFC Lokomotiv Plovdiv end in a draw?",
-    "slug": "bul-lev-lok-2026-08-07",
-    "value": 0.364,
-    "timestamp": 1786126903
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x814ee35c6a6d4b11d9057e1fe1fbbf20dc9430f6d5ffe57d06b98ed903466865",
-    "outcome": "Yes",
-    "title": "Will PFC Levski Sofia vs. PFC Lokomotiv Plovdiv end in a draw?",
-    "slug": "bul-lev-lok-2026-08-07",
-    "value": 0.5364,
-    "timestamp": 1786126914
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xb9a2b2f9b6a25a86f496f17b08692bc3ef5859ec15abe9bef2df081ed26918de",
-    "outcome": "Yes",
-    "title": "Will FC Dordrecht win on 2026-08-07?",
-    "slug": "ned2-dor-aja-2026-08-07",
-    "value": 3.9516,
-    "timestamp": 1786126930
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x1a8c6642c20a7e21156f838176bf6d764bbc667e049f333e4f79846b9da40385",
-    "outcome": "Ostersunds FK",
-    "title": "Spread: GIF Sundsvall (-1.5)",
-    "slug": "swe2-of-sun-2026-08-07-more-markets",
-    "value": 229.529521,
-    "timestamp": 1786126938
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x126210f7ebbe77b51ce4745001b3a17411fc6eb519433c9fb828eafff4a41051",
-    "outcome": "Under",
-    "title": "Vitesse Arnhem vs. RKC Waalwijk: O/U 2.5",
-    "slug": "ned2-vit-waa-2026-08-07-more-markets",
-    "value": 3.35,
-    "timestamp": 1786126941
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xf7f229183cfafa19cd1f52fe875b100bdca358346ac8929d3bbbadbf60659883",
-    "outcome": "Yes",
-    "title": "Will Ulsan HD FC win on 2026-08-08?",
-    "slug": "kor-poh-uls-2026-08-08",
-    "value": 10.08,
-    "timestamp": 1786126950
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x24b356704c94760841de97e8878acfb860f605b4add6ac6f4feec87926ae7f4f",
-    "outcome": "Yes",
-    "title": "Estoril Praia vs. FC Famalic\u00e3o: Both Teams to Score",
-    "slug": "por-est-fam-2026-08-07-more-markets",
-    "value": 8.049998999990764,
-    "timestamp": 1786126953
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
-    "outcome": "Matteo Arnaldi",
-    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 161.3399989794615,
-    "timestamp": 1786126974
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x2a9fbb9b0c9e26ce4aa8cff0fbb04cee1472e2fd472f097cbd8b2ec8bef56853",
-    "outcome": "Under",
-    "title": "Vitesse Arnhem vs. RKC Waalwijk: O/U 1.5",
-    "slug": "ned2-vit-waa-2026-08-07-more-markets",
-    "value": 2.0,
-    "timestamp": 1786126981
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x143c7209f9936500e6d6e67eb6c11523285e33b2e55236c764b8111d582aa0d9",
-    "outcome": "Yes",
-    "title": "Will PFC Lokomotiv Plovdiv win on 2026-08-07?",
-    "slug": "bul-lev-lok-2026-08-07",
-    "value": 2.6,
-    "timestamp": 1786126987
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x19837aa660d59b55570415087706d88e381cccac29ad18dba3477441ed19b6a3",
-    "outcome": "Daniel Merida Aguilar",
-    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
-    "slug": "atp-aguilar-michels-2026-08-07",
-    "value": 268.62,
-    "timestamp": 1786127005
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x0fccde6c315bca3c027a57d4256959244ca6f2ca1e419fa407c1e1219ab5d6f4",
-    "outcome": "Yes",
-    "title": "Will FC Slovan Liberec win on 2026-08-07?",
-    "slug": "cze1-zbr-fsl-2026-08-07",
-    "value": 104.4199979948611,
-    "timestamp": 1786127023
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x8d8ae60210e665b801627d6cfd25b8acf767dd71a7430e4156144efecdda145f",
-    "outcome": "Under",
-    "title": "Ostersunds FK vs. GIF Sundsvall: O/U 1.5",
-    "slug": "swe2-of-sun-2026-08-07-total-1pt5",
-    "value": 7.389998999736619,
-    "timestamp": 1786127026
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
-    "conditionId": "0x8d8ae60210e665b801627d6cfd25b8acf767dd71a7430e4156144efecdda145f",
-    "outcome": "Under",
-    "title": "Ostersunds FK vs. GIF Sundsvall: O/U 1.5",
-    "slug": "swe2-of-sun-2026-08-07-total-1pt5",
-    "value": 3.3899989993696305,
-    "timestamp": 1786127028
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x469cb4eb4d0d6e0bd934998d2b2eb70a3bd0f7c715802aef576bc90abac59c61",
-    "outcome": "Paulo Andre Saraiva Dos Santos",
-    "title": "ITF Londrina: Paulo Andre Saraiva Dos Santos vs Carlos Maria Zarate",
-    "slug": "itf-pauloan-zarate-2026-08-07",
-    "value": 42.9,
-    "timestamp": 1786125244
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xda0a84de0a932d4159a5fa4563986ed71119023e457192e9ec00c848a065a718",
-    "outcome": "No",
-    "title": "Exact Score: SC Cambuur-Leeuwarden 1 - 3 SBV Excelsior?",
-    "slug": "ere-cam-exc-2026-08-07-exact-score",
-    "value": 1149.5,
-    "timestamp": 1786125510
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xc91b5b349661fb4c9aa8e9f85b23ac500b48d0da60f1a3781b7a43da7735f1a1",
-    "outcome": "Marcello Serafini",
-    "title": "ITF Fano: Marcello Serafini vs Massimo Giunta",
-    "slug": "itf-serafin-giunta-2026-08-07",
-    "value": 31.0,
-    "timestamp": 1786125535
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x607c5f25eb6e723807329001247c0327cab4d5e937c030597b04aa1cbb956dc6",
-    "outcome": "Arthur Nagel",
-    "title": "ITF Eupen: Arthur Nagel vs Martin Van Der Meerschen",
-    "slug": "itf-nagel-meersch-2026-08-07",
-    "value": 73.0,
-    "timestamp": 1786125612
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Elena Rybakina",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 19.316,
-    "timestamp": 1786125672
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x607c5f25eb6e723807329001247c0327cab4d5e937c030597b04aa1cbb956dc6",
-    "outcome": "Martin Van Der Meerschen",
-    "title": "ITF Eupen: Arthur Nagel vs Martin Van Der Meerschen",
-    "slug": "itf-nagel-meersch-2026-08-07",
-    "value": 6.726399999248,
-    "timestamp": 1786125732
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x19837aa660d59b55570415087706d88e381cccac29ad18dba3477441ed19b6a3",
-    "outcome": "Daniel Merida Aguilar",
-    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
-    "slug": "atp-aguilar-michels-2026-08-07",
-    "value": 117.0,
-    "timestamp": 1786125735
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xc91b5b349661fb4c9aa8e9f85b23ac500b48d0da60f1a3781b7a43da7735f1a1",
-    "outcome": "Marcello Serafini",
-    "title": "ITF Fano: Marcello Serafini vs Massimo Giunta",
-    "slug": "itf-serafin-giunta-2026-08-07",
-    "value": 33.0,
-    "timestamp": 1786125756
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xc91b5b349661fb4c9aa8e9f85b23ac500b48d0da60f1a3781b7a43da7735f1a1",
-    "outcome": "Marcello Serafini",
-    "title": "ITF Fano: Marcello Serafini vs Massimo Giunta",
-    "slug": "itf-serafin-giunta-2026-08-07",
-    "value": 142.53119999897,
-    "timestamp": 1786125829
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x469cb4eb4d0d6e0bd934998d2b2eb70a3bd0f7c715802aef576bc90abac59c61",
-    "outcome": "Paulo Andre Saraiva Dos Santos",
-    "title": "ITF Londrina: Paulo Andre Saraiva Dos Santos vs Carlos Maria Zarate",
-    "slug": "itf-pauloan-zarate-2026-08-07",
-    "value": 104.50049999999999,
-    "timestamp": 1786125921
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xc48e9883c0a1784212621546541aa8f379a3ae54f0b39818e8b92aa3315e78f8",
-    "outcome": "No",
-    "title": "Will KFUM-Kameratene Oslo win on 2026-08-07?",
-    "slug": "nor-san-kfu-2026-08-07",
-    "value": 172.79999999999998,
-    "timestamp": 1786126078
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xf8772ab2b41ef6f6912bbf991989b9394bcdc3b57ff1c3a4914c6eeb89a50d5d",
-    "outcome": "Yes",
-    "title": "Will Sandefjord Fotball vs. KFUM-Kameratene Oslo end in a draw?",
-    "slug": "nor-san-kfu-2026-08-07",
-    "value": 37.8,
-    "timestamp": 1786126090
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xf8772ab2b41ef6f6912bbf991989b9394bcdc3b57ff1c3a4914c6eeb89a50d5d",
-    "outcome": "Yes",
-    "title": "Will Sandefjord Fotball vs. KFUM-Kameratene Oslo end in a draw?",
-    "slug": "nor-san-kfu-2026-08-07",
-    "value": 25.2,
-    "timestamp": 1786126095
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x88b4ddef58f39a3cfba0991a721a84b9dd501f0e022df4835c4a6fafb7b99089",
-    "outcome": "Manchester United",
-    "title": "Spread: Manchester United (-1.5)",
-    "slug": "clf-psg-mun-2026-08-08-more-markets",
-    "value": 50.0,
-    "timestamp": 1786126156
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x19837aa660d59b55570415087706d88e381cccac29ad18dba3477441ed19b6a3",
-    "outcome": "Daniel Merida Aguilar",
-    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
-    "slug": "atp-aguilar-michels-2026-08-07",
-    "value": 179.4,
-    "timestamp": 1786126227
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xacbf4d2376b7dc827bb56aadcc9fba8c1d0c4216cc098086a4716e74a9d58ed3",
-    "outcome": "Over",
-    "title": "SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 0.5",
-    "slug": "ere-cam-exc-2026-08-07-more-markets",
-    "value": 15.924000000199998,
-    "timestamp": 1786126645
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xc91b5b349661fb4c9aa8e9f85b23ac500b48d0da60f1a3781b7a43da7735f1a1",
-    "outcome": "Marcello Serafini",
-    "title": "ITF Fano: Marcello Serafini vs Massimo Giunta",
-    "slug": "itf-serafin-giunta-2026-08-07",
-    "value": 45.0,
-    "timestamp": 1786126741
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
-    "outcome": "Tallon Griekspoor",
-    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 813.2,
-    "timestamp": 1786126843
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xb4dc789213a2a237ed950af1cd2f5a2223db2cd60453bbecf124eca0f2fb7d77",
-    "outcome": "No",
-    "title": "Will SBV Excelsior win on 2026-08-07?",
-    "slug": "ere-cam-exc-2026-08-07",
-    "value": 958.3,
-    "timestamp": 1786126845
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x469cb4eb4d0d6e0bd934998d2b2eb70a3bd0f7c715802aef576bc90abac59c61",
-    "outcome": "Carlos Maria Zarate",
-    "title": "ITF Londrina: Paulo Andre Saraiva Dos Santos vs Carlos Maria Zarate",
-    "slug": "itf-pauloan-zarate-2026-08-07",
-    "value": 2.05,
-    "timestamp": 1786126884
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x229a819d35acda4a81184ffffadb8f9bac28ab46183b01f0ade5e6164609b8df",
-    "outcome": "Team Heretics",
-    "title": "Game Handicap: FNC (-1.5) vs Team Heretics (+1.5)",
-    "slug": "lol-th-fnc-2026-08-07",
-    "value": 8.389997999976861,
-    "timestamp": 1786126504
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x229a819d35acda4a81184ffffadb8f9bac28ab46183b01f0ade5e6164609b8df",
-    "outcome": "Team Heretics",
-    "title": "Game Handicap: FNC (-1.5) vs Team Heretics (+1.5)",
-    "slug": "lol-th-fnc-2026-08-07",
-    "value": 25.439999000114295,
-    "timestamp": 1786126512
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x9272f40d0efca6d1e8d5dd132fd62513b13cbbd1a0dccf7ad82d515aef419377",
-    "outcome": "No",
-    "title": "Will Viborg FF win on 2026-08-07?",
-    "slug": "den-sjs-vib-2026-08-07",
-    "value": 2.5,
-    "timestamp": 1786126521
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x9272f40d0efca6d1e8d5dd132fd62513b13cbbd1a0dccf7ad82d515aef419377",
-    "outcome": "No",
-    "title": "Will Viborg FF win on 2026-08-07?",
-    "slug": "den-sjs-vib-2026-08-07",
-    "value": 2.55,
-    "timestamp": 1786126533
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xc9193ba0f47d260ca68a2d494c1537a3b4908def7ff7b55137c2a5a2b93e3251",
-    "outcome": "Fnatic",
-    "title": "LoL: Team Heretics vs Fnatic - Game 1 Winner",
-    "slug": "lol-th-fnc-2026-08-07",
-    "value": 11.32,
-    "timestamp": 1786126558
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x120737ae3b128c41f1f712b4d7ef4acdfb6a13a95b1490fefe5ca62644b85bd4",
-    "outcome": "Manisa Futbol Kulubu",
-    "title": "Spread: Manisa Futbol Kulubu (-1.5)",
-    "slug": "tur2-bol-man-2026-08-07-more-markets",
-    "value": 1520.9599988660527,
-    "timestamp": 1786126620
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xc9193ba0f47d260ca68a2d494c1537a3b4908def7ff7b55137c2a5a2b93e3251",
-    "outcome": "Fnatic",
-    "title": "LoL: Team Heretics vs Fnatic - Game 1 Winner",
-    "slug": "lol-th-fnc-2026-08-07",
-    "value": 836.16,
-    "timestamp": 1786126659
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x8da6ffed830d8620fd50f8c66c815242917ebcac699804614559bc840a97dc52",
-    "outcome": "Enterprise Esports",
-    "title": "Valorant: Fnatic vs Enterprise Esports (BO3) - VCT EMEA Play-Ins",
-    "slug": "val-fnc1-ep1-2026-08-07",
-    "value": 36.17999899538422,
-    "timestamp": 1786126669
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x9272f40d0efca6d1e8d5dd132fd62513b13cbbd1a0dccf7ad82d515aef419377",
-    "outcome": "No",
-    "title": "Will Viborg FF win on 2026-08-07?",
-    "slug": "den-sjs-vib-2026-08-07",
-    "value": 2.589998999890474,
-    "timestamp": 1786126696
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x51637654300ff8ade32bfc5de7a30824c7dbb44cd46ea836d0aa54f78b4c3205",
-    "outcome": "Under",
-    "title": "Juventus Turin vs. Inter Milano: O/U 2.5",
-    "slug": "clf-juv-int-2026-08-08-more-markets",
-    "value": 20.84999900028261,
-    "timestamp": 1786126758
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x9272f40d0efca6d1e8d5dd132fd62513b13cbbd1a0dccf7ad82d515aef419377",
-    "outcome": "No",
-    "title": "Will Viborg FF win on 2026-08-07?",
-    "slug": "den-sjs-vib-2026-08-07",
-    "value": 23.069999000000003,
-    "timestamp": 1786126828
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xe7d1c30ce2aabd4c4ddce042b04a5913a50994b1a303cae0215a4d292183d5a5",
-    "outcome": "Yes",
-    "title": "Will PFC Levski Sofia win on 2026-08-07?",
-    "slug": "bul-lev-lok-2026-08-07",
-    "value": 17.0,
-    "timestamp": 1786126864
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
-    "outcome": "Tallon Griekspoor",
-    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 3.75,
-    "timestamp": 1786126875
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x36dc0c3e6222cc6ab8c97e203114e82123cdaff6098d9b1a14e325926d9ed915",
-    "outcome": "Under",
-    "title": "Racing Santander vs. Deportivo Alaves: O/U 2.5",
-    "slug": "clf-rac-ala-2026-08-07-more-markets",
-    "value": 10.13999900056667,
-    "timestamp": 1786126896
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xaa457f2a78de16ef57ef20eb91e908f1f73c17cbaebf775cf8d7f9a4fa371350",
-    "outcome": "Yes",
-    "title": "Will CA Atlanta vs. CA Temperley end in a draw?",
-    "slug": "argpn-atl-cat-2026-08-08",
-    "value": 4.009999000272787,
-    "timestamp": 1786126905
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xc9193ba0f47d260ca68a2d494c1537a3b4908def7ff7b55137c2a5a2b93e3251",
-    "outcome": "Fnatic",
-    "title": "LoL: Team Heretics vs Fnatic - Game 1 Winner",
-    "slug": "lol-th-fnc-2026-08-07",
-    "value": 2.2199999999999998,
-    "timestamp": 1786126914
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x39705900b578aa5323f3857f31f00812ab99ee461098b0402ef875c9322f0961",
-    "outcome": "Yes",
-    "title": "Will S\u00f8nderjyske Fodbold win on 2026-08-07?",
-    "slug": "den-sjs-vib-2026-08-07",
-    "value": 0.0091,
-    "timestamp": 1786126960
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x39705900b578aa5323f3857f31f00812ab99ee461098b0402ef875c9322f0961",
-    "outcome": "Yes",
-    "title": "Will S\u00f8nderjyske Fodbold win on 2026-08-07?",
-    "slug": "den-sjs-vib-2026-08-07",
-    "value": 1.9399989993693276,
-    "timestamp": 1786126960
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x19837aa660d59b55570415087706d88e381cccac29ad18dba3477441ed19b6a3",
-    "outcome": "Daniel Merida Aguilar",
-    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
-    "slug": "atp-aguilar-michels-2026-08-07",
-    "value": 143.9899990000389,
-    "timestamp": 1786126996
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x18e0f9d80759a06d7aa43f3524ea9986fef8e4d17c19ad6f1fcdd72004c0b6b8",
-    "outcome": "Yes",
-    "title": "Will Wisla Plock win on 2026-08-07?",
-    "slug": "pol-wis-plo-2026-08-07",
-    "value": 1.33,
-    "timestamp": 1786127034
-  },
-  {
-    "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
-    "conditionId": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-    "outcome": "Yes",
-    "title": "Strait of Hormuz traffic returns to normal by December 31?",
-    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-    "value": 6016.3715999999995,
-    "timestamp": 1786126344
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0xa73955ebdf4e8d95eb2c2211552c6890ca837aa5094c4c12b8005323c102edef",
-    "outcome": "Houston Astros",
-    "title": "Houston Astros vs. San Diego Padres",
-    "slug": "mlb-hou-sd-2026-08-07",
-    "value": 4635.3456,
-    "timestamp": 1786126053
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0x84fd8c91fb7bc4bf9d45c0d995df41caedfdefd795365fd8ed19c4abae935b6c",
-    "outcome": "Under",
-    "title": "AD Ceuta vs. Malaga CF: O/U 4.5",
-    "slug": "clf-ceu-mcf-2026-08-07-more-markets",
-    "value": 1469.2752000000003,
-    "timestamp": 1786126222
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
-    "outcome": "Matteo Arnaldi",
-    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 6286.36229906454,
-    "timestamp": 1786126750
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
-    "outcome": "Matteo Arnaldi",
-    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 43.2,
-    "timestamp": 1786126750
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
-    "outcome": "Matteo Arnaldi",
-    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 28.396,
-    "timestamp": 1786126768
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0xd51d3ad8f8193cb9982f2c07c2bbf26c95d967f024d146deec382347bdaf7d67",
-    "outcome": "Under",
-    "title": "AD Ceuta vs. Malaga CF: O/U 3.5",
-    "slug": "clf-ceu-mcf-2026-08-07-more-markets",
-    "value": 60.0,
-    "timestamp": 1786126804
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x93e83c605a8f647871fce82f4aa42dbbabe3d989641238556ec3358158e3b442",
-    "outcome": "Under",
-    "title": "Griekspoor vs. Arnaldi: Match O/U 22.5",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 2.75,
-    "timestamp": 1786124757
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x769c3824b99551f34c5d92434dc90391432f1856cce1d96c83329359e1cda6b2",
-    "outcome": "Edas Butvilas",
-    "title": "Lexington: Rei Sakamoto vs Edas Butvilas",
-    "slug": "atp-sakamot-butvila-2026-08-07",
-    "value": 1878.0005999999996,
-    "timestamp": 1786124863
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Ann Li",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 318.13649999999996,
-    "timestamp": 1786124893
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Elena Rybakina",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 336.6425,
-    "timestamp": 1786124896
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Ann Li",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 1.7000000000000002,
-    "timestamp": 1786124922
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xf0e0c177e541cb5a98d04fd2edf15ef4ab56dc8aff853e933778741d2a7032a7",
-    "outcome": "Under",
-    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 174.5",
-    "slug": "wnba-phx-conn-2026-08-07",
-    "value": 594.9992000000001,
-    "timestamp": 1786124956
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x19837aa660d59b55570415087706d88e381cccac29ad18dba3477441ed19b6a3",
-    "outcome": "Alex Michelsen",
-    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
-    "slug": "atp-aguilar-michels-2026-08-07",
-    "value": 0.053099999999999994,
-    "timestamp": 1786125022
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xc2b4db4b956e546a7a176b63235d69f29bfa15ae9b7591fdcf3366d6d563d8fc",
-    "outcome": "Over",
-    "title": "Minnesota Twins vs. Milwaukee Brewers: O/U 7.5",
-    "slug": "mlb-min-mil-2026-08-07",
-    "value": 5048.001,
-    "timestamp": 1786125489
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x19837aa660d59b55570415087706d88e381cccac29ad18dba3477441ed19b6a3",
-    "outcome": "Alex Michelsen",
-    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
-    "slug": "atp-aguilar-michels-2026-08-07",
-    "value": 3.942,
-    "timestamp": 1786125573
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x464f249ea89dd8654185986bce1fe614ab9a10c8d42b876b55bb1223107c4519",
-    "outcome": "Over",
-    "title": "Atlanta Dream vs. Washington Mystics: O/U 169.5",
-    "slug": "wnba-atl-wsh-2026-08-07",
-    "value": 1537.9988,
-    "timestamp": 1786126252
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x464f249ea89dd8654185986bce1fe614ab9a10c8d42b876b55bb1223107c4519",
-    "outcome": "Over",
-    "title": "Atlanta Dream vs. Washington Mystics: O/U 169.5",
-    "slug": "wnba-atl-wsh-2026-08-07",
-    "value": 1039.3344,
-    "timestamp": 1786126269
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xd9c01a9a9208d439c83f10a314b4b91eeb43e055415c976da4398044c1222896",
-    "outcome": "Boston Red Sox",
-    "title": "Spread: Boston Red Sox (-1.5)",
-    "slug": "mlb-oak-bos-2026-08-07",
-    "value": 5001.557000000001,
-    "timestamp": 1786126372
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x19837aa660d59b55570415087706d88e381cccac29ad18dba3477441ed19b6a3",
-    "outcome": "Alex Michelsen",
-    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
-    "slug": "atp-aguilar-michels-2026-08-07",
-    "value": 147.0041,
-    "timestamp": 1786126672
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
-    "outcome": "Matteo Arnaldi",
-    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 1827.0,
-    "timestamp": 1786126764
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x68f5f2af3c6cb55b707161d82d8889bbb0302384d1873961d16ad9f64f85ed7c",
-    "outcome": "Toronto Blue Jays",
-    "title": "Spread: Philadelphia Phillies (-2.5)",
-    "slug": "mlb-tor-phi-2026-08-07",
-    "value": 20.348999999999997,
-    "timestamp": 1786126800
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x6317cad3fe8c280fd975c422582f13dc353cba9f904824045a13d6e0a04992b9",
-    "outcome": "Dusan Lajovic",
-    "title": "Lexington: Abedallah Shelbayh vs Dusan Lajovic",
-    "slug": "atp-shelbay-lajovic-2026-08-07",
-    "value": 723.2318,
-    "timestamp": 1786126962
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x0e291094f902a55c2b33c084798b11393f01cdb08141e529991db1d7cd07d7e0",
-    "outcome": "Yes",
-    "title": "Will CD Los Chankas win on 2026-08-07?",
-    "slug": "per1-csh-clc-2026-08-07",
-    "value": 22.86,
-    "timestamp": 1786125144
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x4009141a1dfbb5e74d8b0e8b898d94f899f77c7fa984ca0a163ca2d494548ccc",
-    "outcome": "Yes",
-    "title": "Will Port Vale FC win on 2026-08-07?",
-    "slug": "efl-wol-pvl-2026-08-07",
-    "value": 9.289999004085725,
-    "timestamp": 1786125196
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x4009141a1dfbb5e74d8b0e8b898d94f899f77c7fa984ca0a163ca2d494548ccc",
-    "outcome": "Yes",
-    "title": "Will Port Vale FC win on 2026-08-07?",
-    "slug": "efl-wol-pvl-2026-08-07",
-    "value": 27.389999010042857,
-    "timestamp": 1786125196
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x8b7443b333f8131478a34c42c799498254cc82d2603a2b5dad8aabb6f0e952ab",
-    "outcome": "Yes",
-    "title": "Will Wolverhampton Wanderers FC vs. Port Vale FC end in a draw?",
-    "slug": "efl-wol-pvl-2026-08-07",
-    "value": 25.69,
-    "timestamp": 1786125390
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x8b7443b333f8131478a34c42c799498254cc82d2603a2b5dad8aabb6f0e952ab",
-    "outcome": "Yes",
-    "title": "Will Wolverhampton Wanderers FC vs. Port Vale FC end in a draw?",
-    "slug": "efl-wol-pvl-2026-08-07",
-    "value": 34.02999900217144,
-    "timestamp": 1786125390
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x8b7443b333f8131478a34c42c799498254cc82d2603a2b5dad8aabb6f0e952ab",
-    "outcome": "Yes",
-    "title": "Will Wolverhampton Wanderers FC vs. Port Vale FC end in a draw?",
-    "slug": "efl-wol-pvl-2026-08-07",
-    "value": 2.5242000000000004,
-    "timestamp": 1786125396
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xd210ef59eb8adabfa22e930c37ea8fb2fb1e946047672f80f197096a88b27f0a",
-    "outcome": "No",
-    "title": "Will the highest temperature in Paris be 29\u00b0C on August 8?",
-    "slug": "highest-temperature-in-paris-on-august-8-2026",
-    "value": 29.399997998964416,
-    "timestamp": 1786125781
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x3dfa4a8f5f4e4b437704ea5d8483cf9893a02e86c6b254957fb2ed2bb5a9ff72",
-    "outcome": "No",
-    "title": "Will the highest temperature in Paris be 28\u00b0C on August 8?",
-    "slug": "highest-temperature-in-paris-on-august-8-2026",
-    "value": 29.7,
-    "timestamp": 1786125781
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xc751043783d8eb0a09ec8557f16b27e46b403fd465cb4d5ad4299d0799004796",
-    "outcome": "No",
-    "title": "Will the highest temperature in Paris be 33\u00b0C on August 8?",
-    "slug": "highest-temperature-in-paris-on-august-8-2026",
-    "value": 29.7,
-    "timestamp": 1786125781
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x41bb3c2f1604bbcad4ff2a2a6084e0e1526f2e4cc712b0a7770fcd6e86c82a94",
-    "outcome": "No",
-    "title": "Will the highest temperature in Paris be 30\u00b0C on August 8?",
-    "slug": "highest-temperature-in-paris-on-august-8-2026",
-    "value": 18.6,
-    "timestamp": 1786125781
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xbf1aa15d0707bc6425a3d9a392910870904464188d56fee0ddce49418413db9e",
-    "outcome": "No",
-    "title": "Will the next Google Gemini Pro model be released by August 31, 2026?",
-    "slug": "next-google-gemini-pro-model-released-byptptpt",
-    "value": 21.889999001066215,
-    "timestamp": 1786126297
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xb877e9e150fb7ca77da30c6c0864cc559b75a1393f4cef52a22dd1fec02ad1d3",
-    "outcome": "No",
-    "title": "Will the highest temperature in Ankara be 31\u00b0C on August 9?",
-    "slug": "highest-temperature-in-ankara-on-august-9-2026",
-    "value": 22.5,
-    "timestamp": 1786126744
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x96519391f3c9537205d2730a58e578f3ed6fdf06836882aeae5e38d8c72a2129",
-    "outcome": "No",
-    "title": "Will the highest temperature in Ankara be 34\u00b0C on August 9?",
-    "slug": "highest-temperature-in-ankara-on-august-9-2026",
-    "value": 29.4,
-    "timestamp": 1786126744
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x6d1d45e722aeca0683f9a107a69c9e763a6158e8473f0cea0752ed4e89e8668f",
-    "outcome": "No",
-    "title": "Will the highest temperature in Ankara be 35\u00b0C on August 9?",
-    "slug": "highest-temperature-in-ankara-on-august-9-2026",
-    "value": 29.729921,
-    "timestamp": 1786126744
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x640305a591b494b106fa51d4d08971539c105dac9465b7c2045887089130e157",
-    "outcome": "No",
-    "title": "Will the highest temperature in Ankara be 32\u00b0C on August 9?",
-    "slug": "highest-temperature-in-ankara-on-august-9-2026",
-    "value": 14.7,
-    "timestamp": 1786126744
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x7f6dc986c4a5acad860dbbbbc138ec8e9fe8704462e4bf6939a52728a7b24af0",
-    "outcome": "No",
-    "title": "Will the highest temperature in Ankara be 33\u00b0C on August 9?",
-    "slug": "highest-temperature-in-ankara-on-august-9-2026",
-    "value": 24.0,
-    "timestamp": 1786126744
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x971fb54e59be7bc2514dce84fa80b6a20695444253add66e9e712afdf0df2bee",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 7, 12:00PM-4:00PM ET",
-    "slug": "btc-updown-4h-1786118400",
-    "value": 2.52,
-    "timestamp": 1786126584
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x1d27e61b244c54bd04bb7246db5ddde3d79ae74da149033401de4114d9f34355",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 2:15PM-2:20PM ET",
-    "slug": "btc-updown-5m-1786126500",
-    "value": 50.220000000000006,
-    "timestamp": 1786126587
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xdacf3642d49001baa9c55424ec88ea087b56fb1a6b15c93e9291cb541a25b1bf",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 2PM ET",
-    "slug": "bitcoin-up-or-down-august-7-2026-2pm-et",
-    "value": 1.7999999999999998,
-    "timestamp": 1786126617
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x1d27e61b244c54bd04bb7246db5ddde3d79ae74da149033401de4114d9f34355",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 2:15PM-2:20PM ET",
-    "slug": "btc-updown-5m-1786126500",
-    "value": 1.8018,
-    "timestamp": 1786126617
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x971fb54e59be7bc2514dce84fa80b6a20695444253add66e9e712afdf0df2bee",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 7, 12:00PM-4:00PM ET",
-    "slug": "btc-updown-4h-1786118400",
-    "value": 19.0,
-    "timestamp": 1786126626
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xdacf3642d49001baa9c55424ec88ea087b56fb1a6b15c93e9291cb541a25b1bf",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 2PM ET",
-    "slug": "bitcoin-up-or-down-august-7-2026-2pm-et",
-    "value": 19.0,
-    "timestamp": 1786126626
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x580c2413af9ed941536d5866ae9276fb41a6270df1ef298dadb94f2095eb6991",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 7, 2:15PM-2:30PM ET",
-    "slug": "btc-updown-15m-1786126500",
-    "value": 20.14,
-    "timestamp": 1786126627
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xc689bf02147fb861d6ed24c2280b2e885966073679fc22e1776e82b4dc70e64e",
-    "outcome": "Up",
-    "title": "Ethereum Up or Down - August 7, 2:15PM-2:30PM ET",
-    "slug": "eth-updown-15m-1786126500",
-    "value": 9.9038,
-    "timestamp": 1786126627
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x580c2413af9ed941536d5866ae9276fb41a6270df1ef298dadb94f2095eb6991",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 7, 2:15PM-2:30PM ET",
-    "slug": "btc-updown-15m-1786126500",
-    "value": 20.67,
-    "timestamp": 1786126630
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x1d27e61b244c54bd04bb7246db5ddde3d79ae74da149033401de4114d9f34355",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 2:15PM-2:20PM ET",
-    "slug": "btc-updown-5m-1786126500",
-    "value": 26.46,
-    "timestamp": 1786126636
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x580c2413af9ed941536d5866ae9276fb41a6270df1ef298dadb94f2095eb6991",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 7, 2:15PM-2:30PM ET",
-    "slug": "btc-updown-15m-1786126500",
-    "value": 8.84,
-    "timestamp": 1786126645
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x971fb54e59be7bc2514dce84fa80b6a20695444253add66e9e712afdf0df2bee",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 12:00PM-4:00PM ET",
-    "slug": "btc-updown-4h-1786118400",
-    "value": 30.5,
-    "timestamp": 1786126645
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x37386cf78763998cbed5a5109b907e0b12cf517d8cb74591a3cc8906cf136e86",
-    "outcome": "Down",
-    "title": "Ethereum Up or Down - August 7, 2:15PM-2:20PM ET",
-    "slug": "eth-updown-5m-1786126500",
-    "value": 0.2782,
-    "timestamp": 1786126663
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x1d27e61b244c54bd04bb7246db5ddde3d79ae74da149033401de4114d9f34355",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 2:15PM-2:20PM ET",
-    "slug": "btc-updown-5m-1786126500",
-    "value": 3.5,
-    "timestamp": 1786126678
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x1d27e61b244c54bd04bb7246db5ddde3d79ae74da149033401de4114d9f34355",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 2:15PM-2:20PM ET",
-    "slug": "btc-updown-5m-1786126500",
-    "value": 36.5,
-    "timestamp": 1786126680
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x971fb54e59be7bc2514dce84fa80b6a20695444253add66e9e712afdf0df2bee",
-    "outcome": "Up",
-    "title": "Bitcoin Up or Down - August 7, 12:00PM-4:00PM ET",
-    "slug": "btc-updown-4h-1786118400",
-    "value": 20.5,
-    "timestamp": 1786126699
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xdacf3642d49001baa9c55424ec88ea087b56fb1a6b15c93e9291cb541a25b1bf",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 2PM ET",
-    "slug": "bitcoin-up-or-down-august-7-2026-2pm-et",
-    "value": 16.0,
-    "timestamp": 1786126723
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x971fb54e59be7bc2514dce84fa80b6a20695444253add66e9e712afdf0df2bee",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 12:00PM-4:00PM ET",
-    "slug": "btc-updown-4h-1786118400",
-    "value": 30.0,
-    "timestamp": 1786126723
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0xdacf3642d49001baa9c55424ec88ea087b56fb1a6b15c93e9291cb541a25b1bf",
-    "outcome": "Down",
-    "title": "Bitcoin Up or Down - August 7, 2PM ET",
-    "slug": "bitcoin-up-or-down-august-7-2026-2pm-et",
-    "value": 17.0,
-    "timestamp": 1786126747
-  },
-  {
-    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
-    "conditionId": "0x37386cf78763998cbed5a5109b907e0b12cf517d8cb74591a3cc8906cf136e86",
-    "outcome": "Down",
-    "title": "Ethereum Up or Down - August 7, 2:15PM-2:20PM ET",
-    "slug": "eth-updown-5m-1786126500",
-    "value": 0.5,
-    "timestamp": 1786126749
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xd7780dfdea2346a0780bb9babaa24ba8f3380c6b11f80a36d15c168c7622f1e9",
-    "outcome": "Nexus",
-    "title": "Counter-Strike: Nexus vs JAM - Map 2 Winner",
-    "slug": "cs2-nxs1-jam1-2026-08-07",
-    "value": 2.85,
-    "timestamp": 1786125930
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x7a8b36c3d72f2bca77758c6b1cc1cd1d1dece3dd5cc442e6c3e03ae18cef4d33",
-    "outcome": "Team Jenz",
-    "title": "Dota 2: Team Jenz vs Nemiga Gaming (BO3) - EPL Masters Group A",
-    "slug": "dota2-jenz-nemiga-2026-08-07",
-    "value": 8.745000000000001,
-    "timestamp": 1786125966
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x1303ecdcbe009996efcd9aaf24995014d3f5555a74a43cbec774538ec12f5f94",
-    "outcome": "FTS",
-    "title": "Dota 2: FTS vs Level UP (BO3) - Asgard Championship Playoffs",
-    "slug": "dota2-fts-lvlup1-2026-08-07",
-    "value": 3.2,
-    "timestamp": 1786126002
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x52f643497298fb232f952616f36c0c69a2f4a1d48d0c76db4914d83528f4d0a1",
-    "outcome": "CYBERSHOKE Esports",
-    "title": "Counter-Strike: CYBERSHOKE Esports vs GenOne - Map 2 Winner",
-    "slug": "cs2-cs1-g1-2026-08-07",
-    "value": 10.8,
-    "timestamp": 1786126005
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xadda8d1199a5437ab1c9bc7b93d703c1e18de2642fd5ddcf94993dd365e28adb",
-    "outcome": "Yes",
-    "title": "Will AD Ceuta win on 2026-08-07?",
-    "slug": "clf-ceu-mcf-2026-08-07",
-    "value": 0.7313999999999999,
-    "timestamp": 1786126029
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xf3bf886343ebc994126c19414730eb8e9528f54aa3e5056c1486d5075c73467e",
-    "outcome": "CYBERSHOKE Esports",
-    "title": "Counter-Strike: CYBERSHOKE Esports vs GenOne (BO3) - CCT Europe Series #6 Playoffs",
-    "slug": "cs2-cs1-g1-2026-08-07",
-    "value": 17.99999800112677,
-    "timestamp": 1786126185
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xf3bf886343ebc994126c19414730eb8e9528f54aa3e5056c1486d5075c73467e",
-    "outcome": "CYBERSHOKE Esports",
-    "title": "Counter-Strike: CYBERSHOKE Esports vs GenOne (BO3) - CCT Europe Series #6 Playoffs",
-    "slug": "cs2-cs1-g1-2026-08-07",
-    "value": 52.937599999999996,
-    "timestamp": 1786126189
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x52f643497298fb232f952616f36c0c69a2f4a1d48d0c76db4914d83528f4d0a1",
-    "outcome": "CYBERSHOKE Esports",
-    "title": "Counter-Strike: CYBERSHOKE Esports vs GenOne - Map 2 Winner",
-    "slug": "cs2-cs1-g1-2026-08-07",
-    "value": 229.93,
-    "timestamp": 1786126204
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xf3bf886343ebc994126c19414730eb8e9528f54aa3e5056c1486d5075c73467e",
-    "outcome": "CYBERSHOKE Esports",
-    "title": "Counter-Strike: CYBERSHOKE Esports vs GenOne (BO3) - CCT Europe Series #6 Playoffs",
-    "slug": "cs2-cs1-g1-2026-08-07",
-    "value": 11.16,
-    "timestamp": 1786126213
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x52f643497298fb232f952616f36c0c69a2f4a1d48d0c76db4914d83528f4d0a1",
-    "outcome": "CYBERSHOKE Esports",
-    "title": "Counter-Strike: CYBERSHOKE Esports vs GenOne - Map 2 Winner",
-    "slug": "cs2-cs1-g1-2026-08-07",
-    "value": 5.0,
-    "timestamp": 1786126252
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xf3bf886343ebc994126c19414730eb8e9528f54aa3e5056c1486d5075c73467e",
-    "outcome": "CYBERSHOKE Esports",
-    "title": "Counter-Strike: CYBERSHOKE Esports vs GenOne (BO3) - CCT Europe Series #6 Playoffs",
-    "slug": "cs2-cs1-g1-2026-08-07",
-    "value": 175.44500000938,
-    "timestamp": 1786126255
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xf3bf886343ebc994126c19414730eb8e9528f54aa3e5056c1486d5075c73467e",
-    "outcome": "CYBERSHOKE Esports",
-    "title": "Counter-Strike: CYBERSHOKE Esports vs GenOne (BO3) - CCT Europe Series #6 Playoffs",
-    "slug": "cs2-cs1-g1-2026-08-07",
-    "value": 375.009999,
-    "timestamp": 1786126269
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x7505713cd907997a11c5ef263661c7e3c79e2782959bdb667f54123c989183e2",
-    "outcome": "Middlesex",
-    "title": "Metro Bank One Day Cup: Durham vs Middlesex",
-    "slug": "cricodc-dur-mid-2026-08-07",
-    "value": 173.5005,
-    "timestamp": 1786126417
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xc91b5b349661fb4c9aa8e9f85b23ac500b48d0da60f1a3781b7a43da7735f1a1",
-    "outcome": "Massimo Giunta",
-    "title": "ITF Fano: Marcello Serafini vs Massimo Giunta",
-    "slug": "itf-serafin-giunta-2026-08-07",
-    "value": 6.63,
-    "timestamp": 1786126506
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x7505713cd907997a11c5ef263661c7e3c79e2782959bdb667f54123c989183e2",
-    "outcome": "Middlesex",
-    "title": "Metro Bank One Day Cup: Durham vs Middlesex",
-    "slug": "cricodc-dur-mid-2026-08-07",
-    "value": 71.1580000041,
-    "timestamp": 1786126545
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xd9deaf1a00a75ed7e5215a36c89d65ce765cfa179a0698f42721d1aa611592d7",
-    "outcome": "Team Jenz",
-    "title": "Dota 2: Team Jenz vs Nemiga Gaming - Game 1 Winner",
-    "slug": "dota2-jenz-nemiga-2026-08-07",
-    "value": 50.0,
-    "timestamp": 1786126588
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xd7780dfdea2346a0780bb9babaa24ba8f3380c6b11f80a36d15c168c7622f1e9",
-    "outcome": "Nexus",
-    "title": "Counter-Strike: Nexus vs JAM - Map 2 Winner",
-    "slug": "cs2-nxs1-jam1-2026-08-07",
-    "value": 1.083,
-    "timestamp": 1786126822
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x7505713cd907997a11c5ef263661c7e3c79e2782959bdb667f54123c989183e2",
-    "outcome": "Durham",
-    "title": "Metro Bank One Day Cup: Durham vs Middlesex",
-    "slug": "cricodc-dur-mid-2026-08-07",
-    "value": 94.5499999919,
-    "timestamp": 1786126855
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x7505713cd907997a11c5ef263661c7e3c79e2782959bdb667f54123c989183e2",
-    "outcome": "Durham",
-    "title": "Metro Bank One Day Cup: Durham vs Middlesex",
-    "slug": "cricodc-dur-mid-2026-08-07",
-    "value": 53.228,
-    "timestamp": 1786126864
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0x7505713cd907997a11c5ef263661c7e3c79e2782959bdb667f54123c989183e2",
-    "outcome": "Durham",
-    "title": "Metro Bank One Day Cup: Durham vs Middlesex",
-    "slug": "cricodc-dur-mid-2026-08-07",
-    "value": 180.0,
-    "timestamp": 1786126890
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Ann Li",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 327.5699990103789,
-    "timestamp": 1786124946
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Ann Li",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 42.0,
-    "timestamp": 1786125270
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x769c3824b99551f34c5d92434dc90391432f1856cce1d96c83329359e1cda6b2",
-    "outcome": "Edas Butvilas",
-    "title": "Lexington: Rei Sakamoto vs Edas Butvilas",
-    "slug": "atp-sakamot-butvila-2026-08-07",
-    "value": 1884.8034999222,
-    "timestamp": 1786124839
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Ann Li",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 17.64,
-    "timestamp": 1786124889
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x769c3824b99551f34c5d92434dc90391432f1856cce1d96c83329359e1cda6b2",
-    "outcome": "Edas Butvilas",
-    "title": "Lexington: Rei Sakamoto vs Edas Butvilas",
-    "slug": "atp-sakamot-butvila-2026-08-07",
-    "value": 1420.5268000000003,
-    "timestamp": 1786124923
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Ann Li",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 8.3979,
-    "timestamp": 1786124947
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Ann Li",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 8.5992,
-    "timestamp": 1786124989
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Ann Li",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 14.000000000000002,
-    "timestamp": 1786125489
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Ann Li",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 31.13,
-    "timestamp": 1786125787
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0xd4acf1ca0bef2722ac117b254dc1bb292b97fd6088781eb1651ac7dec51dfdce",
-    "outcome": "Elena Rybakina",
-    "title": "National Bank Open: Ann Li vs Elena Rybakina",
-    "slug": "wta-annli-rybakin-2026-08-07",
-    "value": 1368.9118000340652,
-    "timestamp": 1786125852
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x769c3824b99551f34c5d92434dc90391432f1856cce1d96c83329359e1cda6b2",
-    "outcome": "Edas Butvilas",
-    "title": "Lexington: Rei Sakamoto vs Edas Butvilas",
-    "slug": "atp-sakamot-butvila-2026-08-07",
-    "value": 2000.0,
-    "timestamp": 1786125895
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x769c3824b99551f34c5d92434dc90391432f1856cce1d96c83329359e1cda6b2",
-    "outcome": "Rei Sakamoto",
-    "title": "Lexington: Rei Sakamoto vs Edas Butvilas",
-    "slug": "atp-sakamot-butvila-2026-08-07",
-    "value": 40.5,
-    "timestamp": 1786126977
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x22fe6dda94a80486c8821d76e2fe59a5c8f414c2b8d251ee3fe24a725922cd28",
-    "outcome": "No",
-    "title": "Will SC Cambuur-Leeuwarden vs. SBV Excelsior end in a draw?",
-    "slug": "ere-cam-exc-2026-08-07",
-    "value": 109.44,
-    "timestamp": 1786126819
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x1e08731f8541da633b4aa168b4ed7b27398346467bd45df366d320f25743957a",
-    "outcome": "Yes",
-    "title": "Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score",
-    "slug": "nor-san-kfu-2026-08-07-more-markets",
-    "value": 2.0,
-    "timestamp": 1786126822
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x5c358b4bf01e43af51de78e88d2cc712a06b404186f3261069fdc4259f5bb318",
-    "outcome": "Under",
-    "title": "SC Cambuur-Leeuwarden vs. SBV Excelsior: O/U 3.5",
-    "slug": "ere-cam-exc-2026-08-07-more-markets",
-    "value": 39.75,
-    "timestamp": 1786126824
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x7c59ca94bbec862b4451c95af6c9abb340d6af4b069d3f58c6d67ebd970ea048",
-    "outcome": "Under",
-    "title": "Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5",
-    "slug": "nor-san-kfu-2026-08-07-more-markets",
-    "value": 37.260000000000005,
-    "timestamp": 1786126827
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x7c59ca94bbec862b4451c95af6c9abb340d6af4b069d3f58c6d67ebd970ea048",
-    "outcome": "Under",
-    "title": "Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5",
-    "slug": "nor-san-kfu-2026-08-07-more-markets",
-    "value": 17.57,
-    "timestamp": 1786126834
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x7295df9b9818b61ba4519c33399bef4e5933aded676de82fd988a6e44afb8a16",
-    "outcome": "No",
-    "title": "Will NAC Breda win on 2026-08-07?",
-    "slug": "ned2-oss-bre-2026-08-07",
-    "value": 10.751999999999999,
-    "timestamp": 1786126839
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x3463cdda0f301eb5b6a7c210d9b648bc5bf95e6b98a76bd9c8605affaaa1bc4c",
-    "outcome": "Over",
-    "title": "Wisla Krakow vs. Wisla Plock: 1st Half O/U 1.5",
-    "slug": "pol-wis-plo-2026-08-07-more-markets",
-    "value": 31.45,
-    "timestamp": 1786126839
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x7c59ca94bbec862b4451c95af6c9abb340d6af4b069d3f58c6d67ebd970ea048",
-    "outcome": "Under",
-    "title": "Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5",
-    "slug": "nor-san-kfu-2026-08-07-more-markets",
-    "value": 150.01000000000002,
-    "timestamp": 1786126840
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x1e08731f8541da633b4aa168b4ed7b27398346467bd45df366d320f25743957a",
-    "outcome": "Yes",
-    "title": "Sandefjord Fotball vs. KFUM-Kameratene Oslo: Both Teams to Score",
-    "slug": "nor-san-kfu-2026-08-07-more-markets",
-    "value": 1.9500000000000002,
-    "timestamp": 1786126842
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0xb4dc789213a2a237ed950af1cd2f5a2223db2cd60453bbecf124eca0f2fb7d77",
-    "outcome": "No",
-    "title": "Will SBV Excelsior win on 2026-08-07?",
-    "slug": "ere-cam-exc-2026-08-07",
-    "value": 41.07,
-    "timestamp": 1786126845
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x7c59ca94bbec862b4451c95af6c9abb340d6af4b069d3f58c6d67ebd970ea048",
-    "outcome": "Under",
-    "title": "Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5",
-    "slug": "nor-san-kfu-2026-08-07-more-markets",
-    "value": 23.590000000000003,
-    "timestamp": 1786126848
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x9e953e9b6c0f0992f5a909b0e58f298b370bd37a0867ee82f1db5ddd8b82f78e",
-    "outcome": "No",
-    "title": "Will RKC Waalwijk win on 2026-08-07?",
-    "slug": "ned2-vit-waa-2026-08-07",
-    "value": 3.35,
-    "timestamp": 1786126867
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0xe7d1c30ce2aabd4c4ddce042b04a5913a50994b1a303cae0215a4d292183d5a5",
-    "outcome": "Yes",
-    "title": "Will PFC Levski Sofia win on 2026-08-07?",
-    "slug": "bul-lev-lok-2026-08-07",
-    "value": 73.08,
-    "timestamp": 1786126869
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
-    "outcome": "Matteo Arnaldi",
-    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 34.730000000000004,
-    "timestamp": 1786126876
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0xc8c2d49665ab4bac36e685d801e733341b7e28cd2a17463864f218f0405c2b29",
-    "outcome": "Matteo Arnaldi",
-    "title": "National Bank Open: Tallon Griekspoor vs Matteo Arnaldi",
-    "slug": "atp-grieksp-arnaldi-2026-08-07",
-    "value": 25.000000004784,
-    "timestamp": 1786126876
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x011e6463fc5961371a5d84aefeb632c55e750a95237d536f782d56c43d959b3b",
-    "outcome": "Yes",
-    "title": "Exact Score: TOP Oss 1 - 0 NAC Breda?",
-    "slug": "ned2-oss-bre-2026-08-07-exact-score",
-    "value": 2.16,
-    "timestamp": 1786126887
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x011e6463fc5961371a5d84aefeb632c55e750a95237d536f782d56c43d959b3b",
-    "outcome": "Yes",
-    "title": "Exact Score: TOP Oss 1 - 0 NAC Breda?",
-    "slug": "ned2-oss-bre-2026-08-07-exact-score",
-    "value": 2.16,
-    "timestamp": 1786126887
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0xdbfc22eea8b49ca10de19687364b4e17a0518772bb1ac77f73c7553ea8bfa74b",
-    "outcome": "Under",
-    "title": "SC Cambuur-Leeuwarden vs. SBV Excelsior: 1st Half O/U 1.5",
-    "slug": "ere-cam-exc-2026-08-07-more-markets",
-    "value": 2.25,
-    "timestamp": 1786126891
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x814ee35c6a6d4b11d9057e1fe1fbbf20dc9430f6d5ffe57d06b98ed903466865",
-    "outcome": "Yes",
-    "title": "Will PFC Levski Sofia vs. PFC Lokomotiv Plovdiv end in a draw?",
-    "slug": "bul-lev-lok-2026-08-07",
-    "value": 17.240000000000002,
-    "timestamp": 1786126903
-  },
-  {
-    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
-    "conditionId": "0x7c59ca94bbec862b4451c95af6c9abb340d6af4b069d3f58c6d67ebd970ea048",
-    "outcome": "Under",
-    "title": "Sandefjord Fotball vs. KFUM-Kameratene Oslo: O/U 1.5",
-    "slug": "nor-san-kfu-2026-08-07-total-1pt5",
-    "value": 174.0,
-    "timestamp": 1786126908
-  },
-  {
-    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-    "conditionId": "0xc9193ba0f47d260ca68a2d494c1537a3b4908def7ff7b55137c2a5a2b93e3251",
-    "outcome": "Team Heretics",
-    "title": "LoL: Team Heretics vs Fnatic - Game 1 Winner",
-    "slug": "lol-th-fnc-2026-08-07",
-    "value": 3104.0800000007,
-    "timestamp": 1786125721
-  },
-  {
-    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-    "conditionId": "0xc9193ba0f47d260ca68a2d494c1537a3b4908def7ff7b55137c2a5a2b93e3251",
-    "outcome": "Team Heretics",
-    "title": "LoL: Team Heretics vs Fnatic - Game 1 Winner",
-    "slug": "lol-th-fnc-2026-08-07",
-    "value": 3111.0800000000004,
-    "timestamp": 1786125784
-  },
-  {
-    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-    "conditionId": "0x229a819d35acda4a81184ffffadb8f9bac28ab46183b01f0ade5e6164609b8df",
-    "outcome": "Team Heretics",
-    "title": "Game Handicap: FNC (-1.5) vs Team Heretics (+1.5)",
-    "slug": "lol-th-fnc-2026-08-07",
-    "value": 150.8,
-    "timestamp": 1786125808
-  },
-  {
-    "wallet": "0x751a2b86cab503496efd325c8344e10159349ea1",
-    "conditionId": "0xb473d196963d73440dd78d2b4534806e86199a736f1e06e4b7188183b57ab419",
-    "outcome": "Up",
-    "title": "Dogecoin Up or Down - August 7, 1PM ET",
-    "slug": "dogecoin-up-or-down-august-7-2026-1pm-et",
-    "value": 8.8011,
-    "timestamp": 1786125603
-  },
-  {
-    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
-    "conditionId": "0x408269fb8ec3c57376aac5bdd3135019ad6dffdae84bfc682dd182ddb8877787",
-    "outcome": "Yes",
-    "title": "Will FC UTA Arad vs. FC Rapid 1923 end in a draw?",
-    "slug": "rou1-fua-fcr-2026-08-07",
-    "value": 26.52,
-    "timestamp": 1786126653
-  },
-  {
-    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
     "conditionId": "0xf6251676e20d792b33de7efd3e61bec51287dce0e6f541f1ac91f431fbdce2d9",
     "outcome": "Yes",
     "title": "Will Shamrock Rovers vs. Dundalk FC end in a draw?",
@@ -2284,15 +700,6 @@
     "slug": "next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
     "value": 212.91,
     "timestamp": 1786129978
-  },
-  {
-    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
-    "conditionId": "0x328a0d56ad08af70ae82a7b677bd057bb4eeafffad91d460afd4ae3b619549dc",
-    "outcome": "Leylah Fernandez",
-    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
-    "slug": "wta-andreev-fernand-2026-08-08",
-    "value": 54.18,
-    "timestamp": 1786126944
   },
   {
     "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
@@ -3247,33 +1654,6 @@
     "slug": "atp-ilagan-gorzny-2026-08-07",
     "value": 25.8,
     "timestamp": 1786129120
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x769c3824b99551f34c5d92434dc90391432f1856cce1d96c83329359e1cda6b2",
-    "outcome": "Edas Butvilas",
-    "title": "Lexington: Rei Sakamoto vs Edas Butvilas",
-    "slug": "atp-sakamot-butvila-2026-08-07",
-    "value": 0.75,
-    "timestamp": 1786127137
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x19837aa660d59b55570415087706d88e381cccac29ad18dba3477441ed19b6a3",
-    "outcome": "Alex Michelsen",
-    "title": "National Bank Open: Daniel Merida Aguilar vs Alex Michelsen",
-    "slug": "atp-aguilar-michels-2026-08-07",
-    "value": 54.590100003732,
-    "timestamp": 1786127238
-  },
-  {
-    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
-    "conditionId": "0x328a0d56ad08af70ae82a7b677bd057bb4eeafffad91d460afd4ae3b619549dc",
-    "outcome": "Mirra Andreeva",
-    "title": "National Bank Open: Mirra Andreeva vs Leylah Fernandez",
-    "slug": "wta-andreev-fernand-2026-08-08",
-    "value": 12.0,
-    "timestamp": 1786127467
   },
   {
     "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
@@ -13678,5 +12058,2255 @@
     "slug": "atp-gentzsc-piros-2026-08-08",
     "value": 2.625,
     "timestamp": 1786145583
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xc844dd4c00556f733322ce936793da37277cb9a19ccb96db8b491ad84acf03b5",
+    "outcome": "Over",
+    "title": "Colorado Rockies vs. St. Louis Cardinals: O/U 9.5",
+    "slug": "mlb-col-stl-2026-08-07",
+    "value": 141.17000000000002,
+    "timestamp": 1786148839
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Under",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 77.09998900341937,
+    "timestamp": 1786148841
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Under",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 519.7999969841076,
+    "timestamp": 1786148842
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x9cae71e7a30a5c9b2109ff159949af20db7502a7e88cd9c16248038aa9b9c088",
+    "outcome": "Connecticut Sun",
+    "title": "Phoenix Mercury vs. Connecticut Sun",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 81.68,
+    "timestamp": 1786148844
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xb7e5c637b59b4bd5ac4f7a83bc14599609819f93915285c84a86b0d145cdcf5e",
+    "outcome": "Under",
+    "title": "CA Ferrocarril Midland vs. CD Maipu: O/U 1.5",
+    "slug": "argpn-afm-mai-2026-08-07-more-markets",
+    "value": 0.1932,
+    "timestamp": 1786148850
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x85103a46008451b326ce5cac11e4377e7c06baef3631a6a78e6ddfc593d68a5d",
+    "outcome": "Washington Nationals",
+    "title": "Cincinnati Reds vs. Washington Nationals",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "value": 7.939997999464759,
+    "timestamp": 1786148850
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Over",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 0.3318,
+    "timestamp": 1786148850
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xd285b930859f9d2cc03f20176963341f78eb19f2a6b6c9b974011c3028591a8b",
+    "outcome": "Under",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 9.5",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "value": 18.989999000284225,
+    "timestamp": 1786148854
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xf5c038dce5db30bc3933ed16e4e82e6a68ec2d972562edf82914174e17d29608",
+    "outcome": "Over",
+    "title": "Minnesota Twins vs. Milwaukee Brewers: O/U 6.5",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 12.48,
+    "timestamp": 1786148859
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x97e4627bbb6a0048e48db8da7288829decf6954e2701bdaef3e3a7175e3023c8",
+    "outcome": "No",
+    "title": "CA Ferrocarril Midland vs. CD Maipu: Both Teams to Score",
+    "slug": "argpn-afm-mai-2026-08-07-more-markets",
+    "value": 7.699999999999999,
+    "timestamp": 1786148868
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x7644e23d8aa7f44c58bf8709326f18f46a2ee1ae07176864140c60283a1cd797",
+    "outcome": "Under",
+    "title": "CA Ferrocarril Midland vs. CD Maipu: O/U 4.5",
+    "slug": "argpn-afm-mai-2026-08-07-more-markets",
+    "value": 49.4,
+    "timestamp": 1786148868
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xca6e9b8c78593360d16375e1285c560be393fce67873683de56ce7af6b71d448",
+    "outcome": "No",
+    "title": "Will CD Maipu win on 2026-08-07?",
+    "slug": "argpn-afm-mai-2026-08-07",
+    "value": 9.67999700001342,
+    "timestamp": 1786148868
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xb7e44d190d21d3c1493db76f54c8d7a4967fe5cc94de6cec97d08aa126370eed",
+    "outcome": "No",
+    "title": "Exact Score: CA Ferrocarril Midland 3 - 3 CD Maipu?",
+    "slug": "argpn-afm-mai-2026-08-07-exact-score",
+    "value": 475.75976399999996,
+    "timestamp": 1786148884
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x396c671d5f43d443da553cecd9a2922ae6f3ef60fef77961d47c554241817409",
+    "outcome": "Chicago White Sox",
+    "title": "Cleveland Guardians vs. Chicago White Sox",
+    "slug": "mlb-cle-cws-2026-08-07",
+    "value": 47.86999900353824,
+    "timestamp": 1786148908
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Over",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 3.8999989997143127,
+    "timestamp": 1786148914
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xb7e44d190d21d3c1493db76f54c8d7a4967fe5cc94de6cec97d08aa126370eed",
+    "outcome": "No",
+    "title": "Exact Score: CA Ferrocarril Midland 3 - 3 CD Maipu?",
+    "slug": "argpn-afm-mai-2026-08-07-exact-score",
+    "value": 197.189613,
+    "timestamp": 1786148916
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Over",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 19.369998994514294,
+    "timestamp": 1786148917
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0xb7e44d190d21d3c1493db76f54c8d7a4967fe5cc94de6cec97d08aa126370eed",
+    "outcome": "No",
+    "title": "Exact Score: CA Ferrocarril Midland 3 - 3 CD Maipu?",
+    "slug": "argpn-afm-mai-2026-08-07-exact-score",
+    "value": 869.13,
+    "timestamp": 1786148919
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Over",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 12.189998997042862,
+    "timestamp": 1786148922
+  },
+  {
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Over",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 1.509998999100065,
+    "timestamp": 1786148932
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xfcbf8d73c7b756aa9619c2b77d5aba574718b70ce394d7e979f98be4c78355c9",
+    "outcome": "Under",
+    "title": "New York Mets vs. Pittsburgh Pirates: O/U 8.5",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 96.1,
+    "timestamp": 1786148301
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xfcbf8d73c7b756aa9619c2b77d5aba574718b70ce394d7e979f98be4c78355c9",
+    "outcome": "Under",
+    "title": "New York Mets vs. Pittsburgh Pirates: O/U 8.5",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 96.1,
+    "timestamp": 1786148305
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xde40af28f5a4e4df58e9cf1bd3adfb63b936d326983869719cdf63710e4c7506",
+    "outcome": "Minnesota Twins",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 62.900000000000006,
+    "timestamp": 1786148314
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xde40af28f5a4e4df58e9cf1bd3adfb63b936d326983869719cdf63710e4c7506",
+    "outcome": "Minnesota Twins",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 61.2,
+    "timestamp": 1786148320
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x2b392288c099346c2e1e9518573bda23a6676019eb95607e2951c00a04d7a791",
+    "outcome": "St. Louis Cardinals",
+    "title": "Colorado Rockies vs. St. Louis Cardinals",
+    "slug": "mlb-col-stl-2026-08-07",
+    "value": 2.8000000000000003,
+    "timestamp": 1786148368
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xf7f95ada8db60d1e43a221971b602e5d6f04cb0e6ae33c0f05ede04c0183ee3d",
+    "outcome": "Belinda Bencic",
+    "title": "National Bank Open: Taylor Townsend vs Belinda Bencic",
+    "slug": "wta-townsen-bencic-2026-08-07",
+    "value": 59.6728,
+    "timestamp": 1786148394
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xc15902b1bd051eb2bde231f4bc5e405b36bff4279fc841d5118aca133cc82476",
+    "outcome": "Under",
+    "title": "Colorado Rockies vs. St. Louis Cardinals: O/U 8.5",
+    "slug": "mlb-col-stl-2026-08-07",
+    "value": 13.271999999999998,
+    "timestamp": 1786148439
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xbf14fa093b1d2963f1e926d6e76cc33054dcd9b412147715b33b5819f3a249d9",
+    "outcome": "Under",
+    "title": "Athletics vs. Boston Red Sox: O/U 9.5",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "value": 62.9,
+    "timestamp": 1786148463
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xc3b7570ffe6d8e0ad6d3f57939840b7da056973d437009282a3311803d6b0507",
+    "outcome": "Chicago Cubs",
+    "title": "Chicago Cubs vs. Kansas City Royals",
+    "slug": "mlb-chc-kc-2026-08-07",
+    "value": 142.8,
+    "timestamp": 1786148463
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xdca7de400ebb37dd0570b0ae1c4c7147c47e80498f123a05fe1305ab286dc1d5",
+    "outcome": "Boston Red Sox",
+    "title": "Spread: Boston Red Sox (-2.5)",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "value": 7.1610000000000005,
+    "timestamp": 1786148479
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x4196d63fae7ef6495d4d5222b9a7df2e1ab6a07b9b33ce73d696a5a20c177552",
+    "outcome": "Los Angeles Angels",
+    "title": "Spread: Miami Marlins (-2.5)",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 360.0,
+    "timestamp": 1786148479
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x711a7587e4ffbe1baeb17b9cc91cb374dfc7ea04f7fb5cd6f2f8493ba6ca1f9a",
+    "outcome": "Under",
+    "title": "LDU Quito vs. CSD Independiente del Valle: 1st Half O/U 1.5",
+    "slug": "ecu1-ldu-ind-2026-08-07-more-markets",
+    "value": 1292.1599999999999,
+    "timestamp": 1786148599
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xa342671e5f752dd18f259c4203a8ae4f56160fa5269c22f9c4d6e6749584c731",
+    "outcome": "Cincinnati Reds",
+    "title": "Spread: Washington Nationals (-1.5)",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "value": 223.6,
+    "timestamp": 1786148631
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x245f6821181eacc48ce9732c2c4bda63295ad28d4ef78acbef987764bfd6d143",
+    "outcome": "Baltimore Orioles",
+    "title": "Baltimore Orioles vs. Texas Rangers",
+    "slug": "mlb-bal-tex-2026-08-07",
+    "value": 70.2,
+    "timestamp": 1786148658
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Minnesota Twins",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 13.7552,
+    "timestamp": 1786148743
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xcf00da98970864bc34d645e426a6e9ceb56a1f564d61cab9d9cb14dc1690da2d",
+    "outcome": "Minnesota Twins",
+    "title": "Spread: Minnesota Twins (-2.5)",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 0.19722,
+    "timestamp": 1786148743
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x516edf2b006cfd8a869d006c07115bdf4f6cd13cdcfe9baaf30e97a96e3aa021",
+    "outcome": "Under",
+    "title": "Chicago Cubs vs. Kansas City Royals: O/U 9.5",
+    "slug": "mlb-chc-kc-2026-08-07",
+    "value": 55.050000005,
+    "timestamp": 1786148835
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xe45abf47256444a90b521c59d17ca9d97210a6f77efc1903614067fd28145267",
+    "outcome": "Chicago Cubs",
+    "title": "Spread: Kansas City Royals (-2.5)",
+    "slug": "mlb-chc-kc-2026-08-07",
+    "value": 4.047,
+    "timestamp": 1786148835
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xc844dd4c00556f733322ce936793da37277cb9a19ccb96db8b491ad84acf03b5",
+    "outcome": "Under",
+    "title": "Colorado Rockies vs. St. Louis Cardinals: O/U 9.5",
+    "slug": "mlb-col-stl-2026-08-07",
+    "value": 330.0,
+    "timestamp": 1786148857
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x222168d4b8495b02dd0849f77f21b2ede3b4c4fe51bc1e75b6156e931e115d21",
+    "outcome": "Milwaukee Brewers",
+    "title": "Spread: Minnesota Twins (-1.5)",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 436.8,
+    "timestamp": 1786148928
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x977c0519cc902a6bf7a8a6015ab745581615790f3f19b6f98b88c38054790d68",
+    "outcome": "Athletics",
+    "title": "Athletics vs. Boston Red Sox",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "value": 905.3531999999999,
+    "timestamp": 1786146709
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xa15ad7093314e90ba953cdb9a9976b69c67722d94a4057746fc5eaf0e5e1db33",
+    "outcome": "Washington Mystics",
+    "title": "Atlanta Dream vs. Washington Mystics",
+    "slug": "wnba-atl-wsh-2026-08-07",
+    "value": 695.9682,
+    "timestamp": 1786147452
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Milwaukee Brewers",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 1660.2714,
+    "timestamp": 1786147542
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x71fa2b9df79ae3aed7721dfde68b16673f191b93cfcc24909ccd237fbe1a334c",
+    "outcome": "New York Mets",
+    "title": "New York Mets vs. Pittsburgh Pirates",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 4054.3059999999996,
+    "timestamp": 1786147582
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Milwaukee Brewers",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 908.7568,
+    "timestamp": 1786148149
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Milwaukee Brewers",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 1884.186,
+    "timestamp": 1786148214
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xa15ad7093314e90ba953cdb9a9976b69c67722d94a4057746fc5eaf0e5e1db33",
+    "outcome": "Washington Mystics",
+    "title": "Atlanta Dream vs. Washington Mystics",
+    "slug": "wnba-atl-wsh-2026-08-07",
+    "value": 1255.086,
+    "timestamp": 1786148343
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x71fa2b9df79ae3aed7721dfde68b16673f191b93cfcc24909ccd237fbe1a334c",
+    "outcome": "Pittsburgh Pirates",
+    "title": "New York Mets vs. Pittsburgh Pirates",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 3522.853,
+    "timestamp": 1786148886
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Under",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 0.0072,
+    "timestamp": 1786146645
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Under",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 7.099998999888925,
+    "timestamp": 1786146645
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x1b05ef9a565d99fe64a1363a409d056ae3f7a6b9714a6b637c3d78116f4b93bd",
+    "outcome": "Yes",
+    "title": "Will Atlas FC win on 2026-08-07?",
+    "slug": "lec-clt-atl-2026-08-07",
+    "value": 39.219998997800005,
+    "timestamp": 1786146915
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf9882bd535eb19c3eaa2ae41c8d213adfaae4369a54847edd4841048ab71994b",
+    "outcome": "Shintaro Imai",
+    "title": "ITF Astana: Shintaro Imai vs Shunsuke Mitsui",
+    "slug": "itf-imai-mitsui-2026-08-08",
+    "value": 8.409999000608716,
+    "timestamp": 1786146916
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xcda7d97d3f0878a3d7c0446f47d2796b576653c35df8ae2e8bc7754babb45f6f",
+    "outcome": "Arnav Vijay Paparkar",
+    "title": "ITF Astana: Egor Pleshivtsev vs Arnav Vijay Paparkar",
+    "slug": "itf-pleshiv-paparka-2026-08-08",
+    "value": 10.11,
+    "timestamp": 1786146939
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x736f67aa6a7517c2a430705f79a55f2def1d01ab8d86dc68438b34ca0a4e7f0a",
+    "outcome": "No",
+    "title": "Will Deportivo Toluca FC win on 2026-08-08?",
+    "slug": "lec-tol-laf-2026-08-08",
+    "value": 172.599999,
+    "timestamp": 1786147048
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x6e217b97f0953d8f3587828cd70b50f90c564d64d8ce71a8f46f87fc41ddd6f9",
+    "outcome": "Under",
+    "title": "Columbus Crew vs. CF Pachuca: O/U 3.5",
+    "slug": "lec-clb-pac-2026-08-07-more-markets",
+    "value": 832.729998,
+    "timestamp": 1786147111
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x20485ea4b1dad3138f66af29ef4bb8914bc86137f82d4942f4ca271e4762a9f7",
+    "outcome": "Maria Sakkari",
+    "title": "National Bank Open: Maria Sakkari vs Coco Gauff",
+    "slug": "wta-sakkari-gauff-2026-08-06",
+    "value": 1.4199999997777777,
+    "timestamp": 1786147245
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x9cae71e7a30a5c9b2109ff159949af20db7502a7e88cd9c16248038aa9b9c088",
+    "outcome": "Connecticut Sun",
+    "title": "Phoenix Mercury vs. Connecticut Sun",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 48.239998996400004,
+    "timestamp": 1786147342
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x637a6204730073862f81c1db5c7af024dbdf893e9f65bf9ce2c5e0e462578ceb",
+    "outcome": "Kisa Yoshioka",
+    "title": "ITF Astana: Victoria Milovanova vs Kisa Yoshioka",
+    "slug": "itf-milova-yoshiok-2026-08-08",
+    "value": 1.39999900000015,
+    "timestamp": 1786147383
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x55b5ffaa935fd3a79452a34cfcfd6c97eada42e35df22a7f3dc106f6115a729d",
+    "outcome": "FK Novi Pazar",
+    "title": "Spread: FK Crvena Zvezda Belgrade (-2.5)",
+    "slug": "srb-czv-npa-2026-08-08-more-markets",
+    "value": 653.7199989532023,
+    "timestamp": 1786147888
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x55b5ffaa935fd3a79452a34cfcfd6c97eada42e35df22a7f3dc106f6115a729d",
+    "outcome": "FK Novi Pazar",
+    "title": "Spread: FK Crvena Zvezda Belgrade (-2.5)",
+    "slug": "srb-czv-npa-2026-08-08-more-markets",
+    "value": 40.29999899718868,
+    "timestamp": 1786147894
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x7eb2244ec103f1e7cc134c5bc5a8fe17f8458c29eebf35923a0db6efbbc71203",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: 1st Half O/U 0.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 5.649999,
+    "timestamp": 1786147902
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x55b5ffaa935fd3a79452a34cfcfd6c97eada42e35df22a7f3dc106f6115a729d",
+    "outcome": "FK Novi Pazar",
+    "title": "Spread: FK Crvena Zvezda Belgrade (-2.5)",
+    "slug": "srb-czv-npa-2026-08-08-more-markets",
+    "value": 13.50999899973335,
+    "timestamp": 1786147903
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x55b5ffaa935fd3a79452a34cfcfd6c97eada42e35df22a7f3dc106f6115a729d",
+    "outcome": "FK Novi Pazar",
+    "title": "Spread: FK Crvena Zvezda Belgrade (-2.5)",
+    "slug": "srb-czv-npa-2026-08-08-more-markets",
+    "value": 2.4,
+    "timestamp": 1786147906
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x55b5ffaa935fd3a79452a34cfcfd6c97eada42e35df22a7f3dc106f6115a729d",
+    "outcome": "FK Novi Pazar",
+    "title": "Spread: FK Crvena Zvezda Belgrade (-2.5)",
+    "slug": "srb-czv-npa-2026-08-08-more-markets",
+    "value": 9.619999000498064,
+    "timestamp": 1786147908
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xa15ad7093314e90ba953cdb9a9976b69c67722d94a4057746fc5eaf0e5e1db33",
+    "outcome": "Washington Mystics",
+    "title": "Atlanta Dream vs. Washington Mystics",
+    "slug": "wnba-atl-wsh-2026-08-07",
+    "value": 81.97999899401785,
+    "timestamp": 1786148259
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x20485ea4b1dad3138f66af29ef4bb8914bc86137f82d4942f4ca271e4762a9f7",
+    "outcome": "Coco Gauff",
+    "title": "National Bank Open: Maria Sakkari vs Coco Gauff",
+    "slug": "wta-sakkari-gauff-2026-08-06",
+    "value": 3287.6499930197406,
+    "timestamp": 1786148494
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xa33d8c66c7c3c209952b6789e7ded828f197bbf24d25a7a0885367cf11b6959c",
+    "outcome": "Over",
+    "title": "CD Santa Cruz vs. Puerto Montt: 1st Half O/U 1.5",
+    "slug": "chl2-cru-pum-2026-08-07-more-markets",
+    "value": 2.2199989999097864,
+    "timestamp": 1786148794
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x0bd1b11e55d6c019a0e3a6c504099e310717147a0645438aec99348bedfa8e30",
+    "outcome": "Yes",
+    "title": "Deportes Quindio vs. Internacional FC De Palmira: Both Teams to Score in First Half",
+    "slug": "col2-qui-pal-2026-08-07-more-markets",
+    "value": 2.2099989998112095,
+    "timestamp": 1786148830
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x89d881bef3494d021e687cb1d21afdf34b935ae320be8656fa779bc11ec43cc4",
+    "outcome": "Detroit Tigers",
+    "title": "Detroit Tigers vs. San Francisco Giants",
+    "slug": "mlb-det-sf-2026-08-07",
+    "value": 10491.489999200001,
+    "timestamp": 1786146829
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x2b392288c099346c2e1e9518573bda23a6676019eb95607e2951c00a04d7a791",
+    "outcome": "St. Louis Cardinals",
+    "title": "Colorado Rockies vs. St. Louis Cardinals",
+    "slug": "mlb-col-stl-2026-08-07",
+    "value": 85.8,
+    "timestamp": 1786148586
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Milwaukee Brewers",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 668.5863,
+    "timestamp": 1786148691
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xb49cc3b3c4c6e2cd01e667951cc10d95728a90a637018367295026299d208d46",
+    "outcome": "Baltimore Orioles",
+    "title": "Spread: Baltimore Orioles (-1.5)",
+    "slug": "mlb-bal-tex-2026-08-07",
+    "value": 11.7583,
+    "timestamp": 1786147731
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xa15ad7093314e90ba953cdb9a9976b69c67722d94a4057746fc5eaf0e5e1db33",
+    "outcome": "Atlanta Dream",
+    "title": "Atlanta Dream vs. Washington Mystics",
+    "slug": "wnba-atl-wsh-2026-08-07",
+    "value": 1045.0665,
+    "timestamp": 1786147786
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x9054c62449ebc75a752c177a4f60520ef217cc6177d57f2c3c72c860ca5f8f97",
+    "outcome": "Under",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 7.5",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 3.3000000000000003,
+    "timestamp": 1786147816
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xfcd2668ddfab462f24f4745a43ce9a31ca9be23fefe622ca1f293a704cc827a5",
+    "outcome": "Over",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 6.5",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 2.45,
+    "timestamp": 1786148080
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x6342362e268b827512651771c37d3e4e2b9427de5c8d4106d89cd6808d3a525b",
+    "outcome": "Under",
+    "title": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
+    "slug": "mlb-bal-tex-2026-08-07",
+    "value": 14.399999999999999,
+    "timestamp": 1786148107
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x714d9a0aa8ccea54954ecb2b73ff16fadad1ebe75e158dcd5fdd73cd40a175c1",
+    "outcome": "Kansas City Royals",
+    "title": "Spread: Chicago Cubs (-1.5)",
+    "slug": "mlb-chc-kc-2026-08-07",
+    "value": 3.0210000000000004,
+    "timestamp": 1786148131
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x20485ea4b1dad3138f66af29ef4bb8914bc86137f82d4942f4ca271e4762a9f7",
+    "outcome": "Coco Gauff",
+    "title": "National Bank Open: Maria Sakkari vs Coco Gauff",
+    "slug": "wta-sakkari-gauff-2026-08-06",
+    "value": 4945.632060121941,
+    "timestamp": 1786148152
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x245f6821181eacc48ce9732c2c4bda63295ad28d4ef78acbef987764bfd6d143",
+    "outcome": "Texas Rangers",
+    "title": "Baltimore Orioles vs. Texas Rangers",
+    "slug": "mlb-bal-tex-2026-08-07",
+    "value": 24.36,
+    "timestamp": 1786148190
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x20485ea4b1dad3138f66af29ef4bb8914bc86137f82d4942f4ca271e4762a9f7",
+    "outcome": "Coco Gauff",
+    "title": "National Bank Open: Maria Sakkari vs Coco Gauff",
+    "slug": "wta-sakkari-gauff-2026-08-06",
+    "value": 83.05824,
+    "timestamp": 1786148209
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x2479e4ce3f6d5f9cb9671d3cc284832b36e7097797c9a6fce098dc3ed3885b6e",
+    "outcome": "Over",
+    "title": "New York Mets vs. Pittsburgh Pirates: O/U 9.5",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 190.38320000000004,
+    "timestamp": 1786148211
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x20485ea4b1dad3138f66af29ef4bb8914bc86137f82d4942f4ca271e4762a9f7",
+    "outcome": "Coco Gauff",
+    "title": "National Bank Open: Maria Sakkari vs Coco Gauff",
+    "slug": "wta-sakkari-gauff-2026-08-06",
+    "value": 34.78695,
+    "timestamp": 1786148349
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xc3b7570ffe6d8e0ad6d3f57939840b7da056973d437009282a3311803d6b0507",
+    "outcome": "Chicago Cubs",
+    "title": "Chicago Cubs vs. Kansas City Royals",
+    "slug": "mlb-chc-kc-2026-08-07",
+    "value": 4949.9996,
+    "timestamp": 1786148365
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xa15ad7093314e90ba953cdb9a9976b69c67722d94a4057746fc5eaf0e5e1db33",
+    "outcome": "Atlanta Dream",
+    "title": "Atlanta Dream vs. Washington Mystics",
+    "slug": "wnba-atl-wsh-2026-08-07",
+    "value": 97.60000000000001,
+    "timestamp": 1786148476
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x2479e4ce3f6d5f9cb9671d3cc284832b36e7097797c9a6fce098dc3ed3885b6e",
+    "outcome": "Over",
+    "title": "New York Mets vs. Pittsburgh Pirates: O/U 9.5",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 1189.6200000000001,
+    "timestamp": 1786148536
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x4196d63fae7ef6495d4d5222b9a7df2e1ab6a07b9b33ce73d696a5a20c177552",
+    "outcome": "Los Angeles Angels",
+    "title": "Spread: Miami Marlins (-2.5)",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 438.0,
+    "timestamp": 1786148575
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x20485ea4b1dad3138f66af29ef4bb8914bc86137f82d4942f4ca271e4762a9f7",
+    "outcome": "Maria Sakkari",
+    "title": "National Bank Open: Maria Sakkari vs Coco Gauff",
+    "slug": "wta-sakkari-gauff-2026-08-06",
+    "value": 9.923989999450999,
+    "timestamp": 1786148617
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x420bc2907a2ea1948592dd8d2c629657eeedbd1046a3c5cc3e0c86fc7aedec48",
+    "outcome": "Connecticut Sun",
+    "title": "Spread: Phoenix Mercury (-6.5)",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 55.5,
+    "timestamp": 1786148731
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x9054c62449ebc75a752c177a4f60520ef217cc6177d57f2c3c72c860ca5f8f97",
+    "outcome": "Over",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 7.5",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 38.64,
+    "timestamp": 1786148806
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xfb8e8abf9e9cdb94212b0ef3f9a25c1f4849c751ec57d493d5f202915f9a944a",
+    "outcome": "Over",
+    "title": "Atlanta Braves vs. New York Yankees: O/U 9.5",
+    "slug": "mlb-atl-nyy-2026-08-07",
+    "value": 173.999,
+    "timestamp": 1786148896
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xf5fded87fb54801a633c8ef3e4de96c1dc739192235b2807ac47db3dde6c67f7",
+    "outcome": "Under",
+    "title": "Toronto Blue Jays vs. Philadelphia Phillies: O/U 7.5",
+    "slug": "mlb-tor-phi-2026-08-07",
+    "value": 4817.0,
+    "timestamp": 1786148917
+  },
+  {
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "conditionId": "0x3d97a6235af5d7d81d3c39c13bdbb2add007270d666178dcc7b0c5375ac140ee",
+    "outcome": "Joao Fonseca",
+    "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+    "slug": "atp-ruud-fonseca-2026-08-07",
+    "value": 15122.989199999998,
+    "timestamp": 1786148428
+  },
+  {
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "conditionId": "0x3d97a6235af5d7d81d3c39c13bdbb2add007270d666178dcc7b0c5375ac140ee",
+    "outcome": "Joao Fonseca",
+    "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+    "slug": "atp-ruud-fonseca-2026-08-07",
+    "value": 38.82999899912632,
+    "timestamp": 1786148449
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0xa992072cb4d380fd9537c31c9df65db6b80f1e1b6c6546f8cb909b94e62efebc",
+    "outcome": "No",
+    "title": "Will Solana reach $100 by December 31, 2026?",
+    "slug": "what-price-will-solana-hit-before-2027",
+    "value": 70.47,
+    "timestamp": 1786148217
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xed844950411bdf517470c356813cc944ed06d5b0b5d3132c0b0c57ff8fe032fb",
+    "outcome": "No",
+    "title": "Will AC Goianiense win on 2026-08-09?",
+    "slug": "bra2-nau-acg-2026-08-09",
+    "value": 23.04999899947827,
+    "timestamp": 1786147384
+  },
+  {
+    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
+    "conditionId": "0xed844950411bdf517470c356813cc944ed06d5b0b5d3132c0b0c57ff8fe032fb",
+    "outcome": "No",
+    "title": "Will AC Goianiense win on 2026-08-09?",
+    "slug": "bra2-nau-acg-2026-08-09",
+    "value": 20.38999900011766,
+    "timestamp": 1786147384
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x1834230745e97fd13fd6417f8e598f6d9b0c02bab0e15ba8838c84284d25b442",
+    "outcome": "Los Angeles Angels",
+    "title": "Los Angeles Angels vs. Miami Marlins",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 9.999998999411789,
+    "timestamp": 1786148572
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0xd7795bac2333e7e19a471fb411882b447c2490e24b951ca2393c18792e98ca07",
+    "outcome": "Los Angeles Angels",
+    "title": "Spread: Los Angeles Angels (-1.5)",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 2.7,
+    "timestamp": 1786148595
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x017c7000e0f476ee243c8229b82f42c12004c4588ee692bea91fe125baedc382",
+    "outcome": "Los Angeles Angels",
+    "title": "Spread: Los Angeles Angels (-2.5)",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 12.78,
+    "timestamp": 1786148595
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x396c671d5f43d443da553cecd9a2922ae6f3ef60fef77961d47c554241817409",
+    "outcome": "Chicago White Sox",
+    "title": "Cleveland Guardians vs. Chicago White Sox",
+    "slug": "mlb-cle-cws-2026-08-07",
+    "value": 101.900000016,
+    "timestamp": 1786148598
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x9f2b3f04151950be43981fc479344a3fe0b7919cb93500cab4908ae2e50bd345",
+    "outcome": "Over",
+    "title": "Athletics vs. Boston Red Sox: O/U 10.5",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "value": 49.95999999964125,
+    "timestamp": 1786148668
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Milwaukee Brewers",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 198.3488000086,
+    "timestamp": 1786148670
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Minnesota Twins",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 31.94999900849319,
+    "timestamp": 1786148749
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x85103a46008451b326ce5cac11e4377e7c06baef3631a6a78e6ddfc593d68a5d",
+    "outcome": "Washington Nationals",
+    "title": "Cincinnati Reds vs. Washington Nationals",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "value": 128.19999900740348,
+    "timestamp": 1786148779
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x85103a46008451b326ce5cac11e4377e7c06baef3631a6a78e6ddfc593d68a5d",
+    "outcome": "Cincinnati Reds",
+    "title": "Cincinnati Reds vs. Washington Nationals",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "value": 523.719999974484,
+    "timestamp": 1786148850
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Minnesota Twins",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 40.0000000124,
+    "timestamp": 1786148934
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x85103a46008451b326ce5cac11e4377e7c06baef3631a6a78e6ddfc593d68a5d",
+    "outcome": "Washington Nationals",
+    "title": "Cincinnati Reds vs. Washington Nationals",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "value": 3.0,
+    "timestamp": 1786148980
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x85103a46008451b326ce5cac11e4377e7c06baef3631a6a78e6ddfc593d68a5d",
+    "outcome": "Cincinnati Reds",
+    "title": "Cincinnati Reds vs. Washington Nationals",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "value": 431.39579998940803,
+    "timestamp": 1786148982
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0xb4b1255a2ecaeeb43eeead158582e72e7b4081b63afec6b7f5adcfa2ab07e3e3",
+    "outcome": "Over",
+    "title": "Cincinnati Reds vs. Washington Nationals: O/U 8.5",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "value": 7.7799999996,
+    "timestamp": 1786148982
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x396c671d5f43d443da553cecd9a2922ae6f3ef60fef77961d47c554241817409",
+    "outcome": "Cleveland Guardians",
+    "title": "Cleveland Guardians vs. Chicago White Sox",
+    "slug": "mlb-cle-cws-2026-08-07",
+    "value": 48.1,
+    "timestamp": 1786148983
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Minnesota Twins",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 77.7600000216,
+    "timestamp": 1786149027
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0xef52d53eed615415f36a0a78c94d7a508a0bf951cfaef4d4a6f09322d2c229ea",
+    "outcome": "Under",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 8.5",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 5.9799999995999995,
+    "timestamp": 1786149033
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x245f6821181eacc48ce9732c2c4bda63295ad28d4ef78acbef987764bfd6d143",
+    "outcome": "Texas Rangers",
+    "title": "Baltimore Orioles vs. Texas Rangers",
+    "slug": "mlb-bal-tex-2026-08-07",
+    "value": 100.83999999570001,
+    "timestamp": 1786149070
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0xc844dd4c00556f733322ce936793da37277cb9a19ccb96db8b491ad84acf03b5",
+    "outcome": "Over",
+    "title": "Colorado Rockies vs. St. Louis Cardinals: O/U 9.5",
+    "slug": "mlb-col-stl-2026-08-07-total-9pt5",
+    "value": 8.049999999999999,
+    "timestamp": 1786149181
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0xc15902b1bd051eb2bde231f4bc5e405b36bff4279fc841d5118aca133cc82476",
+    "outcome": "Over",
+    "title": "Colorado Rockies vs. St. Louis Cardinals: O/U 8.5",
+    "slug": "mlb-col-stl-2026-08-07-total-8pt5",
+    "value": 4.84,
+    "timestamp": 1786149181
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x2b392288c099346c2e1e9518573bda23a6676019eb95607e2951c00a04d7a791",
+    "outcome": "Colorado Rockies",
+    "title": "Colorado Rockies vs. St. Louis Cardinals",
+    "slug": "mlb-col-stl-2026-08-07",
+    "value": 34.44,
+    "timestamp": 1786149181
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x31191fbe82b4237a82c5de54df77180d4765c194b6352e75a94335f525691b91",
+    "outcome": "No",
+    "title": "Will the highest temperature in Amsterdam be 24\u00b0C on August 8?",
+    "slug": "highest-temperature-in-amsterdam-on-august-8-2026",
+    "value": 18.2,
+    "timestamp": 1786148652
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xe61f9223e736bca353e0a547821278ef3f25943238fef2ffce19dca648fa413e",
+    "outcome": "No",
+    "title": "Will the highest temperature in Amsterdam be 26\u00b0C on August 8?",
+    "slug": "highest-temperature-in-amsterdam-on-august-8-2026",
+    "value": 11.6,
+    "timestamp": 1786148652
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xf8e7bfe3c4675a25b347b40c3385ba3d6402bbc6384002b73e985c7a6adeb370",
+    "outcome": "No",
+    "title": "Will the highest temperature in Amsterdam be 27\u00b0C on August 8?",
+    "slug": "highest-temperature-in-amsterdam-on-august-8-2026",
+    "value": 19.859991,
+    "timestamp": 1786148652
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x31191fbe82b4237a82c5de54df77180d4765c194b6352e75a94335f525691b91",
+    "outcome": "No",
+    "title": "Will the highest temperature in Amsterdam be 24\u00b0C on August 8?",
+    "slug": "highest-temperature-in-amsterdam-on-august-8-2026",
+    "value": 23.799998000769232,
+    "timestamp": 1786148653
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xe61f9223e736bca353e0a547821278ef3f25943238fef2ffce19dca648fa413e",
+    "outcome": "No",
+    "title": "Will the highest temperature in Amsterdam be 26\u00b0C on August 8?",
+    "slug": "highest-temperature-in-amsterdam-on-august-8-2026",
+    "value": 15.42999899908645,
+    "timestamp": 1786148653
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xf8e7bfe3c4675a25b347b40c3385ba3d6402bbc6384002b73e985c7a6adeb370",
+    "outcome": "No",
+    "title": "Will the highest temperature in Amsterdam be 27\u00b0C on August 8?",
+    "slug": "highest-temperature-in-amsterdam-on-august-8-2026",
+    "value": 26.019847000000002,
+    "timestamp": 1786148655
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xb877e9e150fb7ca77da30c6c0864cc559b75a1393f4cef52a22dd1fec02ad1d3",
+    "outcome": "No",
+    "title": "Will the highest temperature in Ankara be 31\u00b0C on August 9?",
+    "slug": "highest-temperature-in-ankara-on-august-9-2026",
+    "value": 14.6,
+    "timestamp": 1786148862
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x96519391f3c9537205d2730a58e578f3ed6fdf06836882aeae5e38d8c72a2129",
+    "outcome": "No",
+    "title": "Will the highest temperature in Ankara be 34\u00b0C on August 9?",
+    "slug": "highest-temperature-in-ankara-on-august-9-2026",
+    "value": 19.8,
+    "timestamp": 1786148862
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xb33db344964fc372c158f2d218c37f8e661e0ac03d0eb3dbdee3fddc948769d2",
+    "outcome": "No",
+    "title": "Will the highest temperature in Ankara be 30\u00b0C on August 9?",
+    "slug": "highest-temperature-in-ankara-on-august-9-2026",
+    "value": 19.4,
+    "timestamp": 1786148862
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x7f6dc986c4a5acad860dbbbbc138ec8e9fe8704462e4bf6939a52728a7b24af0",
+    "outcome": "No",
+    "title": "Will the highest temperature in Ankara be 33\u00b0C on August 9?",
+    "slug": "highest-temperature-in-ankara-on-august-9-2026",
+    "value": 16.8,
+    "timestamp": 1786148862
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xc6ac3517b11f343702b2e0cf5c5a56e3c31c58d6e3ffb7cd43ce30b07cfcd94a",
+    "outcome": "No",
+    "title": "Will the highest temperature in Helsinki be 20\u00b0C on August 9?",
+    "slug": "highest-temperature-in-helsinki-on-august-9-2026",
+    "value": 29.7,
+    "timestamp": 1786148919
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x9d9c76ec5de476f1c98dc3225071931e5c9c6774e9e37d3c98c12473570df391",
+    "outcome": "No",
+    "title": "Will the highest temperature in Helsinki be 25\u00b0C on August 9?",
+    "slug": "highest-temperature-in-helsinki-on-august-9-2026",
+    "value": 29.749956,
+    "timestamp": 1786148919
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x25c518b612db2707c8e69359a23760ad7384c27dbaad7a4fa9a1d6c41fe88a68",
+    "outcome": "No",
+    "title": "Will the highest temperature in Helsinki be 23\u00b0C on August 9?",
+    "slug": "highest-temperature-in-helsinki-on-august-9-2026",
+    "value": 22.2,
+    "timestamp": 1786148919
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x4894fa5e26fc5f95d249ea2a93b0237fa802653bb9c057a76d9dbb4613d1ccaa",
+    "outcome": "No",
+    "title": "Will the highest temperature in Helsinki be 24\u00b0C on August 9?",
+    "slug": "highest-temperature-in-helsinki-on-august-9-2026",
+    "value": 29.089975999007233,
+    "timestamp": 1786148919
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x2fb3991110f05b9099bca1adeea5e57cdc9fdd03b814ad9697bf9d8379f88180",
+    "outcome": "No",
+    "title": "Will the highest temperature in Helsinki be 22\u00b0C on August 9?",
+    "slug": "highest-temperature-in-helsinki-on-august-9-2026",
+    "value": 13.5,
+    "timestamp": 1786148919
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8fd8699ac3269763d3add5a5823e81f7206926c41e8dc14807ac4b4e8ffcc69a",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 7, 8:25PM-8:30PM ET",
+    "slug": "eth-updown-5m-1786148700",
+    "value": 9.288,
+    "timestamp": 1786148886
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa309829a5a9933e9bc8a422cdd2eb39129d5c8e69c3051d2550ed41ef9d7f2c9",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 7, 8:25PM-8:30PM ET",
+    "slug": "btc-updown-5m-1786148700",
+    "value": 57.85,
+    "timestamp": 1786148913
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x71d3b327e03501a8ac16c08991ec5ec3589902981f96d7e03c43f8eb58fd4be3",
+    "outcome": "Up",
+    "title": "Ethereum Up or Down - August 7, 8:15PM-8:30PM ET",
+    "slug": "eth-updown-15m-1786148100",
+    "value": 3.08,
+    "timestamp": 1786148920
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x71d3b327e03501a8ac16c08991ec5ec3589902981f96d7e03c43f8eb58fd4be3",
+    "outcome": "Up",
+    "title": "Ethereum Up or Down - August 7, 8:15PM-8:30PM ET",
+    "slug": "eth-updown-15m-1786148100",
+    "value": 3.222719998984,
+    "timestamp": 1786148920
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8fd8699ac3269763d3add5a5823e81f7206926c41e8dc14807ac4b4e8ffcc69a",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 7, 8:25PM-8:30PM ET",
+    "slug": "eth-updown-5m-1786148700",
+    "value": 7.260000000000001,
+    "timestamp": 1786148926
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa309829a5a9933e9bc8a422cdd2eb39129d5c8e69c3051d2550ed41ef9d7f2c9",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 7, 8:25PM-8:30PM ET",
+    "slug": "btc-updown-5m-1786148700",
+    "value": 66.5,
+    "timestamp": 1786148928
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8fd8699ac3269763d3add5a5823e81f7206926c41e8dc14807ac4b4e8ffcc69a",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 7, 8:25PM-8:30PM ET",
+    "slug": "eth-updown-5m-1786148700",
+    "value": 7.000000000000001,
+    "timestamp": 1786148931
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x5afd6ae5f36f3c747874d7ed59a9cc51bb9de38d80ca9edc04583371e3793868",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 7, 8:00PM-12:00AM ET",
+    "slug": "btc-updown-4h-1786147200",
+    "value": 19.5,
+    "timestamp": 1786148934
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x71d3b327e03501a8ac16c08991ec5ec3589902981f96d7e03c43f8eb58fd4be3",
+    "outcome": "Up",
+    "title": "Ethereum Up or Down - August 7, 8:15PM-8:30PM ET",
+    "slug": "eth-updown-15m-1786148100",
+    "value": 2.3699999988,
+    "timestamp": 1786148935
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa78cb5e625207b0b66eb4cecdfe0491c8271585eb472cc8ad8841fd4e05df3e7",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 7, 8PM ET",
+    "slug": "bitcoin-up-or-down-august-7-2026-8pm-et",
+    "value": 1.1,
+    "timestamp": 1786148935
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa309829a5a9933e9bc8a422cdd2eb39129d5c8e69c3051d2550ed41ef9d7f2c9",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 7, 8:25PM-8:30PM ET",
+    "slug": "btc-updown-5m-1786148700",
+    "value": 48.5016,
+    "timestamp": 1786148935
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa78cb5e625207b0b66eb4cecdfe0491c8271585eb472cc8ad8841fd4e05df3e7",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 7, 8PM ET",
+    "slug": "bitcoin-up-or-down-august-7-2026-8pm-et",
+    "value": 13.5,
+    "timestamp": 1786148938
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x71d3b327e03501a8ac16c08991ec5ec3589902981f96d7e03c43f8eb58fd4be3",
+    "outcome": "Up",
+    "title": "Ethereum Up or Down - August 7, 8:15PM-8:30PM ET",
+    "slug": "eth-updown-15m-1786148100",
+    "value": 3.2573099999999995,
+    "timestamp": 1786148938
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa78cb5e625207b0b66eb4cecdfe0491c8271585eb472cc8ad8841fd4e05df3e7",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 7, 8PM ET",
+    "slug": "bitcoin-up-or-down-august-7-2026-8pm-et",
+    "value": 18.5,
+    "timestamp": 1786148944
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8fd8699ac3269763d3add5a5823e81f7206926c41e8dc14807ac4b4e8ffcc69a",
+    "outcome": "Up",
+    "title": "Ethereum Up or Down - August 7, 8:25PM-8:30PM ET",
+    "slug": "eth-updown-5m-1786148700",
+    "value": 79.8930000006,
+    "timestamp": 1786148944
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8fd8699ac3269763d3add5a5823e81f7206926c41e8dc14807ac4b4e8ffcc69a",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 7, 8:25PM-8:30PM ET",
+    "slug": "eth-updown-5m-1786148700",
+    "value": 3.4000000000000004,
+    "timestamp": 1786148946
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x5afd6ae5f36f3c747874d7ed59a9cc51bb9de38d80ca9edc04583371e3793868",
+    "outcome": "Down",
+    "title": "Bitcoin Up or Down - August 7, 8:00PM-12:00AM ET",
+    "slug": "btc-updown-4h-1786147200",
+    "value": 29.5,
+    "timestamp": 1786148946
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa78cb5e625207b0b66eb4cecdfe0491c8271585eb472cc8ad8841fd4e05df3e7",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 7, 8PM ET",
+    "slug": "bitcoin-up-or-down-august-7-2026-8pm-et",
+    "value": 13.5,
+    "timestamp": 1786148947
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0xa78cb5e625207b0b66eb4cecdfe0491c8271585eb472cc8ad8841fd4e05df3e7",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - August 7, 8PM ET",
+    "slug": "bitcoin-up-or-down-august-7-2026-8pm-et",
+    "value": 13.5,
+    "timestamp": 1786148953
+  },
+  {
+    "wallet": "0xeebde7a0e019a63e6b476eb425505b7b3e6eba30",
+    "conditionId": "0x8fd8699ac3269763d3add5a5823e81f7206926c41e8dc14807ac4b4e8ffcc69a",
+    "outcome": "Down",
+    "title": "Ethereum Up or Down - August 7, 8:25PM-8:30PM ET",
+    "slug": "eth-updown-5m-1786148700",
+    "value": 1.6,
+    "timestamp": 1786148955
+  },
+  {
+    "wallet": "0xbacd00c9080a82ded56f504ee8810af732b0ab35",
+    "conditionId": "0x26a6c7e4a905dfc13f23c44a8e41d0b96ad60569ef49869c46c237dfd8f3c003",
+    "outcome": "Yes",
+    "title": "Will Darline Graham Nordone be the new republican nominee for Senate in South Carolina?",
+    "slug": "south-carolina-republican-senate-special-primary-winner-20260712135206676",
+    "value": 462.295560047312,
+    "timestamp": 1786146121
+  },
+  {
+    "wallet": "0xbacd00c9080a82ded56f504ee8810af732b0ab35",
+    "conditionId": "0xd53aa44159722819f7ad39af4340e3baa5380e3f1e0692e8295695538335db52",
+    "outcome": "No",
+    "title": "Will 53 senators vote \"Yea\" for Todd Blanche as Attorney General?",
+    "slug": "how-many-senators-will-vote-for-todd-blanche-as-attorney-general-20260608212507372",
+    "value": 30.68766,
+    "timestamp": 1786148730
+  },
+  {
+    "wallet": "0xbacd00c9080a82ded56f504ee8810af732b0ab35",
+    "conditionId": "0x66a6d4b5efe16194979e39a7f452a8c860b054724a1e27eec822fae17f980def",
+    "outcome": "Yes",
+    "title": "Todd Blanche confirmed as Attorney General by August 30?",
+    "slug": "todd-blanche-confirmed-as-attorney-general-byptptpt-20260608213256942",
+    "value": 130.76000000000002,
+    "timestamp": 1786148827
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x0cb3c23701fb1de3e3c4b97afd550d664769e0c2377c3fb46e841b85a6218689",
+    "outcome": "Mensik",
+    "title": "Set 2 Winner: Atmane vs Mensik",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "value": 12.9456,
+    "timestamp": 1786148343
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x82c29b1cfb4159e0f880fd7e13c96bfb91a7d761d5eec7d31a6b917eb28823f5",
+    "outcome": "No",
+    "title": "Will Oper\u00e1rio Ferrovi\u00e1rio EC win on 2026-08-07?",
+    "slug": "bra2-ope-ber-2026-08-07",
+    "value": 66.99998500000001,
+    "timestamp": 1786148413
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xff8a77b626fef8eee19314bd74c2f3723196d7cd2d9462bed99940559d9e16df",
+    "outcome": "No",
+    "title": "Orlando Pride vs. Racing Louisville FC: Both Teams to Score",
+    "slug": "nwsl-pri-rac-2026-08-07-more-markets",
+    "value": 0.7400000000000001,
+    "timestamp": 1786148427
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x2ad9b5911bd290069d740ef1c538aed17cd73c42acf36a54e23b760398229076",
+    "outcome": "No",
+    "title": "Will Columbus Crew vs. CF Pachuca end in a draw?",
+    "slug": "lec-clb-pac-2026-08-07",
+    "value": 16.699199999999998,
+    "timestamp": 1786148577
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x5f04f7187206814881c56f079d27c84fa25bf866e2a9c1253870a4c3fd6b3072",
+    "outcome": "No",
+    "title": "Columbus Crew leading at halftime?",
+    "slug": "lec-clb-pac-2026-08-07-halftime-result",
+    "value": 22.1616,
+    "timestamp": 1786148583
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x7f7d3d25e07fd8053c162717ed7b31d82e08859462c2ed15f49d69deaf1eb7f6",
+    "outcome": "Yes",
+    "title": "Will CF Pachuca win on 2026-08-07?",
+    "slug": "lec-clb-pac-2026-08-07",
+    "value": 3.15,
+    "timestamp": 1786148587
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x5f5fed1f987b1e6fe927be62d71952c88d930343f801f23304c040c27fca8b36",
+    "outcome": "No",
+    "title": "Will Columbus Crew win on 2026-08-07?",
+    "slug": "lec-clb-pac-2026-08-07",
+    "value": 2.4,
+    "timestamp": 1786148674
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xddebeabe5e4eca84700c2377b00e16ce85e591b45adf9ac531bdea36e9317db9",
+    "outcome": "Connecticut Sun",
+    "title": "Spread: Phoenix Mercury (-4.5)",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 6.5212,
+    "timestamp": 1786148676
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x2ad9b5911bd290069d740ef1c538aed17cd73c42acf36a54e23b760398229076",
+    "outcome": "Yes",
+    "title": "Will Columbus Crew vs. CF Pachuca end in a draw?",
+    "slug": "lec-clb-pac-2026-08-07",
+    "value": 20.0634,
+    "timestamp": 1786148679
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x3f263c3d8f03dd8e8e20f4cfe211009597541a750f0395e2143264bb57b7a71d",
+    "outcome": "Over",
+    "title": "Columbus Crew vs. CF Pachuca: O/U 2.5",
+    "slug": "lec-clb-pac-2026-08-07-more-markets",
+    "value": 0.0126,
+    "timestamp": 1786148709
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x5f5fed1f987b1e6fe927be62d71952c88d930343f801f23304c040c27fca8b36",
+    "outcome": "No",
+    "title": "Will Columbus Crew win on 2026-08-07?",
+    "slug": "lec-clb-pac-2026-08-07",
+    "value": 81.81450000000001,
+    "timestamp": 1786148715
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x6e217b97f0953d8f3587828cd70b50f90c564d64d8ce71a8f46f87fc41ddd6f9",
+    "outcome": "Under",
+    "title": "Columbus Crew vs. CF Pachuca: O/U 3.5",
+    "slug": "lec-clb-pac-2026-08-07-more-markets",
+    "value": 6.12,
+    "timestamp": 1786148766
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xedb3a5b7471b091d33661596da0d37ea3a93e092b762c495557d593c42fb877e",
+    "outcome": "Under",
+    "title": "Columbus Crew vs. CF Pachuca: CF Pachuca O/U 1.5",
+    "slug": "lec-clb-pac-2026-08-07-more-markets",
+    "value": 12.920000000000002,
+    "timestamp": 1786148766
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x0205db38d29d48f1a4e8530dfe35ad46f6a7a6877e527375163bc835f93af977",
+    "outcome": "Connecticut Sun",
+    "title": "Spread: Phoenix Mercury (-5.5)",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 2.3154,
+    "timestamp": 1786148767
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x6e217b97f0953d8f3587828cd70b50f90c564d64d8ce71a8f46f87fc41ddd6f9",
+    "outcome": "Over",
+    "title": "Columbus Crew vs. CF Pachuca: O/U 3.5",
+    "slug": "lec-clb-pac-2026-08-07-more-markets",
+    "value": 1.5,
+    "timestamp": 1786148778
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x5f04f7187206814881c56f079d27c84fa25bf866e2a9c1253870a4c3fd6b3072",
+    "outcome": "No",
+    "title": "Columbus Crew leading at halftime?",
+    "slug": "lec-clb-pac-2026-08-07-halftime-result",
+    "value": 5.999999000384642,
+    "timestamp": 1786148790
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x2d1160ab42416302deba9711cf472492675b216a8a83d09422b90c5506ba4e61",
+    "outcome": "Fonseca",
+    "title": "Set 2 Winner: Ruud vs Fonseca",
+    "slug": "atp-ruud-fonseca-2026-08-07",
+    "value": 16.530700000000003,
+    "timestamp": 1786148845
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xbabdf0c524ed98abe4d85d498cb0bb88d125b25dadfc27e19589578315b58504",
+    "outcome": "Under",
+    "title": "Columbus Crew vs. CF Pachuca: O/U 1.5",
+    "slug": "lec-clb-pac-2026-08-07-more-markets",
+    "value": 1.9999990000000796,
+    "timestamp": 1786148856
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xe1b1a314cbdbae3ed59ccc262f1264b149b30c3175d3f18490f894709ad82a04",
+    "outcome": "G2 Esports",
+    "title": "Valorant: G2 Esports vs LOUD - Map 1 Winner",
+    "slug": "val-g21-loud-2026-08-07",
+    "value": 73.236,
+    "timestamp": 1786148940
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x1c284756fc3dc6bba4093ccf80542cef30d48612a028ba2aa3fbc5660a20d01c",
+    "outcome": "No",
+    "title": "Columbus Crew vs. CF Pachuca: Both Teams to Score",
+    "slug": "lec-clb-pac-2026-08-07-more-markets",
+    "value": 10.4,
+    "timestamp": 1786148947
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xcf00da98970864bc34d645e426a6e9ceb56a1f564d61cab9d9cb14dc1690da2d",
+    "outcome": "Minnesota Twins",
+    "title": "Spread: Minnesota Twins (-2.5)",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 3.3600000000000003,
+    "timestamp": 1786147476
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x13347d0b2d59bbc3a7c9d468a8f055e27fadd02fef042b7434aa0a25e03f8da1",
+    "outcome": "Over",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 10.5",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 2.25,
+    "timestamp": 1786147558
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x71fa2b9df79ae3aed7721dfde68b16673f191b93cfcc24909ccd237fbe1a334c",
+    "outcome": "New York Mets",
+    "title": "New York Mets vs. Pittsburgh Pirates",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 147.9986,
+    "timestamp": 1786147560
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x2479e4ce3f6d5f9cb9671d3cc284832b36e7097797c9a6fce098dc3ed3885b6e",
+    "outcome": "Over",
+    "title": "New York Mets vs. Pittsburgh Pirates: O/U 9.5",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 2.4000000000000004,
+    "timestamp": 1786147563
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x4687ac995fd0aea7b70c947e120c39fa8958d2c761dff5d7c7c329fa8c88328d",
+    "outcome": "Under",
+    "title": "New York Mets vs. Pittsburgh Pirates: O/U 7.5",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 1.69,
+    "timestamp": 1786147578
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x008289188a422b580ac4c9cadb81dadb38e8c3876314b542ceb06a3dfe811f03",
+    "outcome": "Pittsburgh Pirates",
+    "title": "Spread: New York Mets (-1.5)",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 8.549999999999999,
+    "timestamp": 1786147633
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x222168d4b8495b02dd0849f77f21b2ede3b4c4fe51bc1e75b6156e931e115d21",
+    "outcome": "Minnesota Twins",
+    "title": "Spread: Minnesota Twins (-1.5)",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 39.26,
+    "timestamp": 1786147719
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xdca7de400ebb37dd0570b0ae1c4c7147c47e80498f123a05fe1305ab286dc1d5",
+    "outcome": "Athletics",
+    "title": "Spread: Boston Red Sox (-2.5)",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "value": 3.9000000000000004,
+    "timestamp": 1786147926
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xcf00da98970864bc34d645e426a6e9ceb56a1f564d61cab9d9cb14dc1690da2d",
+    "outcome": "Minnesota Twins",
+    "title": "Spread: Minnesota Twins (-2.5)",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 13.95,
+    "timestamp": 1786148104
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Milwaukee Brewers",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 18.48,
+    "timestamp": 1786148137
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x96b9d197b5742d83672e91336c8e5a6ec2e59a296a105e206a5de7608a7f860c",
+    "outcome": "Over",
+    "title": "Chicago Cubs vs. Kansas City Royals: O/U 10.5",
+    "slug": "mlb-chc-kc-2026-08-07",
+    "value": 21.45,
+    "timestamp": 1786148289
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x99d2e83e54313fbd02121f916c38a00324d41641c003055e56c31546be5987a5",
+    "outcome": "Under",
+    "title": "Minnesota Twins vs. Milwaukee Brewers: O/U 8.5",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 3.1,
+    "timestamp": 1786148301
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x3e7dff1476e0b9efbc152416bd9310da7c792e28327c208d24c42939408b94d2",
+    "outcome": "Over",
+    "title": "Phoenix Mercury vs. Connecticut Sun: O/U 172.5",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 1.5,
+    "timestamp": 1786148341
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xfcbf8d73c7b756aa9619c2b77d5aba574718b70ce394d7e979f98be4c78355c9",
+    "outcome": "Under",
+    "title": "New York Mets vs. Pittsburgh Pirates: O/U 8.5",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 50.160000000000004,
+    "timestamp": 1786148356
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xdca7de400ebb37dd0570b0ae1c4c7147c47e80498f123a05fe1305ab286dc1d5",
+    "outcome": "Athletics",
+    "title": "Spread: Boston Red Sox (-2.5)",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "value": 1.8800000000000001,
+    "timestamp": 1786148596
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xdca7de400ebb37dd0570b0ae1c4c7147c47e80498f123a05fe1305ab286dc1d5",
+    "outcome": "Athletics",
+    "title": "Spread: Boston Red Sox (-2.5)",
+    "slug": "mlb-oak-bos-2026-08-07",
+    "value": 4.48,
+    "timestamp": 1786148596
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x82018b39fd4f716e6c5beb71837016bd235192c27f40ba1d69edee7958126aa3",
+    "outcome": "Under",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 9.5",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 81.03,
+    "timestamp": 1786148988
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x13347d0b2d59bbc3a7c9d468a8f055e27fadd02fef042b7434aa0a25e03f8da1",
+    "outcome": "Under",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 10.5",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 5.46,
+    "timestamp": 1786148989
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x13347d0b2d59bbc3a7c9d468a8f055e27fadd02fef042b7434aa0a25e03f8da1",
+    "outcome": "Under",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 10.5",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 22.113,
+    "timestamp": 1786148989
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x13347d0b2d59bbc3a7c9d468a8f055e27fadd02fef042b7434aa0a25e03f8da1",
+    "outcome": "Under",
+    "title": "Los Angeles Angels vs. Miami Marlins: O/U 10.5",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 680.19,
+    "timestamp": 1786148991
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Minnesota Twins",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 25.47300000063,
+    "timestamp": 1786146543
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x396c671d5f43d443da553cecd9a2922ae6f3ef60fef77961d47c554241817409",
+    "outcome": "Cleveland Guardians",
+    "title": "Cleveland Guardians vs. Chicago White Sox",
+    "slug": "mlb-cle-cws-2026-08-07",
+    "value": 954.4299989874402,
+    "timestamp": 1786146676
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x71fa2b9df79ae3aed7721dfde68b16673f191b93cfcc24909ccd237fbe1a334c",
+    "outcome": "New York Mets",
+    "title": "New York Mets vs. Pittsburgh Pirates",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 3.5899990001567113,
+    "timestamp": 1786146784
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Milwaukee Brewers",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 118.80000000000001,
+    "timestamp": 1786146799
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x1834230745e97fd13fd6417f8e598f6d9b0c02bab0e15ba8838c84284d25b442",
+    "outcome": "Miami Marlins",
+    "title": "Los Angeles Angels vs. Miami Marlins",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 135.9399989969593,
+    "timestamp": 1786146975
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x1834230745e97fd13fd6417f8e598f6d9b0c02bab0e15ba8838c84284d25b442",
+    "outcome": "Los Angeles Angels",
+    "title": "Los Angeles Angels vs. Miami Marlins",
+    "slug": "mlb-laa-mia-2026-08-07",
+    "value": 3.8,
+    "timestamp": 1786147086
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x71fa2b9df79ae3aed7721dfde68b16673f191b93cfcc24909ccd237fbe1a334c",
+    "outcome": "New York Mets",
+    "title": "New York Mets vs. Pittsburgh Pirates",
+    "slug": "mlb-nym-pit-2026-08-07",
+    "value": 4.5,
+    "timestamp": 1786147555
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x3d97a6235af5d7d81d3c39c13bdbb2add007270d666178dcc7b0c5375ac140ee",
+    "outcome": "Joao Fonseca",
+    "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+    "slug": "atp-ruud-fonseca-2026-08-07",
+    "value": 5.25,
+    "timestamp": 1786147918
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Milwaukee Brewers",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 4.139996000024106,
+    "timestamp": 1786148202
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xf2c66502ca6f000b78a70e3ae8aa90c60adb0a55460ee9e460a1d0d48cdf88aa",
+    "outcome": "Terence Atmane",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "value": 0.79,
+    "timestamp": 1786148283
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x538589f4b0ba89623a2067830f6e137c0ed13eb4414cb8d5755abf19e9f94419",
+    "outcome": "Minnesota Twins",
+    "title": "Minnesota Twins vs. Milwaukee Brewers",
+    "slug": "mlb-min-mil-2026-08-07",
+    "value": 54.8499999897,
+    "timestamp": 1786148664
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x3d97a6235af5d7d81d3c39c13bdbb2add007270d666178dcc7b0c5375ac140ee",
+    "outcome": "Joao Fonseca",
+    "title": "National Bank Open: Casper Ruud vs Joao Fonseca",
+    "slug": "atp-ruud-fonseca-2026-08-07",
+    "value": 7.05,
+    "timestamp": 1786148691
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xc3b7570ffe6d8e0ad6d3f57939840b7da056973d437009282a3311803d6b0507",
+    "outcome": "Kansas City Royals",
+    "title": "Chicago Cubs vs. Kansas City Royals",
+    "slug": "mlb-chc-kc-2026-08-07",
+    "value": 8.539999999199999,
+    "timestamp": 1786148692
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x85103a46008451b326ce5cac11e4377e7c06baef3631a6a78e6ddfc593d68a5d",
+    "outcome": "Cincinnati Reds",
+    "title": "Cincinnati Reds vs. Washington Nationals",
+    "slug": "mlb-cin-wsh-2026-08-07",
+    "value": 557.1499990266628,
+    "timestamp": 1786148979
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xf7f95ada8db60d1e43a221971b602e5d6f04cb0e6ae33c0f05ede04c0183ee3d",
+    "outcome": "Taylor Townsend",
+    "title": "National Bank Open: Taylor Townsend vs Belinda Bencic",
+    "slug": "wta-townsen-bencic-2026-08-07",
+    "value": 263.4800000256,
+    "timestamp": 1786147891
+  },
+  {
+    "wallet": "0xde9f7f4e77a1595623ceb58e469f776257ccd43c",
+    "conditionId": "0xf2c66502ca6f000b78a70e3ae8aa90c60adb0a55460ee9e460a1d0d48cdf88aa",
+    "outcome": "Jakub Mensik",
+    "title": "National Bank Open: Terence Atmane vs Jakub Mensik",
+    "slug": "atp-atmane-mensik-2026-08-07",
+    "value": 107.3668,
+    "timestamp": 1786148296
+  },
+  {
+    "wallet": "0x93abbc022ce98d6f45d4444b594791cc4b7a9723",
+    "conditionId": "0x4b7b21a5cfdcc7cbb33d499c44b7f11ac754f13d3db39cd93b976141dcdb516e",
+    "outcome": "Yes",
+    "title": "Will Russia invade a NATO country by December 31, 2026?",
+    "slug": "will-russia-invade-a-nato-country-in-2025",
+    "value": 1470.0000000000002,
+    "timestamp": 1786148191
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xae6a0716f4715bdf4deb9f9ed927c1bbe07b8ec61c747c8f856f92a7ce5dbefd",
+    "outcome": "No",
+    "title": "Will CA Aldosivi win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 9.99,
+    "timestamp": 1786148805
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x4714efbb815fcbe32300909152ac2c68c5f7b86dfb7ad6b5566cee1f3b86d7a5",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 0.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 176.5632,
+    "timestamp": 1786148806
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xae6a0716f4715bdf4deb9f9ed927c1bbe07b8ec61c747c8f856f92a7ce5dbefd",
+    "outcome": "No",
+    "title": "Will CA Aldosivi win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 39.96,
+    "timestamp": 1786148815
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xc82a89bb8dbf8cc425d493eeec956c16ca288eb56669616aadf680372fcc8c4a",
+    "outcome": "No",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 2.0300000000000002,
+    "timestamp": 1786148815
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x4714efbb815fcbe32300909152ac2c68c5f7b86dfb7ad6b5566cee1f3b86d7a5",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 0.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 172.54825,
+    "timestamp": 1786148817
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x4714efbb815fcbe32300909152ac2c68c5f7b86dfb7ad6b5566cee1f3b86d7a5",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 0.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 183.59,
+    "timestamp": 1786148818
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x4714efbb815fcbe32300909152ac2c68c5f7b86dfb7ad6b5566cee1f3b86d7a5",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 0.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 177.47820000000002,
+    "timestamp": 1786148835
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x4714efbb815fcbe32300909152ac2c68c5f7b86dfb7ad6b5566cee1f3b86d7a5",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 0.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 174.24,
+    "timestamp": 1786148836
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x9cae71e7a30a5c9b2109ff159949af20db7502a7e88cd9c16248038aa9b9c088",
+    "outcome": "Connecticut Sun",
+    "title": "Phoenix Mercury vs. Connecticut Sun",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 6.72,
+    "timestamp": 1786148842
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xca6e9b8c78593360d16375e1285c560be393fce67873683de56ce7af6b71d448",
+    "outcome": "No",
+    "title": "Will CD Maipu win on 2026-08-07?",
+    "slug": "argpn-afm-mai-2026-08-07",
+    "value": 281.01,
+    "timestamp": 1786148844
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x9cae71e7a30a5c9b2109ff159949af20db7502a7e88cd9c16248038aa9b9c088",
+    "outcome": "Connecticut Sun",
+    "title": "Phoenix Mercury vs. Connecticut Sun",
+    "slug": "wnba-phx-conn-2026-08-07",
+    "value": 10.16,
+    "timestamp": 1786148844
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xbf1cb3a00525de851daec7830af7d5242bf29c06f7a6a76badbfeff712dfc992",
+    "outcome": "Over",
+    "title": "CA Rosario Central vs. CA Aldosivi: O/U 3.5",
+    "slug": "arg-ros-ald-2026-08-07-more-markets",
+    "value": 2.48,
+    "timestamp": 1786148845
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xb7e5c637b59b4bd5ac4f7a83bc14599609819f93915285c84a86b0d145cdcf5e",
+    "outcome": "Under",
+    "title": "CA Ferrocarril Midland vs. CD Maipu: O/U 1.5",
+    "slug": "argpn-afm-mai-2026-08-07-more-markets",
+    "value": 10.29,
+    "timestamp": 1786148851
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xbf1cb3a00525de851daec7830af7d5242bf29c06f7a6a76badbfeff712dfc992",
+    "outcome": "Over",
+    "title": "CA Rosario Central vs. CA Aldosivi: O/U 3.5",
+    "slug": "arg-ros-ald-2026-08-07-more-markets",
+    "value": 1.22,
+    "timestamp": 1786148854
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x4714efbb815fcbe32300909152ac2c68c5f7b86dfb7ad6b5566cee1f3b86d7a5",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 0.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 1.105,
+    "timestamp": 1786148874
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x6c8f5b257c37d718e5b7db6f2cf52fefa1134843a234fcdaa0377f9a687f0bdb",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 2.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 233.23,
+    "timestamp": 1786148875
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x64996a90577f9a12e57ed2998562b956a6b732d2dd0c1fde46c305499ed14929",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 1.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 166.17,
+    "timestamp": 1786148875
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0xbf1cb3a00525de851daec7830af7d5242bf29c06f7a6a76badbfeff712dfc992",
+    "outcome": "Over",
+    "title": "CA Rosario Central vs. CA Aldosivi: O/U 3.5",
+    "slug": "arg-ros-ald-2026-08-07-more-markets",
+    "value": 21.0,
+    "timestamp": 1786148877
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x64996a90577f9a12e57ed2998562b956a6b732d2dd0c1fde46c305499ed14929",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 1.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 31.61,
+    "timestamp": 1786148878
+  },
+  {
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "conditionId": "0x4714efbb815fcbe32300909152ac2c68c5f7b86dfb7ad6b5566cee1f3b86d7a5",
+    "outcome": "Under",
+    "title": "Charlotte FC vs. Atlas FC: O/U 0.5",
+    "slug": "lec-clt-atl-2026-08-07-more-markets",
+    "value": 170.4915,
+    "timestamp": 1786148911
+  },
+  {
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "conditionId": "0x7ac4fb4ce781fa619fb2f1a6a9b63e22c92ed4fceda676866c6adb3bf75d7fd4",
+    "outcome": "No",
+    "title": "Will LOUD Win CBLOL 2026 Split 2",
+    "slug": "cblol-2026-split-2-winner-20260703174223681",
+    "value": 180.66802999192498,
+    "timestamp": 1786146843
+  },
+  {
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "conditionId": "0xdaaac8d8c0c4a6c0731248327ea6f87ee9ca90bb70370e9876ed25f2395a39b4",
+    "outcome": "No",
+    "title": "Will Keyd Stars Academy Win Circuito Desafiante 2026 Split 2",
+    "slug": "circuito-desafiante-2026-split-2-winner-20260727190345048",
+    "value": 56.1292,
+    "timestamp": 1786147114
+  },
+  {
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "conditionId": "0xf63c5f2c1bb667f45c55c541ede65ec211b3f7689499bde99d72eba72aecdabf",
+    "outcome": "No",
+    "title": "Will Valve add Cobblestone to the map pool by August 30? ",
+    "slug": "will-valve-add-cobblestone-to-the-map-pool-by",
+    "value": 7720.130599827692,
+    "timestamp": 1786148545
+  },
+  {
+    "wallet": "0x43372356634781eea88d61bbdd7824cdce958882",
+    "conditionId": "0xf63c5f2c1bb667f45c55c541ede65ec211b3f7689499bde99d72eba72aecdabf",
+    "outcome": "No",
+    "title": "Will Valve add Cobblestone to the map pool by August 30? ",
+    "slug": "will-valve-add-cobblestone-to-the-map-pool-by",
+    "value": 1939.68539992695,
+    "timestamp": 1786148547
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xae6a0716f4715bdf4deb9f9ed927c1bbe07b8ec61c747c8f856f92a7ce5dbefd",
+    "outcome": "No",
+    "title": "Will CA Aldosivi win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 573.8216000000001,
+    "timestamp": 1786147081
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xae6a0716f4715bdf4deb9f9ed927c1bbe07b8ec61c747c8f856f92a7ce5dbefd",
+    "outcome": "No",
+    "title": "Will CA Aldosivi win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 75.6888,
+    "timestamp": 1786147084
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xcf6663bc3f4f4372dbf70f40d43483f44c2b1a2388f4d7dddef5bbe9499d5a9a",
+    "outcome": "Petr Nesterov",
+    "title": "Plovdiv 2: Petr Nesterov vs Radu Mihai Papoe",
+    "slug": "atp-nestero-papoe-2026-08-08",
+    "value": 0.0076,
+    "timestamp": 1786147212
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xcf6663bc3f4f4372dbf70f40d43483f44c2b1a2388f4d7dddef5bbe9499d5a9a",
+    "outcome": "Petr Nesterov",
+    "title": "Plovdiv 2: Petr Nesterov vs Radu Mihai Papoe",
+    "slug": "atp-nestero-papoe-2026-08-08",
+    "value": 9.869998999747395,
+    "timestamp": 1786147212
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xcf6663bc3f4f4372dbf70f40d43483f44c2b1a2388f4d7dddef5bbe9499d5a9a",
+    "outcome": "Petr Nesterov",
+    "title": "Plovdiv 2: Petr Nesterov vs Radu Mihai Papoe",
+    "slug": "atp-nestero-papoe-2026-08-08",
+    "value": 26.309998998246165,
+    "timestamp": 1786147327
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xcf6663bc3f4f4372dbf70f40d43483f44c2b1a2388f4d7dddef5bbe9499d5a9a",
+    "outcome": "Petr Nesterov",
+    "title": "Plovdiv 2: Petr Nesterov vs Radu Mihai Papoe",
+    "slug": "atp-nestero-papoe-2026-08-08",
+    "value": 10.0152,
+    "timestamp": 1786147327
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xc82a89bb8dbf8cc425d493eeec956c16ca288eb56669616aadf680372fcc8c4a",
+    "outcome": "Yes",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 1.9500000000000002,
+    "timestamp": 1786147797
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xcf6663bc3f4f4372dbf70f40d43483f44c2b1a2388f4d7dddef5bbe9499d5a9a",
+    "outcome": "Petr Nesterov",
+    "title": "Plovdiv 2: Petr Nesterov vs Radu Mihai Papoe",
+    "slug": "atp-nestero-papoe-2026-08-08",
+    "value": 26.260000000000005,
+    "timestamp": 1786147813
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xc82a89bb8dbf8cc425d493eeec956c16ca288eb56669616aadf680372fcc8c4a",
+    "outcome": "No",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 48.511199999999995,
+    "timestamp": 1786147999
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xc82a89bb8dbf8cc425d493eeec956c16ca288eb56669616aadf680372fcc8c4a",
+    "outcome": "No",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 33.6728,
+    "timestamp": 1786148001
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xc82a89bb8dbf8cc425d493eeec956c16ca288eb56669616aadf680372fcc8c4a",
+    "outcome": "No",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 281.71999900000003,
+    "timestamp": 1786148004
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xc82a89bb8dbf8cc425d493eeec956c16ca288eb56669616aadf680372fcc8c4a",
+    "outcome": "No",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 67.254,
+    "timestamp": 1786148004
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xcf6663bc3f4f4372dbf70f40d43483f44c2b1a2388f4d7dddef5bbe9499d5a9a",
+    "outcome": "Petr Nesterov",
+    "title": "Plovdiv 2: Petr Nesterov vs Radu Mihai Papoe",
+    "slug": "atp-nestero-papoe-2026-08-08",
+    "value": 0.7871999999999999,
+    "timestamp": 1786148545
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xcf6663bc3f4f4372dbf70f40d43483f44c2b1a2388f4d7dddef5bbe9499d5a9a",
+    "outcome": "Petr Nesterov",
+    "title": "Plovdiv 2: Petr Nesterov vs Radu Mihai Papoe",
+    "slug": "atp-nestero-papoe-2026-08-08",
+    "value": 15.099998998585384,
+    "timestamp": 1786148547
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xc82a89bb8dbf8cc425d493eeec956c16ca288eb56669616aadf680372fcc8c4a",
+    "outcome": "Yes",
+    "title": "Will CA Rosario Central win on 2026-08-07?",
+    "slug": "arg-ros-ald-2026-08-07",
+    "value": 305.4072,
+    "timestamp": 1786148992
   }
 ]
