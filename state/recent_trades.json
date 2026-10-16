@@ -1,798 +1,6 @@
 [
   {
     "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x2534390840d8286a3fb5b69f2f71891646100980597badfd3ef923f71bb0b0ee",
-    "outcome": "MH Hapoel Beer Sheva",
-    "title": "Spread: AZ (-1.5)",
-    "slug": "uel-az-hbs-2026-10-15-more-markets",
-    "value": 655.5,
-    "timestamp": 1792086286
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x59e55f7468fe581a33d8884f1e2d1ef8fe21d43e6428380a35755bdf8c1d5d22",
-    "outcome": "No",
-    "title": "Will SC Freiburg win on 2026-10-15?",
-    "slug": "col-scf-jab-2026-10-15",
-    "value": 237.5,
-    "timestamp": 1792086367
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xfcad20644d854c0586b57e72397167d3ea2ccef76dd9c664f00fec82b052e261",
-    "outcome": "Yes",
-    "title": "Will GNK Dinamo Zagreb win on 2026-10-15?",
-    "slug": "uel-din-and-2026-10-15",
-    "value": 1068.2,
-    "timestamp": 1792086421
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xfcad20644d854c0586b57e72397167d3ea2ccef76dd9c664f00fec82b052e261",
-    "outcome": "Yes",
-    "title": "Will GNK Dinamo Zagreb win on 2026-10-15?",
-    "slug": "uel-din-and-2026-10-15",
-    "value": 1918.693,
-    "timestamp": 1792086427
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x6e5958ea477c6c685d5a19da18f90dd3373f8ad8b9207124dbbd3e58e3e0bf04",
-    "outcome": "No",
-    "title": "Will Juventus FC win on 2026-10-15?",
-    "slug": "uel-cel1-juv-2026-10-15",
-    "value": 1316.0000000000002,
-    "timestamp": 1792086527
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0x8f3c1b5259282f6d5c2f63f923e0c0b616ae5f1c4bd13d7eac8e26f498e3c299",
-    "outcome": "Yes",
-    "title": "Will AC Milan win on 2026-10-15?",
-    "slug": "uel-rbs-mil1-2026-10-15",
-    "value": 8428.744999999999,
-    "timestamp": 1792086644
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
-    "conditionId": "0xec1fde3653fa5d1a417c04f605dbe78f6dac5e5cf37ad2acad3e5615a4e05b72",
-    "outcome": "Yes",
-    "title": "Will Trabzonspor win on 2026-10-15?",
-    "slug": "col-kps-tra-2026-10-15",
-    "value": 4.9,
-    "timestamp": 1792086653
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 260.625,
-    "timestamp": 1792085899
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 4.8,
-    "timestamp": 1792085921
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 364.195,
-    "timestamp": 1792086379
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x0577e5b453f80aea64529e852d85f1d21fea346e84b4229bdd1573fa2bfef4d0",
-    "outcome": "Under",
-    "title": "AZ vs. MH Hapoel Be'er Sheva: O/U 0.5",
-    "slug": "uel-az-hbs-2026-10-15-more-markets",
-    "value": 1346.9946,
-    "timestamp": 1792086590
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x28abcb354297ee6657f8207a6a3478987797e42776a89cca008251391914d09f",
-    "outcome": "Over",
-    "title": "Heart of Midlothian FC vs. FC Nordsj\u00e6lland: O/U 9.5 Total Corners",
-    "slug": "col-hmi-nor-2026-10-15-total-corners",
-    "value": 86.0000000064,
-    "timestamp": 1792085974
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x28abcb354297ee6657f8207a6a3478987797e42776a89cca008251391914d09f",
-    "outcome": "Over",
-    "title": "Heart of Midlothian FC vs. FC Nordsj\u00e6lland: O/U 9.5 Total Corners",
-    "slug": "col-hmi-nor-2026-10-15-total-corners",
-    "value": 63.1999999992,
-    "timestamp": 1792085974
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x1fcf725a60495b3d602c005bcb2963397746edf5a72b80c2ed11065e5e255cbb",
-    "outcome": "Yes",
-    "title": "Clube do Remo vs. Red Bull Bragantino: Both Teams to Score",
-    "slug": "bra-cre-bra-2026-10-18-more-markets",
-    "value": 13.10999900078362,
-    "timestamp": 1792086008
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x287b77551ca5bd4624209fcd6da0ebec1ebcd6e612fc107e757626b95c5419c6",
-    "outcome": "Yes",
-    "title": "SC Corinthians Paulista vs. EC Vit\u00f3ria: Both Teams to Score",
-    "slug": "bra-cor1-vit-2026-10-19-more-markets",
-    "value": 12.980000001167891,
-    "timestamp": 1792086055
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x918cc5659ca58aad94678e07d63502c183d001914d7c31bbda276d03b229b2b0",
-    "outcome": "No",
-    "title": "Will JEF United Ichihara Chiba win on 2026-10-17?",
-    "slug": "jap-jef-yom-2026-10-17",
-    "value": 3.75,
-    "timestamp": 1792086296
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x5da88dd57e42c5c59652d8d280c06969ccb514d841fe406d6e799b441441451d",
-    "outcome": "Karmine Corp",
-    "title": "Game Handicap: KC (-2.5) vs Cloud9 (+2.5)",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 204.36999996228695,
-    "timestamp": 1792086404
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x248a581a16f8408c1b05f0f8d186753f7bfa78a8c7a87f06023ec4531ba4b47c",
-    "outcome": "No",
-    "title": "Will V-Varen Nagasaki win on 2026-10-17?",
-    "slug": "jap-kas-vva-2026-10-17",
-    "value": 4.289999000139548,
-    "timestamp": 1792086415
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x5da88dd57e42c5c59652d8d280c06969ccb514d841fe406d6e799b441441451d",
-    "outcome": "Karmine Corp",
-    "title": "Game Handicap: KC (-2.5) vs Cloud9 (+2.5)",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 762.3299999999999,
-    "timestamp": 1792086418
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x0749213004ae64f25e291c9feb29f17cd176f26f255b3c5deb43fbf08a853ea9",
-    "outcome": "FC Twente",
-    "title": "Spread: FC Twente (-2.5)",
-    "slug": "col-twe-thu-2026-10-15-more-markets",
-    "value": 78.2,
-    "timestamp": 1792086436
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xa054dd401b3ed2980ef93587e4c30b2fc2ee5e2f9ba08e5a3103aee2d682098c",
-    "outcome": "Under",
-    "title": "Brighton & Hove Albion FC vs. FK Kauno \u017dalgiris: O/U 4.5",
-    "slug": "col-bha-kau-2026-10-15-more-markets",
-    "value": 439.4952,
-    "timestamp": 1792086476
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xfccb8f204b18678a0c6ed2457091ac042b1236b51266b5d62f01081abebf598b",
-    "outcome": "FK Kauno \u017dalgiris",
-    "title": "Spread: Brighton & Hove Albion FC (-3.5)",
-    "slug": "col-bha-kau-2026-10-15-more-markets",
-    "value": 21.619999997849998,
-    "timestamp": 1792086593
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xfccb8f204b18678a0c6ed2457091ac042b1236b51266b5d62f01081abebf598b",
-    "outcome": "FK Kauno \u017dalgiris",
-    "title": "Spread: Brighton & Hove Albion FC (-3.5)",
-    "slug": "col-bha-kau-2026-10-15-more-markets",
-    "value": 4.259999999836333,
-    "timestamp": 1792086595
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0x358b73ddcfae4b6ea52fa66d46848bea9b6d565bee467303788cba0c829c6092",
-    "outcome": "Over",
-    "title": "Kuopion PS vs. Trabzonspor: O/U 2.5",
-    "slug": "col-kps-tra-2026-10-15-more-markets",
-    "value": 247.859983,
-    "timestamp": 1792086628
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xe09cf2c7a4228105c20e1b18f4c070f050707e89fad5593ca9f22e581808e484",
-    "outcome": "Yes",
-    "title": "Will OFI win on 2026-10-15?",
-    "slug": "uel-ren1-ofi-2026-10-15",
-    "value": 9.299999999999999,
-    "timestamp": 1792086649
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xe09cf2c7a4228105c20e1b18f4c070f050707e89fad5593ca9f22e581808e484",
-    "outcome": "Yes",
-    "title": "Will OFI win on 2026-10-15?",
-    "slug": "uel-ren1-ofi-2026-10-15",
-    "value": 1.2799999994666655,
-    "timestamp": 1792086649
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xe09cf2c7a4228105c20e1b18f4c070f050707e89fad5593ca9f22e581808e484",
-    "outcome": "Yes",
-    "title": "Will OFI win on 2026-10-15?",
-    "slug": "uel-ren1-ofi-2026-10-15",
-    "value": 1.02,
-    "timestamp": 1792086650
-  },
-  {
-    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
-    "conditionId": "0xe09cf2c7a4228105c20e1b18f4c070f050707e89fad5593ca9f22e581808e484",
-    "outcome": "Yes",
-    "title": "Will OFI win on 2026-10-15?",
-    "slug": "uel-ren1-ofi-2026-10-15",
-    "value": 9.299999999999999,
-    "timestamp": 1792086650
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0x7f4fb51400e9b7911921fafe81ff5bf99faa979dcd0749e35195b4488b8be9c6",
-    "outcome": "Bianca Andreescu",
-    "title": "Rovereto: Antonia Ruzic vs Bianca Andreescu",
-    "slug": "wta-ruzic-andrees-2026-10-15",
-    "value": 18.5,
-    "timestamp": 1792086295
-  },
-  {
-    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
-    "conditionId": "0x0749213004ae64f25e291c9feb29f17cd176f26f255b3c5deb43fbf08a853ea9",
-    "outcome": "FC Twente",
-    "title": "Spread: FC Twente (-2.5)",
-    "slug": "col-twe-thu-2026-10-15-more-markets",
-    "value": 2362.69,
-    "timestamp": 1792086445
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa",
-    "outcome": "Yes",
-    "title": "Will Bitcoin dip to $77,500 in October?",
-    "slug": "what-price-will-bitcoin-hit-in-october-2026",
-    "value": 2835.61000008,
-    "timestamp": 1792086238
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x749e184ebb97fd2a8c8d3997965139128fc97a218c584c4d401e36ef7020e6d5",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 7.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 10.446,
-    "timestamp": 1792086014
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x0c845123158c278d30f745b092c293ec3300d9a473632c699723bd2bf01aa78b",
-    "outcome": "Fenerbahce",
-    "title": "Fenerbahce vs. Partizan",
-    "slug": "euroleague-fenerbah-partizan-2026-10-15",
-    "value": 3000.4250999999995,
-    "timestamp": 1792086119
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0x8c74835212fc7ad871dfe338c6796113f427662b574ba40ff9fbe166577dd279",
-    "outcome": "Georgia Southern",
-    "title": "Spread: Georgia Southern (-3.5)",
-    "slug": "cfb-gas-old-2026-10-15",
-    "value": 1966.9076999999997,
-    "timestamp": 1792086130
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xf9b49cecd942be9e0469e13ec74b1146bd4d9a83417bad3c74be0b04bad64da5",
-    "outcome": "Lukas Neumayer",
-    "title": "Maia: Matej Dodig vs Lukas Neumayer",
-    "slug": "atp-dodig-neumaye-2026-10-15",
-    "value": 122.0,
-    "timestamp": 1792086199
-  },
-  {
-    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
-    "conditionId": "0xa492d1a806052adc872fe9c5c504291fc784834000ef6a2686cf63ba28fa2840",
-    "outcome": "Over",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 4.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 19.8575,
-    "timestamp": 1792086443
-  },
-  {
-    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
-    "conditionId": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
-    "outcome": "BetBoom Team",
-    "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
-    "slug": "cs2-prv-bb3-2026-10-15",
-    "value": 1042.256600001,
-    "timestamp": 1792086496
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 4.6421000005,
-    "timestamp": 1792085900
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 2.3,
-    "timestamp": 1792085902
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 65.8424,
-    "timestamp": 1792085939
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 5.2,
-    "timestamp": 1792085939
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 3.8309999999999995,
-    "timestamp": 1792086053
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 2.9663999999999997,
-    "timestamp": 1792086143
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
-    "outcome": "BetBoom Team",
-    "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
-    "slug": "cs2-prv-bb3-2026-10-15",
-    "value": 22.3614,
-    "timestamp": 1792086316
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
-    "outcome": "BetBoom Team",
-    "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
-    "slug": "cs2-prv-bb3-2026-10-15",
-    "value": 34.300599999999996,
-    "timestamp": 1792086316
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
-    "outcome": "BetBoom Team",
-    "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
-    "slug": "cs2-prv-bb3-2026-10-15",
-    "value": 39.2092,
-    "timestamp": 1792086323
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
-    "outcome": "PARIVISION",
-    "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
-    "slug": "cs2-prv-bb3-2026-10-15",
-    "value": 14.6985,
-    "timestamp": 1792086389
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x622f967d9112e785df51204ce13d4d5377a52ecc7b9ff9e2e481b666b6007ac0",
-    "outcome": "PARIVISION",
-    "title": "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpick World Championship Group B",
-    "slug": "cs2-prv-bb3-2026-10-15",
-    "value": 16.6995,
-    "timestamp": 1792086391
-  },
-  {
-    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
-    "conditionId": "0x9638e1e7530caa8232980f57ef2bf36bac5900e7a9348d78854c5e82d98d658e",
-    "outcome": "No",
-    "title": "Will Real Sociedad de F\u00fatbol win on 2026-10-15?",
-    "slug": "uel-usg-rso-2026-10-15",
-    "value": 3.9000000000000004,
-    "timestamp": 1792086644
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xe93aeb28960ed6fbcdb5ead732299036b482f347176c2515366f6a4abf2a22fa",
-    "outcome": "Yes",
-    "title": "Will FK Jablonec win on 2026-10-15?",
-    "slug": "col-scf-jab-2026-10-15",
-    "value": 8.04,
-    "timestamp": 1792086385
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xe93aeb28960ed6fbcdb5ead732299036b482f347176c2515366f6a4abf2a22fa",
-    "outcome": "Yes",
-    "title": "Will FK Jablonec win on 2026-10-15?",
-    "slug": "col-scf-jab-2026-10-15",
-    "value": 34.180000019999994,
-    "timestamp": 1792086391
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xf60b9217e0da3281f54adaf9ccf7a3647f026658de15d80461d25092bea5394e",
-    "outcome": "Yes",
-    "title": "Will SC Freiburg vs. FK Jablonec end in a draw?",
-    "slug": "col-scf-jab-2026-10-15",
-    "value": 0.0252,
-    "timestamp": 1792086452
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x749e184ebb97fd2a8c8d3997965139128fc97a218c584c4d401e36ef7020e6d5",
-    "outcome": "Over",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 7.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 713.700000048,
-    "timestamp": 1792086013
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 687.395599982289,
-    "timestamp": 1792086013
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x2049b5209e72f335a85008b1af074ae133ae90c9c72367184157b133f21bcc2b",
-    "outcome": "Yes",
-    "title": "Will R\u012bga FC win on 2026-10-15?",
-    "slug": "col-rfc1-kai-2026-10-15",
-    "value": 4.6000000000000005,
-    "timestamp": 1792086656
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0xa072c2d838b478319df6f34db29a6087819e7baaeccb028d85f7616aace29b37",
-    "outcome": "No",
-    "title": "Will Lillestr\u00f8m SK win on 2026-10-15?",
-    "slug": "uel-spp-lil1-2026-10-15",
-    "value": 303.48999601534825,
-    "timestamp": 1792086656
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x9638e1e7530caa8232980f57ef2bf36bac5900e7a9348d78854c5e82d98d658e",
-    "outcome": "Yes",
-    "title": "Will Real Sociedad de F\u00fatbol win on 2026-10-15?",
-    "slug": "uel-usg-rso-2026-10-15",
-    "value": 356.75999998491613,
-    "timestamp": 1792086659
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x4062fda1272cdc37a30a3eab460f3a6259714b297450d260fdbcc34196bb5b2c",
-    "outcome": "No",
-    "title": "Will AS Om\u00f3noia Leukos\u00edas win on 2026-10-15?",
-    "slug": "uel-cel2-omo-2026-10-15",
-    "value": 40.499999997903224,
-    "timestamp": 1792086661
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x43bb20672d647e3b892bb7a08e716f9975f76c825a3a69b5d3aec6b49315723f",
-    "outcome": "Under",
-    "title": "Universitatea Craiova CS vs. Getafe CF: O/U 0.5",
-    "slug": "col-ucr-get-2026-10-15-more-markets",
-    "value": 22.670000001025713,
-    "timestamp": 1792086664
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0xf9b49cecd942be9e0469e13ec74b1146bd4d9a83417bad3c74be0b04bad64da5",
-    "outcome": "Lukas Neumayer",
-    "title": "Maia: Matej Dodig vs Lukas Neumayer",
-    "slug": "atp-dodig-neumaye-2026-10-15",
-    "value": 71.44999999378571,
-    "timestamp": 1792086664
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0xa033b7a1e43281fa853424921de2f2fb802606450303315c7329297c1d2fa923",
-    "outcome": "HNK Hajduk Split",
-    "title": "Spread: HNK Hajduk Split (-1.5)",
-    "slug": "col-haj-aja-2026-10-15-more-markets",
-    "value": 167.79,
-    "timestamp": 1792086667
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0xbebd36a63f396ebefe8c799aa54ac6d26dd10494ab8a38d2d0f7ceed425a0d67",
-    "outcome": "Yes",
-    "title": "Will FC Midtjylland win on 2026-10-15?",
-    "slug": "col-egn-mid-2026-10-15",
-    "value": 161.52000001363075,
-    "timestamp": 1792086667
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0xd196655b8aed8f915b155984cdb03eb2e5ab63d1b87d9303af84773bed77ea97",
-    "outcome": "Under",
-    "title": "KF Egnatia Rrogozhin\u00eb vs. FC Midtjylland: O/U 5.5",
-    "slug": "col-egn-mid-2026-10-15-more-markets",
-    "value": 48.50999600003847,
-    "timestamp": 1792086667
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x43bb20672d647e3b892bb7a08e716f9975f76c825a3a69b5d3aec6b49315723f",
-    "outcome": "Under",
-    "title": "Universitatea Craiova CS vs. Getafe CF: O/U 0.5",
-    "slug": "col-ucr-get-2026-10-15-more-markets",
-    "value": 13.100000001628569,
-    "timestamp": 1792086667
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0xd196655b8aed8f915b155984cdb03eb2e5ab63d1b87d9303af84773bed77ea97",
-    "outcome": "Under",
-    "title": "KF Egnatia Rrogozhin\u00eb vs. FC Midtjylland: O/U 5.5",
-    "slug": "col-egn-mid-2026-10-15-more-markets",
-    "value": 139.2599989987868,
-    "timestamp": 1792086673
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0xcd5a141230304d78e8a5cf81271443641e1976304e4a46d31362034992fa4031",
-    "outcome": "FK Borac Banja Luka",
-    "title": "Spread: Panathinaik\u00f3s AO (-2.5)",
-    "slug": "col-pao-bor-2026-10-15-more-markets",
-    "value": 266.2100000097593,
-    "timestamp": 1792086673
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x7328f55647649afb5a42e2f3c691ce0be01b434e920f9eb595152c3b42ed9de1",
-    "outcome": "Under",
-    "title": "Panathinaik\u00f3s AO vs. FK Borac Banja Luka: O/U 1.5",
-    "slug": "col-pao-bor-2026-10-15-more-markets",
-    "value": 12.990000000007694,
-    "timestamp": 1792086673
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x2dde9eb2693d1cc313c5240889868b04e2755a04f1a0b50f5f354429a59fe50a",
-    "outcome": "Yes",
-    "title": "Will Be\u015fikta\u015f JK win on 2026-10-15?",
-    "slug": "uel-hof-bes-2026-10-15",
-    "value": 1.3,
-    "timestamp": 1792086679
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x0c845123158c278d30f745b092c293ec3300d9a473632c699723bd2bf01aa78b",
-    "outcome": "Partizan",
-    "title": "Fenerbahce vs. Partizan",
-    "slug": "euroleague-fenerbah-partizan-2026-10-15",
-    "value": 14.109999997691665,
-    "timestamp": 1792086680
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0xc410a55127af0266c7927694c19814031c3afad76bfe45d7a2588dc27fed043d",
-    "outcome": "Under",
-    "title": "KAA Gent vs. Aarhus GF: O/U 1.5",
-    "slug": "col-gen-agf-2026-10-15-more-markets",
-    "value": 68.03000000330861,
-    "timestamp": 1792086680
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x546e84f5cb33e61e956b9364120ac5d10811ad0bbfa0b621446cf1f8f4e25d7d",
-    "outcome": "Over",
-    "title": "Stade Rennais FC 1901 vs. OFI: O/U 4.5",
-    "slug": "uel-ren1-ofi-2026-10-15-more-markets",
-    "value": 45.58,
-    "timestamp": 1792086682
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x793815e8628516f29709620fcafb8d79da6f8b9eccdbc3a81980eba46cf608d1",
-    "outcome": "No",
-    "title": "Will FC Barcelona win on 2026-10-25?",
-    "slug": "lal-bar-rea-2026-10-25",
-    "value": 117.8299999867206,
-    "timestamp": 1792086682
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x546e84f5cb33e61e956b9364120ac5d10811ad0bbfa0b621446cf1f8f4e25d7d",
-    "outcome": "Over",
-    "title": "Stade Rennais FC 1901 vs. OFI: O/U 4.5",
-    "slug": "uel-ren1-ofi-2026-10-15-more-markets",
-    "value": 67.8,
-    "timestamp": 1792086685
-  },
-  {
-    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
-    "conditionId": "0x6432b6e1dd456d85807e1e4d847f1e6cd1244222b2ccd15ef063d8ae0eaba090",
-    "outcome": "Universitatea Craiova CS",
-    "title": "Spread: Getafe CF (-2.5)",
-    "slug": "col-ucr-get-2026-10-15-more-markets",
-    "value": 391.84,
-    "timestamp": 1792086688
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x0c9ada12c527451fbdd43c0397a8a006b8aaf2a01567ae069d37220b51937595",
-    "outcome": "No",
-    "title": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-    "slug": "los-angeles-mayoral-election-117",
-    "value": 219.86999999021273,
-    "timestamp": 1792085935
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x1f5ac208ee96cd5b9fe98191b790df37abc287da716c5fb67d2d1f9394c80e3b",
-    "outcome": "No",
-    "title": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the October decision?",
-    "slug": "bank-of-israel-decision-in-october",
-    "value": 49.62999997324445,
-    "timestamp": 1792085962
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xc83beb58cfa110099ef6079f387c6e54bc1ec930c1176d911e6937af093975a7",
-    "outcome": "No",
-    "title": "Will the highest temperature in Panama City be 32\u00b0C on October 15?",
-    "slug": "highest-temperature-in-panama-city-on-october-15-2026",
-    "value": 10.180000000008041,
-    "timestamp": 1792086044
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x41c3fdc0417712eca34520a8262400605cf73958a6ee66956c12fa3a421a3eb0",
-    "outcome": "No",
-    "title": "Will the highest temperature in Toronto be 16\u00b0C or higher on October 16?",
-    "slug": "highest-temperature-in-toronto-on-october-16-2026",
-    "value": 1.6,
-    "timestamp": 1792086071
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x4447dc6ab61c50f386cbc6541e39672f520d6496dce2ce3df4df5aa8da6bba57",
-    "outcome": "Yes",
-    "title": "Will there be no Hormuz agreement or oil at least $80, and the Democrats win the Senate?",
-    "slug": "who-wins-the-senate-pending-hormuz-agreement-and-oil-below-80",
-    "value": 292.0,
-    "timestamp": 1792086134
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0x880c5e6c30995c348b5fee804b78b7f043ccef53215f65007426962ab0f502cf",
-    "outcome": "Yes",
-    "title": "Will the next Fable model (5.2+) be released on October 15, 2026?",
-    "slug": "next-fable-model-5pt2-released-onptptpt-20261002",
-    "value": 3.829999999,
-    "timestamp": 1792086334
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xa8f5826a677b427c90c55585c784b1998fe24ba7a11f2ce51d5e0476dc73daab",
-    "outcome": "Yes",
-    "title": "Will there be no next Fable model (5.2+) release by October 31, 2026?",
-    "slug": "next-fable-model-5pt2-released-onptptpt-20261002",
-    "value": 2.58,
-    "timestamp": 1792086425
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xa8f5826a677b427c90c55585c784b1998fe24ba7a11f2ce51d5e0476dc73daab",
-    "outcome": "Yes",
-    "title": "Will there be no next Fable model (5.2+) release by October 31, 2026?",
-    "slug": "next-fable-model-5pt2-released-onptptpt-20261002",
-    "value": 8.56999999698572,
-    "timestamp": 1792086427
-  },
-  {
-    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
-    "conditionId": "0xa8f5826a677b427c90c55585c784b1998fe24ba7a11f2ce51d5e0476dc73daab",
-    "outcome": "Yes",
-    "title": "Will there be no next Fable model (5.2+) release by October 31, 2026?",
-    "slug": "next-fable-model-5pt2-released-onptptpt-20261002",
-    "value": 3.680000000114283,
-    "timestamp": 1792086427
-  },
-  {
-    "wallet": "0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8",
-    "conditionId": "0x8d3404f5f59e31aee635fe97cbce42754aa7efef8023228e1df00339de8213ed",
-    "outcome": "No",
-    "title": "Will there be a Hormuz agreement and the Republicans win the Senate?",
-    "slug": "who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
-    "value": 7.77948,
-    "timestamp": 1792086082
-  },
-  {
-    "wallet": "0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8",
-    "conditionId": "0x0038a19c5f1633b76e9fe194ac391959811cceb05652ba5c6796e37f045e573f",
-    "outcome": "No",
-    "title": "US-Iran Hormuz Agreement by October 31?",
-    "slug": "us-iran-hormuz-agreement-byptptpt-20260803235957575",
-    "value": 2612.435840106432,
-    "timestamp": 1792086175
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xf0f30cd6dacc495934501770421a1e88df54e98dd2636bc7442fd5defe2ac201",
-    "outcome": "Saint Sinners",
-    "title": "Counter-Strike: WRAITH PCIFIC vs Saint Sinners (BO3) - CCT Europe Closed Qualifier: Series #12 Group B",
-    "slug": "cs2-wraith-ssins-2026-10-15",
-    "value": 2.9999999995175872,
-    "timestamp": 1792086113
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xf0f30cd6dacc495934501770421a1e88df54e98dd2636bc7442fd5defe2ac201",
-    "outcome": "Saint Sinners",
-    "title": "Counter-Strike: WRAITH PCIFIC vs Saint Sinners (BO3) - CCT Europe Closed Qualifier: Series #12 Group B",
-    "slug": "cs2-wraith-ssins-2026-10-15",
-    "value": 0.6072000000000001,
-    "timestamp": 1792086217
-  },
-  {
-    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
-    "conditionId": "0xf0f30cd6dacc495934501770421a1e88df54e98dd2636bc7442fd5defe2ac201",
-    "outcome": "Saint Sinners",
-    "title": "Counter-Strike: WRAITH PCIFIC vs Saint Sinners (BO3) - CCT Europe Closed Qualifier: Series #12 Group B",
-    "slug": "cs2-wraith-ssins-2026-10-15",
-    "value": 36.00000000129012,
-    "timestamp": 1792086287
-  },
-  {
-    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
     "conditionId": "0x8f10bdd4ce80aa2eb3f45e179bded9ab7dadb31465e472ed8312d8d5cc956575",
     "outcome": "No",
     "title": "Will Stade Rennais FC 1901 win on 2026-10-15?",
@@ -973,132 +181,6 @@
   },
   {
     "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0xa874323ee7c5d8edf62e2a80157c77e3d29b2f3599b8f72e2deccf9f7677a6a0",
-    "outcome": "Cloud9",
-    "title": "LoL: Cloud9 vs Karmine Corp - Game 1 Winner",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 2129.562,
-    "timestamp": 1792087183
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x777fe54ae979e9ea0a80fb61acc4d48cda4d46e8491057d4cbca6144d33ca327",
-    "outcome": "Yes",
-    "title": "Will Crystal Palace FC win on 2026-10-15?",
-    "slug": "uel-lyo-cry-2026-10-15",
-    "value": 0.5786,
-    "timestamp": 1792087441
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 2432.5198000000005,
-    "timestamp": 1792087651
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0xa33df5d1106bcf21314b590f0c89a5c06fcc3478372034ca228e79e5a6386b11",
-    "outcome": "Yes",
-    "title": "Will Sunderland AFC win on 2026-10-15?",
-    "slug": "uel-ut-sun-2026-10-15",
-    "value": 16049.030400000001,
-    "timestamp": 1792089560
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x26228fcdf41a62d6469ff4fcf586e028193f83d24d8bc44182859e0ab175e1cf",
-    "outcome": "Under",
-    "title": "SC Uni\u00e3o Torreense vs. Sunderland AFC: O/U 3.5",
-    "slug": "uel-ut-sun-2026-10-15-more-markets",
-    "value": 723.69558,
-    "timestamp": 1792089647
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0xa4201a8ffc244025acff1ff5d420895c54946587125819bf9831121b64a720e7",
-    "outcome": "BC.Game Esports",
-    "title": "Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D",
-    "slug": "cs2-mibr-bcg-2026-10-15-dh2",
-    "value": 2049.8532,
-    "timestamp": 1792090472
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 3.7,
-    "timestamp": 1792090903
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0xfcad20644d854c0586b57e72397167d3ea2ccef76dd9c664f00fec82b052e261",
-    "outcome": "No",
-    "title": "Will GNK Dinamo Zagreb win on 2026-10-15?",
-    "slug": "uel-din-and-2026-10-15",
-    "value": 23.0736,
-    "timestamp": 1792091522
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 4804.2411999999995,
-    "timestamp": 1792091842
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x47176fe2f96f215008d22862932bf6ddb227171f6de3dc1dc90291924cad4494",
-    "outcome": "Cloud9",
-    "title": "LoL: Cloud9 vs Karmine Corp - Game 2 Winner",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 3786.58,
-    "timestamp": 1792092158
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x305b623bd7de26a3f71a2ede4456a8412daf54d7d4534c56e9410d2379679ef2",
-    "outcome": "Juliette Mazzoni",
-    "title": "W35 Heraklion: Juliette Mazzoni vs Miriam Bianca Bulgaru",
-    "slug": "itf-mazzon1-bulgar1-2026-10-14",
-    "value": 5923.866000133752,
-    "timestamp": 1792092563
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0xbe764916b70c1547b97d10d45f2876bf42934533723091d83a5377a1e9b6f2ee",
-    "outcome": "Yes",
-    "title": "Will Ferencv\u00e1rosi TC win on 2026-10-15?",
-    "slug": "uel-ftc-plz-2026-10-15",
-    "value": 52.0,
-    "timestamp": 1792092613
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x80ae0affc2f92acee8b7f3f84894fb49167e56d7d222c7a0467d91b5df74e295",
-    "outcome": "FURIA",
-    "title": "Counter-Strike: Legacy vs FURIA - Map 1 Winner",
-    "slug": "cs2-lgc-furia-2026-10-15",
-    "value": 3105.3615,
-    "timestamp": 1792092697
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 598.9648,
-    "timestamp": 1792092865
-  },
-  {
-    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
     "conditionId": "0x47176fe2f96f215008d22862932bf6ddb227171f6de3dc1dc90291924cad4494",
     "outcome": "Karmine Corp",
     "title": "LoL: Cloud9 vs Karmine Corp - Game 2 Winner",
@@ -1132,24 +214,6 @@
     "slug": "uel-cel1-juv-2026-10-15",
     "value": 9874.568970273804,
     "timestamp": 1792097538
-  },
-  {
-    "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-    "conditionId": "0xa33df5d1106bcf21314b590f0c89a5c06fcc3478372034ca228e79e5a6386b11",
-    "outcome": "Yes",
-    "title": "Will Sunderland AFC win on 2026-10-15?",
-    "slug": "uel-ut-sun-2026-10-15",
-    "value": 50.009999996887935,
-    "timestamp": 1792089196
-  },
-  {
-    "wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
-    "conditionId": "0xe8cfb63f257059ac6ef6de4909cfbb0c810df7a24e04e10d0ad4b89c1e1f5204",
-    "outcome": "Legacy",
-    "title": "Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B",
-    "slug": "cs2-lgc-furia-2026-10-15",
-    "value": 15000.000000330001,
-    "timestamp": 1792089812
   },
   {
     "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
@@ -1513,60 +577,6 @@
   },
   {
     "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa",
-    "outcome": "Yes",
-    "title": "Will Bitcoin dip to $77,500 in October?",
-    "slug": "what-price-will-bitcoin-hit-in-october-2026",
-    "value": 72.58999999015334,
-    "timestamp": 1792088054
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa",
-    "outcome": "Yes",
-    "title": "Will Bitcoin dip to $77,500 in October?",
-    "slug": "what-price-will-bitcoin-hit-in-october-2026",
-    "value": 3311.974400319604,
-    "timestamp": 1792088318
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x99df4b5c0b642df73fb6550249d66828e01e0ad215e03d6087230ef741dd52ba",
-    "outcome": "Yes",
-    "title": "Will Ethereum reach $2,500 in October?",
-    "slug": "what-price-will-ethereum-hit-in-october-2026",
-    "value": 169.60000000212,
-    "timestamp": 1792089842
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x887c0241c04f0f44a65507bfb214618988481f7335fd9f70f9b1f787a0b0b1e9",
-    "outcome": "Yes",
-    "title": "Will the price of Ethereum be above $2,600 on October 16?",
-    "slug": "ethereum-above-on-october-16-2026",
-    "value": 14.086599991480002,
-    "timestamp": 1792091095
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x5efc792583ed760c4cd710bef57236e005a632f9bb16d58d58d99fbdd632efce",
-    "outcome": "No",
-    "title": "Will Bitcoin reach $92,500 in October?",
-    "slug": "what-price-will-bitcoin-hit-in-october-2026",
-    "value": 3551.9375,
-    "timestamp": 1792091381
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
-    "conditionId": "0x344c04442a0e545be4d8e4fd1895254b16d5efcc0b0f8e2f168a489e6dc2b3e8",
-    "outcome": "Yes",
-    "title": "Will Ethereum reach $2,700 in October?",
-    "slug": "what-price-will-ethereum-hit-in-october-2026",
-    "value": 234.60999999999999,
-    "timestamp": 1792092094
-  },
-  {
-    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
     "conditionId": "0x887c0241c04f0f44a65507bfb214618988481f7335fd9f70f9b1f787a0b0b1e9",
     "outcome": "Yes",
     "title": "Will the price of Ethereum be above $2,600 on October 16?",
@@ -1582,24 +592,6 @@
     "slug": "ethereum-above-on-october-16-2026",
     "value": 16.540000016547804,
     "timestamp": 1792096091
-  },
-  {
-    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
-    "conditionId": "0xc319b7d19db531cc08ed13ac1c28933fbb25b67756a2d10bfda870a42504905f",
-    "outcome": "Guido Justo",
-    "title": "Santa Cruz 2: Guido Justo vs Juan Manuel La Serna",
-    "slug": "atp-justo-serna-2026-10-14",
-    "value": 496.8,
-    "timestamp": 1792088915
-  },
-  {
-    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
-    "conditionId": "0xf9b49cecd942be9e0469e13ec74b1146bd4d9a83417bad3c74be0b04bad64da5",
-    "outcome": "Lukas Neumayer",
-    "title": "Maia: Matej Dodig vs Lukas Neumayer",
-    "slug": "atp-dodig-neumaye-2026-10-15",
-    "value": 0.5082,
-    "timestamp": 1792089599
   },
   {
     "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
@@ -1792,15 +784,6 @@
   },
   {
     "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
-    "conditionId": "0x6dd9758e39e61f829680821efaf19bd4b6c5a70551b4e058d5f262a428c9e2cd",
-    "outcome": "Up",
-    "title": "Ethereum Up or Down - October 15, 12:00PM-4:00PM ET",
-    "slug": "eth-updown-4h-1792080000",
-    "value": 0.8742,
-    "timestamp": 1792089812
-  },
-  {
-    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
     "conditionId": "0x0aa6bf097590c11a3ca6e4baef78a5ddaf6fc439e2d4b469ddb0c36d3af7b160",
     "outcome": "Up",
     "title": "Bitcoin Up or Down - October 15, 12:00PM-4:00PM ET",
@@ -1879,69 +862,6 @@
     "slug": "what-price-will-bitcoin-hit-in-october-2026",
     "value": 1800.0,
     "timestamp": 1792097771
-  },
-  {
-    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-    "conditionId": "0xa4201a8ffc244025acff1ff5d420895c54946587125819bf9831121b64a720e7",
-    "outcome": "BC.Game Esports",
-    "title": "Counter-Strike: MIBR vs BC.Game Esports (BO3) - Stake Pulse Beat III Group D",
-    "slug": "cs2-mibr-bcg-2026-10-15-dh2",
-    "value": 1276.6141,
-    "timestamp": 1792088012
-  },
-  {
-    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-    "conditionId": "0xa874323ee7c5d8edf62e2a80157c77e3d29b2f3599b8f72e2deccf9f7677a6a0",
-    "outcome": "Cloud9",
-    "title": "LoL: Cloud9 vs Karmine Corp - Game 1 Winner",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 762.73949998327,
-    "timestamp": 1792089095
-  },
-  {
-    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-    "conditionId": "0xa874323ee7c5d8edf62e2a80157c77e3d29b2f3599b8f72e2deccf9f7677a6a0",
-    "outcome": "Cloud9",
-    "title": "LoL: Cloud9 vs Karmine Corp - Game 1 Winner",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 720.0,
-    "timestamp": 1792089194
-  },
-  {
-    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-    "conditionId": "0xa874323ee7c5d8edf62e2a80157c77e3d29b2f3599b8f72e2deccf9f7677a6a0",
-    "outcome": "Cloud9",
-    "title": "LoL: Cloud9 vs Karmine Corp - Game 1 Winner",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 38.840399999999995,
-    "timestamp": 1792089215
-  },
-  {
-    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
-    "conditionId": "0xa874323ee7c5d8edf62e2a80157c77e3d29b2f3599b8f72e2deccf9f7677a6a0",
-    "outcome": "Cloud9",
-    "title": "LoL: Cloud9 vs Karmine Corp - Game 1 Winner",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 327.24719999999996,
-    "timestamp": 1792089235
-  },
-  {
-    "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
-    "conditionId": "0x93fc7c6516bf347c566a3860da34e97f98413081e1b6306332fab90f7d405369",
-    "outcome": "No",
-    "title": "US-Iran Final Nuclear Deal by October 31, 2026?",
-    "slug": "us-iran-final-nuclear-deal-by-20260621201254412",
-    "value": 499.7696,
-    "timestamp": 1792091413
-  },
-  {
-    "wallet": "0x9cb990f1862568a63d8601efeebe0304225c32f2",
-    "conditionId": "0xe8cfb63f257059ac6ef6de4909cfbb0c810df7a24e04e10d0ad4b89c1e1f5204",
-    "outcome": "Legacy",
-    "title": "Counter-Strike: Legacy vs FURIA (BO3) - Thunderpick World Championship Group B",
-    "slug": "cs2-lgc-furia-2026-10-15",
-    "value": 5940.0,
-    "timestamp": 1792088107
   },
   {
     "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
@@ -2170,354 +1090,12 @@
   },
   {
     "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
-    "conditionId": "0x6573df640e00068cdc6fedc4aab7eab35b61ff792a57fac093ccc073533c1336",
-    "outcome": "Yes",
-    "title": "Will \"Grand Theft Auto VI Launch Trailer\" get at least 20 million views on day 1?",
-    "slug": "of-views-of-grand-theft-auto-vi-launch-trailer-on-day-1-lower-strikes",
-    "value": 453.66329997816,
-    "timestamp": 1792090222
-  },
-  {
-    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
-    "conditionId": "0xa4948d9aae66904af0ef4ce219b2fa60516be1174081ee8d67191cc0aceeea2e",
-    "outcome": "Yes",
-    "title": "Will \"Grand Theft Auto VI Launch Trailer\" get between 20 and 40 million views on day 1?",
-    "slug": "of-views-of-grand-theft-auto-vi-launch-trailer-on-day-1",
-    "value": 287.1,
-    "timestamp": 1792090885
-  },
-  {
-    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
     "conditionId": "0x9841f98ef43863279f2a7affd3b2d258c3b86b526f5f8ba23ec3677128beb268",
     "outcome": "No",
     "title": "US x Iran ceasefire continues through October 16?",
     "slug": "us-iran-ceasefire-continues-throughptptpt",
     "value": 27.2892,
     "timestamp": 1792097040
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 595.68,
-    "timestamp": 1792089245
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x77db2e0578b29ddbb23e2a84fc6d45966440a1b9c7215a973ad97ff58f9510e9",
-    "outcome": "Tampa Bay Rays",
-    "title": "Spread: Cleveland Guardians (-2.5)",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 80.0,
-    "timestamp": 1792089679
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x4e4749d006aad036a0cc1c3ef6cbb8773417f629c7b8a229508eb976206abed4",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 162.96,
-    "timestamp": 1792089959
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 54.2716,
-    "timestamp": 1792090973
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 6.32,
-    "timestamp": 1792091024
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 8.631,
-    "timestamp": 1792091384
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 6.32,
-    "timestamp": 1792091909
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1622fb3cd51d96756fd9ae31afc15b8089e9e210d69129f27cea4bb08a258ba1",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 5.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 0.4692,
-    "timestamp": 1792091917
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1622fb3cd51d96756fd9ae31afc15b8089e9e210d69129f27cea4bb08a258ba1",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 5.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 16.560000000000002,
-    "timestamp": 1792091917
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 8.191799999999999,
-    "timestamp": 1792091917
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 81.8299999879434,
-    "timestamp": 1792091947
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x4e4749d006aad036a0cc1c3ef6cbb8773417f629c7b8a229508eb976206abed4",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 460.0,
-    "timestamp": 1792092026
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x749e184ebb97fd2a8c8d3997965139128fc97a218c584c4d401e36ef7020e6d5",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 7.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 730.0,
-    "timestamp": 1792092026
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x7a9f2cd9e47f95c86acdee65784e2fcee4996e6f66484b0e8aab021310fe5d7d",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 8.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 830.0,
-    "timestamp": 1792092026
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 1104.390599930026,
-    "timestamp": 1792092028
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 22.243300000948,
-    "timestamp": 1792092031
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x4e4749d006aad036a0cc1c3ef6cbb8773417f629c7b8a229508eb976206abed4",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 8.6700000002,
-    "timestamp": 1792092412
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 162.68619999999999,
-    "timestamp": 1792092412
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x4e4749d006aad036a0cc1c3ef6cbb8773417f629c7b8a229508eb976206abed4",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 444.1399999999081,
-    "timestamp": 1792092658
-  },
-  {
-    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
-    "conditionId": "0x4e4749d006aad036a0cc1c3ef6cbb8773417f629c7b8a229508eb976206abed4",
-    "outcome": "Under",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 0.9029999999999999,
-    "timestamp": 1792092658
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x9b91b5a77628657baf35b64c0ed0fad8124bea366579797506f4177060cdaba9",
-    "outcome": "No",
-    "title": "Will Olympiak\u00f3s SFP win on 2026-10-15?",
-    "slug": "uel-olm-oly-2026-10-15",
-    "value": 707.1400000132667,
-    "timestamp": 1792086737
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x9b91b5a77628657baf35b64c0ed0fad8124bea366579797506f4177060cdaba9",
-    "outcome": "No",
-    "title": "Will Olympiak\u00f3s SFP win on 2026-10-15?",
-    "slug": "uel-olm-oly-2026-10-15",
-    "value": 126.77999899863809,
-    "timestamp": 1792086739
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x639b7177ada14174799250d5f1c8ea9e96ea683eda3ec1d53e67b96b3ccbb76d",
-    "outcome": "Yes",
-    "title": "Will Atalanta BC vs. P\u00e1fos FC end in a draw?",
-    "slug": "col-ata-paf-2026-10-15",
-    "value": 0.0288,
-    "timestamp": 1792086907
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x9b91b5a77628657baf35b64c0ed0fad8124bea366579797506f4177060cdaba9",
-    "outcome": "No",
-    "title": "Will Olympiak\u00f3s SFP win on 2026-10-15?",
-    "slug": "uel-olm-oly-2026-10-15",
-    "value": 281.41000000383383,
-    "timestamp": 1792086913
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xe09cf2c7a4228105c20e1b18f4c070f050707e89fad5593ca9f22e581808e484",
-    "outcome": "Yes",
-    "title": "Will OFI win on 2026-10-15?",
-    "slug": "uel-ren1-ofi-2026-10-15",
-    "value": 16.28999999672857,
-    "timestamp": 1792087160
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xe09cf2c7a4228105c20e1b18f4c070f050707e89fad5593ca9f22e581808e484",
-    "outcome": "Yes",
-    "title": "Will OFI win on 2026-10-15?",
-    "slug": "uel-ren1-ofi-2026-10-15",
-    "value": 165.55,
-    "timestamp": 1792087160
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xe09cf2c7a4228105c20e1b18f4c070f050707e89fad5593ca9f22e581808e484",
-    "outcome": "Yes",
-    "title": "Will OFI win on 2026-10-15?",
-    "slug": "uel-ren1-ofi-2026-10-15",
-    "value": 31.44000001508571,
-    "timestamp": 1792087160
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xe09cf2c7a4228105c20e1b18f4c070f050707e89fad5593ca9f22e581808e484",
-    "outcome": "Yes",
-    "title": "Will OFI win on 2026-10-15?",
-    "slug": "uel-ren1-ofi-2026-10-15",
-    "value": 8.440000005885715,
-    "timestamp": 1792087162
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x174b68f1d674d9d7f209a38fc5ecbb002f02e557e7eabc488dbb6764c0d6d022",
-    "outcome": "OFI",
-    "title": "Spread: OFI (-1.5)",
-    "slug": "uel-ren1-ofi-2026-10-15-more-markets",
-    "value": 0.085,
-    "timestamp": 1792088005
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x1c9469918ba212e4763c61076927155aef53c440cd3a4691096e5f6fd262f4b5",
-    "outcome": "Yes",
-    "title": "Will Lincoln Red Imps FC win on 2026-10-15?",
-    "slug": "col-bra-lin-2026-10-15",
-    "value": 9.18,
-    "timestamp": 1792090027
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x75bf9da539af79e49f540aafe4c7a98274b28bffd3f601faf50d87b7bb3ad419",
-    "outcome": "No",
-    "title": "Will SK Brann vs. Lincoln Red Imps FC end in a draw?",
-    "slug": "col-bra-lin-2026-10-15",
-    "value": 0.07200000000000001,
-    "timestamp": 1792090058
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x1c9469918ba212e4763c61076927155aef53c440cd3a4691096e5f6fd262f4b5",
-    "outcome": "Yes",
-    "title": "Will Lincoln Red Imps FC win on 2026-10-15?",
-    "slug": "col-bra-lin-2026-10-15",
-    "value": 6.8100000000000005,
-    "timestamp": 1792090058
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0x1c9469918ba212e4763c61076927155aef53c440cd3a4691096e5f6fd262f4b5",
-    "outcome": "Yes",
-    "title": "Will Lincoln Red Imps FC win on 2026-10-15?",
-    "slug": "col-bra-lin-2026-10-15",
-    "value": 6.87,
-    "timestamp": 1792090091
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xfbf46b208b41241bd3d95c6236c6df468c80820ff04586810ad06e97fbe97dd7",
-    "outcome": "No",
-    "title": "Will FK Kauno \u017dalgiris win on 2026-10-15?",
-    "slug": "col-bha-kau-2026-10-15",
-    "value": 1028.659982,
-    "timestamp": 1792090556
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xfbf46b208b41241bd3d95c6236c6df468c80820ff04586810ad06e97fbe97dd7",
-    "outcome": "No",
-    "title": "Will FK Kauno \u017dalgiris win on 2026-10-15?",
-    "slug": "col-bha-kau-2026-10-15",
-    "value": 2056.269944004,
-    "timestamp": 1792090556
-  },
-  {
-    "wallet": "0x7ea571c40408f340c1c8fc8eaacebab53c1bde7b",
-    "conditionId": "0xfbf46b208b41241bd3d95c6236c6df468c80820ff04586810ad06e97fbe97dd7",
-    "outcome": "No",
-    "title": "Will FK Kauno \u017dalgiris win on 2026-10-15?",
-    "slug": "col-bha-kau-2026-10-15",
-    "value": 4642.6499030019995,
-    "timestamp": 1792090646
   },
   {
     "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
@@ -2698,15 +1276,6 @@
     "slug": "uel-din-and-2026-10-15",
     "value": 11.6,
     "timestamp": 1792097615
-  },
-  {
-    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
-    "conditionId": "0x14ed1b01f20e734c82b452623494cddd7cc96c11950999e37d8b8f256e374cbf",
-    "outcome": "Yes",
-    "title": "Will TSG 1899 Hoffenheim win on 2026-10-15?",
-    "slug": "uel-hof-bes-2026-10-15",
-    "value": 7650.0,
-    "timestamp": 1792089713
   },
   {
     "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
@@ -3025,33 +1594,6 @@
   },
   {
     "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
-    "conditionId": "0x4d3e76e05f493dd24153c27f5c5aeb1d3bf28a61680a7b97b8cea83d501d1a46",
-    "outcome": "Karmine Corp",
-    "title": "LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 1125.535399929598,
-    "timestamp": 1792092812
-  },
-  {
-    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
-    "conditionId": "0x4d3e76e05f493dd24153c27f5c5aeb1d3bf28a61680a7b97b8cea83d501d1a46",
-    "outcome": "Karmine Corp",
-    "title": "LoL: Cloud9 vs Karmine Corp (BO5) - Worlds Play-In",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 493.7010000000001,
-    "timestamp": 1792092859
-  },
-  {
-    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
-    "conditionId": "0x47176fe2f96f215008d22862932bf6ddb227171f6de3dc1dc90291924cad4494",
-    "outcome": "Karmine Corp",
-    "title": "LoL: Cloud9 vs Karmine Corp - Game 2 Winner",
-    "slug": "lol-c9-kc-2026-10-15",
-    "value": 464.99650007736005,
-    "timestamp": 1792092992
-  },
-  {
-    "wallet": "0xcf6c5492124794394dd9eac46498a8babbe47e66",
     "conditionId": "0x7f4fb51400e9b7911921fafe81ff5bf99faa979dcd0749e35195b4488b8be9c6",
     "outcome": "Antonia Ruzic",
     "title": "Rovereto: Antonia Ruzic vs Bianca Andreescu",
@@ -3346,105 +1888,6 @@
     "slug": "dota2-sbt-kt-2026-10-15",
     "value": 7.788500001249001,
     "timestamp": 1792097756
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 401.7,
-    "timestamp": 1792087439
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 231.07450001531,
-    "timestamp": 1792087765
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x421ea65242002cefef909b029a56ac0a3ba01dfade5b52a245dfdad549cb6f2b",
-    "outcome": "Florida State",
-    "title": "Spread: Miami (FL) (-21.5)",
-    "slug": "cfb-flst-mia-2026-10-17",
-    "value": 63.2451,
-    "timestamp": 1792090157
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x2b45dfc9073482a0b3bbfbfe60839dc0a8f1c04c66dcd63dd456604598c86ad5",
-    "outcome": "North Carolina",
-    "title": "Spread: Duke (-3.5)",
-    "slug": "cfb-ncar-duke-2026-10-17",
-    "value": 185.60070000000002,
-    "timestamp": 1792090568
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0xb58c311c54ccb201a75de3d85b293ee16bae75b37c7f7e9b0cb423e12f863409",
-    "outcome": "North Carolina",
-    "title": "North Carolina vs. Duke",
-    "slug": "cfb-ncar-duke-2026-10-17",
-    "value": 8543.0101,
-    "timestamp": 1792090615
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Tampa Bay Rays",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 15.0,
-    "timestamp": 1792090906
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x41678fc5edcfe4575a191cc95c47431ecd55c78c6e1e8f0cdb82393f86d9572a",
-    "outcome": "Over",
-    "title": "Estudiantes de La Plata vs. CR Flamengo: O/U 1.5",
-    "slug": "lib-est-fla-2026-10-15-more-markets",
-    "value": 126.996,
-    "timestamp": 1792091425
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x41678fc5edcfe4575a191cc95c47431ecd55c78c6e1e8f0cdb82393f86d9572a",
-    "outcome": "Over",
-    "title": "Estudiantes de La Plata vs. CR Flamengo: O/U 1.5",
-    "slug": "lib-est-fla-2026-10-15-more-markets",
-    "value": 327.996,
-    "timestamp": 1792091425
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x41678fc5edcfe4575a191cc95c47431ecd55c78c6e1e8f0cdb82393f86d9572a",
-    "outcome": "Over",
-    "title": "Estudiantes de La Plata vs. CR Flamengo: O/U 1.5",
-    "slug": "lib-est-fla-2026-10-15-more-markets",
-    "value": 87.996,
-    "timestamp": 1792091426
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 14.9942,
-    "timestamp": 1792091972
-  },
-  {
-    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
-    "conditionId": "0x1e5e847ee11f2a221fa3b9aac3d0a843c9e54a56c810dbaea8e32249790ec5b1",
-    "outcome": "Cleveland Guardians",
-    "title": "Tampa Bay Rays vs. Cleveland Guardians",
-    "slug": "mlb-tb-cle-2026-10-15",
-    "value": 102.6307,
-    "timestamp": 1792091972
   },
   {
     "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
@@ -6028,5 +4471,3038 @@
     "slug": "us-files-ilhan-omar-denaturalization-case-byptptpt",
     "value": 4.8,
     "timestamp": 1792103325
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x8c74835212fc7ad871dfe338c6796113f427662b574ba40ff9fbe166577dd279",
+    "outcome": "Georgia Southern",
+    "title": "Spread: Georgia Southern (-3.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 92.0,
+    "timestamp": 1792107498
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x905f787af7927e82e60b22ad87d30795b2bcb51073502d9283e34a4c1c77ab98",
+    "outcome": "Georgia Southern",
+    "title": "Spread: Georgia Southern (-4.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 0.3318,
+    "timestamp": 1792107642
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x6c220d602aeea7027985551d793e252aaf71743a4f566f9e67ace642441aab6e",
+    "outcome": "Devils",
+    "title": "Rangers vs. Devils",
+    "slug": "nhl-nyr-nj-2026-10-15",
+    "value": 81.4914,
+    "timestamp": 1792107675
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x6df0f334471dd95bc67ce07887c3c5c65d12b8d09a46896f4aaf611a74576beb",
+    "outcome": "East Carolina",
+    "title": "Spread: East Carolina (-7.5)",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 81.9,
+    "timestamp": 1792108711
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x4473e0a62236ca61186293dbcf24651644902934aba8b1ad4e91fa4aa5b96396",
+    "outcome": "Over",
+    "title": "Colorado State vs. Texas State: O/U 69.5",
+    "slug": "cfb-colst-txst-2026-10-15",
+    "value": 205.79999999999998,
+    "timestamp": 1792108951
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xe079eb8bfbd5bf0e6167b285322f71e9d286b6ef34e860fdb9ea14c54fac807d",
+    "outcome": "Colorado State",
+    "title": "Spread: Texas State (-16.5)",
+    "slug": "cfb-colst-txst-2026-10-15",
+    "value": 1904.0000000000002,
+    "timestamp": 1792109109
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x412a643b651983c17f8866096c46ef85aed70cf6420780d5d95b3b67b514f86e",
+    "outcome": "Over",
+    "title": "CA Hurac\u00e1n vs. Gimnasia y Esgrima de La Plata: O/U 2.5",
+    "slug": "arg-cah-gim-2026-10-15-more-markets",
+    "value": 140.7,
+    "timestamp": 1792109398
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x51cd404530189f5a21bd0e6626c5d12b655e09346db5a7029391f3e6414f6836",
+    "outcome": "Under",
+    "title": "East Carolina vs. UAB: O/U 51.5",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 352.0,
+    "timestamp": 1792109584
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 3.96,
+    "timestamp": 1792110063
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x7acd9eff7366d72a9575f25d107287bbd67ee1e578198bdff880ee5a73836655",
+    "outcome": "East Carolina",
+    "title": "East Carolina vs. UAB",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 782.0,
+    "timestamp": 1792110076
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xa4477f5f7fe81699b162492181a425d69de1adb1a6831ea695381cfa276596ba",
+    "outcome": "Seahawks",
+    "title": "Spread: Seahawks (-2.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 583.2,
+    "timestamp": 1792110624
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xa4477f5f7fe81699b162492181a425d69de1adb1a6831ea695381cfa276596ba",
+    "outcome": "Seahawks",
+    "title": "Spread: Seahawks (-2.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 69.5142,
+    "timestamp": 1792110627
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x918d1e52b7c432062344267b92df917e9494392dbd11f113d6b4d552b7e416c8",
+    "outcome": "Georgia Southern",
+    "title": "Spread: Georgia Southern (-6.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 278.4,
+    "timestamp": 1792110838
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x918d1e52b7c432062344267b92df917e9494392dbd11f113d6b4d552b7e416c8",
+    "outcome": "Georgia Southern",
+    "title": "Spread: Georgia Southern (-6.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 777.6,
+    "timestamp": 1792110844
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0x084202293de9daa241d05208e0493f4ceb8b6072908b43376fb4f5d7425f7a08",
+    "outcome": "Jets",
+    "title": "Jets vs. Blackhawks",
+    "slug": "nhl-wpg-chi-2026-10-15",
+    "value": 285.0,
+    "timestamp": 1792111239
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xb3944d577d7413ff87abd1053cb717d623df9b7bad96ddbdb339b20026eb51f4",
+    "outcome": "Yes",
+    "title": "Will Gimnasia y Esgrima de La Plata win on 2026-10-15?",
+    "slug": "arg-cah-gim-2026-10-15",
+    "value": 51.00000001109999,
+    "timestamp": 1792111836
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xdafd27b546786688655717c3ee5207efdc4c3bddfb19598830181f6814315ced",
+    "outcome": "No",
+    "title": "Will CA Hurac\u00e1n win on 2026-10-15?",
+    "slug": "arg-cah-gim-2026-10-15",
+    "value": 985.6,
+    "timestamp": 1792111974
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xfd7caa856190be1e2d2a41d6ec92346b507dd031dfed9da3fabedd61b41fecef",
+    "outcome": "Broncos",
+    "title": "Spread: Broncos (-14.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 16.0,
+    "timestamp": 1792112092
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xac8352c1676084ddb2560e5d16e68b6a800b3a39745f2b94dbab78c40b4f8a84",
+    "outcome": "Under",
+    "title": "Utah vs. Oilers: O/U 5.5",
+    "slug": "nhl-utah-edm-2026-10-15",
+    "value": 81.0,
+    "timestamp": 1792113372
+  },
+  {
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "conditionId": "0xa4477f5f7fe81699b162492181a425d69de1adb1a6831ea695381cfa276596ba",
+    "outcome": "Broncos",
+    "title": "Spread: Seahawks (-2.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 122.99999999999999,
+    "timestamp": 1792113705
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "conditionId": "0x2bea5dd3bddb45368dfbb8c5e69e727e376604da9fe1c078e9efd7be5c707671",
+    "outcome": "Broncos",
+    "title": "Spread: Seahawks (-0.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 8886.011199999999,
+    "timestamp": 1792107774
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 286416.16959999996,
+    "timestamp": 1792109652
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 35046.1672,
+    "timestamp": 1792109652
+  },
+  {
+    "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 172864.21240000002,
+    "timestamp": 1792109682
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x885bd53f5163b582875ac80e65bbf6e1b33f42daf0acad391891976e61dc5709",
+    "outcome": "Panthers",
+    "title": "Canucks vs. Panthers",
+    "slug": "nhl-van-fla-2026-10-15",
+    "value": 403.59239999999994,
+    "timestamp": 1792107937
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Knicks",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 6632.399200000001,
+    "timestamp": 1792108153
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Georgia Southern",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 6715.3186000000005,
+    "timestamp": 1792108455
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Raptors",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 314.28,
+    "timestamp": 1792109488
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 42.10080000000001,
+    "timestamp": 1792109704
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xa4477f5f7fe81699b162492181a425d69de1adb1a6831ea695381cfa276596ba",
+    "outcome": "Seahawks",
+    "title": "Spread: Seahawks (-2.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 91.3665,
+    "timestamp": 1792109803
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xbdbd0b7a9d7af2c7b2eab959b61c8c7e7f31ccb25aedc7fd9041520921f21024",
+    "outcome": "Seahawks",
+    "title": "Spread: Seahawks (-3.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 4.2,
+    "timestamp": 1792109871
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Raptors",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 3471.2125,
+    "timestamp": 1792110595
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 101812.23599999999,
+    "timestamp": 1792110633
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Los Angeles Dodgers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 201.29999999999998,
+    "timestamp": 1792110694
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Thunder",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 49.44500000000001,
+    "timestamp": 1792111510
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 2654.1862,
+    "timestamp": 1792111632
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xa4477f5f7fe81699b162492181a425d69de1adb1a6831ea695381cfa276596ba",
+    "outcome": "Broncos",
+    "title": "Spread: Seahawks (-2.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 12938.9601,
+    "timestamp": 1792111642
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Rockets",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 47.38,
+    "timestamp": 1792111869
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 208.25310000000002,
+    "timestamp": 1792111981
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 3783.0177,
+    "timestamp": 1792112034
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xf9dc468cdfbf78ae877ff6fcff47fe2f73e8c52da36c16319d43069e7f33f183",
+    "outcome": "Facundo Mena",
+    "title": "Santa Cruz 2: Nicolas Kicker vs Facundo Mena",
+    "slug": "atp-kicker-mena-2026-10-14",
+    "value": 2.9,
+    "timestamp": 1792112601
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Los Angeles Dodgers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 22072.3056,
+    "timestamp": 1792114318
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 647.9010999999999,
+    "timestamp": 1792114395
+  },
+  {
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "conditionId": "0x8a913d67ee541ff52a82777fea93ddfddd11d10d98296718df4792753ee09b5d",
+    "outcome": "Islanders",
+    "title": "Islanders vs. Senators",
+    "slug": "nhl-nyi-ott-2026-10-15",
+    "value": 4485.5658,
+    "timestamp": 1792114467
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 68.15000000399999,
+    "timestamp": 1792112553
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 272.58000001943844,
+    "timestamp": 1792112553
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 47.70999999843871,
+    "timestamp": 1792112556
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 62.93,
+    "timestamp": 1792112562
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 44.64,
+    "timestamp": 1792112568
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x14ca852937b3ce3fd05abe97ca39f09a6b04ecfe822d89031b4b4952b364280d",
+    "outcome": "Martin Borisiouk",
+    "title": "M25 Qian Daohu: Martin Borisiouk vs Kristjan Tamm",
+    "slug": "itf-borisi1-tamm1-2026-10-16",
+    "value": 49.16000000296111,
+    "timestamp": 1792112629
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x08aeaa86ecec9a12fb88acfaa86d3b6a6e36385d38e7f6a257b8126b258d82a2",
+    "outcome": "Under",
+    "title": "RC Deportivo A Coru\u00f1a vs. Levante UD: O/U 10.5 Total Corners",
+    "slug": "lal-dep-lev-2026-10-16-total-corners",
+    "value": 102.56999999318523,
+    "timestamp": 1792112787
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xcdcb864ca6a4bbf8ced271590e034092ba20aee714e0849812995115f439d774",
+    "outcome": "Guiomar Maristany",
+    "title": "Lisbon: Clara Burel vs Guiomar Maristany",
+    "slug": "wta-burel-marista-2026-10-16",
+    "value": 0.03,
+    "timestamp": 1792112926
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 26.0,
+    "timestamp": 1792112974
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 34.32,
+    "timestamp": 1792112976
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xd988f80259ef1017cccb6ef062b9bd00db6a3f0f81c05006fd41607a01a73976",
+    "outcome": "MVK Esports",
+    "title": "LoL: FURIA Esports vs MVK Esports - Game 3 Winner",
+    "slug": "lol-fur-mvk-2026-10-15",
+    "value": 5917.037199635456,
+    "timestamp": 1792113078
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x50813236c20c26663d6db193cdbc708b474416fe1db1ac4184062db178019ebf",
+    "outcome": "Over",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers: O/U 8.5",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 1945.1199999007508,
+    "timestamp": 1792113160
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xe0f7727d3f05d038618bc44f8cc2e14cefa02016b53805028e82070eb5c84a67",
+    "outcome": "Heat",
+    "title": "Heat vs. Magic",
+    "slug": "nba-mia-orl-2026-10-16",
+    "value": 114.12000000369231,
+    "timestamp": 1792113379
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 1095.4599999786576,
+    "timestamp": 1792113484
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xd988f80259ef1017cccb6ef062b9bd00db6a3f0f81c05006fd41607a01a73976",
+    "outcome": "MVK Esports",
+    "title": "LoL: FURIA Esports vs MVK Esports - Game 3 Winner",
+    "slug": "lol-fur-mvk-2026-10-15",
+    "value": 1754.3424,
+    "timestamp": 1792113724
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xd988f80259ef1017cccb6ef062b9bd00db6a3f0f81c05006fd41607a01a73976",
+    "outcome": "MVK Esports",
+    "title": "LoL: FURIA Esports vs MVK Esports - Game 3 Winner",
+    "slug": "lol-fur-mvk-2026-10-15",
+    "value": 71.839992,
+    "timestamp": 1792113730
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x41547b2c38e62f16216b26d7e3a38e12509ec8ab5b54876075b2cbae56a29040",
+    "outcome": "MVK Esports",
+    "title": "LoL: FURIA Esports vs MVK Esports (BO5) - Worlds Play-In",
+    "slug": "lol-fur-mvk-2026-10-15",
+    "value": 36.589988000999995,
+    "timestamp": 1792113733
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x28d5f08b49c0adff9dcd671214ab8b7cbd96947e337e5b067efc4aec7d55ee11",
+    "outcome": "Steven Koslow",
+    "title": "UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims)",
+    "slug": "ufc-cha14-ste12-2026-10-17",
+    "value": 83.68999999549834,
+    "timestamp": 1792113841
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0x28d5f08b49c0adff9dcd671214ab8b7cbd96947e337e5b067efc4aec7d55ee11",
+    "outcome": "Steven Koslow",
+    "title": "UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims)",
+    "slug": "ufc-cha14-ste12-2026-10-17",
+    "value": 78.69,
+    "timestamp": 1792113841
+  },
+  {
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "conditionId": "0xf9dc468cdfbf78ae877ff6fcff47fe2f73e8c52da36c16319d43069e7f33f183",
+    "outcome": "Nicolas Kicker",
+    "title": "Santa Cruz 2: Nicolas Kicker vs Facundo Mena",
+    "slug": "atp-kicker-mena-2026-10-14",
+    "value": 130.59999399824176,
+    "timestamp": 1792114018
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Old Dominion",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 999.99000016,
+    "timestamp": 1792111450
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Old Dominion",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 420.63340000000005,
+    "timestamp": 1792111458
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x01fbdb4c2753d61aac3995a5ffe63a42297073f44c6d1d21b75ca63179955732",
+    "outcome": "Under",
+    "title": "East Carolina vs. UAB: O/U 47.5",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 286.1311,
+    "timestamp": 1792111468
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0xcff1910b258188b81aa5a826cdf40404109dffb8a439f60877b85e0925c9d4ff",
+    "outcome": "Seahawks",
+    "title": "Spread: Seahawks (-4.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 166.47,
+    "timestamp": 1792112232
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x309dfd646a43aefc92427b350f74ff9c4746bfd5afe5bd0df08682fb54630849",
+    "outcome": "Over",
+    "title": "Seahawks vs. Broncos: O/U 44.5",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 121.2200000049,
+    "timestamp": 1792112232
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 2999.9900000899997,
+    "timestamp": 1792112232
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0xbdbd0b7a9d7af2c7b2eab959b61c8c7e7f31ccb25aedc7fd9041520921f21024",
+    "outcome": "Seahawks",
+    "title": "Spread: Seahawks (-3.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 177.2529,
+    "timestamp": 1792112232
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0xa4477f5f7fe81699b162492181a425d69de1adb1a6831ea695381cfa276596ba",
+    "outcome": "Seahawks",
+    "title": "Spread: Seahawks (-2.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 1737.575300056064,
+    "timestamp": 1792112232
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x83d7c36773f67404b73859b5854c8c113f2b480105f15d6791339e0a2dc79400",
+    "outcome": "Over",
+    "title": "Seahawks vs. Broncos: O/U 48.5",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 130.0,
+    "timestamp": 1792112232
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x780b957872a7ce472e07577497b4d6cd0ea7206e1235cb9e6cff4ce6210d3beb",
+    "outcome": "Seahawks",
+    "title": "Spread: Broncos (-1.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 129.0224,
+    "timestamp": 1792112232
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x573899e95ac5cae28d13b9e4b809dc7c92ba2e98455860e3c114d8f3da68a5d2",
+    "outcome": "Seahawks",
+    "title": "Spread: Broncos (-2.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 862.9390000000001,
+    "timestamp": 1792112232
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x3226a27c4aeb3aa2e436418f0bd992afa945b95a10e87d4c86b71974c765ce86",
+    "outcome": "Seahawks",
+    "title": "Spread: Seahawks (-1.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 224.94,
+    "timestamp": 1792112233
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x01fbdb4c2753d61aac3995a5ffe63a42297073f44c6d1d21b75ca63179955732",
+    "outcome": "Under",
+    "title": "East Carolina vs. UAB: O/U 47.5",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 4123.0,
+    "timestamp": 1792112434
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 2055.2,
+    "timestamp": 1792113046
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x44b44ab8287de1c6383172fe1d6c88dedbaa759ce78a4d7d64b6ff570be4a3ee",
+    "outcome": "Broncos",
+    "title": "Spread: Broncos (-13.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 100.0,
+    "timestamp": 1792114279
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x7539d5da5b134c7489a3da481a0328c9eea4553cd4bbdde9de67053905e57aff",
+    "outcome": "Broncos",
+    "title": "Spread: Broncos (-4.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 540.0,
+    "timestamp": 1792114281
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 73.40520000000001,
+    "timestamp": 1792114281
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x01c5b244df71e3006efbc3dfa9661d29aae0a82ac3f43831e8c2ff6ac4370a0c",
+    "outcome": "Under",
+    "title": "Seahawks vs. Broncos: O/U 40.5",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 2081.63000001,
+    "timestamp": 1792114281
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0xa35c9531cf3134c646d5472415ab81bd32478e340bb16d87f86edb09786c02f5",
+    "outcome": "Broncos",
+    "title": "Spread: Broncos (-10.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 36.0383,
+    "timestamp": 1792114281
+  },
+  {
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "conditionId": "0x1aeffa67445ae8672ba6c9ca9287e43e044aa00b01a7f0be52e6000bee9e95fc",
+    "outcome": "Broncos",
+    "title": "Spread: Broncos (-7.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 18.04,
+    "timestamp": 1792114297
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Rockets",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 58.6466,
+    "timestamp": 1792111429
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Rockets",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 50.4,
+    "timestamp": 1792111435
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x41678fc5edcfe4575a191cc95c47431ecd55c78c6e1e8f0cdb82393f86d9572a",
+    "outcome": "Under",
+    "title": "Estudiantes de La Plata vs. CR Flamengo: O/U 1.5",
+    "slug": "lib-est-fla-2026-10-15-more-markets",
+    "value": 158.1,
+    "timestamp": 1792111779
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x41678fc5edcfe4575a191cc95c47431ecd55c78c6e1e8f0cdb82393f86d9572a",
+    "outcome": "Under",
+    "title": "Estudiantes de La Plata vs. CR Flamengo: O/U 1.5",
+    "slug": "lib-est-fla-2026-10-15-more-markets",
+    "value": 40.5132,
+    "timestamp": 1792111791
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x8aba156b8a32961f6f1e690ce78d7e30f67513032cb85cde629a0bdc9650f65d",
+    "outcome": "Under",
+    "title": "Estudiantes de La Plata vs. CR Flamengo: 1st Half O/U 0.5",
+    "slug": "lib-est-fla-2026-10-15-more-markets",
+    "value": 99.2,
+    "timestamp": 1792112107
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x8aba156b8a32961f6f1e690ce78d7e30f67513032cb85cde629a0bdc9650f65d",
+    "outcome": "Under",
+    "title": "Estudiantes de La Plata vs. CR Flamengo: 1st Half O/U 0.5",
+    "slug": "lib-est-fla-2026-10-15-more-markets",
+    "value": 96.0,
+    "timestamp": 1792112109
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x8aba156b8a32961f6f1e690ce78d7e30f67513032cb85cde629a0bdc9650f65d",
+    "outcome": "Under",
+    "title": "Estudiantes de La Plata vs. CR Flamengo: 1st Half O/U 0.5",
+    "slug": "lib-est-fla-2026-10-15-more-markets",
+    "value": 96.0,
+    "timestamp": 1792112112
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x8aba156b8a32961f6f1e690ce78d7e30f67513032cb85cde629a0bdc9650f65d",
+    "outcome": "Under",
+    "title": "Estudiantes de La Plata vs. CR Flamengo: 1st Half O/U 0.5",
+    "slug": "lib-est-fla-2026-10-15-more-markets",
+    "value": 54.034200000000006,
+    "timestamp": 1792112185
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Thunder",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 121.7964,
+    "timestamp": 1792112340
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Raptors",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 3157.0224,
+    "timestamp": 1792112949
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x6f2b182d844cdc116da1a2fca049c8b337c2a27d33dd4342b36a19394c5a0ba7",
+    "outcome": "Roncadelli/Zarate",
+    "title": "Santa Cruz 2 (Doubles): Hidalgo/Kestelboim vs Roncadelli/Zarate",
+    "slug": "atp-doubles-hidakes-ronczar-2026-10-15",
+    "value": 25.700000000000003,
+    "timestamp": 1792112968
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Rockets",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 79.26000000529118,
+    "timestamp": 1792113042
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Knicks",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 617.2628,
+    "timestamp": 1792113306
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x6f2b182d844cdc116da1a2fca049c8b337c2a27d33dd4342b36a19394c5a0ba7",
+    "outcome": "Roncadelli/Zarate",
+    "title": "Santa Cruz 2 (Doubles): Hidalgo/Kestelboim vs Roncadelli/Zarate",
+    "slug": "atp-doubles-hidakes-ronczar-2026-10-15",
+    "value": 65.7799999761,
+    "timestamp": 1792113484
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Raptors",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 275.52,
+    "timestamp": 1792113534
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x6a1968b60946f7cccbbbc591b21c0ccd597b128fff3a62295ee12e0be0e878cd",
+    "outcome": "Under",
+    "title": "Raptors vs. Knicks: O/U 225.5",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 63.699999999999996,
+    "timestamp": 1792113546
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x6a1968b60946f7cccbbbc591b21c0ccd597b128fff3a62295ee12e0be0e878cd",
+    "outcome": "Under",
+    "title": "Raptors vs. Knicks: O/U 225.5",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 75.20999999410826,
+    "timestamp": 1792113552
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Raptors",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 23.62000000295882,
+    "timestamp": 1792113832
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0x51f2d22e1ae93af12e4a122ee491136b277bb6340d301e7c882917b1c3b18698",
+    "outcome": "Raptors",
+    "title": "Spread: Knicks (-5.5)",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 47.85,
+    "timestamp": 1792113943
+  },
+  {
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "conditionId": "0xc6d4e4925971c56dd99ebb43b110c915688c29dd2a40417d01baa5c942b915c8",
+    "outcome": "Raptors",
+    "title": "Spread: Knicks (-2.5)",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 21.47,
+    "timestamp": 1792113945
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x99df4b5c0b642df73fb6550249d66828e01e0ad215e03d6087230ef741dd52ba",
+    "outcome": "Yes",
+    "title": "Will Ethereum reach $2,500 in October?",
+    "slug": "what-price-will-ethereum-hit-in-october-2026",
+    "value": 165.36,
+    "timestamp": 1792108264
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x99df4b5c0b642df73fb6550249d66828e01e0ad215e03d6087230ef741dd52ba",
+    "outcome": "Yes",
+    "title": "Will Ethereum reach $2,500 in October?",
+    "slug": "what-price-will-ethereum-hit-in-october-2026",
+    "value": 130.40000000163,
+    "timestamp": 1792109814
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0xa2b6d7061a0a88251b9422704ab71444fb4ec7631eba664fc0e8ceac8b60ce49",
+    "outcome": "Yes",
+    "title": "Will Ethereum dip to $2,300 in October?",
+    "slug": "what-price-will-ethereum-hit-in-october-2026",
+    "value": 2.55,
+    "timestamp": 1792112065
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0xa2b6d7061a0a88251b9422704ab71444fb4ec7631eba664fc0e8ceac8b60ce49",
+    "outcome": "Yes",
+    "title": "Will Ethereum dip to $2,300 in October?",
+    "slug": "what-price-will-ethereum-hit-in-october-2026",
+    "value": 1521.9252999999999,
+    "timestamp": 1792113487
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x72b78064ba9e662831229af46be5b11264cd6086087e7f6962e1b4b59355114c",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be above $2,300 on October 16?",
+    "slug": "ethereum-above-on-october-16-2026",
+    "value": 13.454150027505,
+    "timestamp": 1792114035
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0xdacba5ab87a27070e2525b44519413e9598f240b8f29439d404528ad83bbc517",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be above $2,400 on October 16?",
+    "slug": "ethereum-above-on-october-16-2026",
+    "value": 11.0,
+    "timestamp": 1792114068
+  },
+  {
+    "wallet": "0xf705fa045201391d9632b7f3cde06a5e24453ca7",
+    "conditionId": "0x94f623a9c9ac7e0caca65b1ab664e8158ebb8ec0c826b023ba98518967910755",
+    "outcome": "No",
+    "title": "Will Bitcoin reach $90,000 in October?",
+    "slug": "what-price-will-bitcoin-hit-in-october-2026",
+    "value": 7500.0,
+    "timestamp": 1792114069
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0x18fceb331f5ac3379b2eff57ddedd3a9073793d0b9b8da30909fd8bab255522d",
+    "outcome": "Li Tu",
+    "title": "M25 Austin, TX: Alastair Gray vs Li Tu",
+    "slug": "itf-gray1-tu1-2026-10-15",
+    "value": 1.33,
+    "timestamp": 1792107486
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Arina Bulatova",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 1.5,
+    "timestamp": 1792109092
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0xf9dc468cdfbf78ae877ff6fcff47fe2f73e8c52da36c16319d43069e7f33f183",
+    "outcome": "Nicolas Kicker",
+    "title": "Santa Cruz 2: Nicolas Kicker vs Facundo Mena",
+    "slug": "atp-kicker-mena-2026-10-14",
+    "value": 37.943599999999996,
+    "timestamp": 1792109401
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0xf9dc468cdfbf78ae877ff6fcff47fe2f73e8c52da36c16319d43069e7f33f183",
+    "outcome": "Nicolas Kicker",
+    "title": "Santa Cruz 2: Nicolas Kicker vs Facundo Mena",
+    "slug": "atp-kicker-mena-2026-10-14",
+    "value": 4.1,
+    "timestamp": 1792109739
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 3.55,
+    "timestamp": 1792110124
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0xf9dc468cdfbf78ae877ff6fcff47fe2f73e8c52da36c16319d43069e7f33f183",
+    "outcome": "Nicolas Kicker",
+    "title": "Santa Cruz 2: Nicolas Kicker vs Facundo Mena",
+    "slug": "atp-kicker-mena-2026-10-14",
+    "value": 190.652200003708,
+    "timestamp": 1792110538
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Arina Bulatova",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 4.8321000000000005,
+    "timestamp": 1792110691
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Arina Bulatova",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 3.6963,
+    "timestamp": 1792111254
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Arina Bulatova",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 1.5624,
+    "timestamp": 1792111404
+  },
+  {
+    "wallet": "0x7c1ee865a785de4c00ee90ed86a38489fb8bbab3",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Arina Bulatova",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 2.8390999999999997,
+    "timestamp": 1792113721
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Knicks",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 42.599999999999994,
+    "timestamp": 1792114191
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Raptors",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 15.5,
+    "timestamp": 1792114209
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Thunder",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 5.0,
+    "timestamp": 1792114212
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xa55563d6dcc3875fed844ac170c14f42969bf498f734acdae6de8117ba965894",
+    "outcome": "Los Angeles Dodgers",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 212.80199999999996,
+    "timestamp": 1792114219
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x3fccd972b94fe0d5681a50b5115aab59d42ea9539af1248e98447eb52800a1bd",
+    "outcome": "Knicks",
+    "title": "Spread: Knicks (-7.5)",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 52.002500000000005,
+    "timestamp": 1792114222
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x7db3f2c0254a1351c7a9423fd8d829e9517bcf3d818c8144d762531b72ada644",
+    "outcome": "Under",
+    "title": "Raptors vs. Knicks: O/U 220.5",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 219.45680000000002,
+    "timestamp": 1792114224
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Rockets",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 43.12,
+    "timestamp": 1792114227
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Knicks",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 57.74309999999999,
+    "timestamp": 1792114231
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Knicks",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 56.1536,
+    "timestamp": 1792114245
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Knicks",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 55.956799999999994,
+    "timestamp": 1792114398
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Rockets",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 69.89760000496001,
+    "timestamp": 1792114402
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Rockets",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 93.00169999999999,
+    "timestamp": 1792114407
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 2.3446,
+    "timestamp": 1792114408
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 291.9994,
+    "timestamp": 1792114438
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x1aeffa67445ae8672ba6c9ca9287e43e044aa00b01a7f0be52e6000bee9e95fc",
+    "outcome": "Seahawks",
+    "title": "Spread: Broncos (-7.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 255.0,
+    "timestamp": 1792114438
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x1078be6499982b0bb9de55c6842735de3114951715fb1242f2592e0d3106d1ad",
+    "outcome": "Under",
+    "title": "Seahawks vs. Broncos: O/U 38.5",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 125.0,
+    "timestamp": 1792114443
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x4b3bfabb21d2d396d1ed03c81d7a3d650d09e15e1205c971c9f604cf6b7fc45d",
+    "outcome": "Georgia Southern",
+    "title": "Spread: Georgia Southern (-7.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 717.976400013,
+    "timestamp": 1792114462
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x15bc700964e1eb3cff05781454721cd379e6912ed7e437bd119ad1ad8fd722a6",
+    "outcome": "Broncos",
+    "title": "Spread: Broncos (-5.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 2.9,
+    "timestamp": 1792114497
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x515b35dc87d442fde50447639272672b04abfde421b911070545f5282cdbcaf1",
+    "outcome": "Under",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers: O/U 10.5",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 532.0,
+    "timestamp": 1792114500
+  },
+  {
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "conditionId": "0x515b35dc87d442fde50447639272672b04abfde421b911070545f5282cdbcaf1",
+    "outcome": "Under",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers: O/U 10.5",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 134.433,
+    "timestamp": 1792114510
+  },
+  {
+    "wallet": "0xcc500cbcc8b7cf5bd21975ebbea34f21b5644c82",
+    "conditionId": "0x28df2b70414eb5e0f018e7d0aa4d0a93d2cda95f6b1ba1c7aead2ea7262c0e6f",
+    "outcome": "Yes",
+    "title": "Will Bitcoin dip to $78,000 October 12-18?",
+    "slug": "what-price-will-bitcoin-hit-october-12-18-2026",
+    "value": 31.344,
+    "timestamp": 1792113972
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 70.50880000000001,
+    "timestamp": 1792113222
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x084202293de9daa241d05208e0493f4ceb8b6072908b43376fb4f5d7425f7a08",
+    "outcome": "Jets",
+    "title": "Jets vs. Blackhawks",
+    "slug": "nhl-wpg-chi-2026-10-15",
+    "value": 2.8240999999999996,
+    "timestamp": 1792113372
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 2.4549,
+    "timestamp": 1792113391
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 26.165999999999997,
+    "timestamp": 1792113391
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 1.4552999999999998,
+    "timestamp": 1792113411
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 14.047600000000001,
+    "timestamp": 1792113453
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 120.0,
+    "timestamp": 1792113594
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Los Angeles Dodgers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 198.58000000980002,
+    "timestamp": 1792113768
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x2441df457ebc17a1d84105d1ec35564400495221cfc22cfa09aba358fa7e900c",
+    "outcome": "Sabres",
+    "title": "Sabres vs. Maple Leafs",
+    "slug": "nhl-buf-tor-2026-10-15",
+    "value": 2.1,
+    "timestamp": 1792113807
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 3.0463999999999998,
+    "timestamp": 1792113952
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 99.0,
+    "timestamp": 1792114056
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x084202293de9daa241d05208e0493f4ceb8b6072908b43376fb4f5d7425f7a08",
+    "outcome": "Jets",
+    "title": "Jets vs. Blackhawks",
+    "slug": "nhl-wpg-chi-2026-10-15",
+    "value": 1.6500000000000001,
+    "timestamp": 1792114141
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 114.01600000000002,
+    "timestamp": 1792114192
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 7.389900000000001,
+    "timestamp": 1792114264
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Los Angeles Dodgers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 13.464400000000001,
+    "timestamp": 1792114332
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Los Angeles Dodgers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 63.13179999999999,
+    "timestamp": 1792114332
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 150.099997996238,
+    "timestamp": 1792114395
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 1551.4889,
+    "timestamp": 1792114402
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0xbc23d0aacc290eb77f57ce43f776a5fc6fb9b03a093966e920ce125bd08e0552",
+    "outcome": "Kraken",
+    "title": "Kraken vs. Lightning",
+    "slug": "nhl-sea-tb-2026-10-15",
+    "value": 0.6171000000000001,
+    "timestamp": 1792114435
+  },
+  {
+    "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 4.660000000342845,
+    "timestamp": 1792114485
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "No",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 256.3175,
+    "timestamp": 1792110423
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 45.0,
+    "timestamp": 1792112151
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 45.0,
+    "timestamp": 1792112200
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 17.9,
+    "timestamp": 1792112470
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 105.330799992197,
+    "timestamp": 1792113069
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x7ce1d04d706d4fb3f5bfd6dcbbf173fe54ec922c64b2c9362bcb3c5e8358c878",
+    "outcome": "No",
+    "title": "Tesla Roadster delivered by December 31, 2027?",
+    "slug": "tesla-roadster-delivered-byptptpt",
+    "value": 366.056599978243,
+    "timestamp": 1792113699
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0xf6271b47147b3ca8fe8eaec812c3c3c6b58dbfca4c0b6cb3ccb597cadf870b3e",
+    "outcome": "No",
+    "title": "Tesla Roadster delivered by December 31, 2026?",
+    "slug": "tesla-roadster-delivered-byptptpt",
+    "value": 153.299909995623,
+    "timestamp": 1792113705
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x7ce1d04d706d4fb3f5bfd6dcbbf173fe54ec922c64b2c9362bcb3c5e8358c878",
+    "outcome": "No",
+    "title": "Tesla Roadster delivered by December 31, 2027?",
+    "slug": "tesla-roadster-delivered-byptptpt",
+    "value": 222.551300006256,
+    "timestamp": 1792113709
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 16.6875,
+    "timestamp": 1792114023
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 5110.6,
+    "timestamp": 1792114030
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0xd4634d906b7eb6effdd16645e2cb08734e74af135abd9e4179397bdf3d54bf01",
+    "outcome": "No",
+    "title": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+    "slug": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second",
+    "value": 338.033800007523,
+    "timestamp": 1792114252
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0xd4634d906b7eb6effdd16645e2cb08734e74af135abd9e4179397bdf3d54bf01",
+    "outcome": "No",
+    "title": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+    "slug": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second",
+    "value": 100.68288,
+    "timestamp": 1792114255
+  },
+  {
+    "wallet": "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+    "conditionId": "0xd4634d906b7eb6effdd16645e2cb08734e74af135abd9e4179397bdf3d54bf01",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+    "slug": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second",
+    "value": 167.99000001,
+    "timestamp": 1792114423
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x483fecad72af197d490ba757d64a259f27a5c3a33abfffb1b414c9620314e982",
+    "outcome": "UAB",
+    "title": "Spread: East Carolina (-14.5)",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 126.56000000000002,
+    "timestamp": 1792114614
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x53a40eec18644168fee9c8c10601c4510065512271763087c1fce2f5e8434bc1",
+    "outcome": "UAB",
+    "title": "Spread: East Carolina (-13.5)",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 134.079999991,
+    "timestamp": 1792114639
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x483fecad72af197d490ba757d64a259f27a5c3a33abfffb1b414c9620314e982",
+    "outcome": "UAB",
+    "title": "Spread: East Carolina (-14.5)",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 18.56,
+    "timestamp": 1792114639
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x29944a9332a5e699b6e552ace0df90ce3426713516d457dcb3f14ea936411177",
+    "outcome": "UAB",
+    "title": "Spread: East Carolina (-17.5)",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 72.0,
+    "timestamp": 1792114639
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x4b3bfabb21d2d396d1ed03c81d7a3d650d09e15e1205c971c9f604cf6b7fc45d",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-7.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 39.14,
+    "timestamp": 1792114650
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x795eb4197b3914270401dd41bce910152e823ca908ab3cdedc53b6be317c121f",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-10.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 60.69,
+    "timestamp": 1792114650
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x456d420f71fd998462f5a635f15a96e01cf0346763db611e83b7a6c605e98dd2",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-17.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 198.9,
+    "timestamp": 1792114672
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x918d1e52b7c432062344267b92df917e9494392dbd11f113d6b4d552b7e416c8",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-6.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 78.80999999778157,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x795eb4197b3914270401dd41bce910152e823ca908ab3cdedc53b6be317c121f",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-10.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 140.97999998739735,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x020bd27723c27ec51c6a1dee69110880a37b6f82fdf9b3252b1998674c79230f",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-16.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 99.0,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x666018ef34137a9237906ea5082087ea8589ccd7025478329ffa36faf3a84b07",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-5.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 64.05,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x4b3bfabb21d2d396d1ed03c81d7a3d650d09e15e1205c971c9f604cf6b7fc45d",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-7.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 89.3800000070221,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x18d5a26ac06e720644cf00b7983aa224ad8501f860cb485ef92f6018d9513b53",
+    "outcome": "Under",
+    "title": "Georgia Southern vs. Old Dominion: O/U 39.5",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 28.7,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0xc8e0bab7f36d1bcd965ce375b1db323d32429bf87cdc236ca6dcefaab9d696c2",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-14.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 99.16000000000001,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Old Dominion",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 25.12,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x1f8a05995e5513c5d7ac52d205cac007cad3594fcad6e947ed826dbec4629258",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-2.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 30.7499999947,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0xae4a1494626613f9d2917508407623b5121c7242db463c1e72a5691587a79951",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-13.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 197.76,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x8c74835212fc7ad871dfe338c6796113f427662b574ba40ff9fbe166577dd279",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-3.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 46.98,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x1f8a05995e5513c5d7ac52d205cac007cad3594fcad6e947ed826dbec4629258",
+    "outcome": "Old Dominion",
+    "title": "Spread: Georgia Southern (-2.5)",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 2.08,
+    "timestamp": 1792114692
+  },
+  {
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Old Dominion",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 123.11999999999999,
+    "timestamp": 1792114693
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xa4477f5f7fe81699b162492181a425d69de1adb1a6831ea695381cfa276596ba",
+    "outcome": "Broncos",
+    "title": "Spread: Seahawks (-2.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 133.66,
+    "timestamp": 1792113705
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x611b1ea30e240c8fdce4bc03064807f0ef9aed0061e5e46dfe29b97c243e01af",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - October 15, 9:15PM-9:30PM ET",
+    "slug": "btc-updown-15m-1792113300",
+    "value": 2.85,
+    "timestamp": 1792113732
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x611b1ea30e240c8fdce4bc03064807f0ef9aed0061e5e46dfe29b97c243e01af",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - October 15, 9:15PM-9:30PM ET",
+    "slug": "btc-updown-15m-1792113300",
+    "value": 24.13,
+    "timestamp": 1792113732
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x611b1ea30e240c8fdce4bc03064807f0ef9aed0061e5e46dfe29b97c243e01af",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - October 15, 9:15PM-9:30PM ET",
+    "slug": "btc-updown-15m-1792113300",
+    "value": 1.71,
+    "timestamp": 1792113732
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x611b1ea30e240c8fdce4bc03064807f0ef9aed0061e5e46dfe29b97c243e01af",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - October 15, 9:15PM-9:30PM ET",
+    "slug": "btc-updown-15m-1792113300",
+    "value": 24.13,
+    "timestamp": 1792113733
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x611b1ea30e240c8fdce4bc03064807f0ef9aed0061e5e46dfe29b97c243e01af",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - October 15, 9:15PM-9:30PM ET",
+    "slug": "btc-updown-15m-1792113300",
+    "value": 7.6499999999999995,
+    "timestamp": 1792113735
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x611b1ea30e240c8fdce4bc03064807f0ef9aed0061e5e46dfe29b97c243e01af",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - October 15, 9:15PM-9:30PM ET",
+    "slug": "btc-updown-15m-1792113300",
+    "value": 2.2485,
+    "timestamp": 1792113735
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xfdf5a7a1dff604d97fd8acf0819971d7581c431d268558d4e347565c5817c07b",
+    "outcome": "Colorado State",
+    "title": "Spread: Texas State (-17.5)",
+    "slug": "cfb-colst-txst-2026-10-15",
+    "value": 40.0,
+    "timestamp": 1792113816
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x8ebffe4a173f3c6226f0768f4aa6385546627fce6ff5af5cc5e994943e677c80",
+    "outcome": "Utah",
+    "title": "Utah vs. Oilers",
+    "slug": "nhl-utah-edm-2026-10-15",
+    "value": 10.5462,
+    "timestamp": 1792113825
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xbc23d0aacc290eb77f57ce43f776a5fc6fb9b03a093966e920ce125bd08e0552",
+    "outcome": "Kraken",
+    "title": "Kraken vs. Lightning",
+    "slug": "nhl-sea-tb-2026-10-15",
+    "value": 3.25,
+    "timestamp": 1792113969
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xf313180ddbe39b8541fb2ed9c5e304f12c605f174c32a8acedcb261d220245f0",
+    "outcome": "Broncos",
+    "title": "1H Spread: Broncos (-10.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 15.4,
+    "timestamp": 1792113999
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x1aeffa67445ae8672ba6c9ca9287e43e044aa00b01a7f0be52e6000bee9e95fc",
+    "outcome": "Seahawks",
+    "title": "Spread: Broncos (-7.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 10.92,
+    "timestamp": 1792114062
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xbb98d0a1d2198723162e81a9b0c930f4fb3b6d4570518cbcabde1394ed15aaf6",
+    "outcome": "Over",
+    "title": "Rangers vs. Devils: O/U 7.5",
+    "slug": "nhl-nyr-nj-2026-10-15",
+    "value": 45.0,
+    "timestamp": 1792114099
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x60d01291beead7d88450997b9d3f64e4d335a4ded3356d095208850e71e0ca18",
+    "outcome": "Up",
+    "title": "Bitcoin Up or Down - October 15, 9:30PM-9:45PM ET",
+    "slug": "btc-updown-15m-1792114200",
+    "value": 2.8000000000000003,
+    "timestamp": 1792114218
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x68d410fe8a0fde659db9a79f89beac5a4280c09f3047c3dddd87984ddd0faff3",
+    "outcome": "Sharks",
+    "title": "Sharks vs. Predators",
+    "slug": "nhl-sj-nsh-2026-10-15",
+    "value": 2.8000000000000003,
+    "timestamp": 1792114273
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x815b7d9ab250527faea5ecec2ec213b517d00d3c4b20f1b34e2631db4e8c5d15",
+    "outcome": "Seahawks",
+    "title": "Spread: Broncos (-3.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 1.7999999999999998,
+    "timestamp": 1792114305
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x2b0a5fffeb53a5b1b700f500dec26e50f1aa9bcb6539a69db4cb49a9f9c77304",
+    "outcome": "Down",
+    "title": "XRP Up or Down - October 15, 9:30PM-9:45PM ET",
+    "slug": "xrp-updown-15m-1792114200",
+    "value": 1.36,
+    "timestamp": 1792114344
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0xd4ced0a962afaf11c62ea13dff67d909c63965f99414690ee72f94eaf5180eee",
+    "outcome": "Down",
+    "title": "Solana Up or Down - October 15, 9:30PM-9:45PM ET",
+    "slug": "sol-updown-15m-1792114200",
+    "value": 1.9,
+    "timestamp": 1792114381
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x2b0a5fffeb53a5b1b700f500dec26e50f1aa9bcb6539a69db4cb49a9f9c77304",
+    "outcome": "Down",
+    "title": "XRP Up or Down - October 15, 9:30PM-9:45PM ET",
+    "slug": "xrp-updown-15m-1792114200",
+    "value": 1.47,
+    "timestamp": 1792114393
+  },
+  {
+    "wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+    "conditionId": "0x2b0a5fffeb53a5b1b700f500dec26e50f1aa9bcb6539a69db4cb49a9f9c77304",
+    "outcome": "Down",
+    "title": "XRP Up or Down - October 15, 9:30PM-9:45PM ET",
+    "slug": "xrp-updown-15m-1792114200",
+    "value": 2.2,
+    "timestamp": 1792114428
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x7acd9eff7366d72a9575f25d107287bbd67ee1e578198bdff880ee5a73836655",
+    "outcome": "East Carolina",
+    "title": "East Carolina vs. UAB",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 11576.375,
+    "timestamp": 1792107948
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Old Dominion",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 1790.64,
+    "timestamp": 1792107961
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Old Dominion",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 2088.0774,
+    "timestamp": 1792107979
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x5fa73b0525ba3ec13e2e287ff865bd0ea62dd2cadfa332150741324f637038bc",
+    "outcome": "Over",
+    "title": "Raptors vs. Knicks: O/U 239.5",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 1000.0,
+    "timestamp": 1792108552
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Thunder",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 18007.753500000003,
+    "timestamp": 1792109262
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x51cd404530189f5a21bd0e6626c5d12b655e09346db5a7029391f3e6414f6836",
+    "outcome": "Over",
+    "title": "East Carolina vs. UAB: O/U 51.5",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 2215.297,
+    "timestamp": 1792109862
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x51cd404530189f5a21bd0e6626c5d12b655e09346db5a7029391f3e6414f6836",
+    "outcome": "Over",
+    "title": "East Carolina vs. UAB: O/U 51.5",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 3052.137,
+    "timestamp": 1792110046
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x8dc4d07257d5332198aff33104bb3430ed92e9f4b0b8123037af22d4cfcaa3a7",
+    "outcome": "Broncos",
+    "title": "Spread: Seahawks (-13.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 348.59999999999997,
+    "timestamp": 1792110111
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x01fbdb4c2753d61aac3995a5ffe63a42297073f44c6d1d21b75ca63179955732",
+    "outcome": "Over",
+    "title": "East Carolina vs. UAB: O/U 47.5",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 3893.1255,
+    "timestamp": 1792110159
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Georgia Southern",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 3301.2,
+    "timestamp": 1792110487
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x53fe0ee8994c6fc73fd95d3a592062c717bf3886d51b53bb43d22c84c6f098f7",
+    "outcome": "Texas State",
+    "title": "Spread: Texas State (-27.5)",
+    "slug": "cfb-colst-txst-2026-10-15",
+    "value": 1877.6919999033003,
+    "timestamp": 1792110796
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Georgia Southern",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 19250.0,
+    "timestamp": 1792112046
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x79bc91d88a2c3ee0817ea5c4c370107067d6c1203d4b98fd00d61106823b12c5",
+    "outcome": "Under",
+    "title": "Thunder vs. Rockets: O/U 219.5",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 117.6343,
+    "timestamp": 1792112205
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0xe7ca29e710f83f90602f3ac318393d093b01b20e58cbd34df0daf21c3ec8c62e",
+    "outcome": "Rockets",
+    "title": "Spread: Thunder (-12.5)",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 1287.7128,
+    "timestamp": 1792112211
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Georgia Southern",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 6354.6525,
+    "timestamp": 1792112836
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Raptors",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 1325.48,
+    "timestamp": 1792112958
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x9c614287d250e33b39e3c959a4a2694fbb98f7776f23d79a1d1d9aaceeea7d95",
+    "outcome": "Raptors",
+    "title": "Raptors vs. Knicks",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 1083.33819999756,
+    "timestamp": 1792113042
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x815b7d9ab250527faea5ecec2ec213b517d00d3c4b20f1b34e2631db4e8c5d15",
+    "outcome": "Broncos",
+    "title": "Spread: Broncos (-3.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 1380.33,
+    "timestamp": 1792113162
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x815b7d9ab250527faea5ecec2ec213b517d00d3c4b20f1b34e2631db4e8c5d15",
+    "outcome": "Broncos",
+    "title": "Spread: Broncos (-3.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 3908.4609,
+    "timestamp": 1792113366
+  },
+  {
+    "wallet": "0xf68a281980f8c13828e84e147e3822381d6e5b1b",
+    "conditionId": "0x7c61b711c2ebaf7fd3912463259cb1054dae1d58aaa3c5d6eabe22eadea8761c",
+    "outcome": "Under",
+    "title": "Seahawks vs. Broncos: O/U 42.5",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 1549.1795000000002,
+    "timestamp": 1792113651
+  },
+  {
+    "wallet": "0xde7be6d489bce070a959e0cb813128ae659b5f4b",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 13000.0,
+    "timestamp": 1792113225
+  },
+  {
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "conditionId": "0x10d7af49a073206960639e11b931587efc73c47349f854719f6a7b466796d850",
+    "outcome": "Georgia Southern",
+    "title": "Georgia Southern vs. Old Dominion",
+    "slug": "cfb-gas-old-2026-10-15",
+    "value": 24295.180800000002,
+    "timestamp": 1792109487
+  },
+  {
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "conditionId": "0xa4477f5f7fe81699b162492181a425d69de1adb1a6831ea695381cfa276596ba",
+    "outcome": "Broncos",
+    "title": "Spread: Seahawks (-2.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 1703.625,
+    "timestamp": 1792111533
+  },
+  {
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 14737.0692,
+    "timestamp": 1792112776
+  },
+  {
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 5841.069800321112,
+    "timestamp": 1792113615
+  },
+  {
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "conditionId": "0x2114d1e61975439e7a4526794f020fa6637bec5dc70a300af1fdc7cc7a14cbe6",
+    "outcome": "Broncos",
+    "title": "Spread: Seahawks (-6.5)",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 6744.6,
+    "timestamp": 1792113649
+  },
+  {
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 3198.0750000000003,
+    "timestamp": 1792114147
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x483c569cd9a3617a9e421dcbc24782bd2c993652af259e9ad843b405e517cdc8",
+    "outcome": "No",
+    "title": "Will Elon Musk post 360-379 tweets from October 13 to October 20, 2026?",
+    "slug": "elon-musk-of-tweets-october-13-october-20-2026",
+    "value": 116.47999399505275,
+    "timestamp": 1792112611
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xa9e30763a193107ea05967e2b48f05b3849f58d3ecd531f1f12657350a692201",
+    "outcome": "No",
+    "title": "Will Elon Musk post 240-259 tweets from October 13 to October 20, 2026?",
+    "slug": "elon-musk-of-tweets-october-13-october-20-2026",
+    "value": 128.96,
+    "timestamp": 1792112611
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xc2079cf3cba59a36ab532b00f47d3c9b5e13f01f76ae3b366225b1dc552c4ef6",
+    "outcome": "No",
+    "title": "Will Elon Musk post 460-479 tweets from October 13 to October 20, 2026?",
+    "slug": "elon-musk-of-tweets-october-13-october-20-2026",
+    "value": 126.94997799469014,
+    "timestamp": 1792112611
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x789b6d54e6f2b24b4b190dc060ac7eddf818c96aabfc9175828313a1a070cbfc",
+    "outcome": "No",
+    "title": "Will Elon Musk post 320-339 tweets from October 13 to October 20, 2026?",
+    "slug": "elon-musk-of-tweets-october-13-october-20-2026",
+    "value": 110.28999600416734,
+    "timestamp": 1792112611
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xddb2b6ed6acb769a32af26d7967266d2abd4fbb59d136f39f75eba79a8dd1d17",
+    "outcome": "No",
+    "title": "Will Elon Musk post 440-459 tweets from October 13 to October 20, 2026?",
+    "slug": "elon-musk-of-tweets-october-13-october-20-2026",
+    "value": 126.23996700419984,
+    "timestamp": 1792112611
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x157411dc46f1a2c74180e16126ffc21550475c5572b2d52954cc43a24c2e2932",
+    "outcome": "No",
+    "title": "Will Elon Musk post 400-419 tweets from October 13 to October 20, 2026?",
+    "slug": "elon-musk-of-tweets-october-13-october-20-2026",
+    "value": 118.24999999802198,
+    "timestamp": 1792112611
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x7057878d5a62e9e4528a9929014648d49db4fc0482d120a817c1c25119031736",
+    "outcome": "No",
+    "title": "Will the Buffalo Sabres record 100+ points?",
+    "slug": "nhl-teams-100-plus-points-2026-27",
+    "value": 3.490000000146191,
+    "timestamp": 1792112668
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Thunder",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 1.7000000000000002,
+    "timestamp": 1792113348
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x8344e39c752c8d5984f45e3b8e079bb11c239214600eeb1fef0b51b344e99ba2",
+    "outcome": "Yes",
+    "title": "Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?",
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "value": 0.57,
+    "timestamp": 1792113862
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xb0d2fa1aacbf2e91248f2d69d9364e6ef644177de0141e23313c5b2a28f5cf60",
+    "outcome": "Yes",
+    "title": "Will Anthropic's market cap be $3.0T or greater at market close on IPO day?",
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "value": 1.47,
+    "timestamp": 1792113862
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xc52d95f58a395fb61a16c87d96eeac8b4d52b53d48eef9d45df1c7270bd08ad0",
+    "outcome": "Yes",
+    "title": "Will Anthropic's market cap be between $2.25T and $2.5T at market close on IPO day?",
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "value": 2.1899999987697503,
+    "timestamp": 1792113862
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x76876411a19595cd5881170954806cc1c51ec66528e0739231f2aaabeceadb36",
+    "outcome": "Yes",
+    "title": "Will Anthropic's market cap be between $2.5T and $2.75T at market close on IPO day?",
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "value": 1.6100000010555555,
+    "timestamp": 1792113862
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x3d555d528a9a5f94a733741d75a3f707731f5e42237006aed81e191d9dd43d1d",
+    "outcome": "Yes",
+    "title": "Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?",
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "value": 4.26,
+    "timestamp": 1792113862
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x25da52656dcc1c65fceaa29ad06dfdea3d52531e33fdd1fe18ac423808cc8f39",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be between $2,500 and $2,600 on October 16?",
+    "slug": "ethereum-price-on-october-16-2026",
+    "value": 47.37999399916901,
+    "timestamp": 1792114068
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xb952ae8bced953991fea16cda1068192a1567f288111964f204a5ca745398fb4",
+    "outcome": "No",
+    "title": "Will the price of Ethereum be between $2,600 and $2,700 on October 16?",
+    "slug": "ethereum-price-on-october-16-2026",
+    "value": 49.769999999999996,
+    "timestamp": 1792114068
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x56569618d6fe465c739f8847ec549ef665b9c2f65a3b2803af26fcb1dbdd382f",
+    "outcome": "No",
+    "title": "Meta (META) Q3 ad impression growth across Family of Apps 13% to 16%?",
+    "slug": "meta-meta-q3-ad-impression-growth-across-family-of-apps-20261008120053000",
+    "value": 15.600000000000001,
+    "timestamp": 1792114228
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xfd730adbd7897d639cf5a5940c43467d312a61cfa3baaa4e3de060422e086a0c",
+    "outcome": "No",
+    "title": "Meta (META) Q3 ad impression growth across Family of Apps 16% to 19%?",
+    "slug": "meta-meta-q3-ad-impression-growth-across-family-of-apps-20261008120053000",
+    "value": 17.8,
+    "timestamp": 1792114228
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x597dc165292e61116952540c564db0df6e49d699a10ad0a8050097c83d8a9b44",
+    "outcome": "No",
+    "title": "Will the highest temperature in Seoul (Incheon) be 20\u00b0C on October 16?",
+    "slug": "highest-temperature-in-seoul-on-october-16-2026",
+    "value": 58.02072000048,
+    "timestamp": 1792114269
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0xdb1863d55752a2839b04c76f85cf0ab9efe84bfd79abf11916f7bda3e7e13531",
+    "outcome": "No",
+    "title": "Will the highest temperature in Seoul (Incheon) be 25\u00b0C on October 16?",
+    "slug": "highest-temperature-in-seoul-on-october-16-2026",
+    "value": 59.82,
+    "timestamp": 1792114269
+  },
+  {
+    "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+    "conditionId": "0x8f20542d8dd3239b07c539489abacea4d3fb914aadbdf7fc8c04aec5925dd538",
+    "outcome": "No",
+    "title": "Will the highest temperature in Seoul (Incheon) be 22\u00b0C on October 16?",
+    "slug": "highest-temperature-in-seoul-on-october-16-2026",
+    "value": 30.0,
+    "timestamp": 1792114270
+  },
+  {
+    "wallet": "0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8",
+    "conditionId": "0xb70b8da7839ecb8b166e0f3a8553e079b38e139ee164f5d8bfd99183d535fc33",
+    "outcome": "Yes",
+    "title": "US x Iran ceasefire continues through November 30?",
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "value": 1171.989,
+    "timestamp": 1792107841
+  },
+  {
+    "wallet": "0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8",
+    "conditionId": "0x8d3404f5f59e31aee635fe97cbce42754aa7efef8023228e1df00339de8213ed",
+    "outcome": "Yes",
+    "title": "Will there be a Hormuz agreement and the Republicans win the Senate?",
+    "slug": "who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
+    "value": 6.87724,
+    "timestamp": 1792108590
+  },
+  {
+    "wallet": "0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8",
+    "conditionId": "0xc1be2a2db8bb89c936f002c75c7ddf6654d09ae0314b3fa9f72d77926b7ea5cf",
+    "outcome": "No",
+    "title": "US-Iran Hormuz Agreement by October 15?",
+    "slug": "us-iran-hormuz-agreement-byptptpt-20260803235957575",
+    "value": 102.4974,
+    "timestamp": 1792112019
+  },
+  {
+    "wallet": "0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8",
+    "conditionId": "0x4ba8ec5d2c8cc2377cbf28c96546b648752db8871b6325fc7a6822eac7ad306e",
+    "outcome": "Yes",
+    "title": "Will there be no Hormuz agreement?",
+    "slug": "who-wins-the-senate-pending-hormuz-agreement",
+    "value": 1357.35484,
+    "timestamp": 1792112242
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xb493485de7cd4c1470bef722a916f0a964b4fd044bd99fae02483ca4a161326a",
+    "outcome": "Over",
+    "title": "Utah vs. Oilers: O/U 6.5",
+    "slug": "nhl-utah-edm-2026-10-15",
+    "value": 4.389999999890211,
+    "timestamp": 1792114473
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xc09e3f1fc8dfacb1a3c0df98a8da94df389940dee21aec923c46d624b5806ecc",
+    "outcome": "Under",
+    "title": "Thunder vs. Rockets: O/U 213.5",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 4.380000000284195,
+    "timestamp": 1792114482
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0x4f437842409aa3c7e12869af14521118ea4476f4555fad2b17826ba28aff8403",
+    "outcome": "Under",
+    "title": "Estudiantes de La Plata vs. CR Flamengo: O/U 0.5",
+    "slug": "lib-est-fla-2026-10-15-more-markets",
+    "value": 16.02000000021621,
+    "timestamp": 1792114492
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0x4f437842409aa3c7e12869af14521118ea4476f4555fad2b17826ba28aff8403",
+    "outcome": "Under",
+    "title": "Estudiantes de La Plata vs. CR Flamengo: O/U 0.5",
+    "slug": "lib-est-fla-2026-10-15-more-markets",
+    "value": 432.0400000032324,
+    "timestamp": 1792114494
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0x4af9b45707054ac80e860ac41c813741426a6865baa628b28ebf8a27d1b548b8",
+    "outcome": "Over",
+    "title": "Flyers vs. Red Wings: O/U 5.5",
+    "slug": "nhl-phi-det-2026-10-15",
+    "value": 4.409999999999999,
+    "timestamp": 1792114498
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0x3377c1549b93b81aa1bf85da9014476eee20070889b30f6480108635eb69637a",
+    "outcome": "Under",
+    "title": "Kraken vs. Lightning: O/U 5.5",
+    "slug": "nhl-sea-tb-2026-10-15",
+    "value": 34.32,
+    "timestamp": 1792114522
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0x165ea7fd462eb1a2dcd34e603bb09df14da38c649df2ddd8d0c737b0e850c71e",
+    "outcome": "No",
+    "title": "Estudiantes de La Plata vs. CR Flamengo: Both Teams to Score",
+    "slug": "lib-est-fla-2026-10-15-more-markets",
+    "value": 10.5,
+    "timestamp": 1792114561
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0x4af9b45707054ac80e860ac41c813741426a6865baa628b28ebf8a27d1b548b8",
+    "outcome": "Over",
+    "title": "Flyers vs. Red Wings: O/U 5.5",
+    "slug": "nhl-phi-det-2026-10-15",
+    "value": 4.409999999999999,
+    "timestamp": 1792114563
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xb493485de7cd4c1470bef722a916f0a964b4fd044bd99fae02483ca4a161326a",
+    "outcome": "Under",
+    "title": "Utah vs. Oilers: O/U 6.5",
+    "slug": "nhl-utah-edm-2026-10-15",
+    "value": 6.309999000011501,
+    "timestamp": 1792114584
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xbc23d0aacc290eb77f57ce43f776a5fc6fb9b03a093966e920ce125bd08e0552",
+    "outcome": "Lightning",
+    "title": "Kraken vs. Lightning",
+    "slug": "nhl-sea-tb-2026-10-15",
+    "value": 204.12999100000002,
+    "timestamp": 1792114594
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xbc23d0aacc290eb77f57ce43f776a5fc6fb9b03a093966e920ce125bd08e0552",
+    "outcome": "Lightning",
+    "title": "Kraken vs. Lightning",
+    "slug": "nhl-sea-tb-2026-10-15",
+    "value": 72.03999000084784,
+    "timestamp": 1792114597
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xbc23d0aacc290eb77f57ce43f776a5fc6fb9b03a093966e920ce125bd08e0552",
+    "outcome": "Lightning",
+    "title": "Kraken vs. Lightning",
+    "slug": "nhl-sea-tb-2026-10-15",
+    "value": 38.029994,
+    "timestamp": 1792114600
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xc4ed0a12dc27b313f1d38427c0221715c6839721caba3ab719739debee3bce2c",
+    "outcome": "Yes",
+    "title": "Will Estudiantes de La Plata vs. CR Flamengo end in a draw?",
+    "slug": "lib-est-fla-2026-10-15",
+    "value": 10.75,
+    "timestamp": 1792114630
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xc4ed0a12dc27b313f1d38427c0221715c6839721caba3ab719739debee3bce2c",
+    "outcome": "Yes",
+    "title": "Will Estudiantes de La Plata vs. CR Flamengo end in a draw?",
+    "slug": "lib-est-fla-2026-10-15",
+    "value": 4.2,
+    "timestamp": 1792114630
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xc4ed0a12dc27b313f1d38427c0221715c6839721caba3ab719739debee3bce2c",
+    "outcome": "Yes",
+    "title": "Will Estudiantes de La Plata vs. CR Flamengo end in a draw?",
+    "slug": "lib-est-fla-2026-10-15",
+    "value": 4.390000000272725,
+    "timestamp": 1792114630
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xc4ed0a12dc27b313f1d38427c0221715c6839721caba3ab719739debee3bce2c",
+    "outcome": "Yes",
+    "title": "Will Estudiantes de La Plata vs. CR Flamengo end in a draw?",
+    "slug": "lib-est-fla-2026-10-15",
+    "value": 0.756,
+    "timestamp": 1792114632
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0xc4ed0a12dc27b313f1d38427c0221715c6839721caba3ab719739debee3bce2c",
+    "outcome": "Yes",
+    "title": "Will Estudiantes de La Plata vs. CR Flamengo end in a draw?",
+    "slug": "lib-est-fla-2026-10-15",
+    "value": 2.2,
+    "timestamp": 1792114633
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0x73a330062d9d073ebf9739808286d60c94470975726ddc4176d55cc4bdcb5fb8",
+    "outcome": "No",
+    "title": "Will CR Flamengo win on 2026-10-15?",
+    "slug": "lib-est-fla-2026-10-15",
+    "value": 16.999999000124074,
+    "timestamp": 1792114641
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0x73a330062d9d073ebf9739808286d60c94470975726ddc4176d55cc4bdcb5fb8",
+    "outcome": "No",
+    "title": "Will CR Flamengo win on 2026-10-15?",
+    "slug": "lib-est-fla-2026-10-15",
+    "value": 6.7,
+    "timestamp": 1792114641
+  },
+  {
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "conditionId": "0x4af9b45707054ac80e860ac41c813741426a6865baa628b28ebf8a27d1b548b8",
+    "outcome": "Over",
+    "title": "Flyers vs. Red Wings: O/U 5.5",
+    "slug": "nhl-phi-det-2026-10-15",
+    "value": 4.409999999999999,
+    "timestamp": 1792114647
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xccc4079c7e02cbd6b7e8085a4adc79387656c7d976f93a879cd30faba62c29a1",
+    "outcome": "Over",
+    "title": "Raptors vs. Knicks: O/U 227.5",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 2.08,
+    "timestamp": 1792114173
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x091751e67603b9ded7daf3521ea5d8e280b0765af1368864f136c291d34d1b3f",
+    "outcome": "Rangers",
+    "title": "Spread: Devils (-3.5)",
+    "slug": "nhl-nyr-nj-2026-10-15",
+    "value": 0.22638000000000003,
+    "timestamp": 1792114213
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xdf25bdca424a379a5706ccb247ee31f05ad6d9a0beb127dc3e06655aa80a5190",
+    "outcome": "Under",
+    "title": "Sabres vs. Maple Leafs: O/U 8.5",
+    "slug": "nhl-buf-tor-2026-10-15",
+    "value": 0.6396,
+    "timestamp": 1792114219
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x51f2d22e1ae93af12e4a122ee491136b277bb6340d301e7c882917b1c3b18698",
+    "outcome": "Raptors",
+    "title": "Spread: Knicks (-5.5)",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 15.579999999999998,
+    "timestamp": 1792114228
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xccc4079c7e02cbd6b7e8085a4adc79387656c7d976f93a879cd30faba62c29a1",
+    "outcome": "Over",
+    "title": "Raptors vs. Knicks: O/U 227.5",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 2.97,
+    "timestamp": 1792114230
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x68024910132c2621284fd395c1c7f8ff9dda0578fa3baa9f4b3acf5ccb3e7581",
+    "outcome": "Rockets",
+    "title": "Thunder vs. Rockets",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 250.0,
+    "timestamp": 1792114363
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 5.0,
+    "timestamp": 1792114374
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x164ca5e2639bf7726b493aa3174b79901d244b799f3a124de13d3af8d1c252bb",
+    "outcome": "Rockets",
+    "title": "Spread: Thunder (-2.5)",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 2.8000000000000003,
+    "timestamp": 1792114375
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x3962d230b6d6f6037e39761873be43e016d8471e10653053b133c6f28b72b534",
+    "outcome": "Rangers",
+    "title": "Spread: Devils (-6.5)",
+    "slug": "nhl-nyr-nj-2026-10-15",
+    "value": 9.1403,
+    "timestamp": 1792114405
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 7.999998000000037,
+    "timestamp": 1792114422
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x885bd53f5163b582875ac80e65bbf6e1b33f42daf0acad391891976e61dc5709",
+    "outcome": "Canucks",
+    "title": "Canucks vs. Panthers",
+    "slug": "nhl-van-fla-2026-10-15",
+    "value": 212.48999800000234,
+    "timestamp": 1792114447
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x885bd53f5163b582875ac80e65bbf6e1b33f42daf0acad391891976e61dc5709",
+    "outcome": "Canucks",
+    "title": "Canucks vs. Panthers",
+    "slug": "nhl-van-fla-2026-10-15",
+    "value": 210.22999500106823,
+    "timestamp": 1792114453
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x885bd53f5163b582875ac80e65bbf6e1b33f42daf0acad391891976e61dc5709",
+    "outcome": "Canucks",
+    "title": "Canucks vs. Panthers",
+    "slug": "nhl-van-fla-2026-10-15",
+    "value": 635.9099950251871,
+    "timestamp": 1792114459
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x8b36c6d7e5d6983951d6e4c0bdb1c9cd44d846417f582c724705b67cd129fd92",
+    "outcome": "Over",
+    "title": "Raptors vs. Knicks: O/U 226.5",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 62.5,
+    "timestamp": 1792114485
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xccc4079c7e02cbd6b7e8085a4adc79387656c7d976f93a879cd30faba62c29a1",
+    "outcome": "Over",
+    "title": "Raptors vs. Knicks: O/U 227.5",
+    "slug": "nba-tor-nyk-2026-10-15",
+    "value": 3.38,
+    "timestamp": 1792114488
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xf35d71d7556499df0eaf81ec9aebeefebbe76a40b4187ffd5fd6b0ae834850f7",
+    "outcome": "Vivian Wolff",
+    "title": "W35 Redding, CA: Vivian Wolff vs Arina Bulatova",
+    "slug": "itf-wolff1-bulato1-2026-10-15",
+    "value": 6.999999999718309,
+    "timestamp": 1792114492
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x62549302bb0883e7118310dbe40027b629136ed733de1656799feab05e7f76fe",
+    "outcome": "Abyssal",
+    "title": "Counter-Strike: Ground Zero vs Abyssal (BO3) - Logitech G Pro Series Group B",
+    "slug": "cs2-gz1-abyssa-2026-10-15",
+    "value": 11.200000000000001,
+    "timestamp": 1792114525
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x704aacb2bf03db7557aae3a6db6c742730b3d858f644d4d887aac4dc52865c05",
+    "outcome": "Over",
+    "title": "Thunder vs. Rockets: O/U 216.5",
+    "slug": "nba-okc-hou-2026-10-15",
+    "value": 94.9999999872973,
+    "timestamp": 1792114606
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0x62549302bb0883e7118310dbe40027b629136ed733de1656799feab05e7f76fe",
+    "outcome": "Abyssal",
+    "title": "Counter-Strike: Ground Zero vs Abyssal (BO3) - Logitech G Pro Series Group B",
+    "slug": "cs2-gz1-abyssa-2026-10-15",
+    "value": 30.099999999999998,
+    "timestamp": 1792114609
+  },
+  {
+    "wallet": "0xdbdd45150249e229eb4ca8aa48a30dca21faa5de",
+    "conditionId": "0xccc4079c7e02cbd6b7e8085a4adc79387656c7d976f93a879cd30faba62c29a1",
+    "outcome": "Over",
+    "title": "Raptors vs. Knicks: O/U 227.5",
+    "slug": "nba-tor-nyk-2026-10-15-total-227pt5",
+    "value": 3.12,
+    "timestamp": 1792114642
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x084202293de9daa241d05208e0493f4ceb8b6072908b43376fb4f5d7425f7a08",
+    "outcome": "Jets",
+    "title": "Jets vs. Blackhawks",
+    "slug": "nhl-wpg-chi-2026-10-15",
+    "value": 47.15,
+    "timestamp": 1792113288
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 445.97,
+    "timestamp": 1792113301
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x084202293de9daa241d05208e0493f4ceb8b6072908b43376fb4f5d7425f7a08",
+    "outcome": "Jets",
+    "title": "Jets vs. Blackhawks",
+    "slug": "nhl-wpg-chi-2026-10-15",
+    "value": 1.1,
+    "timestamp": 1792113307
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 14.6,
+    "timestamp": 1792113375
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x084202293de9daa241d05208e0493f4ceb8b6072908b43376fb4f5d7425f7a08",
+    "outcome": "Jets",
+    "title": "Jets vs. Blackhawks",
+    "slug": "nhl-wpg-chi-2026-10-15",
+    "value": 136.27599999999998,
+    "timestamp": 1792113462
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 1666.6191,
+    "timestamp": 1792113490
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0xbc23d0aacc290eb77f57ce43f776a5fc6fb9b03a093966e920ce125bd08e0552",
+    "outcome": "Kraken",
+    "title": "Kraken vs. Lightning",
+    "slug": "nhl-sea-tb-2026-10-15",
+    "value": 48.279299995814995,
+    "timestamp": 1792113495
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x7acd9eff7366d72a9575f25d107287bbd67ee1e578198bdff880ee5a73836655",
+    "outcome": "East Carolina",
+    "title": "East Carolina vs. UAB",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 10167.680400000001,
+    "timestamp": 1792113538
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x68d410fe8a0fde659db9a79f89beac5a4280c09f3047c3dddd87984ddd0faff3",
+    "outcome": "Predators",
+    "title": "Sharks vs. Predators",
+    "slug": "nhl-sj-nsh-2026-10-15",
+    "value": 115.99999999999999,
+    "timestamp": 1792113792
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0xbc23d0aacc290eb77f57ce43f776a5fc6fb9b03a093966e920ce125bd08e0552",
+    "outcome": "Kraken",
+    "title": "Kraken vs. Lightning",
+    "slug": "nhl-sea-tb-2026-10-15",
+    "value": 100.15799999305601,
+    "timestamp": 1792113955
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Seahawks",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 2.3000000000000003,
+    "timestamp": 1792114057
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x7acd9eff7366d72a9575f25d107287bbd67ee1e578198bdff880ee5a73836655",
+    "outcome": "UAB",
+    "title": "East Carolina vs. UAB",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 0.55,
+    "timestamp": 1792114237
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x8ebffe4a173f3c6226f0768f4aa6385546627fce6ff5af5cc5e994943e677c80",
+    "outcome": "Utah",
+    "title": "Utah vs. Oilers",
+    "slug": "nhl-utah-edm-2026-10-15",
+    "value": 132.66,
+    "timestamp": 1792114297
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x759904f6184c7a3824c3d083d78faa1253b22ccf88a4f9643cef63ff7a67518e",
+    "outcome": "Milwaukee Brewers",
+    "title": "Milwaukee Brewers vs. Los Angeles Dodgers",
+    "slug": "mlb-mil-lad-2026-10-15",
+    "value": 360.0,
+    "timestamp": 1792114387
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0xe0b5bd8eef80fe8976e2c287e0b76a5cda138ddc437acf95f9ba91112dbc983d",
+    "outcome": "Broncos",
+    "title": "Seahawks vs. Broncos",
+    "slug": "nfl-sea-den-2026-10-16",
+    "value": 41008.9948,
+    "timestamp": 1792114425
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x7acd9eff7366d72a9575f25d107287bbd67ee1e578198bdff880ee5a73836655",
+    "outcome": "UAB",
+    "title": "East Carolina vs. UAB",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 119.70809999999999,
+    "timestamp": 1792114479
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x7acd9eff7366d72a9575f25d107287bbd67ee1e578198bdff880ee5a73836655",
+    "outcome": "East Carolina",
+    "title": "East Carolina vs. UAB",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 86.99520000000001,
+    "timestamp": 1792114516
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0x7acd9eff7366d72a9575f25d107287bbd67ee1e578198bdff880ee5a73836655",
+    "outcome": "East Carolina",
+    "title": "East Carolina vs. UAB",
+    "slug": "cfb-ecar-uab-2026-10-15",
+    "value": 3489.7072,
+    "timestamp": 1792114516
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0xbc23d0aacc290eb77f57ce43f776a5fc6fb9b03a093966e920ce125bd08e0552",
+    "outcome": "Lightning",
+    "title": "Kraken vs. Lightning",
+    "slug": "nhl-sea-tb-2026-10-15",
+    "value": 10.92,
+    "timestamp": 1792114579
+  },
+  {
+    "wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+    "conditionId": "0xeb101b92431b32d1804b2de40f1a1483ec8435f896dbf72fe0c2c36dcc379933",
+    "outcome": "Blues",
+    "title": "Blues vs. Wild",
+    "slug": "nhl-stl-min-2026-10-15",
+    "value": 4.692,
+    "timestamp": 1792114674
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0x61ec110ec96c69d59aac9ea2a12441cf70053326980f2528d7da66f95bf95a67",
+    "outcome": "No",
+    "title": "Will Trump say \"Hell\" 14+ times during his Midterm Rally in Georgia?",
+    "slug": "what-will-trump-say-during-his-midterm-rally-in-georgia-october-16",
+    "value": 217.87069999549,
+    "timestamp": 1792107456
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
+    "outcome": "Yes",
+    "title": "Strait of Hormuz traffic returns to normal by December 31?",
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "value": 420.0,
+    "timestamp": 1792109859
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0xf5487c7bcb8c9279c176ed5f2d011d5b446961dccb7da2bcfb726da901dd8710",
+    "outcome": "No",
+    "title": "Ilhan Omar federally charged by December 31?",
+    "slug": "ilhan-omar-federally-charged-byptptpt",
+    "value": 14.2,
+    "timestamp": 1792110975
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0x597f33cc978c9a298fdba527917358b594216fa07d40dee0834fa499365bcb25",
+    "outcome": "No",
+    "title": "Will the OpenAI spy be accused of working for Iran by December 31?",
+    "slug": "who-will-the-openai-spy-be-accused-of-working-for-in-2026",
+    "value": 1109.634999993,
+    "timestamp": 1792111017
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0xad8766930faedb3abbe8e047e3290cc8e1981dc332ffadb6be80e5e0dee5faf8",
+    "outcome": "No",
+    "title": "Will the OpenAI spy be accused of working for Saudi Arabia by December 31?",
+    "slug": "who-will-the-openai-spy-be-accused-of-working-for-in-2026",
+    "value": 94.35,
+    "timestamp": 1792111171
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 430.5280999965,
+    "timestamp": 1792113669
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 92.0,
+    "timestamp": 1792113973
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 9200.0,
+    "timestamp": 1792114035
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 5009.8048,
+    "timestamp": 1792114065
+  },
+  {
+    "wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "conditionId": "0x6125d5c4164e39e19ca0dbe9fd1ae091083f0af37a4a0781daa06994da5d7159",
+    "outcome": "Yes",
+    "title": "Will the Tesla Roadster fly for 1s+?",
+    "slug": "will-the-tesla-roadster-fly-for-1s",
+    "value": 35702.2652,
+    "timestamp": 1792114078
+  },
+  {
+    "wallet": "0x01c78f8873c0c86d6b6b92ff627e3802237ee995",
+    "conditionId": "0xb3c9ead82cf3820c185c58878ce7e7a271a3e42846695b920e4f84b884410cd1",
+    "outcome": "Alexander Shevchenko",
+    "title": "Jinan: Alexander Shevchenko vs Mattia Bellucci",
+    "slug": "atp-shevche-bellucc-2026-10-16",
+    "value": 86.79,
+    "timestamp": 1792110003
   }
 ]
